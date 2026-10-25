@@ -1,0 +1,8 @@
+FAIL: cancel 0: cancelling a pending hit never restores the fading output gain (jump 0.050930)
+FAIL: cancel 0: the complete old path finishes fading and no cancelled hit starts
+FAIL: cancel 1: cancelling a pending hit never restores the fading output gain (jump 0.050930)
+FAIL: cancel 1: the complete old path finishes fading and no cancelled hit starts
+FAIL: cancel 2: cancelling a pending hit never restores the fading output gain (jump 0.050930)
+FAIL: cancel 2: the complete old path finishes fading and no cancelled hit starts
+  WIDTH 100%: side/mid above SPLIT -1.8 dB (WIDTH 0: -206.9 dB)
+FAILED 1352/1358 checks

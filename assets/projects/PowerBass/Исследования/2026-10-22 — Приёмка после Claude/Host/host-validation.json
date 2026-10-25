@@ -1,0 +1,179 @@
+[
+  {
+    "label": "PowerKick-component-stdout",
+    "command": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/tools/pluginval-v1.0.4/pluginval.app/Contents/MacOS/pluginval",
+      "--strictness-level",
+      "5",
+      "--random-seed",
+      "20261022",
+      "--skip-gui-tests",
+      "--sample-rates",
+      "44100,48000,96000",
+      "--block-sizes",
+      "16,64,128,512,1024",
+      "--timeout-ms",
+      "60000",
+      "--output-dir",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host",
+      "--output-filename",
+      "PowerKick-component-pluginval.log",
+      "--validate",
+      "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:53.867423+00:00",
+    "end_utc": "2026-10-22T18:30:55.585765+00:00"
+  },
+  {
+    "label": "PowerKick-vst3-stdout",
+    "command": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/tools/pluginval-v1.0.4/pluginval.app/Contents/MacOS/pluginval",
+      "--strictness-level",
+      "5",
+      "--random-seed",
+      "20261022",
+      "--skip-gui-tests",
+      "--sample-rates",
+      "44100,48000,96000",
+      "--block-sizes",
+      "16,64,128,512,1024",
+      "--timeout-ms",
+      "60000",
+      "--output-dir",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host",
+      "--output-filename",
+      "PowerKick-vst3-pluginval.log",
+      "--validate",
+      "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:55.592039+00:00",
+    "end_utc": "2026-10-22T18:30:56.723272+00:00"
+  },
+  {
+    "label": "PowerKick-auval",
+    "command": [
+      "/usr/bin/auval",
+      "-v",
+      "aumu",
+      "Pwkk",
+      "Mddy",
+      "-strict",
+      "-stress",
+      "20"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:56.723617+00:00",
+    "end_utc": "2026-10-22T18:30:57.228325+00:00"
+  },
+  {
+    "label": "PowerBass-component-stdout",
+    "command": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/tools/pluginval-v1.0.4/pluginval.app/Contents/MacOS/pluginval",
+      "--strictness-level",
+      "5",
+      "--random-seed",
+      "20261022",
+      "--skip-gui-tests",
+      "--sample-rates",
+      "44100,48000,96000",
+      "--block-sizes",
+      "16,64,128,512,1024",
+      "--timeout-ms",
+      "60000",
+      "--output-dir",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host",
+      "--output-filename",
+      "PowerBass-component-pluginval.log",
+      "--validate",
+      "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:57.235990+00:00",
+    "end_utc": "2026-10-22T18:30:58.579992+00:00"
+  },
+  {
+    "label": "PowerBass-vst3-stdout",
+    "command": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/tools/pluginval-v1.0.4/pluginval.app/Contents/MacOS/pluginval",
+      "--strictness-level",
+      "5",
+      "--random-seed",
+      "20261022",
+      "--skip-gui-tests",
+      "--sample-rates",
+      "44100,48000,96000",
+      "--block-sizes",
+      "16,64,128,512,1024",
+      "--timeout-ms",
+      "60000",
+      "--output-dir",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host",
+      "--output-filename",
+      "PowerBass-vst3-pluginval.log",
+      "--validate",
+      "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:58.584294+00:00",
+    "end_utc": "2026-10-22T18:30:59.592970+00:00"
+  },
+  {
+    "label": "PowerBass-auval",
+    "command": [
+      "/usr/bin/auval",
+      "-v",
+      "aumu",
+      "Pwbs",
+      "Mddy",
+      "-strict",
+      "-stress",
+      "20"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:30:59.593813+00:00",
+    "end_utc": "2026-10-22T18:31:00.833654+00:00"
+  },
+  {
+    "label": "native-au-offline",
+    "command": [
+      "python3",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/repeat_au_probe.py",
+      "takeover-final-20261022"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:31:00.834074+00:00",
+    "end_utc": "2026-10-22T18:31:11.849587+00:00"
+  },
+  {
+    "label": "reprepare-compile",
+    "command": [
+      "xcrun",
+      "clang++",
+      "-std=c++17",
+      "-O2",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/au_reprepare.cpp",
+      "-framework",
+      "AudioToolbox",
+      "-framework",
+      "AudioUnit",
+      "-framework",
+      "CoreFoundation",
+      "-o",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host/au_reprepare"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:31:11.850015+00:00",
+    "end_utc": "2026-10-22T18:31:12.507297+00:00"
+  },
+  {
+    "label": "reprepare",
+    "command": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/Host/au_reprepare"
+    ],
+    "returncode": 0,
+    "start_utc": "2026-10-22T18:31:12.507714+00:00",
+    "end_utc": "2026-10-22T18:31:13.133148+00:00"
+  }
+]

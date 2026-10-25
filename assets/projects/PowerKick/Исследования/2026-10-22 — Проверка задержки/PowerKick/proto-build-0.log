@@ -1,0 +1,6 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/TracedKickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:196:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  196 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+1 warning generated.

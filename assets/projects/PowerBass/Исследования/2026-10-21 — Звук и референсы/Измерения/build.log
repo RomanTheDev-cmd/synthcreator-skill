@@ -1,0 +1,65 @@
+[  5%] Building CXX object CMakeFiles/powerbass_tests.dir/Tests/PowerBassTests.cpp.o
+[ 10%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_audio_processors/juce_audio_processors.mm.o
+[ 15%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_gui_extra/juce_gui_extra.mm.o
+[ 20%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.mm.o
+[ 25%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.o
+[ 30%] Building C object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_graphics/juce_graphics_Sheenbidi.c.o
+[ 35%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_graphics/juce_graphics.mm.o
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Tests/PowerBassTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Tests/PowerBassTests.cpp:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Source/DSP/BassEngine.h:489:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  489 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Source/DSP/BassEngine.h:541:12: note: previous declaration is here
+  541 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Tests/PowerBassTests.cpp:77:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   77 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Tests/PowerBassTests.cpp:93:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   93 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/Tests/PowerBassTests.cpp:484:61: warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  484 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h:178:7: note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.mm:35:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp:171:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/native/juce_CGMetalLayerRenderer_mac.h:257:66: warning: 'MTLResourceStorageModeManaged' is deprecated: first deprecated in macOS 27.0 - Managed storage has no effect on Apple Silicon, use Shared storage instead [-Wdeprecated-declarations]
+  257 |                                                                  MTLResourceStorageModeManaged
+      |                                                                  ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLResource.h:177:5: note: 'MTLResourceStorageModeManaged' has been explicitly marked deprecated here
+  177 |     MTLResourceStorageModeManaged API_DEPRECATED("Managed storage has no effect on Apple Silicon, use Shared storage instead", macos(10.11, 27.0), macCatalyst(13.0, 27.0)) API_UNAVAILABLE(ios) = MTLStorageModeManaged << MTLResourceStorageModeShift,
+      |     ^
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.mm:35:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp:171:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/native/juce_CGMetalLayerRenderer_mac.h:269:39: warning: 'MTLStorageModeManaged' is deprecated: first deprecated in macOS 27.0 - Managed storage has no effect on Apple Silicon, use Shared storage instead [-Wdeprecated-declarations]
+  269 |                                       MTLStorageModeManaged;
+      |                                       ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLResource.h:85:5: note: 'MTLStorageModeManaged' has been explicitly marked deprecated here
+   85 |     MTLStorageModeManaged API_DEPRECATED("Managed storage has no effect on Apple Silicon, use Shared storage instead", macos(10.11, 27.0), macCatalyst(13.0, 27.0)) API_UNAVAILABLE(ios) = 1,
+      |     ^
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.mm:35:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp:171:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-21 — Звук и референсы/Снимок 1.0.0/third_party/JUCE/modules/juce_gui_basics/native/juce_CGMetalLayerRenderer_mac.h:301:27: warning: 'didModifyRange:' is deprecated: first deprecated in macOS 27.0 - Managed storage has no effect on Apple Silicon, use Shared storage instead [-Wdeprecated-declarations]
+  301 |             [buffer.get() didModifyRange: { 0, buffer.get().length }];
+      |                           ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLBuffer.h:60:1: note: 'didModifyRange:' has been explicitly marked deprecated here
+   60 | - (void)didModifyRange:(NSRange)range API_DEPRECATED("Managed storage has no effect on Apple Silicon, use Shared storage instead", macos(10.11, 27.0), macCatalyst(13.0, 27.0)) API_UNAVAILABLE(ios);
+      | ^
+5 warnings generated.
+[ 40%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_events/juce_events.mm.o
+[ 45%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_data_structures/juce_data_structures.mm.o
+[ 50%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_audio_processors_headless/juce_audio_processors_headless_ara.cpp.o
+[ 55%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_audio_processors_headless/juce_audio_processors_headless_lv2_libs.cpp.o
+[ 60%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_audio_processors_headless/juce_audio_processors_headless.mm.o
+[ 65%] Building CXX object CMakeFiles/powerbass_tests.dir/third_party/JUCE/modules/juce_dsp/juce_dsp.mm.o
+3 warnings generated.
+[ 70%] Linking CXX executable powerbass_tests_artefacts/Release/powerbass_tests
+[100%] Built target powerbass_tests

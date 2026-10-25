@@ -1,0 +1,11 @@
+{
+  "head": "b97526d834a5674aea718f1a6de564604781b3d9",
+  "files": {
+    "Source/DSP/KickEngine.h": "91a2477738b31d83a268f9d304028605d79c34f372e1a84afc50b5f3707649ea",
+    "Source/KickRenderer.cpp": "86e5f8ff13e642abf08ce53bddd375ccac760deb359d124b9438a2720f68e764",
+    "Source/PluginProcessor.cpp": "d1f36b5a7a4cad4ad874c0b794f5a685d8ebdfc161d33f4f3a90a7c302d94644",
+    "Source/PluginProcessor.h": "07983b7f7414c6a77853061c6ab48c88cb6b0e200a4dca27162a21a9d51dddec",
+    "Tests/PowerKickTests.cpp": "da8327bea9dc46cfc76dd9533e146cd1e138b165d18c4f75a968ad9b48b436e0",
+    "Tests/WrapperTests.cpp": "39ce856800b8bddb813dc32b71e126889d4b23d667bb68df8650122619b68ea7"
+  }
+}

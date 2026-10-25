@@ -1,0 +1,16 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/factory-single-compare.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/factory-single-compare.cpp:9:13: warning: no previous prototype for function 'hash' [-Wmissing-prototypes]
+    9 | std::string hash(const std::vector<float>& x) {
+      |             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/factory-single-compare.cpp:9:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+    9 | std::string hash(const std::vector<float>& x) {
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/factory-single-compare.cpp:28:116: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+   28 |   double diff=0;for(size_t i=0;i<before.size();++i)diff=std::max(diff,std::abs((double)before[i]-after[i]));if(diff!=0)++bad;
+      |                                                                                                                ~~~~^ ~
+3 warnings generated.

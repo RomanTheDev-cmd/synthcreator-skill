@@ -1,0 +1,9 @@
+{
+  "method": "independent RBJ TDFII LR4 low+high, Q=sqrt(.5), 150Hz/48k; recorded stage input",
+  "max_abs_error": 1.1139988487229857e-07,
+  "predicted_pre_peak_dbfs": 0.5195067441731953,
+  "actual_pre_peak_dbfs": 0.5195066256525005,
+  "direct_x_peak_dbfs": 1.4761708622692413,
+  "predicted_peak_sample": 40283,
+  "actual_peak_sample": 40283
+}

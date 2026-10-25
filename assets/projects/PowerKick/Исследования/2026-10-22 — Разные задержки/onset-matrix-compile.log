@@ -1,0 +1,30 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/KickEngineTiming.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:15:51: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   15 |  int total=notes.back()+4800;std::vector<float> l(total),r(total);dsp::KickEngine e;e.prepare(sr,block,os);e.auditStarts.reserve(16);
+      |                                                 ~ ^~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:15:60: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   15 |  int total=notes.back()+4800;std::vector<float> l(total),r(total);dsp::KickEngine e;e.prepare(sr,block,os);e.auditStarts.reserve(16);
+      |                                                          ~ ^~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:18:169: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   18 |  for(size_t hit=0;hit<notes.size();hit++){int at=notes[hit];double peak=0;int peakAt=0;for(int j=0;j<1440;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(v>peak){peak=v;peakAt=j;}}
+      |                                                                                                                                                                 ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:18:147: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   18 |  for(size_t hit=0;hit<notes.size();hit++){int at=notes[hit];double peak=0;int peakAt=0;for(int j=0;j<1440;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(v>peak){peak=v;peakAt=j;}}
+      |                                                                                                                                           ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:19:116: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   19 |  int on60=-1,on40=-1;double err=0;for(int j=0;j<4000;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(on60<0&&v>peak*.001)on60=j;if(on40<0&&v>peak*.01)on40=j;if(scene==1)err=std::max(err,std::abs((double)l[at+lat+j]-cold[lat+j]));}
+      |                                                                                                            ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:19:94: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   19 |  int on60=-1,on40=-1;double err=0;for(int j=0;j<4000;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(on60<0&&v>peak*.001)on60=j;if(on40<0&&v>peak*.01)on40=j;if(scene==1)err=std::max(err,std::abs((double)l[at+lat+j]-cold[lat+j]));}
+      |                                                                                      ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:19:247: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   19 |  int on60=-1,on40=-1;double err=0;for(int j=0;j<4000;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(on60<0&&v>peak*.001)on60=j;if(on40<0&&v>peak*.01)on40=j;if(scene==1)err=std::max(err,std::abs((double)l[at+lat+j]-cold[lat+j]));}
+      |                                                                                                                                                                                                                                               ~~~~ ~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:19:235: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   19 |  int on60=-1,on40=-1;double err=0;for(int j=0;j<4000;j++){double v=std::max(std::abs(l[at+lat+j]),std::abs(r[at+lat+j]));if(on60<0&&v>peak*.001)on60=j;if(on40<0&&v>peak*.01)on40=j;if(scene==1)err=std::max(err,std::abs((double)l[at+lat+j]-cold[lat+j]));}
+      |                                                                                                                                                                                                                                   ~ ~~~~~~^~
+9 warnings generated.

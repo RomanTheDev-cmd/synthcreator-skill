@@ -1,0 +1,5 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/residual.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:4:10: fatal error: 'Filters.h' file not found
+    4 | #include "Filters.h"
+      |          ^~~~~~~~~~~
+1 error generated.

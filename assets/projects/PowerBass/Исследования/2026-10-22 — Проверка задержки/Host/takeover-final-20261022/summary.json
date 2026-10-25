@@ -1,0 +1,97 @@
+{
+  "utc": "2026-10-22T18:31:00.899251+00:00",
+  "installed_before": [
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component/Contents/MacOS/PowerKick",
+      "sha256": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3/Contents/MacOS/PowerKick",
+      "sha256": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component/Contents/MacOS/PowerBass",
+      "sha256": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3/Contents/MacOS/PowerBass",
+      "sha256": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69"
+    }
+  ],
+  "runs": [
+    {
+      "command": [
+        "xcrun",
+        "clang++",
+        "-std=c++17",
+        "-O2",
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/au_probe.cpp",
+        "-framework",
+        "AudioToolbox",
+        "-framework",
+        "AudioUnit",
+        "-framework",
+        "CoreFoundation",
+        "-o",
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/takeover-final-20261022/au_probe"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "xcrun",
+        "clang++",
+        "-std=c++17",
+        "-O2",
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/au_parameters.cpp",
+        "-framework",
+        "AudioToolbox",
+        "-framework",
+        "AudioUnit",
+        "-framework",
+        "CoreFoundation",
+        "-o",
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/takeover-final-20261022/au_parameters"
+      ],
+      "exit_code": 0
+    },
+    {
+      "oversampling_index": 0,
+      "warmup_seconds": 1,
+      "exit_code": 0
+    },
+    {
+      "oversampling_index": 1,
+      "warmup_seconds": 1,
+      "exit_code": 0
+    },
+    {
+      "oversampling_index": 2,
+      "warmup_seconds": 1,
+      "exit_code": 0
+    },
+    {
+      "parameter_roundtrip_exit": 0
+    }
+  ],
+  "installed_after": [
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component/Contents/MacOS/PowerKick",
+      "sha256": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3/Contents/MacOS/PowerKick",
+      "sha256": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component/Contents/MacOS/PowerBass",
+      "sha256": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3/Contents/MacOS/PowerBass",
+      "sha256": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69"
+    }
+  ],
+  "installed_unchanged": true,
+  "failed_processes_or_manifest": 0
+}

@@ -1,0 +1,50 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/BassEngineProbe.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:186:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  186 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/BassEngineProbe.h:473:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  473 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/BassEngineProbe.h:473:17: note: add missing switch cases
+  473 |         switch (t)
+      |                 ^
+  474 |         {
+  475 |             case DistType::fold:
+  476 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  477 |             case DistType::destroy:
+  478 |             {
+  479 |                 double peak = 0.0;
+  480 |                 for (int i = 1; i <= 128; ++i)
+  481 |                 {
+  482 |                     const double x = i / 128.0;
+  483 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  484 |                 }
+  485 |                 return peak;
+  486 |             }
+  487 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/BassEngineProbe.h:535:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  535 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/BassEngineProbe.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:9:137: warning: implicit conversion from 'size_t' (aka 'unsigned long') to 'double' may lose precision [-Wimplicit-int-float-conversion]
+    9 | C response(const std::vector<double>& h,double f,double sr) { C z=0; for(size_t n=0;n<h.size();++n) z+=h[n]*std::polar(1.0,-2*dsp::pi*f*n/sr); return z; }
+      |                                                                                                                                        ~^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:9:3: warning: no previous prototype for function 'response' [-Wmissing-prototypes]
+    9 | C response(const std::vector<double>& h,double f,double sr) { C z=0; for(size_t n=0;n<h.size();++n) z+=h[n]*std::polar(1.0,-2*dsp::pi*f*n/sr); return z; }
+      |   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:9:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+    9 | C response(const std::vector<double>& h,double f,double sr) { C z=0; for(size_t n=0;n<h.size();++n) z+=h[n]*std::polar(1.0,-2*dsp::pi*f*n/sr); return z; }
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:10:8: warning: no previous prototype for function 'gd' [-Wmissing-prototypes]
+   10 | double gd(C a,C b) { return -std::arg(b*std::conj(a))/(2*dsp::pi*.2)*1000; }
+      |        ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/timing_probe.cpp:10:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+   10 | double gd(C a,C b) { return -std::arg(b*std::conj(a))/(2*dsp::pi*.2)*1000; }
+      | ^
+      | static 
+6 warnings generated.

@@ -1,0 +1,4 @@
+FAIL: malloc callback detects JUCE AudioBuffer allocation (0)
+FAIL: malloc/realloc callback: 4096-sample mono blocks allocate zero times, prepared 32, got 4
+FAIL: malloc/realloc callback: 4096-sample mono blocks allocate zero times, prepared 512, got 4
+FAILED 6/9 checks

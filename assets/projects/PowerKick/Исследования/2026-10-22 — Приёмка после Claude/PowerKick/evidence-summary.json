@@ -1,0 +1,106 @@
+{
+  "cc-red": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/cc-red"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 1,
+      "seconds": 0.4673919677734375
+    },
+    "log_sha256": "4e01dd8904aaef28731c06b92b755b398dda18afd15cd6e5f0824ce8551683a5",
+    "exe_sha256": "c552e156c2e704a2de6dae179bc02dbb9a0eb7cd413f99b5d0ad1080042424a9"
+  },
+  "cc-green": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/cc-green"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 0.3502840995788574
+    },
+    "log_sha256": "cc6cd37f96b5dab48ec2232fa97ef81133a5a213ec3b323422b91725cb9a48b1",
+    "exe_sha256": "632a7274adc15b4c896d4ffaf11246128054fc68e2c9beff3d2ce55141a01c07"
+  },
+  "frozen-focused": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/frozen-focused"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 0.34006500244140625
+    },
+    "log_sha256": "cc6cd37f96b5dab48ec2232fa97ef81133a5a213ec3b323422b91725cb9a48b1",
+    "exe_sha256": "851ab864d989473531f3fecf93a0d99f1a3296fe9306ac1a4518b944a78cbb0e"
+  },
+  "full-green": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/full-green"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 74.31971001625061
+    },
+    "log_sha256": "39bae106cb3939053456d179a413fdad2ffd5bbc28d50c4a0036e3a68a356f7a",
+    "exe_sha256": "767314554453858a044b469e1434dc50bf7423843f6850e5b71ee30199026188"
+  },
+  "wrapper-green": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/wrapper-green"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 0.45203208923339844
+    },
+    "log_sha256": "fd198467519168d3b8766302a0a7665850894e564f7d7b5e77551f0e0d77c8f4",
+    "exe_sha256": "44ae2d37f1bd416db481ed912610790282a3b84f5eca2abff6ae895325a010ca"
+  },
+  "mono-oversized": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/mono-oversized"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 0.2635078430175781
+    },
+    "log_sha256": "14118331f4bdb36f5483e02a3b4222532f6c5e5a9577456b0aa392a901f7d110",
+    "exe_sha256": "590959a33d3eace42f2c3401245dc1d7abfd04aca7e502f970367b3b37bfe93e"
+  },
+  "heap-red-atomic": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-red-atomic"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 1,
+      "seconds": 0.24986028671264648
+    },
+    "log_sha256": "66c6b1f997f19c409d94bf0f9ef9fbc9f03c239d87e132553a78a3c6eb7b398e",
+    "exe_sha256": "85a149ac885923668f3306ec5048b31ae687901f45eae5408c05544583ab5d06"
+  },
+  "heap-green-atomic": {
+    "test": {
+      "name": "tests",
+      "argv": [
+        "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-green-atomic"
+      ],
+      "cwd": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "exit_code": 0,
+      "seconds": 0.256619930267334
+    },
+    "log_sha256": "8c06e2cb525e72aaf7703ab956729286067718b8cdfabad42326eafcaa2b7128",
+    "exe_sha256": "99bb3b80d4003438a57be6c9ebaa106eac54ccf64ce6153ff5f7b0d8f44af71b"
+  }
+}

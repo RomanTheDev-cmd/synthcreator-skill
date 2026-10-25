@@ -1,0 +1,6 @@
+FAIL: Warm Click F#1 III: 210 BPM roll does not reach the emergency ceiling
+FAIL: Warm Click F#1 III: a repeated hit starts with a fresh complete signal path (difference 0.03389933)
+FAIL: Classic Punch: 210 BPM roll does not reach the emergency ceiling
+FAIL: Classic Punch: a repeated hit starts with a fresh complete signal path (difference 0.04011803)
+  WIDTH 100%: side/mid above SPLIT -1.8 dB (WIDTH 0: -206.9 dB)
+FAILED 1348/1352 checks

@@ -1,0 +1,9 @@
+{
+  "head": "328f46b920240f06dc0c26eecaed4c04ece945c2",
+  "source": {
+    "Source/DSP/BassEngine.h": "e5c9818f0849e335a3b63cbed54e6f53b89800267961fd22994b72801301ef77",
+    "Source/PluginProcessor.cpp": "c99f17281b19e791971a3a8181e77b06acb1ec4fee6e5aaec95b91bfb68d4cde",
+    "Source/Params.cpp": "45011c325a2fb6f0e96852d9802569965fbc14ce2a1012a352967d97e3aa2b8a",
+    "Source/FactoryPresets.inc": "65eb66c3f21f27395dcfbb85655025ff4d320c6e31fda24d5d6c4d44263a138c"
+  }
+}

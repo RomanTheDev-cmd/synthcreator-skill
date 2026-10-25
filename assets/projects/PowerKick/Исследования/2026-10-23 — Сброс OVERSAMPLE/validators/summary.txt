@@ -1,0 +1,6 @@
+auval Pwkk: AU VALIDATION SUCCEEDED.
+auval Pwbs: AU VALIDATION SUCCEEDED.
+pluginval VST3/PowerKick.vst3: код 0 — SUCCESS
+pluginval Components/PowerKick.component: код 0 — SUCCESS
+pluginval VST3/PowerBass.vst3: код 0 — SUCCESS
+pluginval Components/PowerBass.component: код 0 — SUCCESS

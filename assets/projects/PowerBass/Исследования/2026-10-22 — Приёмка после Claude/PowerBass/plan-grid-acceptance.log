@@ -1,0 +1,121 @@
+{
+  "cases": 7200,
+  "presets": 300,
+  "cases_with_safety": 60,
+  "presets_with_safety": 27,
+  "safety_samples": 870,
+  "cases_with_safety_by_pattern": {
+    "0": 35,
+    "1": 25
+  },
+  "worst": [
+    {
+      "preset": "Biting Line 03",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.0448184",
+      "safety_samples": "8"
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.154007",
+      "safety_samples": "92"
+    },
+    {
+      "preset": "Biting Line 03",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.194467",
+      "safety_samples": "4"
+    },
+    {
+      "preset": "Wrecked Roller 02",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.232721",
+      "safety_samples": "85"
+    },
+    {
+      "preset": "Dark FM 07",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.276129",
+      "safety_samples": "6"
+    },
+    {
+      "preset": "Dark FM 07",
+      "bpm": "150",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.397006",
+      "safety_samples": "23"
+    },
+    {
+      "preset": "Warm Reese 01",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.422367",
+      "safety_samples": "150"
+    },
+    {
+      "preset": "Hard Reese 06",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.439627",
+      "safety_samples": "10"
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.450929",
+      "safety_samples": "5"
+    },
+    {
+      "preset": "Wrecked Roller 02",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.470662",
+      "safety_samples": "81"
+    },
+    {
+      "preset": "Biting Line 03",
+      "bpm": "150",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.55907",
+      "safety_samples": "2"
+    },
+    {
+      "preset": "Heavy FM 04",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.560878",
+      "safety_samples": "4"
+    }
+  ]
+}

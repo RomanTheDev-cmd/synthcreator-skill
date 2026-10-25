@@ -1,0 +1,18 @@
+[
+  {
+    "command": [
+      "/Users/roman/Library/Caches/PowerToolsWin/wine/Wine Stable.app/Contents/Resources/wine/bin/wine",
+      "/Users/roman/Library/Caches/PowerBassBuildWin/powerbass_tests_artefacts/Release/powerbass_tests.exe"
+    ],
+    "returncode": 0,
+    "seconds": 555.1446897983551
+  },
+  {
+    "command": [
+      "/Users/roman/Library/Caches/PowerToolsWin/wine/Wine Stable.app/Contents/Resources/wine/bin/wine",
+      "/Users/roman/Library/Caches/PowerBassBuildWin/powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests.exe"
+    ],
+    "returncode": 0,
+    "seconds": 2.0503809452056885
+  }
+]

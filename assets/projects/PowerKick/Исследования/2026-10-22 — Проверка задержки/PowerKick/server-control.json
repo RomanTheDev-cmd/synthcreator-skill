@@ -1,0 +1,109 @@
+{
+  "argv": [
+    "/Users/roman/Library/Caches/PowerKickBuildDev/powerkick_tests_artefacts/Release/powerkick_tests",
+    "--serve"
+  ],
+  "returncode": 0,
+  "rows": [
+    {
+      "preset": "Warm Click F#1 III",
+      "bpm": 210,
+      "velocity": 0.8,
+      "step": 1714,
+      "output_delta": -24,
+      "measured_dbfs": -22.47857405131048,
+      "extrapolated_dbfs": 1.5214259486895187,
+      "finite": true
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "bpm": 210,
+      "velocity": 0.8,
+      "step": 1714,
+      "output_delta": 0,
+      "measured_dbfs": -0.013452996197960733,
+      "extrapolated_dbfs": -0.013452996197960733,
+      "finite": true
+    },
+    {
+      "preset": "Classic Punch",
+      "bpm": 210,
+      "velocity": 0.8,
+      "step": 1714,
+      "output_delta": -24,
+      "measured_dbfs": -22.65370261322184,
+      "extrapolated_dbfs": 1.3462973867781614,
+      "finite": true
+    },
+    {
+      "preset": "Classic Punch",
+      "bpm": 210,
+      "velocity": 0.8,
+      "step": 1714,
+      "output_delta": 0,
+      "measured_dbfs": -0.016378989249332884,
+      "extrapolated_dbfs": -0.016378989249332884,
+      "finite": true
+    },
+    {
+      "preset": "Driven Clang A1",
+      "bpm": 90,
+      "velocity": 0.8,
+      "step": 4000,
+      "output_delta": -24,
+      "measured_dbfs": -23.70949932840411,
+      "extrapolated_dbfs": 0.29050067159588977,
+      "finite": true
+    },
+    {
+      "preset": "Driven Clang A1",
+      "bpm": 90,
+      "velocity": 0.8,
+      "step": 4000,
+      "output_delta": 0,
+      "measured_dbfs": -0.1170357314737629,
+      "extrapolated_dbfs": -0.1170357314737629,
+      "finite": true
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "bpm": 150,
+      "velocity": 0.25,
+      "step": 0,
+      "output_delta": -24,
+      "measured_dbfs": -24.83775501101441,
+      "extrapolated_dbfs": -0.8377550110144085,
+      "finite": true
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "bpm": 150,
+      "velocity": 0.25,
+      "step": 0,
+      "output_delta": 0,
+      "measured_dbfs": -0.8379250397155595,
+      "extrapolated_dbfs": -0.8379250397155595,
+      "finite": true
+    },
+    {
+      "preset": "Hard Techno Core",
+      "bpm": 150,
+      "velocity": 0.8,
+      "step": 2400,
+      "output_delta": -24,
+      "measured_dbfs": -25.983138265021857,
+      "extrapolated_dbfs": -1.9831382650218572,
+      "finite": true
+    },
+    {
+      "preset": "Hard Techno Core",
+      "bpm": 150,
+      "velocity": 0.8,
+      "step": 2400,
+      "output_delta": 0,
+      "measured_dbfs": -1.9831370787995755,
+      "extrapolated_dbfs": -1.9831370787995755,
+      "finite": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{"plugin":"PowerKick","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":44101,"peak":0.841568291187}
+{"plugin":"PowerKick","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":48001,"peak":0.841531991959}
+{"plugin":"PowerKick","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":96001,"peak":0.898645222187}
+{"plugin":"PowerBass","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":44103,"peak":0.692821443081}
+{"plugin":"PowerBass","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":48004,"peak":0.695667624474}
+{"plugin":"PowerBass","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":4,"first_above_1e7":96006,"peak":0.690755486488}
+{"failed_comparisons":0}
+{"plugin":"PowerKick","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":44102,"peak":0.841454923153}
+{"plugin":"PowerKick","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":48002,"peak":0.841502487659}
+{"plugin":"PowerKick","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":96002,"peak":0.841360270977}
+{"plugin":"PowerBass","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":44104,"peak":0.694937646389}
+{"plugin":"PowerBass","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":48004,"peak":0.693207085133}
+{"plugin":"PowerBass","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":96007,"peak":0.691000163555}
+{"failed_comparisons":0}
+{"plugin":"PowerKick","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":44103,"peak":0.841559827328}
+{"plugin":"PowerKick","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":48003,"peak":0.841535449028}
+{"plugin":"PowerKick","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":96003,"peak":0.879952192307}
+{"plugin":"PowerBass","sr":44100,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":44105,"peak":0.695877611637}
+{"plugin":"PowerBass","sr":48000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":48005,"peak":0.695052087307}
+{"plugin":"PowerBass","sr":96000,"block":512,"latency_initial_samples":6,"latency_final_samples":6,"first_above_1e7":96007,"peak":0.691097855568}
+{"failed_comparisons":0}
+Result folder: /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/takeover-final-20261022
+Waveform comparisons pass does not independently validate reported PDC.

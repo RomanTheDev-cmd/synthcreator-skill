@@ -1,0 +1,94 @@
+{
+  "head": "9e40226955996e5865090ead0d564e6dd0632255",
+  "baseline_source_sha256": "e5c9818f0849e335a3b63cbed54e6f53b89800267961fd22994b72801301ef77",
+  "current_source_sha256": "e5c9818f0849e335a3b63cbed54e6f53b89800267961fd22994b72801301ef77",
+  "presets": [
+    "Biting Line 03",
+    "Cellar Line",
+    "Dark FM 05",
+    "Dark FM 07",
+    "Dark Reese 12",
+    "Evil Reese",
+    "Hard Reese 06",
+    "Heavy FM 04",
+    "Heavy Reese 02",
+    "Heavy Rumble 01",
+    "Reese Core"
+  ],
+  "causal_rows": 924,
+  "transition_rows": 528,
+  "baseline_grid_comparisons": 132,
+  "baseline_grid_differences_at_csv_precision": 0,
+  "mode_summary": {
+    "0": {
+      "cases": 132,
+      "safety_cases": 26,
+      "safety_samples": 272,
+      "new_safety_cases": 0,
+      "worst_pre_dbfs": -0.0448184
+    },
+    "1": {
+      "cases": 132,
+      "safety_cases": 50,
+      "safety_samples": 196597,
+      "new_safety_cases": 29,
+      "worst_pre_dbfs": 5.52517
+    },
+    "2": {
+      "cases": 132,
+      "safety_cases": 31,
+      "safety_samples": 427,
+      "new_safety_cases": 18,
+      "worst_pre_dbfs": -0.0448184
+    },
+    "3": {
+      "cases": 132,
+      "safety_cases": 2,
+      "safety_samples": 149,
+      "new_safety_cases": 0,
+      "worst_pre_dbfs": -0.472595
+    },
+    "4": {
+      "cases": 132,
+      "safety_cases": 20,
+      "safety_samples": 216,
+      "new_safety_cases": 3,
+      "worst_pre_dbfs": -0.297645
+    },
+    "5": {
+      "cases": 132,
+      "safety_cases": 24,
+      "safety_samples": 91,
+      "new_safety_cases": 15,
+      "worst_pre_dbfs": 0.429584
+    },
+    "6": {
+      "cases": 132,
+      "safety_cases": 6,
+      "safety_samples": 406,
+      "new_safety_cases": 3,
+      "worst_pre_dbfs": -0.435052
+    },
+    "7": {
+      "cases": 132,
+      "safety_cases": 42,
+      "safety_samples": 2828,
+      "new_safety_cases": 18,
+      "worst_pre_dbfs": 8.00224
+    },
+    "8": {
+      "cases": 132,
+      "safety_cases": 24,
+      "safety_samples": 217,
+      "new_safety_cases": 1,
+      "worst_pre_dbfs": -0.0448184
+    },
+    "9": {
+      "cases": 132,
+      "safety_cases": 38,
+      "safety_samples": 2792,
+      "new_safety_cases": 16,
+      "worst_pre_dbfs": 8.00224
+    }
+  }
+}

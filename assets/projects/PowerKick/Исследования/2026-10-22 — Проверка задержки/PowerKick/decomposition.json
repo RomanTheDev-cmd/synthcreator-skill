@@ -1,0 +1,3485 @@
+{
+  "returncode": 0,
+  "rows": [
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "original",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.062359695568972,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "right": {
+        "dbfs": -1.1511378972224051,
+        "sample": 1795,
+        "hit": 0,
+        "offset_ms": 37.395833333333336
+      },
+      "mid": {
+        "dbfs": -1.1273375147141564,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "side": {
+        "dbfs": -24.702832145923985,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "original",
+      "case": "single_025",
+      "left": {
+        "dbfs": -5.791940300940386,
+        "sample": 1576,
+        "hit": 0,
+        "offset_ms": 32.833333333333336
+      },
+      "right": {
+        "dbfs": -5.822871827502674,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "mid": {
+        "dbfs": -5.839358310868494,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "side": {
+        "dbfs": -31.67903679741076,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "original",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3207292589802009,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.693061096329238,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.50889008534606,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -23.399390741168048,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "original",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.1698547823868672,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.5214259486895187,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.347419023994025,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -24.326080477419204,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_rumble",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.062359695568972,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "right": {
+        "dbfs": -1.1511378972224051,
+        "sample": 1795,
+        "hit": 0,
+        "offset_ms": 37.395833333333336
+      },
+      "mid": {
+        "dbfs": -1.1273375147141564,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "side": {
+        "dbfs": -24.702832145923985,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_rumble",
+      "case": "single_025",
+      "left": {
+        "dbfs": -5.791940300940386,
+        "sample": 1576,
+        "hit": 0,
+        "offset_ms": 32.833333333333336
+      },
+      "right": {
+        "dbfs": -5.822871827502674,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "mid": {
+        "dbfs": -5.839358310868494,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "side": {
+        "dbfs": -31.67903679741076,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_rumble",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3207292589802009,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.693061096329238,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.50889008534606,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -23.399390741168048,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_rumble",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.1698547823868672,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.5214259486895187,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.347419023994025,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -24.326080477419204,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.1273375147141564,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "right": {
+        "dbfs": -1.1273375147141564,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "mid": {
+        "dbfs": -1.1273375147141564,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -5.839357808627295,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "right": {
+        "dbfs": -5.839357808627295,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "mid": {
+        "dbfs": -5.839357808627295,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.5088905163983064,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.5088905163983064,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.5088905163983064,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.347419023994025,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.347419023994025,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.347419023994025,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.8057954726862704,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "right": {
+        "dbfs": -3.3253218302801386,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "mid": {
+        "dbfs": -3.5622368056014864,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "side": {
+        "dbfs": -23.02900881660394,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character",
+      "case": "single_025",
+      "left": {
+        "dbfs": -6.530917361430557,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "right": {
+        "dbfs": -6.306857708917509,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "mid": {
+        "dbfs": -6.418165079874168,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "side": {
+        "dbfs": -28.857718538936794,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.0796360355194636,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.301171635302289,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.6816856134707265,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -22.52519778042638,
+        "sample": 2525,
+        "hit": 1,
+        "offset_ms": 16.895833333333332
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -3.3037410696860405,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.5350879970232114,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.9109146144833353,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -23.02900881660394,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_drive",
+      "case": "single_1",
+      "left": {
+        "dbfs": -0.25347899809201735,
+        "sample": 1571,
+        "hit": 0,
+        "offset_ms": 32.729166666666664
+      },
+      "right": {
+        "dbfs": -0.26288861410413134,
+        "sample": 1785,
+        "hit": 0,
+        "offset_ms": 37.1875
+      },
+      "mid": {
+        "dbfs": -0.28064596590923685,
+        "sample": 1784,
+        "hit": 0,
+        "offset_ms": 37.166666666666664
+      },
+      "side": {
+        "dbfs": -26.587035757057997,
+        "sample": 450,
+        "hit": 0,
+        "offset_ms": 9.375
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_drive",
+      "case": "single_025",
+      "left": {
+        "dbfs": -11.032511300233821,
+        "sample": 1571,
+        "hit": 0,
+        "offset_ms": 32.729166666666664
+      },
+      "right": {
+        "dbfs": -11.040211234342976,
+        "sample": 1784,
+        "hit": 0,
+        "offset_ms": 37.166666666666664
+      },
+      "mid": {
+        "dbfs": -11.057265728571522,
+        "sample": 1784,
+        "hit": 0,
+        "offset_ms": 37.166666666666664
+      },
+      "side": {
+        "dbfs": -37.460107654130745,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_drive",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.5867360960487353,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "right": {
+        "dbfs": 1.9308298789982103,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "mid": {
+        "dbfs": 1.7604867967323372,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "side": {
+        "dbfs": -24.99661589016482,
+        "sample": 5558,
+        "hit": 3,
+        "offset_ms": 8.666666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_drive",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.3490419356009404,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "right": {
+        "dbfs": 1.6768915632824815,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "mid": {
+        "dbfs": 1.5145134965639606,
+        "sample": 1783,
+        "hit": 1,
+        "offset_ms": 1.4375
+      },
+      "side": {
+        "dbfs": -25.323641767132365,
+        "sample": 14128,
+        "hit": 8,
+        "offset_ms": 8.666666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_click",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.0673632498157346,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "right": {
+        "dbfs": -1.1549861092457938,
+        "sample": 1795,
+        "hit": 0,
+        "offset_ms": 37.395833333333336
+      },
+      "mid": {
+        "dbfs": -1.1278265479159835,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "side": {
+        "dbfs": -26.320176035202884,
+        "sample": 759,
+        "hit": 0,
+        "offset_ms": 15.8125
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_click",
+      "case": "single_025",
+      "left": {
+        "dbfs": -5.804422951209503,
+        "sample": 1576,
+        "hit": 0,
+        "offset_ms": 32.833333333333336
+      },
+      "right": {
+        "dbfs": -5.824199341754628,
+        "sample": 1787,
+        "hit": 0,
+        "offset_ms": 37.229166666666664
+      },
+      "mid": {
+        "dbfs": -5.839367853456803,
+        "sample": 1786,
+        "hit": 0,
+        "offset_ms": 37.208333333333336
+      },
+      "side": {
+        "dbfs": -35.15324883257779,
+        "sample": 665,
+        "hit": 0,
+        "offset_ms": 13.854166666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_click",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -0.9985282391769132,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -1.0310566109696317,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -1.0147771978714957,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -24.68384141595351,
+        "sample": 2193,
+        "hit": 1,
+        "offset_ms": 9.979166666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_click",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.132202211520731,
+        "sample": 1777,
+        "hit": 1,
+        "offset_ms": 1.3125
+      },
+      "right": {
+        "dbfs": -1.145366140995744,
+        "sample": 1777,
+        "hit": 1,
+        "offset_ms": 1.3125
+      },
+      "mid": {
+        "dbfs": -1.1387816824287356,
+        "sample": 1777,
+        "hit": 1,
+        "offset_ms": 1.3125
+      },
+      "side": {
+        "dbfs": -25.402749273424803,
+        "sample": 2193,
+        "hit": 1,
+        "offset_ms": 9.979166666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3056287395334003,
+        "sample": 1791,
+        "hit": 0,
+        "offset_ms": 37.3125
+      },
+      "right": {
+        "dbfs": -1.306652154456998,
+        "sample": 1782,
+        "hit": 0,
+        "offset_ms": 37.125
+      },
+      "mid": {
+        "dbfs": -1.3728106276807637,
+        "sample": 1788,
+        "hit": 0,
+        "offset_ms": 37.25
+      },
+      "side": {
+        "dbfs": -24.28052118199321,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -5.984592999552213,
+        "sample": 1571,
+        "hit": 0,
+        "offset_ms": 32.729166666666664
+      },
+      "right": {
+        "dbfs": -6.017327768350405,
+        "sample": 1782,
+        "hit": 0,
+        "offset_ms": 37.125
+      },
+      "mid": {
+        "dbfs": -6.047296966201401,
+        "sample": 1782,
+        "hit": 0,
+        "offset_ms": 37.125
+      },
+      "side": {
+        "dbfs": -31.597411500781384,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.2523226570842354,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.6853796750298997,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.4715497808182398,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -23.08397708987833,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.1002447578409935,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 1.5135903003722824,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": 1.3093760915754231,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -23.974864919310832,
+        "sample": 2192,
+        "hit": 1,
+        "offset_ms": 9.958333333333334
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "bare_body",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.7722556767501594,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "right": {
+        "dbfs": -3.7722556767501594,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "mid": {
+        "dbfs": -3.7722556767501594,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "bare_body",
+      "case": "single_025",
+      "left": {
+        "dbfs": -14.548021656846004,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "right": {
+        "dbfs": -14.548021656846004,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "mid": {
+        "dbfs": -14.548021656846004,
+        "sample": 9578,
+        "hit": 0,
+        "offset_ms": 199.54166666666666
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "bare_body",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.3574971878302478,
+        "sample": 10357,
+        "hit": 6,
+        "offset_ms": 1.5208333333333333
+      },
+      "right": {
+        "dbfs": -3.3574971878302478,
+        "sample": 10357,
+        "hit": 6,
+        "offset_ms": 1.5208333333333333
+      },
+      "mid": {
+        "dbfs": -3.3574971878302478,
+        "sample": 10357,
+        "hit": 6,
+        "offset_ms": 1.5208333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "bare_body",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -3.5348579161590976,
+        "sample": 13785,
+        "hit": 8,
+        "offset_ms": 1.5208333333333333
+      },
+      "right": {
+        "dbfs": -3.5348579161590976,
+        "sample": 13785,
+        "hit": 8,
+        "offset_ms": 1.5208333333333333
+      },
+      "mid": {
+        "dbfs": -3.5348579161590976,
+        "sample": 13785,
+        "hit": 8,
+        "offset_ms": 1.5208333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.562236419184451,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "right": {
+        "dbfs": -3.562236419184451,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "mid": {
+        "dbfs": -3.562236419184451,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -6.418164811449341,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "right": {
+        "dbfs": -6.418164811449341,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "mid": {
+        "dbfs": -6.418164811449341,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -2.6816859626341305,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.6816859626341305,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.6816859626341305,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -2.9109142559825116,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.9109142559825116,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.9109142559825116,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.8057954726862704,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "right": {
+        "dbfs": -3.3253218302801386,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "mid": {
+        "dbfs": -3.5622368056014864,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "side": {
+        "dbfs": -22.60060851576334,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -6.530917361430557,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "right": {
+        "dbfs": -6.306857708917509,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "mid": {
+        "dbfs": -6.418165079874168,
+        "sample": 29,
+        "hit": 0,
+        "offset_ms": 0.6041666666666666
+      },
+      "side": {
+        "dbfs": -28.782497604232532,
+        "sample": 666,
+        "hit": 0,
+        "offset_ms": 13.875
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.163478811972304,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.2895653663832682,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.715535839820351,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -21.941669485705376,
+        "sample": 2525,
+        "hit": 1,
+        "offset_ms": 16.895833333333332
+      }
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -3.389786115516131,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": -2.5231651346610207,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "mid": {
+        "dbfs": -2.945671886945867,
+        "sample": 1776,
+        "hit": 1,
+        "offset_ms": 1.2916666666666667
+      },
+      "side": {
+        "dbfs": -22.60060851576334,
+        "sample": 764,
+        "hit": 0,
+        "offset_ms": 15.916666666666666
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "original",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "right": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "mid": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "original",
+      "case": "single_025",
+      "left": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "right": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "mid": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "original",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "original",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_rumble",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "right": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "mid": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_rumble",
+      "case": "single_025",
+      "left": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "right": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "mid": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_rumble",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_rumble",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "right": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "mid": {
+        "dbfs": -1.3282422824653644,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "right": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "mid": {
+        "dbfs": -3.0781879156843033,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3937239443397758,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3462973867781614,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "right": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "mid": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character",
+      "case": "single_025",
+      "left": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "right": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "mid": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_drive",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3437013432393385,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "right": {
+        "dbfs": -1.3437013432393385,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "mid": {
+        "dbfs": -1.3437013432393385,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_drive",
+      "case": "single_025",
+      "left": {
+        "dbfs": -12.119761956150334,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "right": {
+        "dbfs": -12.119761956150334,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "mid": {
+        "dbfs": -12.119761956150334,
+        "sample": 1564,
+        "hit": 0,
+        "offset_ms": 32.583333333333336
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_drive",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -0.6900618520740025,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "right": {
+        "dbfs": -0.6900618520740025,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "mid": {
+        "dbfs": -0.6900618520740025,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_drive",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.306039402323787,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "right": {
+        "dbfs": -1.306039402323787,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "mid": {
+        "dbfs": -1.306039402323787,
+        "sample": 10387,
+        "hit": 6,
+        "offset_ms": 2.1458333333333335
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_click",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.328323551945676,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "right": {
+        "dbfs": -1.328323551945676,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "mid": {
+        "dbfs": -1.328323551945676,
+        "sample": 1781,
+        "hit": 0,
+        "offset_ms": 37.104166666666664
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_click",
+      "case": "single_025",
+      "left": {
+        "dbfs": -3.078193763234488,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "right": {
+        "dbfs": -3.078193763234488,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "mid": {
+        "dbfs": -3.078193763234488,
+        "sample": 1773,
+        "hit": 0,
+        "offset_ms": 36.9375
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_click",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -0.6031253499849782,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -0.6031253499849782,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -0.6031253499849782,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_click",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -0.6627849007585667,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -0.6627849007585667,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -0.6627849007585667,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.5037533787567696,
+        "sample": 1779,
+        "hit": 0,
+        "offset_ms": 37.0625
+      },
+      "right": {
+        "dbfs": -1.5037533787567696,
+        "sample": 1779,
+        "hit": 0,
+        "offset_ms": 37.0625
+      },
+      "mid": {
+        "dbfs": -1.5037533787567696,
+        "sample": 1779,
+        "hit": 0,
+        "offset_ms": 37.0625
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -3.2161142466241444,
+        "sample": 1770,
+        "hit": 0,
+        "offset_ms": 36.875
+      },
+      "right": {
+        "dbfs": -3.2161142466241444,
+        "sample": 1770,
+        "hit": 0,
+        "offset_ms": 36.875
+      },
+      "mid": {
+        "dbfs": -3.2161142466241444,
+        "sample": 1770,
+        "hit": 0,
+        "offset_ms": 36.875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 1.3841771174467397,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3841771174467397,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3841771174467397,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 1.3338398522518844,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": 1.3338398522518844,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": 1.3338398522518844,
+        "sample": 3523,
+        "hit": 2,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "bare_body",
+      "case": "single_1",
+      "left": {
+        "dbfs": -2.0494788836623314,
+        "sample": 59,
+        "hit": 0,
+        "offset_ms": 1.2291666666666667
+      },
+      "right": {
+        "dbfs": -2.0494788836623314,
+        "sample": 59,
+        "hit": 0,
+        "offset_ms": 1.2291666666666667
+      },
+      "mid": {
+        "dbfs": -2.0494788836623314,
+        "sample": 59,
+        "hit": 0,
+        "offset_ms": 1.2291666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "bare_body",
+      "case": "single_025",
+      "left": {
+        "dbfs": -12.226643209996993,
+        "sample": 68,
+        "hit": 0,
+        "offset_ms": 1.4166666666666667
+      },
+      "right": {
+        "dbfs": -12.226643209996993,
+        "sample": 68,
+        "hit": 0,
+        "offset_ms": 1.4166666666666667
+      },
+      "mid": {
+        "dbfs": -12.226643209996993,
+        "sample": 68,
+        "hit": 0,
+        "offset_ms": 1.4166666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "bare_body",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.2949458153582967,
+        "sample": 12104,
+        "hit": 7,
+        "offset_ms": 2.2083333333333335
+      },
+      "right": {
+        "dbfs": -1.2949458153582967,
+        "sample": 12104,
+        "hit": 7,
+        "offset_ms": 2.2083333333333335
+      },
+      "mid": {
+        "dbfs": -1.2949458153582967,
+        "sample": 12104,
+        "hit": 7,
+        "offset_ms": 2.2083333333333335
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "bare_body",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.416966475530817,
+        "sample": 10390,
+        "hit": 6,
+        "offset_ms": 2.2083333333333335
+      },
+      "right": {
+        "dbfs": -1.416966475530817,
+        "sample": 10390,
+        "hit": 6,
+        "offset_ms": 2.2083333333333335
+      },
+      "mid": {
+        "dbfs": -1.416966475530817,
+        "sample": 10390,
+        "hit": 6,
+        "offset_ms": 2.2083333333333335
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "right": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "mid": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "right": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "mid": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.9616971159630836,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.9081183222200835,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "right": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "mid": {
+        "dbfs": -3.243141674687177,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "right": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "mid": {
+        "dbfs": -4.216501158199961,
+        "sample": 54,
+        "hit": 0,
+        "offset_ms": 1.125
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.9842060419783607,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.9842060419783607,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.9842060419783607,
+        "sample": 5237,
+        "hit": 3,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Classic Punch",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.928597548853066,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "right": {
+        "dbfs": -1.928597548853066,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "mid": {
+        "dbfs": -1.928597548853066,
+        "sample": 6951,
+        "hit": 4,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "original",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.655910203011757,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "original",
+      "case": "single_025",
+      "left": {
+        "dbfs": -0.8377550110144085,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -3.5281757102241222,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -15.304067707960868,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "original",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.58217294470797,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "original",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.591473077752156,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_rumble",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.655910203011757,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_rumble",
+      "case": "single_025",
+      "left": {
+        "dbfs": -0.8377550110144085,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -3.5281757102241222,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -15.304067707960868,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_rumble",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.58217294470797,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_rumble",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.591473077752156,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.6857036676075126,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.669751131487601,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "right": {
+        "dbfs": -3.450849473044343,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -4.440795440906783,
+        "sample": 7285,
+        "hit": 0,
+        "offset_ms": 151.77083333333334
+      },
+      "side": {
+        "dbfs": -13.92284324336832,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character",
+      "case": "single_025",
+      "left": {
+        "dbfs": -2.697842804810776,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "right": {
+        "dbfs": -4.249147654401547,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      },
+      "mid": {
+        "dbfs": -4.4506519356191205,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "side": {
+        "dbfs": -14.545446608659091,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.109017479293854,
+        "sample": 4888,
+        "hit": 2,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.450849473044343,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -3.853618761362938,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -13.92284324336832,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -2.9597796002303234,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.450849473044343,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -3.6629968274673317,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -13.92284324336832,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_drive",
+      "case": "single_1",
+      "left": {
+        "dbfs": 0.04634977411197738,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "right": {
+        "dbfs": -0.5265549910147485,
+        "sample": 193,
+        "hit": 0,
+        "offset_ms": 4.020833333333333
+      },
+      "mid": {
+        "dbfs": -0.7075198992150824,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "side": {
+        "dbfs": -12.926387089518052,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_drive",
+      "case": "single_025",
+      "left": {
+        "dbfs": -4.291970577207117,
+        "sample": 22,
+        "hit": 0,
+        "offset_ms": 0.4583333333333333
+      },
+      "right": {
+        "dbfs": -4.588493175494495,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "mid": {
+        "dbfs": -4.794905460747813,
+        "sample": 48,
+        "hit": 0,
+        "offset_ms": 1.0
+      },
+      "side": {
+        "dbfs": -18.996325979541325,
+        "sample": 174,
+        "hit": 0,
+        "offset_ms": 3.625
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_drive",
+      "case": "roll_full",
+      "left": {
+        "dbfs": 0.13612532740622996,
+        "sample": 4862,
+        "hit": 2,
+        "offset_ms": 1.2916666666666667
+      },
+      "right": {
+        "dbfs": 0.07978576824028494,
+        "sample": 12093,
+        "hit": 5,
+        "offset_ms": 1.9375
+      },
+      "mid": {
+        "dbfs": -0.20001550674177793,
+        "sample": 14495,
+        "hit": 6,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -12.926387089518052,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_drive",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": 0.04634977411197738,
+        "sample": 15,
+        "hit": 0,
+        "offset_ms": 0.3125
+      },
+      "right": {
+        "dbfs": 0.05770639668851629,
+        "sample": 12093,
+        "hit": 5,
+        "offset_ms": 1.9375
+      },
+      "mid": {
+        "dbfs": -0.23271604607644036,
+        "sample": 16895,
+        "hit": 7,
+        "offset_ms": 1.9791666666666667
+      },
+      "side": {
+        "dbfs": -12.926387089518052,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_click",
+      "case": "single_1",
+      "left": {
+        "dbfs": -2.01438937229668,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.669477089945552,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -3.240875437081833,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -15.895007400927078,
+        "sample": 224,
+        "hit": 0,
+        "offset_ms": 4.666666666666667
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_click",
+      "case": "single_025",
+      "left": {
+        "dbfs": -1.4675686025995383,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -3.825558675419302,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.566791630623456,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -15.835916161959148,
+        "sample": 224,
+        "hit": 0,
+        "offset_ms": 4.666666666666667
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_click",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.4799837770018165,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "right": {
+        "dbfs": -4.2572556490075115,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "mid": {
+        "dbfs": -2.7580869386253504,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "side": {
+        "dbfs": -14.692253292731543,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_click",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.267936516767115,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "right": {
+        "dbfs": -3.934684694028647,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "mid": {
+        "dbfs": -2.4993666868160744,
+        "sample": 2487,
+        "hit": 1,
+        "offset_ms": 1.8125
+      },
+      "side": {
+        "dbfs": -14.75367190152113,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -14.10505581375969,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -0.8377550110144085,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -3.5281757102241222,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.0792107162943907,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -15.337392957838972,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -12.60446960094216,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.3219736778541389,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "right": {
+        "dbfs": -4.3041589580695785,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "mid": {
+        "dbfs": -2.685703318282563,
+        "sample": 81,
+        "hit": 0,
+        "offset_ms": 1.6875
+      },
+      "side": {
+        "dbfs": -12.611875139320937,
+        "sample": 2454,
+        "hit": 1,
+        "offset_ms": 1.125
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "bare_body",
+      "case": "single_1",
+      "left": {
+        "dbfs": -2.1750374445070797,
+        "sample": 269,
+        "hit": 0,
+        "offset_ms": 5.604166666666667
+      },
+      "right": {
+        "dbfs": -2.1750374445070797,
+        "sample": 269,
+        "hit": 0,
+        "offset_ms": 5.604166666666667
+      },
+      "mid": {
+        "dbfs": -2.1750374445070797,
+        "sample": 269,
+        "hit": 0,
+        "offset_ms": 5.604166666666667
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "bare_body",
+      "case": "single_025",
+      "left": {
+        "dbfs": -11.883628429846027,
+        "sample": 52,
+        "hit": 0,
+        "offset_ms": 1.0833333333333333
+      },
+      "right": {
+        "dbfs": -11.883628429846027,
+        "sample": 52,
+        "hit": 0,
+        "offset_ms": 1.0833333333333333
+      },
+      "mid": {
+        "dbfs": -11.883628429846027,
+        "sample": 52,
+        "hit": 0,
+        "offset_ms": 1.0833333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "bare_body",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -1.772678081736089,
+        "sample": 12094,
+        "hit": 5,
+        "offset_ms": 1.9583333333333333
+      },
+      "right": {
+        "dbfs": -1.772678081736089,
+        "sample": 12094,
+        "hit": 5,
+        "offset_ms": 1.9583333333333333
+      },
+      "mid": {
+        "dbfs": -1.772678081736089,
+        "sample": 12094,
+        "hit": 5,
+        "offset_ms": 1.9583333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "bare_body",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -1.853639523403654,
+        "sample": 14494,
+        "hit": 6,
+        "offset_ms": 1.9583333333333333
+      },
+      "right": {
+        "dbfs": -1.853639523403654,
+        "sample": 14494,
+        "hit": 6,
+        "offset_ms": 1.9583333333333333
+      },
+      "mid": {
+        "dbfs": -1.853639523403654,
+        "sample": 14494,
+        "hit": 6,
+        "offset_ms": 1.9583333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_mono",
+      "case": "single_1",
+      "left": {
+        "dbfs": -4.440795868454124,
+        "sample": 7285,
+        "hit": 0,
+        "offset_ms": 151.77083333333334
+      },
+      "right": {
+        "dbfs": -4.440795868454124,
+        "sample": 7285,
+        "hit": 0,
+        "offset_ms": 151.77083333333334
+      },
+      "mid": {
+        "dbfs": -4.440795868454124,
+        "sample": 7285,
+        "hit": 0,
+        "offset_ms": 151.77083333333334
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_mono",
+      "case": "single_025",
+      "left": {
+        "dbfs": -4.450652149635513,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "right": {
+        "dbfs": -4.450652149635513,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "mid": {
+        "dbfs": -4.450652149635513,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_mono",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.853618761362938,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.853618761362938,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "mid": {
+        "dbfs": -3.853618761362938,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_mono",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -3.6629972183930875,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.6629972183930875,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "mid": {
+        "dbfs": -3.6629972183930875,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -276.0,
+        "sample": 0,
+        "hit": 0,
+        "offset_ms": 0.0
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_1",
+      "left": {
+        "dbfs": -3.669751131487601,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "right": {
+        "dbfs": -3.1607369938676797,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -5.21553387980677,
+        "sample": 7272,
+        "hit": 0,
+        "offset_ms": 151.5
+      },
+      "side": {
+        "dbfs": -13.954533785319803,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_no_body_scoop",
+      "case": "single_025",
+      "left": {
+        "dbfs": -2.697842804810776,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "right": {
+        "dbfs": -4.249147654401547,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      },
+      "mid": {
+        "dbfs": -4.4506519356191205,
+        "sample": 129,
+        "hit": 0,
+        "offset_ms": 2.6875
+      },
+      "side": {
+        "dbfs": -14.545446608659091,
+        "sample": 191,
+        "hit": 0,
+        "offset_ms": 3.9791666666666665
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_full",
+      "left": {
+        "dbfs": -3.2191677890173445,
+        "sample": 4888,
+        "hit": 2,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.1607369938676797,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -4.03013450768303,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -13.954533785319803,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "variant": "no_character_no_body_scoop",
+      "case": "roll_accent",
+      "left": {
+        "dbfs": -3.060967886334435,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "right": {
+        "dbfs": -3.1607369938676797,
+        "sample": 1090,
+        "hit": 0,
+        "offset_ms": 22.708333333333332
+      },
+      "mid": {
+        "dbfs": -3.835642194320272,
+        "sample": 7288,
+        "hit": 3,
+        "offset_ms": 1.8333333333333333
+      },
+      "side": {
+        "dbfs": -13.954533785319803,
+        "sample": 225,
+        "hit": 0,
+        "offset_ms": 4.6875
+      }
+    }
+  ]
+}

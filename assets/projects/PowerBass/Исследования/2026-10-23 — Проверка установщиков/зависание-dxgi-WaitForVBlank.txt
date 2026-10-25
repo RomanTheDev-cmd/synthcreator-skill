@@ -1,0 +1,3 @@
+88471 016c:trace:dxgi:dxgi_output_WaitForVBlank iface 0000000001FE4F90 stub!
+88217 0174:trace:dxgi:dxgi_output_WaitForVBlank iface 0000000002D51A40 stub!
+   1 016c:fixme:dxgi:dxgi_output_WaitForVBlank iface 0000000001FE4F90 stub!

@@ -1,0 +1,29 @@
+{
+  "utc": "2026-10-22T10:51:49.346215+00:00",
+  "binaries": [
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component/Contents/MacOS/PowerKick",
+      "size": 10174112,
+      "mtime_ns": 1792665609000000000,
+      "sha256": "09e61fd0e5b2568e8d84adfb2a4f47d1e2211477810b037bce66f25c1765e569"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3/Contents/MacOS/PowerKick",
+      "size": 10249280,
+      "mtime_ns": 1792665609000000000,
+      "sha256": "fa3561fa1d6e1bf120c9ba2dd53d5e340c96ea8cd90f690befb0a4dfaffa1dd2"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component/Contents/MacOS/PowerBass",
+      "size": 9624592,
+      "mtime_ns": 1792660997000000000,
+      "sha256": "4747c0e8b9b66df04e968f97f6b4433c8e0ffbb50ca571bfc93925c7ef78b932"
+    },
+    {
+      "path": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3/Contents/MacOS/PowerBass",
+      "size": 9683008,
+      "mtime_ns": 1792660997000000000,
+      "sha256": "a4444c62d7933f5d5e3c83e3bb01385a0a5ecf249543cfe29b1635d5abf57953"
+    }
+  ]
+}

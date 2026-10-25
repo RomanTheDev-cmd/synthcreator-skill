@@ -1,0 +1,36 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-focused.cpp:2:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginProcessor.h:6:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-focused.cpp:2:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:340:41: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  340 |     expect (after.at (pk::id::charMode) == before.at (pk::id::charMode), "VARIATION keeps the CHARACTER mode");
+      |             ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:377:5: warning: no previous prototype for function 'snapshot' [-Wmissing-prototypes]
+  377 | int snapshot (const juce::File& dir)
+      |     ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:377:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+  377 | int snapshot (const juce::File& dir)
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:403:5: warning: no previous prototype for function 'wrapper_full_main' [-Wmissing-prototypes]
+  403 | int main (int argc, char** argv)
+      |     ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-focused.cpp:1:14: note: expanded from macro 'main'
+    1 | #define main wrapper_full_main
+      |              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/WrapperTests.cpp:403:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+  403 | int main (int argc, char** argv)
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-focused.cpp:14:6: warning: no previous prototype for function 'heapLogger' [-Wmissing-prototypes]
+   14 | void heapLogger(uint32_t type, uintptr_t, uintptr_t, uintptr_t, uintptr_t, uint32_t) {
+      |      ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/heap-focused.cpp:14:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+   14 | void heapLogger(uint32_t type, uintptr_t, uintptr_t, uintptr_t, uintptr_t, uint32_t) {
+      | ^
+      | static 
+5 warnings generated.

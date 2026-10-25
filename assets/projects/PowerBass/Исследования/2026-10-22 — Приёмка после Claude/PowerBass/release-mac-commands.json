@@ -1,0 +1,42 @@
+[
+  {
+    "name": "configure",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+      "-S",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass",
+      "-B",
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal",
+      "-DPOWERBASS_COPY_AFTER_BUILD=OFF"
+    ],
+    "returncode": 0,
+    "seconds": 1.7834604999952717
+  },
+  {
+    "name": "build",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+      "--build",
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal",
+      "-j2"
+    ],
+    "returncode": 0,
+    "seconds": 156.4009180419962
+  },
+  {
+    "name": "dsp",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal/powerbass_tests_artefacts/Release/powerbass_tests"
+    ],
+    "returncode": 0,
+    "seconds": 147.50254679199134
+  },
+  {
+    "name": "wrapper",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal/powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests"
+    ],
+    "returncode": 0,
+    "seconds": 1.25523150000663
+  }
+]

@@ -1,0 +1,3 @@
+FAIL: malloc/realloc callback: 4096-sample mono blocks allocate zero times, prepared 32, got 4
+FAIL: malloc/realloc callback: 4096-sample mono blocks allocate zero times, prepared 512, got 4
+FAILED 7/9 checks

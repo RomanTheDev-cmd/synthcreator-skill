@@ -1,0 +1,15 @@
+{
+  "command": [
+    "/usr/bin/auval",
+    "-v",
+    "aumu",
+    "Pwbs",
+    "Mddy",
+    "-strict",
+    "-stress",
+    "20"
+  ],
+  "start_utc": "2026-10-22T10:49:52.221300+00:00",
+  "end_utc": "2026-10-22T10:49:52.904359+00:00",
+  "exit_code": 0
+}

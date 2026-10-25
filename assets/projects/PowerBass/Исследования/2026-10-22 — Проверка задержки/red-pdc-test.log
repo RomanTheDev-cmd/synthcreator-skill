@@ -1,0 +1,10 @@
+FAIL: PDC available before first audio at 44100 / OS 0 (before 0, after 4)
+FAIL: PDC available before first audio at 44100 / OS 1 (before 0, after 6)
+FAIL: PDC available before first audio at 44100 / OS 2 (before 0, after 6)
+FAIL: PDC available before first audio at 48000 / OS 0 (before 0, after 4)
+FAIL: PDC available before first audio at 48000 / OS 1 (before 0, after 6)
+FAIL: PDC available before first audio at 48000 / OS 2 (before 0, after 6)
+FAIL: PDC available before first audio at 96000 / OS 0 (before 0, after 4)
+FAIL: PDC available before first audio at 96000 / OS 1 (before 0, after 6)
+FAIL: PDC available before first audio at 96000 / OS 2 (before 0, after 6)
+FAILED 46/55 wrapper checks

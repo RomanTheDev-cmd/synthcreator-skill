@@ -1,0 +1,13 @@
+{
+  "Source/Params.h": "65e17c9a95e323c99dcd87458321514c7892aeb1a3bb1b0b6d232bfc9058725e",
+  "Source/PluginEditor.h": "42a26902cf31922efe2e8e62250866f050615310e9b96724bd370781d01bd3c1",
+  "Source/Presets.h": "714595918edd564f249fb8defc353dd1994c58204f5f8e3bfd296b32ff041072",
+  "Source/PluginProcessor.h": "aa39cfbc7330dd6b9272bd9d820e81a81210a0547b6531d759ba67d56b1f141e",
+  "Source/FactoryPresets.inc": "65eb66c3f21f27395dcfbb85655025ff4d320c6e31fda24d5d6c4d44263a138c",
+  "Source/Presets.cpp": "949077dc6133cfc76f9e4303a3d6aaf8503ed0930d3679d779339319eeba0fd5",
+  "Source/PluginProcessor.cpp": "c99f17281b19e791971a3a8181e77b06acb1ec4fee6e5aaec95b91bfb68d4cde",
+  "Source/PluginEditor.cpp": "6e5855b4de4a5635054606357c805c7b6a92ed356d7e650168149d9a25011546",
+  "Source/Params.cpp": "45011c325a2fb6f0e96852d9802569965fbc14ce2a1012a352967d97e3aa2b8a",
+  "Source/DSP/BassEngine.h": "e5c9818f0849e335a3b63cbed54e6f53b89800267961fd22994b72801301ef77",
+  "Source/DSP/Filters.h": "333eede9c6315fb583136fa0b3aa43cf454f0e958c14a2a72d7d0a230902f227"
+}

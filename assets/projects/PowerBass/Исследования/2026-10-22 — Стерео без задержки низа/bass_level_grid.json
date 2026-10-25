@@ -1,0 +1,1502 @@
+[
+ {
+  "preset": "Reese Core",
+  "old_peak_dbfs": -1.0004701614379883,
+  "new_peak_dbfs": -4.438305854797363
+ },
+ {
+  "preset": "Biting Reese 13",
+  "old_peak_dbfs": -1.0033302307128906,
+  "new_peak_dbfs": -2.9488906860351562
+ },
+ {
+  "preset": "Biting Reese 14",
+  "old_peak_dbfs": -1.004861831665039,
+  "new_peak_dbfs": -4.318330764770508
+ },
+ {
+  "preset": "Biting Reese 15",
+  "old_peak_dbfs": -1.0048656463623047,
+  "new_peak_dbfs": -4.007169723510742
+ },
+ {
+  "preset": "Biting Reese 16",
+  "old_peak_dbfs": -0.9964513778686523,
+  "new_peak_dbfs": -3.7211008071899414
+ },
+ {
+  "preset": "Biting Reese 17",
+  "old_peak_dbfs": -1.004714012145996,
+  "new_peak_dbfs": -4.364228248596191
+ },
+ {
+  "preset": "Biting Reese 18",
+  "old_peak_dbfs": -0.9970340728759766,
+  "new_peak_dbfs": -5.208368301391602
+ },
+ {
+  "preset": "Crushed Reese 02",
+  "old_peak_dbfs": -0.998723030090332,
+  "new_peak_dbfs": -4.205521583557129
+ },
+ {
+  "preset": "Crushed Reese 03",
+  "old_peak_dbfs": -1.0028419494628906,
+  "new_peak_dbfs": -3.743846893310547
+ },
+ {
+  "preset": "Dark Reese 10",
+  "old_peak_dbfs": -1.0017757415771484,
+  "new_peak_dbfs": -4.038505554199219
+ },
+ {
+  "preset": "Dark Reese 11",
+  "old_peak_dbfs": -0.9985189437866211,
+  "new_peak_dbfs": -3.2329530715942383
+ },
+ {
+  "preset": "Dark Reese 12",
+  "old_peak_dbfs": -1.0039052963256836,
+  "new_peak_dbfs": -4.053072929382324
+ },
+ {
+  "preset": "Dark Reese 13",
+  "old_peak_dbfs": -0.997286319732666,
+  "new_peak_dbfs": -4.161840915679932
+ },
+ {
+  "preset": "Dark Reese 14",
+  "old_peak_dbfs": -1.0021476745605469,
+  "new_peak_dbfs": -5.1809234619140625
+ },
+ {
+  "preset": "Folded Reese 02",
+  "old_peak_dbfs": -0.9992055892944336,
+  "new_peak_dbfs": -3.8846845626831055
+ },
+ {
+  "preset": "Hard Reese 06",
+  "old_peak_dbfs": -1.0018644332885742,
+  "new_peak_dbfs": -5.337071418762207
+ },
+ {
+  "preset": "Heavy Reese 01",
+  "old_peak_dbfs": -0.9974365234375,
+  "new_peak_dbfs": -2.9481143951416016
+ },
+ {
+  "preset": "Heavy Reese 02",
+  "old_peak_dbfs": -1.004241943359375,
+  "new_peak_dbfs": -2.025175094604492
+ },
+ {
+  "preset": "Wrecked Reese 08",
+  "old_peak_dbfs": -1.004105567932129,
+  "new_peak_dbfs": -3.06496524810791
+ },
+ {
+  "preset": "Wrecked Reese 09",
+  "old_peak_dbfs": -0.9993858337402344,
+  "new_peak_dbfs": -3.661296844482422
+ },
+ {
+  "preset": "Wrecked Reese 10",
+  "old_peak_dbfs": -0.9961671829223633,
+  "new_peak_dbfs": -4.959160804748535
+ },
+ {
+  "preset": "Biting FM 03",
+  "old_peak_dbfs": -0.9978723526000977,
+  "new_peak_dbfs": -3.767819404602051
+ },
+ {
+  "preset": "Dark FM 04",
+  "old_peak_dbfs": -0.997948169708252,
+  "new_peak_dbfs": -1.102684497833252
+ },
+ {
+  "preset": "Dark FM 05",
+  "old_peak_dbfs": -0.999110221862793,
+  "new_peak_dbfs": -4.745810508728027
+ },
+ {
+  "preset": "Dark FM 06",
+  "old_peak_dbfs": -1.0046930313110352,
+  "new_peak_dbfs": -1.6880426406860352
+ },
+ {
+  "preset": "Dark FM 07",
+  "old_peak_dbfs": -0.9985027313232422,
+  "new_peak_dbfs": -5.270038604736328
+ },
+ {
+  "preset": "Dark FM 08",
+  "old_peak_dbfs": -0.9989581108093262,
+  "new_peak_dbfs": -1.116462230682373
+ },
+ {
+  "preset": "Hard FM 03",
+  "old_peak_dbfs": -1.0017471313476562,
+  "new_peak_dbfs": -4.084295272827148
+ },
+ {
+  "preset": "Heavy FM 01",
+  "old_peak_dbfs": -0.9984235763549805,
+  "new_peak_dbfs": -4.102747917175293
+ },
+ {
+  "preset": "Cellar Line",
+  "old_peak_dbfs": -1.0042486190795898,
+  "new_peak_dbfs": -4.152993202209473
+ },
+ {
+  "preset": "Dark Pulse",
+  "old_peak_dbfs": -0.996241569519043,
+  "new_peak_dbfs": -1.8083410263061523
+ },
+ {
+  "preset": "Evil Reese",
+  "old_peak_dbfs": -1.000070571899414,
+  "new_peak_dbfs": -3.078817367553711
+ },
+ {
+  "preset": "Night Bass",
+  "old_peak_dbfs": -1.0005435943603516,
+  "new_peak_dbfs": -2.8106937408447266
+ },
+ {
+  "preset": "Biting Line 01",
+  "old_peak_dbfs": -0.9978828430175781,
+  "new_peak_dbfs": -3.1269073486328125
+ },
+ {
+  "preset": "Biting Line 02",
+  "old_peak_dbfs": -1.0032033920288086,
+  "new_peak_dbfs": -4.271788597106934
+ },
+ {
+  "preset": "Biting Line 03",
+  "old_peak_dbfs": -1.004190444946289,
+  "new_peak_dbfs": -5.689935684204102
+ },
+ {
+  "preset": "Biting Line 04",
+  "old_peak_dbfs": -0.9953842163085938,
+  "new_peak_dbfs": -4.65667724609375
+ },
+ {
+  "preset": "Biting Line 05",
+  "old_peak_dbfs": -0.9973049163818359,
+  "new_peak_dbfs": -4.527681350708008
+ },
+ {
+  "preset": "Dark Line 01",
+  "old_peak_dbfs": -0.995119571685791,
+  "new_peak_dbfs": -2.074965000152588
+ },
+ {
+  "preset": "Dark Line 02",
+  "old_peak_dbfs": -1.0019359588623047,
+  "new_peak_dbfs": -4.370964050292969
+ },
+ {
+  "preset": "Dark Line 03",
+  "old_peak_dbfs": -1.0031547546386719,
+  "new_peak_dbfs": -4.057769775390625
+ },
+ {
+  "preset": "Dark Line 04",
+  "old_peak_dbfs": -1.0045948028564453,
+  "new_peak_dbfs": -4.793218612670898
+ },
+ {
+  "preset": "Dark Line 05",
+  "old_peak_dbfs": -1.0043449401855469,
+  "new_peak_dbfs": -4.162391662597656
+ },
+ {
+  "preset": "Dark Line 06",
+  "old_peak_dbfs": -0.9968552589416504,
+  "new_peak_dbfs": -1.3112473487854004
+ },
+ {
+  "preset": "Dark Line 07",
+  "old_peak_dbfs": -1.002267837524414,
+  "new_peak_dbfs": -4.535802841186523
+ },
+ {
+  "preset": "Dark Line 08",
+  "old_peak_dbfs": -0.9954986572265625,
+  "new_peak_dbfs": -3.9198074340820312
+ },
+ {
+  "preset": "Dark Line 09",
+  "old_peak_dbfs": -0.9953022003173828,
+  "new_peak_dbfs": -3.734922409057617
+ },
+ {
+  "preset": "Dark Line 10",
+  "old_peak_dbfs": -0.9982423782348633,
+  "new_peak_dbfs": -4.410429954528809
+ },
+ {
+  "preset": "Dark Line 11",
+  "old_peak_dbfs": -1.0012798309326172,
+  "new_peak_dbfs": -4.295236587524414
+ },
+ {
+  "preset": "Dark Line 12",
+  "old_peak_dbfs": -1.0035266876220703,
+  "new_peak_dbfs": -1.1279926300048828
+ },
+ {
+  "preset": "Dark Line 13",
+  "old_peak_dbfs": -1.0014314651489258,
+  "new_peak_dbfs": -4.0535173416137695
+ },
+ {
+  "preset": "Folded Line 01",
+  "old_peak_dbfs": -0.9986991882324219,
+  "new_peak_dbfs": -2.1066131591796875
+ },
+ {
+  "preset": "Folded Line 02",
+  "old_peak_dbfs": -0.996124267578125,
+  "new_peak_dbfs": -1.8796768188476562
+ },
+ {
+  "preset": "Hard Line 01",
+  "old_peak_dbfs": -1.0031614303588867,
+  "new_peak_dbfs": -5.361525535583496
+ },
+ {
+  "preset": "Wrecked Line 01",
+  "old_peak_dbfs": -0.9982891082763672,
+  "new_peak_dbfs": -5.080991744995117
+ },
+ {
+  "preset": "Wrecked Line 02",
+  "old_peak_dbfs": -1.0024194717407227,
+  "new_peak_dbfs": -3.569880485534668
+ },
+ {
+  "preset": "Wrecked Line 03",
+  "old_peak_dbfs": -0.9963464736938477,
+  "new_peak_dbfs": -4.148964881896973
+ },
+ {
+  "preset": "Wrecked Line 04",
+  "old_peak_dbfs": -0.9962034225463867,
+  "new_peak_dbfs": -4.292349815368652
+ },
+ {
+  "preset": "Wrecked Line 05",
+  "old_peak_dbfs": -0.9964618682861328,
+  "new_peak_dbfs": -4.387203216552734
+ },
+ {
+  "preset": "Wrecked Line 06",
+  "old_peak_dbfs": -0.9972324371337891,
+  "new_peak_dbfs": -4.897163391113281
+ },
+ {
+  "preset": "Deep Rumble",
+  "old_peak_dbfs": -0.9958763122558594,
+  "new_peak_dbfs": -1.1714916229248047
+ },
+ {
+  "preset": "Biting Reese 19",
+  "old_peak_dbfs": -1.0046024322509766,
+  "new_peak_dbfs": -0.9822845458984375
+ },
+ {
+  "preset": "Crushed Reese 04",
+  "old_peak_dbfs": -0.9970693588256836,
+  "new_peak_dbfs": -0.9510831832885742
+ },
+ {
+  "preset": "Crushed Reese 05",
+  "old_peak_dbfs": -1.0045976638793945,
+  "new_peak_dbfs": -0.7026453018188477
+ },
+ {
+  "preset": "Crushed Reese 06",
+  "old_peak_dbfs": -0.9972052574157715,
+  "new_peak_dbfs": -0.4186110496520996
+ },
+ {
+  "preset": "Crushed Reese 07",
+  "old_peak_dbfs": -1.0023307800292969,
+  "new_peak_dbfs": 0.00295257568359375
+ },
+ {
+  "preset": "Dark Reese 15",
+  "old_peak_dbfs": -0.9952096939086914,
+  "new_peak_dbfs": -1.088669776916504
+ },
+ {
+  "preset": "Dark Reese 16",
+  "old_peak_dbfs": -1.0043179988861084,
+  "new_peak_dbfs": -0.9864422678947449
+ },
+ {
+  "preset": "Hard Reese 07",
+  "old_peak_dbfs": -1.0000038146972656,
+  "new_peak_dbfs": -1.1375885009765625
+ },
+ {
+  "preset": "Hard Reese 08",
+  "old_peak_dbfs": -1.0017967224121094,
+  "new_peak_dbfs": -0.9509925842285156
+ },
+ {
+  "preset": "Hard Reese 09",
+  "old_peak_dbfs": -0.9960138201713562,
+  "new_peak_dbfs": -1.0505335330963135
+ },
+ {
+  "preset": "Hard Reese 10",
+  "old_peak_dbfs": -0.9961972236633301,
+  "new_peak_dbfs": -1.0574193000793457
+ },
+ {
+  "preset": "Schranz Rumble",
+  "old_peak_dbfs": -0.9962940216064453,
+  "new_peak_dbfs": -0.4586048126220703
+ },
+ {
+  "preset": "Biting Rumble 01",
+  "old_peak_dbfs": -0.9979020357131958,
+  "new_peak_dbfs": -0.9856454133987427
+ },
+ {
+  "preset": "Folded Rumble 03",
+  "old_peak_dbfs": -0.9957083463668823,
+  "new_peak_dbfs": -1.1141127347946167
+ },
+ {
+  "preset": "Hard Rumble 04",
+  "old_peak_dbfs": -0.9982773065567017,
+  "new_peak_dbfs": -0.5278946161270142
+ },
+ {
+  "preset": "Wrecked Rumble 01",
+  "old_peak_dbfs": -1.0018190145492554,
+  "new_peak_dbfs": -1.023948073387146
+ },
+ {
+  "preset": "Rumble 155",
+  "old_peak_dbfs": -0.9992876052856445,
+  "new_peak_dbfs": -3.0456018447875977
+ },
+ {
+  "preset": "Rumble Core",
+  "old_peak_dbfs": -0.9976290464401245,
+  "new_peak_dbfs": -0.9974993467330933
+ },
+ {
+  "preset": "Rumble Tail",
+  "old_peak_dbfs": -0.9969315528869629,
+  "new_peak_dbfs": -0.7694153785705566
+ },
+ {
+  "preset": "Crushed Rumble 01",
+  "old_peak_dbfs": -0.9974784851074219,
+  "new_peak_dbfs": -0.9935340881347656
+ },
+ {
+  "preset": "Crushed Rumble 02",
+  "old_peak_dbfs": -0.999443769454956,
+  "new_peak_dbfs": -0.8493239879608154
+ },
+ {
+  "preset": "Crushed Rumble 03",
+  "old_peak_dbfs": -1.0014400482177734,
+  "new_peak_dbfs": -1.1553516387939453
+ },
+ {
+  "preset": "Dark Rumble 01",
+  "old_peak_dbfs": -1.0026893615722656,
+  "new_peak_dbfs": -0.9050445556640625
+ },
+ {
+  "preset": "Dark Rumble 02",
+  "old_peak_dbfs": -1.0003433227539062,
+  "new_peak_dbfs": -0.9634799957275391
+ },
+ {
+  "preset": "Dark Rumble 03",
+  "old_peak_dbfs": -1.0006217956542969,
+  "new_peak_dbfs": -0.7542552947998047
+ },
+ {
+  "preset": "Dark Rumble 04",
+  "old_peak_dbfs": -1.0039348602294922,
+  "new_peak_dbfs": -0.9595832824707031
+ },
+ {
+  "preset": "Dark Rumble 05",
+  "old_peak_dbfs": -1.000326156616211,
+  "new_peak_dbfs": -0.7939281463623047
+ },
+ {
+  "preset": "Dark Rumble 06",
+  "old_peak_dbfs": -0.9950132369995117,
+  "new_peak_dbfs": -0.9942502975463867
+ },
+ {
+  "preset": "Dark Rumble 07",
+  "old_peak_dbfs": -1.000547170639038,
+  "new_peak_dbfs": -0.5836923122406006
+ },
+ {
+  "preset": "Dark Rumble 08",
+  "old_peak_dbfs": -1.001847743988037,
+  "new_peak_dbfs": -0.9104743003845215
+ },
+ {
+  "preset": "Dark Rumble 09",
+  "old_peak_dbfs": -1.002415657043457,
+  "new_peak_dbfs": -0.996434211730957
+ },
+ {
+  "preset": "Dark Rumble 10",
+  "old_peak_dbfs": -1.004629135131836,
+  "new_peak_dbfs": -0.8382301330566406
+ },
+ {
+  "preset": "Dark Rumble 11",
+  "old_peak_dbfs": -0.9955135583877563,
+  "new_peak_dbfs": -0.7025982141494751
+ },
+ {
+  "preset": "Folded Rumble 01",
+  "old_peak_dbfs": -1.0006630420684814,
+  "new_peak_dbfs": -0.7533791065216064
+ },
+ {
+  "preset": "Folded Rumble 02",
+  "old_peak_dbfs": -1.001624584197998,
+  "new_peak_dbfs": -1.1144442558288574
+ },
+ {
+  "preset": "Hard Rumble 01",
+  "old_peak_dbfs": -0.9974367618560791,
+  "new_peak_dbfs": -0.830028772354126
+ },
+ {
+  "preset": "Hard Rumble 02",
+  "old_peak_dbfs": -0.9982447624206543,
+  "new_peak_dbfs": -1.237555980682373
+ },
+ {
+  "preset": "Hard Rumble 03",
+  "old_peak_dbfs": -0.9999032616615295,
+  "new_peak_dbfs": -1.0544724464416504
+ },
+ {
+  "preset": "Hard Rumble 05",
+  "old_peak_dbfs": -1.002723217010498,
+  "new_peak_dbfs": -0.7397570610046387
+ },
+ {
+  "preset": "Hard Rumble 06",
+  "old_peak_dbfs": -0.9962940216064453,
+  "new_peak_dbfs": -0.9914112091064453
+ },
+ {
+  "preset": "Hard Rumble 07",
+  "old_peak_dbfs": -1.0024304389953613,
+  "new_peak_dbfs": -1.4524006843566895
+ },
+ {
+  "preset": "Hard Rumble 08",
+  "old_peak_dbfs": -1.0028352737426758,
+  "new_peak_dbfs": -0.9510239958763123
+ },
+ {
+  "preset": "Hard Rumble 09",
+  "old_peak_dbfs": -1.004406452178955,
+  "new_peak_dbfs": -0.7518200874328613
+ },
+ {
+  "preset": "Hard Rumble 10",
+  "old_peak_dbfs": -1.0035207271575928,
+  "new_peak_dbfs": -0.9641606211662292
+ },
+ {
+  "preset": "Hard Rumble 11",
+  "old_peak_dbfs": -1.0033104419708252,
+  "new_peak_dbfs": -0.883673906326294
+ },
+ {
+  "preset": "Hard Rumble 12",
+  "old_peak_dbfs": -1.0023012161254883,
+  "new_peak_dbfs": -0.7518472075462341
+ },
+ {
+  "preset": "Hard Rumble 13",
+  "old_peak_dbfs": -1.0033204555511475,
+  "new_peak_dbfs": -1.149118185043335
+ },
+ {
+  "preset": "Heavy Rumble 01",
+  "old_peak_dbfs": -1.0044431686401367,
+  "new_peak_dbfs": -1.0655450820922852
+ },
+ {
+  "preset": "Heavy Rumble 02",
+  "old_peak_dbfs": -1.0025434494018555,
+  "new_peak_dbfs": -0.9697141647338867
+ },
+ {
+  "preset": "Heavy Rumble 03",
+  "old_peak_dbfs": -1.0025882720947266,
+  "new_peak_dbfs": -0.7035007476806641
+ },
+ {
+  "preset": "Warm Rumble 01",
+  "old_peak_dbfs": -0.9978816509246826,
+  "new_peak_dbfs": -1.0167453289031982
+ },
+ {
+  "preset": "Warm Rumble 02",
+  "old_peak_dbfs": -1.001584529876709,
+  "new_peak_dbfs": -0.10680532455444336
+ },
+ {
+  "preset": "Wrecked Rumble 02",
+  "old_peak_dbfs": -1.0023458003997803,
+  "new_peak_dbfs": -0.9890706539154053
+ },
+ {
+  "preset": "Wrecked Rumble 03",
+  "old_peak_dbfs": -0.9978623390197754,
+  "new_peak_dbfs": -1.055250644683838
+ },
+ {
+  "preset": "Saw Pressure",
+  "old_peak_dbfs": -0.9992580413818359,
+  "new_peak_dbfs": -4.82379150390625
+ },
+ {
+  "preset": "Dark Reese 22",
+  "old_peak_dbfs": -0.9998369216918945,
+  "new_peak_dbfs": -4.989340782165527
+ },
+ {
+  "preset": "Saw Grit",
+  "old_peak_dbfs": -0.9978628158569336,
+  "new_peak_dbfs": -4.435667991638184
+ },
+ {
+  "preset": "Heavy FM 04",
+  "old_peak_dbfs": -1.0025100708007812,
+  "new_peak_dbfs": -3.8134937286376953
+ },
+ {
+  "preset": "Saw Driver",
+  "old_peak_dbfs": -0.9992876052856445,
+  "new_peak_dbfs": -3.9467248916625977
+ },
+ {
+  "preset": "Saw Hammer",
+  "old_peak_dbfs": -0.9955158233642578,
+  "new_peak_dbfs": -4.920660018920898
+ },
+ {
+  "preset": "Schranz Saw",
+  "old_peak_dbfs": -1.0034866333007812,
+  "new_peak_dbfs": -0.9396648406982422
+ },
+ {
+  "preset": "Biting Saw 01",
+  "old_peak_dbfs": -1.0005006790161133,
+  "new_peak_dbfs": -4.944878578186035
+ },
+ {
+  "preset": "Dark Saw 01",
+  "old_peak_dbfs": -0.9963035583496094,
+  "new_peak_dbfs": -3.3234996795654297
+ },
+ {
+  "preset": "Dark Saw 02",
+  "old_peak_dbfs": -0.9971952438354492,
+  "new_peak_dbfs": -4.050950050354004
+ },
+ {
+  "preset": "Dark Saw 03",
+  "old_peak_dbfs": -1.0021018981933594,
+  "new_peak_dbfs": -2.4440441131591797
+ },
+ {
+  "preset": "Wrecked Saw 01",
+  "old_peak_dbfs": -0.9979209899902344,
+  "new_peak_dbfs": -5.161725997924805
+ },
+ {
+  "preset": "Acid FM Line",
+  "old_peak_dbfs": -0.9999198913574219,
+  "new_peak_dbfs": -3.93072509765625
+ },
+ {
+  "preset": "Distorted FM",
+  "old_peak_dbfs": -0.9954681396484375,
+  "new_peak_dbfs": -1.7391319274902344
+ },
+ {
+  "preset": "FM Arp Bass",
+  "old_peak_dbfs": -0.9971761703491211,
+  "new_peak_dbfs": -3.042239189147949
+ },
+ {
+  "preset": "Biting Reese 21",
+  "old_peak_dbfs": -1.0012407302856445,
+  "new_peak_dbfs": -4.493573188781738
+ },
+ {
+  "preset": "Folded Reese 03",
+  "old_peak_dbfs": -0.9969244003295898,
+  "new_peak_dbfs": -1.2996206283569336
+ },
+ {
+  "preset": "Devastation FM",
+  "old_peak_dbfs": -1.0045099258422852,
+  "new_peak_dbfs": -1.9701242446899414
+ },
+ {
+  "preset": "Quarter Hammer",
+  "old_peak_dbfs": -0.9963645935058594,
+  "new_peak_dbfs": -4.137468338012695
+ },
+ {
+  "preset": "Dark Grind 01",
+  "old_peak_dbfs": -0.9972348213195801,
+  "new_peak_dbfs": -1.0349507331848145
+ },
+ {
+  "preset": "Hard Grind 01",
+  "old_peak_dbfs": -0.9990925788879395,
+  "new_peak_dbfs": -2.1833996772766113
+ },
+ {
+  "preset": "Warm Grind 01",
+  "old_peak_dbfs": -1.0019471645355225,
+  "new_peak_dbfs": -0.48320555686950684
+ },
+ {
+  "preset": "Chrome Wobble",
+  "old_peak_dbfs": -0.9970989227294922,
+  "new_peak_dbfs": -1.617380142211914
+ },
+ {
+  "preset": "Dark Reese 23",
+  "old_peak_dbfs": -1.0001611709594727,
+  "new_peak_dbfs": -2.3275575637817383
+ },
+ {
+  "preset": "Metal Wobble",
+  "old_peak_dbfs": -0.9980344772338867,
+  "new_peak_dbfs": -3.0757455825805664
+ },
+ {
+  "preset": "Alloy Wobble",
+  "old_peak_dbfs": -0.9988250732421875,
+  "new_peak_dbfs": -2.380756378173828
+ },
+ {
+  "preset": "Iron Swing",
+  "old_peak_dbfs": -0.996485710144043,
+  "new_peak_dbfs": -2.8703508377075195
+ },
+ {
+  "preset": "Steel Wobble",
+  "old_peak_dbfs": -1.0046043395996094,
+  "new_peak_dbfs": -1.6796379089355469
+ },
+ {
+  "preset": "Biting Metal 01",
+  "old_peak_dbfs": -1.0048751831054688,
+  "new_peak_dbfs": -0.9484615325927734
+ },
+ {
+  "preset": "Dark Metal 01",
+  "old_peak_dbfs": -0.9952545166015625,
+  "new_peak_dbfs": -4.272603988647461
+ },
+ {
+  "preset": "Dark Metal 02",
+  "old_peak_dbfs": -1.001986026763916,
+  "new_peak_dbfs": -0.9237351417541504
+ },
+ {
+  "preset": "Dark Metal 03",
+  "old_peak_dbfs": -0.9955382347106934,
+  "new_peak_dbfs": -1.5879607200622559
+ },
+ {
+  "preset": "Dark Metal 04",
+  "old_peak_dbfs": -1.0025081634521484,
+  "new_peak_dbfs": -2.4114208221435547
+ },
+ {
+  "preset": "Dark Metal 05",
+  "old_peak_dbfs": -1.0029544830322266,
+  "new_peak_dbfs": -0.5474300384521484
+ },
+ {
+  "preset": "Raw Line",
+  "old_peak_dbfs": -1.0048933029174805,
+  "new_peak_dbfs": -0.26583194732666016
+ },
+ {
+  "preset": "Raw Pulse",
+  "old_peak_dbfs": -1.0019416809082031,
+  "new_peak_dbfs": -0.7905769348144531
+ },
+ {
+  "preset": "Raw Simple",
+  "old_peak_dbfs": -0.9964909553527832,
+  "new_peak_dbfs": -0.6563229560852051
+ },
+ {
+  "preset": "Raw Heavy",
+  "old_peak_dbfs": -1.0029298067092896,
+  "new_peak_dbfs": -0.9066430330276489
+ },
+ {
+  "preset": "Raw Round",
+  "old_peak_dbfs": -0.9990711212158203,
+  "new_peak_dbfs": -0.9493083953857422
+ },
+ {
+  "preset": "Dark Pulse 01",
+  "old_peak_dbfs": -0.998898983001709,
+  "new_peak_dbfs": -0.8141570091247559
+ },
+ {
+  "preset": "Dark Pulse 02",
+  "old_peak_dbfs": -1.0030345916748047,
+  "new_peak_dbfs": -0.6794910430908203
+ },
+ {
+  "preset": "Dark Pulse 03",
+  "old_peak_dbfs": -1.0001239776611328,
+  "new_peak_dbfs": -0.9726161956787109
+ },
+ {
+  "preset": "Dark Pulse 04",
+  "old_peak_dbfs": -0.998511552810669,
+  "new_peak_dbfs": -0.8962433338165283
+ },
+ {
+  "preset": "Dark Pulse 05",
+  "old_peak_dbfs": -1.0048446655273438,
+  "new_peak_dbfs": -0.774627685546875
+ },
+ {
+  "preset": "Dark Pulse 06",
+  "old_peak_dbfs": -0.9995346069335938,
+  "new_peak_dbfs": -0.8933849334716797
+ },
+ {
+  "preset": "Dark Pulse 07",
+  "old_peak_dbfs": -0.9990272521972656,
+  "new_peak_dbfs": -0.8468799591064453
+ },
+ {
+  "preset": "Dark Pulse 08",
+  "old_peak_dbfs": -0.9997482299804688,
+  "new_peak_dbfs": -0.9625377655029297
+ },
+ {
+  "preset": "Dark Pulse 09",
+  "old_peak_dbfs": -1.0001604557037354,
+  "new_peak_dbfs": -0.9407045841217041
+ },
+ {
+  "preset": "Dark Pulse 10",
+  "old_peak_dbfs": -0.9966220855712891,
+  "new_peak_dbfs": -0.9219150543212891
+ },
+ {
+  "preset": "Hard Pulse 01",
+  "old_peak_dbfs": -0.997826337814331,
+  "new_peak_dbfs": -0.6198928356170654
+ },
+ {
+  "preset": "Hard Pulse 02",
+  "old_peak_dbfs": -1.0004448890686035,
+  "new_peak_dbfs": -0.9721894264221191
+ },
+ {
+  "preset": "Hard Pulse 03",
+  "old_peak_dbfs": -1.0018141269683838,
+  "new_peak_dbfs": -0.88905930519104
+ },
+ {
+  "preset": "Hard Pulse 04",
+  "old_peak_dbfs": -0.9961600303649902,
+  "new_peak_dbfs": -1.019437313079834
+ },
+ {
+  "preset": "Hard Pulse 05",
+  "old_peak_dbfs": -0.997683048248291,
+  "new_peak_dbfs": -0.9145035743713379
+ },
+ {
+  "preset": "Pure Sub",
+  "old_peak_dbfs": -1.003835678100586,
+  "new_peak_dbfs": -0.9257297515869141
+ },
+ {
+  "preset": "Sub Pressure",
+  "old_peak_dbfs": -1.002410888671875,
+  "new_peak_dbfs": -1.3167457580566406
+ },
+ {
+  "preset": "Round Sub",
+  "old_peak_dbfs": -0.9990925788879395,
+  "new_peak_dbfs": -0.8936467170715332
+ },
+ {
+  "preset": "Deep Mass",
+  "old_peak_dbfs": -0.9958930015563965,
+  "new_peak_dbfs": -1.222012996673584
+ },
+ {
+  "preset": "Sub Knock",
+  "old_peak_dbfs": -1.0035133361816406,
+  "new_peak_dbfs": -2.291645050048828
+ },
+ {
+  "preset": "Acid Bite",
+  "old_peak_dbfs": -1.0004892349243164,
+  "new_peak_dbfs": -0.49231624603271484
+ },
+ {
+  "preset": "Acid Pulse",
+  "old_peak_dbfs": -0.9995098114013672,
+  "new_peak_dbfs": -1.9589824676513672
+ },
+ {
+  "preset": "Acid Roller",
+  "old_peak_dbfs": -1.0015249252319336,
+  "new_peak_dbfs": -6.15354061126709
+ },
+ {
+  "preset": "Acid Smear",
+  "old_peak_dbfs": -1.0024890899658203,
+  "new_peak_dbfs": -4.342790603637695
+ },
+ {
+  "preset": "Acid Steps",
+  "old_peak_dbfs": -0.9973001480102539,
+  "new_peak_dbfs": -2.9555749893188477
+ },
+ {
+  "preset": "Biting Reese 20",
+  "old_peak_dbfs": -0.9972081184387207,
+  "new_peak_dbfs": -3.5270657539367676
+ },
+ {
+  "preset": "Dark Reese 17",
+  "old_peak_dbfs": -0.9995555877685547,
+  "new_peak_dbfs": -3.205850601196289
+ },
+ {
+  "preset": "Dark Reese 18",
+  "old_peak_dbfs": -0.9976015090942383,
+  "new_peak_dbfs": -3.087418556213379
+ },
+ {
+  "preset": "Dark Reese 19",
+  "old_peak_dbfs": -0.9992313385009766,
+  "new_peak_dbfs": -3.164213180541992
+ },
+ {
+  "preset": "Heavy Reese 03",
+  "old_peak_dbfs": -0.9993791580200195,
+  "new_peak_dbfs": -5.084784507751465
+ },
+ {
+  "preset": "Heavy FM 02",
+  "old_peak_dbfs": -1.0027751922607422,
+  "new_peak_dbfs": -6.180891036987305
+ },
+ {
+  "preset": "Heavy FM 03",
+  "old_peak_dbfs": -0.9977235794067383,
+  "new_peak_dbfs": -3.144425392150879
+ },
+ {
+  "preset": "Folded Acid 01",
+  "old_peak_dbfs": -0.9981827735900879,
+  "new_peak_dbfs": -2.9595818519592285
+ },
+ {
+  "preset": "Locrian Run",
+  "old_peak_dbfs": -1.0027103424072266,
+  "new_peak_dbfs": -4.336009979248047
+ },
+ {
+  "preset": "Phrygian Run",
+  "old_peak_dbfs": -1.0000391006469727,
+  "new_peak_dbfs": -3.75075626373291
+ },
+ {
+  "preset": "Rolling Core",
+  "old_peak_dbfs": -1.0007925033569336,
+  "new_peak_dbfs": -2.430356025695801
+ },
+ {
+  "preset": "Biting Reese 01",
+  "old_peak_dbfs": -0.9989862442016602,
+  "new_peak_dbfs": -4.498997688293457
+ },
+ {
+  "preset": "Biting Reese 02",
+  "old_peak_dbfs": -0.9965734481811523,
+  "new_peak_dbfs": -2.524203300476074
+ },
+ {
+  "preset": "Biting Reese 03",
+  "old_peak_dbfs": -0.9983110427856445,
+  "new_peak_dbfs": -1.530156135559082
+ },
+ {
+  "preset": "Biting Reese 04",
+  "old_peak_dbfs": -0.9969024658203125,
+  "new_peak_dbfs": -0.5700168609619141
+ },
+ {
+  "preset": "Biting Reese 05",
+  "old_peak_dbfs": -1.0001153945922852,
+  "new_peak_dbfs": -4.270878791809082
+ },
+ {
+  "preset": "Biting Reese 06",
+  "old_peak_dbfs": -1.0035715103149414,
+  "new_peak_dbfs": -3.5624589920043945
+ },
+ {
+  "preset": "Biting Reese 07",
+  "old_peak_dbfs": -0.9991378784179688,
+  "new_peak_dbfs": -1.3952903747558594
+ },
+ {
+  "preset": "Biting Reese 08",
+  "old_peak_dbfs": -0.9983949661254883,
+  "new_peak_dbfs": -4.049324989318848
+ },
+ {
+  "preset": "Biting Reese 09",
+  "old_peak_dbfs": -0.9994525909423828,
+  "new_peak_dbfs": -2.4971485137939453
+ },
+ {
+  "preset": "Biting Reese 10",
+  "old_peak_dbfs": -1.0032219886779785,
+  "new_peak_dbfs": -0.7370095252990723
+ },
+ {
+  "preset": "Biting Reese 11",
+  "old_peak_dbfs": -1.0036897659301758,
+  "new_peak_dbfs": -3.8424768447875977
+ },
+ {
+  "preset": "Biting Reese 12",
+  "old_peak_dbfs": -1.0008478164672852,
+  "new_peak_dbfs": -4.627572059631348
+ },
+ {
+  "preset": "Crushed Reese 01",
+  "old_peak_dbfs": -0.9992666244506836,
+  "new_peak_dbfs": -2.789217948913574
+ },
+ {
+  "preset": "Dark Reese 01",
+  "old_peak_dbfs": -1.0031976699829102,
+  "new_peak_dbfs": -2.111344337463379
+ },
+ {
+  "preset": "Dark Reese 02",
+  "old_peak_dbfs": -1.0015220642089844,
+  "new_peak_dbfs": -1.0077018737792969
+ },
+ {
+  "preset": "Dark Reese 03",
+  "old_peak_dbfs": -0.9996118545532227,
+  "new_peak_dbfs": -4.1604719161987305
+ },
+ {
+  "preset": "Dark Reese 04",
+  "old_peak_dbfs": -0.99676513671875,
+  "new_peak_dbfs": -0.93426513671875
+ },
+ {
+  "preset": "Dark Reese 05",
+  "old_peak_dbfs": -1.0030694007873535,
+  "new_peak_dbfs": -1.9119553565979004
+ },
+ {
+  "preset": "Dark Reese 06",
+  "old_peak_dbfs": -1.0011367797851562,
+  "new_peak_dbfs": -3.9264259338378906
+ },
+ {
+  "preset": "Dark Reese 07",
+  "old_peak_dbfs": -0.9954566955566406,
+  "new_peak_dbfs": -2.5400962829589844
+ },
+ {
+  "preset": "Dark Reese 08",
+  "old_peak_dbfs": -1.0017309188842773,
+  "new_peak_dbfs": -5.077559471130371
+ },
+ {
+  "preset": "Dark Reese 09",
+  "old_peak_dbfs": -0.9975204467773438,
+  "new_peak_dbfs": -3.605640411376953
+ },
+ {
+  "preset": "Folded Reese 01",
+  "old_peak_dbfs": -1.004115104675293,
+  "new_peak_dbfs": -3.670119285583496
+ },
+ {
+  "preset": "Hard Reese 01",
+  "old_peak_dbfs": -1.0007171630859375,
+  "new_peak_dbfs": -3.7351417541503906
+ },
+ {
+  "preset": "Hard Reese 02",
+  "old_peak_dbfs": -1.0017518997192383,
+  "new_peak_dbfs": -2.2533140182495117
+ },
+ {
+  "preset": "Hard Reese 03",
+  "old_peak_dbfs": -1.0037813186645508,
+  "new_peak_dbfs": -1.955765724182129
+ },
+ {
+  "preset": "Hard Reese 04",
+  "old_peak_dbfs": -0.99822998046875,
+  "new_peak_dbfs": -5.654930114746094
+ },
+ {
+  "preset": "Hard Reese 05",
+  "old_peak_dbfs": -0.9976644515991211,
+  "new_peak_dbfs": -0.33934688568115234
+ },
+ {
+  "preset": "Warm Reese 01",
+  "old_peak_dbfs": -0.9958820343017578,
+  "new_peak_dbfs": -1.275522232055664
+ },
+ {
+  "preset": "Wrecked Reese 01",
+  "old_peak_dbfs": -0.9961080551147461,
+  "new_peak_dbfs": -4.889437675476074
+ },
+ {
+  "preset": "Wrecked Reese 02",
+  "old_peak_dbfs": -0.9969034194946289,
+  "new_peak_dbfs": -5.072087287902832
+ },
+ {
+  "preset": "Wrecked Reese 03",
+  "old_peak_dbfs": -0.9954872131347656,
+  "new_peak_dbfs": -1.0066909790039062
+ },
+ {
+  "preset": "Wrecked Reese 04",
+  "old_peak_dbfs": -1.0012025833129883,
+  "new_peak_dbfs": -5.676922798156738
+ },
+ {
+  "preset": "Wrecked Reese 05",
+  "old_peak_dbfs": -1.0004959106445312,
+  "new_peak_dbfs": -3.0806312561035156
+ },
+ {
+  "preset": "Wrecked Reese 06",
+  "old_peak_dbfs": -1.003885269165039,
+  "new_peak_dbfs": -6.761009216308594
+ },
+ {
+  "preset": "Wrecked Reese 07",
+  "old_peak_dbfs": -1.0022668838500977,
+  "new_peak_dbfs": -5.411334037780762
+ },
+ {
+  "preset": "Biting FM 01",
+  "old_peak_dbfs": -1.0048389434814453,
+  "new_peak_dbfs": -4.930479049682617
+ },
+ {
+  "preset": "Biting FM 02",
+  "old_peak_dbfs": -1.004349708557129,
+  "new_peak_dbfs": -3.3390893936157227
+ },
+ {
+  "preset": "Dark FM 01",
+  "old_peak_dbfs": -0.9985427856445312,
+  "new_peak_dbfs": -3.744260787963867
+ },
+ {
+  "preset": "Dark FM 02",
+  "old_peak_dbfs": -1.0008964538574219,
+  "new_peak_dbfs": -2.6256256103515625
+ },
+ {
+  "preset": "Dark FM 03",
+  "old_peak_dbfs": -0.9990701675415039,
+  "new_peak_dbfs": -1.7510919570922852
+ },
+ {
+  "preset": "Hard FM 01",
+  "old_peak_dbfs": -1.002152442932129,
+  "new_peak_dbfs": -2.7382707595825195
+ },
+ {
+  "preset": "Hard FM 02",
+  "old_peak_dbfs": -1.003173828125,
+  "new_peak_dbfs": -7.218212127685547
+ },
+ {
+  "preset": "Wrecked FM 01",
+  "old_peak_dbfs": -0.9955787658691406,
+  "new_peak_dbfs": -2.1691837310791016
+ },
+ {
+  "preset": "Wrecked FM 02",
+  "old_peak_dbfs": -0.9975252151489258,
+  "new_peak_dbfs": -3.3666486740112305
+ },
+ {
+  "preset": "Wrecked FM 03",
+  "old_peak_dbfs": -0.9959497451782227,
+  "new_peak_dbfs": -3.827591896057129
+ },
+ {
+  "preset": "Wrecked FM 04",
+  "old_peak_dbfs": -0.9956302642822266,
+  "new_peak_dbfs": 0.5334148406982422
+ },
+ {
+  "preset": "Folded Roller 07",
+  "old_peak_dbfs": -1.0002598762512207,
+  "new_peak_dbfs": -2.0624241828918457
+ },
+ {
+  "preset": "Wrecked Roller 04",
+  "old_peak_dbfs": -0.9991292953491211,
+  "new_peak_dbfs": -0.812037467956543
+ },
+ {
+  "preset": "Clean Runner",
+  "old_peak_dbfs": -0.9965572357177734,
+  "new_peak_dbfs": -3.7035255432128906
+ },
+ {
+  "preset": "Rolling Steps",
+  "old_peak_dbfs": -0.9950332641601562,
+  "new_peak_dbfs": -4.923397064208984
+ },
+ {
+  "preset": "Biting Roller 01",
+  "old_peak_dbfs": -1.0003745555877686,
+  "new_peak_dbfs": -1.0203368663787842
+ },
+ {
+  "preset": "Biting Roller 02",
+  "old_peak_dbfs": -1.0030145645141602,
+  "new_peak_dbfs": -1.7814607620239258
+ },
+ {
+  "preset": "Crushed Roller 01",
+  "old_peak_dbfs": -1.0037389993667603,
+  "new_peak_dbfs": -0.8838697671890259
+ },
+ {
+  "preset": "Dark Roller 01",
+  "old_peak_dbfs": -1.0003833770751953,
+  "new_peak_dbfs": -3.6272430419921875
+ },
+ {
+  "preset": "Dark Roller 02",
+  "old_peak_dbfs": -0.997706413269043,
+  "new_peak_dbfs": -4.646426200866699
+ },
+ {
+  "preset": "Dark Roller 03",
+  "old_peak_dbfs": -0.9977707862854004,
+  "new_peak_dbfs": -1.068464756011963
+ },
+ {
+  "preset": "Dark Roller 04",
+  "old_peak_dbfs": -0.9994368553161621,
+  "new_peak_dbfs": -1.8197569847106934
+ },
+ {
+  "preset": "Dark Roller 05",
+  "old_peak_dbfs": -1.0009050369262695,
+  "new_peak_dbfs": -3.039761543273926
+ },
+ {
+  "preset": "Dark Roller 06",
+  "old_peak_dbfs": -1.0009841918945312,
+  "new_peak_dbfs": -0.9436187744140625
+ },
+ {
+  "preset": "Dark Roller 07",
+  "old_peak_dbfs": -1.0047740936279297,
+  "new_peak_dbfs": -4.4302520751953125
+ },
+ {
+  "preset": "Dark Roller 08",
+  "old_peak_dbfs": -0.9966530799865723,
+  "new_peak_dbfs": -1.1691651344299316
+ },
+ {
+  "preset": "Dark Roller 09",
+  "old_peak_dbfs": -0.998164176940918,
+  "new_peak_dbfs": -2.2906923294067383
+ },
+ {
+  "preset": "Dark Roller 10",
+  "old_peak_dbfs": -0.9975528717041016,
+  "new_peak_dbfs": -0.9914779663085938
+ },
+ {
+  "preset": "Dark Roller 11",
+  "old_peak_dbfs": -1.0025057792663574,
+  "new_peak_dbfs": -1.1223139762878418
+ },
+ {
+  "preset": "Dark Roller 12",
+  "old_peak_dbfs": -1.0036897659301758,
+  "new_peak_dbfs": -4.85720157623291
+ },
+ {
+  "preset": "Dark Roller 13",
+  "old_peak_dbfs": -0.9990301132202148,
+  "new_peak_dbfs": -4.811568260192871
+ },
+ {
+  "preset": "Dark Roller 14",
+  "old_peak_dbfs": -1.0036745071411133,
+  "new_peak_dbfs": -0.8387346267700195
+ },
+ {
+  "preset": "Dark Roller 15",
+  "old_peak_dbfs": -1.0045194625854492,
+  "new_peak_dbfs": -3.307501792907715
+ },
+ {
+  "preset": "Dark Roller 16",
+  "old_peak_dbfs": -0.9996142387390137,
+  "new_peak_dbfs": -0.9831538200378418
+ },
+ {
+  "preset": "Dark Roller 17",
+  "old_peak_dbfs": -0.9970903396606445,
+  "new_peak_dbfs": -1.717961311340332
+ },
+ {
+  "preset": "Dark Roller 18",
+  "old_peak_dbfs": -0.9956245422363281,
+  "new_peak_dbfs": -0.8919448852539062
+ },
+ {
+  "preset": "Folded Roller 01",
+  "old_peak_dbfs": -0.9959707260131836,
+  "new_peak_dbfs": -4.530331611633301
+ },
+ {
+  "preset": "Folded Roller 02",
+  "old_peak_dbfs": -1.002244472503662,
+  "new_peak_dbfs": -1.0695128440856934
+ },
+ {
+  "preset": "Folded Roller 03",
+  "old_peak_dbfs": -0.9978113174438477,
+  "new_peak_dbfs": -2.69960880279541
+ },
+ {
+  "preset": "Folded Roller 04",
+  "old_peak_dbfs": -0.9977827072143555,
+  "new_peak_dbfs": -1.3483610153198242
+ },
+ {
+  "preset": "Folded Roller 05",
+  "old_peak_dbfs": -0.9986004829406738,
+  "new_peak_dbfs": -2.614410877227783
+ },
+ {
+  "preset": "Folded Roller 06",
+  "old_peak_dbfs": -0.9980974197387695,
+  "new_peak_dbfs": -2.6107263565063477
+ },
+ {
+  "preset": "Hard Roller 01",
+  "old_peak_dbfs": -1.0008974075317383,
+  "new_peak_dbfs": -0.552983283996582
+ },
+ {
+  "preset": "Hard Roller 02",
+  "old_peak_dbfs": -1.000605821609497,
+  "new_peak_dbfs": -0.696601152420044
+ },
+ {
+  "preset": "Hard Roller 03",
+  "old_peak_dbfs": -1.0010910034179688,
+  "new_peak_dbfs": -6.206869125366211
+ },
+ {
+  "preset": "Hard Roller 04",
+  "old_peak_dbfs": -0.9969663619995117,
+  "new_peak_dbfs": -1.5069704055786133
+ },
+ {
+  "preset": "Hard Roller 05",
+  "old_peak_dbfs": -1.0004615783691406,
+  "new_peak_dbfs": -4.757352828979492
+ },
+ {
+  "preset": "Hard Roller 06",
+  "old_peak_dbfs": -1.001924991607666,
+  "new_peak_dbfs": -1.0026497840881348
+ },
+ {
+  "preset": "Hard Roller 07",
+  "old_peak_dbfs": -0.9999020099639893,
+  "new_peak_dbfs": -1.0294926166534424
+ },
+ {
+  "preset": "Hard Roller 08",
+  "old_peak_dbfs": -0.9965620040893555,
+  "new_peak_dbfs": -1.0593633651733398
+ },
+ {
+  "preset": "Hard Roller 09",
+  "old_peak_dbfs": -1.0017929077148438,
+  "new_peak_dbfs": -3.864788055419922
+ },
+ {
+  "preset": "Heavy Roller 01",
+  "old_peak_dbfs": -1.002802848815918,
+  "new_peak_dbfs": -5.0510053634643555
+ },
+ {
+  "preset": "Warm Roller 01",
+  "old_peak_dbfs": -0.9994354248046875,
+  "new_peak_dbfs": -1.3209457397460938
+ },
+ {
+  "preset": "Warm Roller 02",
+  "old_peak_dbfs": -1.0003461837768555,
+  "new_peak_dbfs": -1.1487455368041992
+ },
+ {
+  "preset": "Warm Roller 03",
+  "old_peak_dbfs": -1.0035629272460938,
+  "new_peak_dbfs": -0.7685737609863281
+ },
+ {
+  "preset": "Warm Roller 04",
+  "old_peak_dbfs": -0.9965693950653076,
+  "new_peak_dbfs": -0.994154691696167
+ },
+ {
+  "preset": "Warm Roller 05",
+  "old_peak_dbfs": -0.9994313716888428,
+  "new_peak_dbfs": -1.019103765487671
+ },
+ {
+  "preset": "Warm Roller 06",
+  "old_peak_dbfs": -0.9989442825317383,
+  "new_peak_dbfs": -0.5572786331176758
+ },
+ {
+  "preset": "Wrecked Roller 01",
+  "old_peak_dbfs": -0.9950705170631409,
+  "new_peak_dbfs": -1.0857229232788086
+ },
+ {
+  "preset": "Wrecked Roller 02",
+  "old_peak_dbfs": -1.0006523132324219,
+  "new_peak_dbfs": -1.9490280151367188
+ },
+ {
+  "preset": "Wrecked Roller 03",
+  "old_peak_dbfs": -1.0003461837768555,
+  "new_peak_dbfs": -3.370856285095215
+ },
+ {
+  "preset": "Broken Drive",
+  "old_peak_dbfs": -1.001143455505371,
+  "new_peak_dbfs": -4.165328025817871
+ },
+ {
+  "preset": "Dirty Runner",
+  "old_peak_dbfs": -1.0005712509155273,
+  "new_peak_dbfs": -4.775547981262207
+ },
+ {
+  "preset": "Dark Reese 20",
+  "old_peak_dbfs": -1.0010643005371094,
+  "new_peak_dbfs": -4.85795783996582
+ },
+ {
+  "preset": "Dark Reese 21",
+  "old_peak_dbfs": -0.9965496063232422,
+  "new_peak_dbfs": -4.772480010986328
+ },
+ {
+  "preset": "Hard Reese 11",
+  "old_peak_dbfs": -1.0005464553833008,
+  "new_peak_dbfs": -4.132407188415527
+ },
+ {
+  "preset": "Wrecked Reese 11",
+  "old_peak_dbfs": -1.000711441040039,
+  "new_peak_dbfs": -5.045125961303711
+ },
+ {
+  "preset": "Wrecked Reese 12",
+  "old_peak_dbfs": -1.0023536682128906,
+  "new_peak_dbfs": -5.413606643676758
+ },
+ {
+  "preset": "Crushed Run",
+  "old_peak_dbfs": -0.9974269866943359,
+  "new_peak_dbfs": -4.440132141113281
+ },
+ {
+  "preset": "Wreck Line",
+  "old_peak_dbfs": -0.9971551895141602,
+  "new_peak_dbfs": -5.399502754211426
+ },
+ {
+  "preset": "Locrian Grind",
+  "old_peak_dbfs": -0.9986133575439453,
+  "new_peak_dbfs": -4.504293441772461
+ },
+ {
+  "preset": "Biting Wreck 01",
+  "old_peak_dbfs": -0.9976682662963867,
+  "new_peak_dbfs": -3.91603946685791
+ },
+ {
+  "preset": "Dark Wreck 01",
+  "old_peak_dbfs": -1.0001068115234375,
+  "new_peak_dbfs": -4.195125579833984
+ },
+ {
+  "preset": "Wrecked Wreck 01",
+  "old_peak_dbfs": -0.9994182586669922,
+  "new_peak_dbfs": -4.743749618530273
+ }
+]

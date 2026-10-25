@@ -1,0 +1,21 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/focused.cpp:2:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:6:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/focused.cpp:2:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:686:31: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  686 |             const double t = (i + buf[(size_t) i] / (buf[(size_t) i] - buf[(size_t) i + 1] + 1.0e-20f)) / sr;
+      |                               ^ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:1071:5: warning: no previous prototype for function 'full_test_main' [-Wmissing-prototypes]
+ 1071 | int main (int argc, char** argv)
+      |     ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Приёмка после Claude/PowerKick/focused.cpp:1:14: note: expanded from macro 'main'
+    1 | #define main full_test_main
+      |              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:1071:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+ 1071 | int main (int argc, char** argv)
+      | ^
+      | static 
+3 warnings generated.

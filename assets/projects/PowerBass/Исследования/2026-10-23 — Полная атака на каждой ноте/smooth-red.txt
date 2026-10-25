@@ -1,0 +1,3 @@
+FAIL: SMOOTH: back-to-back notes continue without a new attack (0/7)
+FAIL: SMOOTH: a slow ATTACK continues from the level reached, not from silence
+FAILED 11/13

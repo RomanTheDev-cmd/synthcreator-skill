@@ -1,0 +1,13 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/Code-analysis/cold-warm.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/Code-analysis/cold-warm.cpp:12:6: warning: no previous prototype for function 'report' [-Wmissing-prototypes]
+   12 | void report(const char* label,const std::vector<float>&a,const std::vector<float>&b) {
+      |      ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Разные задержки/Code-analysis/cold-warm.cpp:12:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+   12 | void report(const char* label,const std::vector<float>&a,const std::vector<float>&b) {
+      | ^
+      | static 
+2 warnings generated.

@@ -1,0 +1,9 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:6:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:196:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  196 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Tests/PowerKickTests.cpp:607:31: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  607 |             const double t = (i + buf[(size_t) i] / (buf[(size_t) i] - buf[(size_t) i + 1] + 1.0e-20f)) / sr;
+      |                               ^ ~
+2 warnings generated.

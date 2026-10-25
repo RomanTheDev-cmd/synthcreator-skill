@@ -1,0 +1,242 @@
+[
+  {
+    "phase": "before",
+    "sr": 48000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19467,
+    "median_ns": 3583,
+    "p99_ns": 10167,
+    "max_ns": 3116167
+  },
+  {
+    "phase": "before",
+    "sr": 48000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 533,
+    "median_ns": 3584,
+    "p99_ns": 10208,
+    "max_ns": 10542
+  },
+  {
+    "phase": "before",
+    "sr": 48000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 17867,
+    "median_ns": 14291,
+    "p99_ns": 40042,
+    "max_ns": 4113708
+  },
+  {
+    "phase": "before",
+    "sr": 48000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 2133,
+    "median_ns": 14208,
+    "p99_ns": 39792,
+    "max_ns": 2564792
+  },
+  {
+    "phase": "before",
+    "sr": 96000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19734,
+    "median_ns": 3542.0,
+    "p99_ns": 10167,
+    "max_ns": 6033834
+  },
+  {
+    "phase": "before",
+    "sr": 96000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 266,
+    "median_ns": 3542.0,
+    "p99_ns": 10083,
+    "max_ns": 10292
+  },
+  {
+    "phase": "before",
+    "sr": 96000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 18934,
+    "median_ns": 14167.0,
+    "p99_ns": 40833,
+    "max_ns": 7471667
+  },
+  {
+    "phase": "before",
+    "sr": 96000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 1066,
+    "median_ns": 14000.0,
+    "p99_ns": 40500,
+    "max_ns": 2545292
+  },
+  {
+    "phase": "before",
+    "sr": 192000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19867,
+    "median_ns": 3542,
+    "p99_ns": 10583,
+    "max_ns": 5910542
+  },
+  {
+    "phase": "before",
+    "sr": 192000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 133,
+    "median_ns": 3625,
+    "p99_ns": 10792,
+    "max_ns": 11125
+  },
+  {
+    "phase": "before",
+    "sr": 192000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 19467,
+    "median_ns": 14167,
+    "p99_ns": 40625,
+    "max_ns": 7550333
+  },
+  {
+    "phase": "before",
+    "sr": 192000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 533,
+    "median_ns": 13792,
+    "p99_ns": 39375,
+    "max_ns": 40959
+  },
+  {
+    "phase": "after",
+    "sr": 48000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19467,
+    "median_ns": 3542,
+    "p99_ns": 9750,
+    "max_ns": 4142000
+  },
+  {
+    "phase": "after",
+    "sr": 48000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 533,
+    "median_ns": 8875,
+    "p99_ns": 17833,
+    "max_ns": 355125
+  },
+  {
+    "phase": "after",
+    "sr": 48000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 17867,
+    "median_ns": 14125,
+    "p99_ns": 38333,
+    "max_ns": 4253583
+  },
+  {
+    "phase": "after",
+    "sr": 48000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 2133,
+    "median_ns": 19375,
+    "p99_ns": 46500,
+    "max_ns": 1545042
+  },
+  {
+    "phase": "after",
+    "sr": 96000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19734,
+    "median_ns": 3542.0,
+    "p99_ns": 9750,
+    "max_ns": 7001667
+  },
+  {
+    "phase": "after",
+    "sr": 96000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 266,
+    "median_ns": 13750.0,
+    "p99_ns": 23250,
+    "max_ns": 27250
+  },
+  {
+    "phase": "after",
+    "sr": 96000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 18934,
+    "median_ns": 14042.0,
+    "p99_ns": 38833,
+    "max_ns": 6766000
+  },
+  {
+    "phase": "after",
+    "sr": 96000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 1066,
+    "median_ns": 24250.0,
+    "p99_ns": 53042,
+    "max_ns": 894375
+  },
+  {
+    "phase": "after",
+    "sr": 192000.0,
+    "block": 32,
+    "reset_call": false,
+    "n": 19867,
+    "median_ns": 3541,
+    "p99_ns": 9750,
+    "max_ns": 1612500
+  },
+  {
+    "phase": "after",
+    "sr": 192000.0,
+    "block": 32,
+    "reset_call": true,
+    "n": 133,
+    "median_ns": 23375,
+    "p99_ns": 34208,
+    "max_ns": 35250
+  },
+  {
+    "phase": "after",
+    "sr": 192000.0,
+    "block": 128,
+    "reset_call": false,
+    "n": 19467,
+    "median_ns": 14125,
+    "p99_ns": 38875,
+    "max_ns": 5882875
+  },
+  {
+    "phase": "after",
+    "sr": 192000.0,
+    "block": 128,
+    "reset_call": true,
+    "n": 533,
+    "median_ns": 33292,
+    "p99_ns": 67917,
+    "max_ns": 74500
+  }
+]

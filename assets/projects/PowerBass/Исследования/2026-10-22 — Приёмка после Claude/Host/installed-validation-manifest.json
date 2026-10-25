@@ -1,0 +1,15 @@
+{
+  "before": {
+    "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component/Contents/MacOS/PowerKick": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd",
+    "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3/Contents/MacOS/PowerKick": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+    "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component/Contents/MacOS/PowerBass": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2",
+    "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3/Contents/MacOS/PowerBass": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69"
+  },
+  "after": {
+    "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component/Contents/MacOS/PowerKick": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd",
+    "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3/Contents/MacOS/PowerKick": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+    "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component/Contents/MacOS/PowerBass": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2",
+    "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3/Contents/MacOS/PowerBass": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69"
+  },
+  "unchanged": true
+}

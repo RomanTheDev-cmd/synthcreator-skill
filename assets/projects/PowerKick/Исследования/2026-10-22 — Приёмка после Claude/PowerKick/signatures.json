@@ -1,0 +1,74 @@
+[
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/AU/PowerKick.component",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/AU/PowerKick.component"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/AU/PowerKick.component"
+      ]
+    ],
+    "before": "8df0d2417f87348ec2e35dc24ad36fd4cd91a42bcbc22cb165e1f8a1c85835cb",
+    "after": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  },
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/VST3/PowerKick.vst3",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/VST3/PowerKick.vst3"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/VST3/PowerKick.vst3"
+      ]
+    ],
+    "before": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+    "after": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  },
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/Standalone/PowerKick.app",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/Standalone/PowerKick.app"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/Standalone/PowerKick.app"
+      ]
+    ],
+    "before": "6368cc7406bf4cdab6b21fbdd9f635ba8866f72b9260526773fae9c5c69c55ee",
+    "after": "e04aa4df46d2e74a47ba8d57a20a3cfcc9c6e880e27ecd955906815806c40e75",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  }
+]

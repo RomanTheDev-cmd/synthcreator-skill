@@ -1,0 +1,13 @@
+[
+  {
+    "name": "build",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+      "--build",
+      "/Users/roman/Library/Caches/PowerKickBuildWin",
+      "-j1"
+    ],
+    "returncode": 0,
+    "seconds": 110.5233367089968
+  }
+]

@@ -1,0 +1,1202 @@
+[
+{
+"name": "Short Knock",
+"alias": -71.58134959588106
+},
+{
+"name": "Warm Click D#1 II",
+"alias": -68.03750720865119
+},
+{
+"name": "Clipped Click A#1 IV",
+"alias": -76.25954713946263
+},
+{
+"name": "Classic Punch",
+"alias": -80.26745593288345
+},
+{
+"name": "Clean Knock C2",
+"alias": -61.393573890399225
+},
+{
+"name": "Warm Click F1 V",
+"alias": -85.49911887966562
+},
+{
+"name": "Clipped Click F1 II",
+"alias": -76.69629084282339
+},
+{
+"name": "Warm Thump G#1",
+"alias": -83.73026379416669
+},
+{
+"name": "Wide Clean Drop E1",
+"alias": -133.46901407520602
+},
+{
+"name": "Crushed Click B1",
+"alias": -92.9773817710619
+},
+{
+"name": "Crushed Clang B1 II",
+"alias": -74.69563605484674
+},
+{
+"name": "Clipped Boom G#1 II",
+"alias": -86.24785438242981
+},
+{
+"name": "Clipped Clang D1 II",
+"alias": -67.16882047649109
+},
+{
+"name": "Warm Clang G1 VI",
+"alias": -80.98534839139108
+},
+{
+"name": "Clean Click F#1",
+"alias": -95.85163768541389
+},
+{
+"name": "Wide Warm Click G#1 II",
+"alias": -98.26414188072397
+},
+{
+"name": "Clean Thump A#1 II",
+"alias": -119.80419921859016
+},
+{
+"name": "Warm Clang F#1 III",
+"alias": -86.85187548672263
+},
+{
+"name": "Crushed Clang F#1 II",
+"alias": -65.44428539123223
+},
+{
+"name": "Warm Drop A#1",
+"alias": -80.6652188931383
+},
+{
+"name": "Wide Warm Clang F1",
+"alias": -69.08236731634572
+},
+{
+"name": "Wide Driven Clang C2",
+"alias": -77.71854535571362
+},
+{
+"name": "Warm Clang B1 13",
+"alias": -68.60719720430819
+},
+{
+"name": "Driven Clang C2 V",
+"alias": -71.10125243090583
+},
+{
+"name": "Warm Drop B1",
+"alias": -81.12308891288842
+},
+{
+"name": "Driven Clang B1",
+"alias": -73.12968508233587
+},
+{
+"name": "Warm Clang A#1 VI",
+"alias": -80.49476007010796
+},
+{
+"name": "Driven Clang A1 VI",
+"alias": -73.3760698047748
+},
+{
+"name": "Warm Clang B1 VIII",
+"alias": -81.10203731608593
+},
+{
+"name": "Driven Clang A#1 VII",
+"alias": -74.73246464593446
+},
+{
+"name": "Distorted Factory",
+"alias": -74.43197552874861
+},
+{
+"name": "Crushed Click F#1 IV",
+"alias": -80.29345778502815
+},
+{
+"name": "Clipped Rumble B1 II",
+"alias": -82.35292680265664
+},
+{
+"name": "Warm Rumble F1",
+"alias": -61.543254400694174
+},
+{
+"name": "Crushed Rumble A1",
+"alias": -69.94503339184553
+},
+{
+"name": "Wide Grinding Boom A1",
+"alias": -95.48252710824308
+},
+{
+"name": "Clipped Clang A1",
+"alias": -87.07942118743401
+},
+{
+"name": "Hardstyle Tok",
+"alias": -63.55706480411648
+},
+{
+"name": "Clipped Click F#1 III",
+"alias": -67.63262805368647
+},
+{
+"name": "Clipped Click G#1 V",
+"alias": -93.16348126646693
+},
+{
+"name": "Crushed Clang F#1",
+"alias": -57.71979571282849
+},
+{
+"name": "Ticking Body",
+"alias": -71.80953628394701
+},
+{
+"name": "Clipped Clang F1 III",
+"alias": -60.55296344853622
+},
+{
+"name": "Wide Clipped Knock G1",
+"alias": -75.55452834488224
+},
+{
+"name": "Clipped Click G#1",
+"alias": -88.5528106003569
+},
+{
+"name": "Clipped Click G1",
+"alias": -76.11452500239216
+},
+{
+"name": "Wide Clipped Drop F#1",
+"alias": -68.87722822565617
+},
+{
+"name": "Warm Rumble B1",
+"alias": -99.6427969412507
+},
+{
+"name": "Clean Clang D1",
+"alias": -86.30866143539124
+},
+{
+"name": "Clipped Clang F1 IV",
+"alias": -67.33819440182037
+},
+{
+"name": "Driven Click F#1 II",
+"alias": -92.25536464108201
+},
+{
+"name": "Clean Drop G1 III",
+"alias": -93.83024728985032
+},
+{
+"name": "Clean Clang G#1",
+"alias": -87.75954113090181
+},
+{
+"name": "Warm Click D1",
+"alias": -95.0718864527791
+},
+{
+"name": "Clipped Click F#1",
+"alias": -86.20354625131884
+},
+{
+"name": "Warm Click F#1 II",
+"alias": -81.84059076848547
+},
+{
+"name": "Crushed Thump G1",
+"alias": -62.729377995875154
+},
+{
+"name": "Wide Crushed Clang B1",
+"alias": -62.752458725989015
+},
+{
+"name": "Wide Clipped Clang B1 II",
+"alias": -70.31152337995107
+},
+{
+"name": "Crushed Clang C2 II",
+"alias": -79.52687772079506
+},
+{
+"name": "Wide Clipped Clang B1",
+"alias": -70.32937786777434
+},
+{
+"name": "Driven Clang C2 VI",
+"alias": -71.29247243239203
+},
+{
+"name": "Driven Clang G#1 II",
+"alias": -79.17912494866123
+},
+{
+"name": "Schranz Wide Tick",
+"alias": -69.086317164356
+},
+{
+"name": "Clipped Clang A#1 II",
+"alias": -68.10440913573893
+},
+{
+"name": "Wide Warm Clang A#1 III",
+"alias": -69.72955386595504
+},
+{
+"name": "Warm Clang B1 V",
+"alias": -72.32560919927758
+},
+{
+"name": "Warm Drop A#1 II",
+"alias": -88.8684317243933
+},
+{
+"name": "Warm Click A#1 II",
+"alias": -64.14665046967654
+},
+{
+"name": "Driven Click A#1 II",
+"alias": -45.62479846729758
+},
+{
+"name": "Clean Rumble A#1",
+"alias": -48.69823475274944
+},
+{
+"name": "Clipped Rumble F#1 II",
+"alias": -80.12467506966468
+},
+{
+"name": "Warm Rumble G1 III",
+"alias": -76.96456253473639
+},
+{
+"name": "Wide Warm Boom A#1 II",
+"alias": -92.94500956347059
+},
+{
+"name": "Clipped Click A#1 III",
+"alias": -85.64807670512911
+},
+{
+"name": "Rawstyle Screech",
+"alias": -42.28139684357136
+},
+{
+"name": "Driven Click G#1 III",
+"alias": -94.0091042813276
+},
+{
+"name": "Clipped Thump G1 IV",
+"alias": -79.4341494882224
+},
+{
+"name": "Falling Thump",
+"alias": -73.4665395408359
+},
+{
+"name": "Clean Click A1",
+"alias": -106.88939601665783
+},
+{
+"name": "Warm Clang F1 III",
+"alias": -99.93479571296331
+},
+{
+"name": "Clipped Clang A1 IV",
+"alias": -60.215851135909624
+},
+{
+"name": "Clipped Click G#1 II",
+"alias": -84.16961623910552
+},
+{
+"name": "Clipped Drop G1",
+"alias": -83.02871051019217
+},
+{
+"name": "Rumble Tail",
+"alias": -46.70905739000885
+},
+{
+"name": "Warm Rumble E1",
+"alias": -105.85080753758876
+},
+{
+"name": "Wide Clean Click D#1",
+"alias": -84.34707718354802
+},
+{
+"name": "Clipped Clang G1 IV",
+"alias": -70.30332642744045
+},
+{
+"name": "Warm Thump A1",
+"alias": -99.69338217214892
+},
+{
+"name": "Warm Click G1 III",
+"alias": -87.86157465874479
+},
+{
+"name": "Clean Click A#1",
+"alias": -96.79830887507164
+},
+{
+"name": "Clean Drop F1 II",
+"alias": -104.78316656725133
+},
+{
+"name": "Clean Clang E1",
+"alias": -57.086428793902506
+},
+{
+"name": "Warm Click F#1 III",
+"alias": -95.17434874696123
+},
+{
+"name": "Classic Schranz",
+"alias": -69.35929431380538
+},
+{
+"name": "Wide Driven Clang A1",
+"alias": -77.77334971642586
+},
+{
+"name": "Wide Warm Boom B1",
+"alias": -77.2086991058348
+},
+{
+"name": "Warm Click G#1",
+"alias": -75.10538638716558
+},
+{
+"name": "Clipped Clang D1",
+"alias": -61.463774039328385
+},
+{
+"name": "Warm Clang B1 14",
+"alias": -72.14768911157505
+},
+{
+"name": "Driven Clang A#1 V",
+"alias": -82.69011442503927
+},
+{
+"name": "Warm Clang B1 15",
+"alias": -68.39629113278326
+},
+{
+"name": "Driven Clang G#1 V",
+"alias": -88.98779136793925
+},
+{
+"name": "Warm Clang B1 III",
+"alias": -76.3266158495318
+},
+{
+"name": "Driven Clang B1 VI",
+"alias": -79.59183867693248
+},
+{
+"name": "Warm Drop G#1 II",
+"alias": -56.29959961796325
+},
+{
+"name": "Crushed Click A#1",
+"alias": -70.10190050637905
+},
+{
+"name": "Industrial Rumble",
+"alias": -77.02964055809515
+},
+{
+"name": "Clipped Thump F1 II",
+"alias": -92.43331351056659
+},
+{
+"name": "Crushed Rumble F1 II",
+"alias": -77.49217552051508
+},
+{
+"name": "Clipped Rumble C#1",
+"alias": -66.36908659133036
+},
+{
+"name": "Crushed Clang B1",
+"alias": -88.42522118264668
+},
+{
+"name": "Warm Clang F1 II",
+"alias": -74.65770932528241
+},
+{
+"name": "Gabba Lite",
+"alias": -61.358791909280164
+},
+{
+"name": "Clipped Clang A1 II",
+"alias": -76.6271535745113
+},
+{
+"name": "Crushed Punch F#1",
+"alias": -59.66317845785945
+},
+{
+"name": "Pitch Drop",
+"alias": -76.42736337239944
+},
+{
+"name": "Warm Click F1 IV",
+"alias": -74.89060631530278
+},
+{
+"name": "Driven Clang F1",
+"alias": -73.87013832022487
+},
+{
+"name": "Wide Warm Click F#1 II",
+"alias": -47.23824894762088
+},
+{
+"name": "Wide Clean Punch G1",
+"alias": -121.90220794865077
+},
+{
+"name": "Clipped Punch G1",
+"alias": -72.27576148125925
+},
+{
+"name": "Clipped Rumble A#1",
+"alias": -80.31739929298871
+},
+{
+"name": "Wide Warm Click E1 II",
+"alias": -81.6706183011638
+},
+{
+"name": "Wide Warm Click F1",
+"alias": -81.03338047377385
+},
+{
+"name": "Warm Clang F#1",
+"alias": -79.23936535010733
+},
+{
+"name": "Wide Warm Click A#1",
+"alias": -102.9064784488466
+},
+{
+"name": "Clean Drop F#1 II",
+"alias": -91.3231291681733
+},
+{
+"name": "Clean Thump B1",
+"alias": -78.86128490596398
+},
+{
+"name": "Clean Drop A1 II",
+"alias": -105.5066758530468
+},
+{
+"name": "Warm Click G#1 II",
+"alias": -90.18792513765064
+},
+{
+"name": "Warm Drop F1",
+"alias": -58.50031611715225
+},
+{
+"name": "Crushed Clang C2",
+"alias": -70.88309726142828
+},
+{
+"name": "Wide Driven Clang A1 II",
+"alias": -75.6876043900351
+},
+{
+"name": "Wide Driven Clang C2 II",
+"alias": -72.13880455718001
+},
+{
+"name": "Crushed Thump B1",
+"alias": -65.45988564588201
+},
+{
+"name": "Warm Clang F1",
+"alias": -73.01606625265224
+},
+{
+"name": "Crushed Clang C2 III",
+"alias": -65.7291515827866
+},
+{
+"name": "Driven Clang C2 III",
+"alias": -72.30949481969647
+},
+{
+"name": "Clipped Clang A#1",
+"alias": -71.09875089275303
+},
+{
+"name": "Driven Clang A1 III",
+"alias": -77.51279856760908
+},
+{
+"name": "Driven Click B1",
+"alias": -76.68040737070173
+},
+{
+"name": "Driven Clang C2",
+"alias": -76.38299549211428
+},
+{
+"name": "Clipped Drop B1",
+"alias": -73.38544403230185
+},
+{
+"name": "Crushed Clang F1",
+"alias": -91.21213613449987
+},
+{
+"name": "Steel Press",
+"alias": -38.63853599756224
+},
+{
+"name": "Clipped Rumble B1",
+"alias": -76.20403591741042
+},
+{
+"name": "Clipped Rumble A#1 II",
+"alias": -61.85502603654619
+},
+{
+"name": "Clean Rumble G1",
+"alias": -93.48099581445896
+},
+{
+"name": "Warm Clang F#1 IV",
+"alias": -72.68357538633228
+},
+{
+"name": "Warm Clang E1",
+"alias": -69.60361134878603
+},
+{
+"name": "Euphoric Punch",
+"alias": -73.01155615228404
+},
+{
+"name": "Driven Click D#1",
+"alias": -97.88127995702459
+},
+{
+"name": "Clean Clang G1 IV",
+"alias": -84.62002226955887
+},
+{
+"name": "Clipped Click D#1",
+"alias": -70.52457377232835
+},
+{
+"name": "Warm Clang D#1",
+"alias": -71.77442913677862
+},
+{
+"name": "Clean Clang F#1",
+"alias": -71.60810882314996
+},
+{
+"name": "Driven Clang F#1",
+"alias": -90.4021315547248
+},
+{
+"name": "Clipped Drop G#1 II",
+"alias": -77.43649061569643
+},
+{
+"name": "Wide Clipped Rumble B1",
+"alias": -71.56968259264642
+},
+{
+"name": "Warm Rumble B1 III",
+"alias": -87.32452806462484
+},
+{
+"name": "Clean Click E1 II",
+"alias": -116.66568665780977
+},
+{
+"name": "Clipped Click G1 III",
+"alias": -76.75337495567243
+},
+{
+"name": "Clipped Clang G1 V",
+"alias": -84.64451336582997
+},
+{
+"name": "Deep Drop",
+"alias": -93.34448433574815
+},
+{
+"name": "Clean Click G1 V",
+"alias": -87.40891856712481
+},
+{
+"name": "Clean Click G1",
+"alias": -91.52459291087453
+},
+{
+"name": "Warm Clang G#1 V",
+"alias": -89.98681257669396
+},
+{
+"name": "Warm Clang F#1 II",
+"alias": -75.51750823254173
+},
+{
+"name": "Driven Clang A#1 II",
+"alias": -70.23705652580102
+},
+{
+"name": "Clipped Rumble A#1 IV",
+"alias": -60.40152742750954
+},
+{
+"name": "Driven Clang A#1 IV",
+"alias": -75.87530024889695
+},
+{
+"name": "Schranz Metal",
+"alias": -81.44680040371627
+},
+{
+"name": "Crushed Clang B1 III",
+"alias": -65.64607594345362
+},
+{
+"name": "Clipped Clang G1 II",
+"alias": -44.05673325707128
+},
+{
+"name": "Clipped Clang B1 II",
+"alias": -69.71286364034117
+},
+{
+"name": "Driven Clang A1",
+"alias": -81.27574327667037
+},
+{
+"name": "Driven Clang F1 II",
+"alias": -81.75900650814937
+},
+{
+"name": "Driven Clang B1 II",
+"alias": -78.02432107114072
+},
+{
+"name": "Driven Clang B1 V",
+"alias": -74.04369501523165
+},
+{
+"name": "Driven Clang A#1 VI",
+"alias": -74.88383793507386
+},
+{
+"name": "Warm Clang G1",
+"alias": -81.05535430636051
+},
+{
+"name": "Wide Crushed Clang F1",
+"alias": -64.66616699777413
+},
+{
+"name": "Wide Iron Sub",
+"alias": -68.75927593793995
+},
+{
+"name": "Warm Rumble G1",
+"alias": -73.59524442396507
+},
+{
+"name": "Clipped Rumble F#1 III",
+"alias": -64.33491374803127
+},
+{
+"name": "Driven Click C#1",
+"alias": -64.03291910369491
+},
+{
+"name": "Clipped Click F1",
+"alias": -62.153688919685415
+},
+{
+"name": "Warm Thump F#1",
+"alias": -78.1328802870036
+},
+{
+"name": "Clipped Clang A1 III",
+"alias": -58.02270801403242
+},
+{
+"name": "Wide Grinding Rumble A1",
+"alias": -90.96126165070869
+},
+{
+"name": "Clipped Clang F1 II",
+"alias": -40.17161342625256
+},
+{
+"name": "Warm Thump F1",
+"alias": -50.0852750979531
+},
+{
+"name": "Driven Click F1 II",
+"alias": -74.30770217383517
+},
+{
+"name": "Long Clip",
+"alias": -92.5778352213992
+},
+{
+"name": "Warm Click G1 II",
+"alias": -70.63643215333256
+},
+{
+"name": "Driven Click F#1",
+"alias": -103.15423151556358
+},
+{
+"name": "Clean Click D#1 III",
+"alias": -91.68227378646803
+},
+{
+"name": "Wide Clipped Drop B1",
+"alias": -64.89256122031964
+},
+{
+"name": "Clipped Clang F#1",
+"alias": -75.32633432576455
+},
+{
+"name": "Warm Clang A1 IV",
+"alias": -91.53356072914289
+},
+{
+"name": "Falling Clipper",
+"alias": -93.91772039924376
+},
+{
+"name": "Clean Click D#1",
+"alias": -96.20136099513276
+},
+{
+"name": "Clean Click G#1",
+"alias": -91.50627236560695
+},
+{
+"name": "Clean Click D#1 IV",
+"alias": -75.13833868549352
+},
+{
+"name": "Warm Rumble A1",
+"alias": -76.60834274144395
+},
+{
+"name": "Clipped Clang G#1",
+"alias": -46.10851795994405
+},
+{
+"name": "Crushed Thump B1 II",
+"alias": -65.07056153088666
+},
+{
+"name": "Wide Driven Clang F1",
+"alias": -83.84652297669763
+},
+{
+"name": "Schranz Pressure",
+"alias": -66.96382410868553
+},
+{
+"name": "Warm Click F#1 IV",
+"alias": -72.17141978421634
+},
+{
+"name": "Warm Click G1 IV",
+"alias": -77.75509035991686
+},
+{
+"name": "Warm Clang A#1 VIII",
+"alias": -71.92981625309561
+},
+{
+"name": "Warm Clang F1 V",
+"alias": -80.80849672142328
+},
+{
+"name": "Warm Drop F1 II",
+"alias": -83.02104376683522
+},
+{
+"name": "Wide Clipped Clang B1 III",
+"alias": -68.07512950356907
+},
+{
+"name": "Warm Drop B1 II",
+"alias": -72.96892069879644
+},
+{
+"name": "Wide Driven Clang G#1",
+"alias": -81.54420921639189
+},
+{
+"name": "Driven Click G1",
+"alias": -119.08527478009795
+},
+{
+"name": "Wide Clipped Clang F#1",
+"alias": -73.65415820655338
+},
+{
+"name": "Clean Rumble D#1",
+"alias": -84.76412655896327
+},
+{
+"name": "Clipped Rumble C1",
+"alias": -96.61922226690534
+},
+{
+"name": "Clipped Rumble A1 II",
+"alias": -76.36136401116744
+},
+{
+"name": "Warm Rumble G1 II",
+"alias": -78.6806928622267
+},
+{
+"name": "Crushed Drop G1",
+"alias": -91.19692349819468
+},
+{
+"name": "Clean Rumble F#1 II",
+"alias": -60.50242496307544
+},
+{
+"name": "Driven Click F1",
+"alias": -75.6973802696484
+},
+{
+"name": "Warm Thump F#1 II",
+"alias": -77.60465426269415
+},
+{
+"name": "Driven Clang G#1",
+"alias": -81.00320665784169
+},
+{
+"name": "Wide Warm Thump A#1",
+"alias": -128.63773981810715
+},
+{
+"name": "Driven Click G1 II",
+"alias": -101.78505943895125
+},
+{
+"name": "Sub Pressure",
+"alias": -150.0
+},
+{
+"name": "Clipped Click G#1 VI",
+"alias": -78.22713684706174
+},
+{
+"name": "Clean Drop G1 II",
+"alias": -93.58923739369249
+},
+{
+"name": "Clipped Rumble A1",
+"alias": -57.934164981149024
+},
+{
+"name": "Wide Warm Boom A#1",
+"alias": -81.19090953226416
+},
+{
+"name": "Hard Techno Core",
+"alias": -81.48226305356908
+},
+{
+"name": "Warm Clang D#1 II",
+"alias": -74.64374034664122
+},
+{
+"name": "Wide Clean Thump F1",
+"alias": -111.50951138888593
+},
+{
+"name": "Clean Click G1 VI",
+"alias": -84.34188734203792
+},
+{
+"name": "Clean Clang G1",
+"alias": -92.37305717482582
+},
+{
+"name": "Clipped Clang F#1 II",
+"alias": -74.75374109816822
+},
+{
+"name": "Clean Click F1 III",
+"alias": -92.89488245146687
+},
+{
+"name": "Crushed Clang G#1 II",
+"alias": -54.28486071132858
+},
+{
+"name": "Driven Clang B1 IV",
+"alias": -72.88291892914056
+},
+{
+"name": "Wide Warm Clang G1",
+"alias": -64.90407333058135
+},
+{
+"name": "Wide Hammer",
+"alias": -68.09884879173002
+},
+{
+"name": "Clipped Clang G#1 II",
+"alias": -77.92142969079273
+},
+{
+"name": "Clipped Clang C2",
+"alias": -72.613362972019
+},
+{
+"name": "Driven Clang A#1",
+"alias": -70.66216874267927
+},
+{
+"name": "Driven Clang G#1 III",
+"alias": -65.4662667161901
+},
+{
+"name": "Driven Clang G#1 IV",
+"alias": -75.13085286390955
+},
+{
+"name": "Warm Clang A#1 II",
+"alias": -87.61605074070134
+},
+{
+"name": "Warm Clang G#1 VII",
+"alias": -84.53368199222288
+},
+{
+"name": "Warm Clang A1 III",
+"alias": -81.14106689105762
+},
+{
+"name": "Warm Click G1 V",
+"alias": -87.28919847666378
+},
+{
+"name": "Clipped Click G1 II",
+"alias": -48.87638707819815
+},
+{
+"name": "Clipped Clang B1",
+"alias": -93.59242515921368
+},
+{
+"name": "Warm Rumble G#1 IV",
+"alias": -72.12541876508737
+},
+{
+"name": "Warm Rumble F#1",
+"alias": -69.48866862375243
+},
+{
+"name": "Wide Clipped Clang G1",
+"alias": -68.33915107828798
+},
+{
+"name": "Crushed Click G1",
+"alias": -53.85250004758938
+},
+{
+"name": "Driven Rumble F1",
+"alias": -89.2404869841141
+},
+{
+"name": "Warm Clang C#1",
+"alias": -95.28630947854978
+},
+{
+"name": "Raw Thud",
+"alias": -66.4679676762523
+},
+{
+"name": "Clipped Click A1",
+"alias": -89.09934121934967
+},
+{
+"name": "Warm Click F#1 VI",
+"alias": -63.501606024701196
+},
+{
+"name": "Driven Click G1 III",
+"alias": -92.91281092579142
+},
+{
+"name": "Clean Drop A#1",
+"alias": -101.45602256313525
+},
+{
+"name": "Clipped Punch B1",
+"alias": -76.70174532862131
+},
+{
+"name": "Wide Warm Boom G1",
+"alias": -73.57184290861453
+},
+{
+"name": "Warm Rumble A#1",
+"alias": -72.15929368345016
+},
+{
+"name": "Clipped Clang G1 III",
+"alias": -70.25868504661686
+},
+{
+"name": "Warm Clang G#1 IV",
+"alias": -79.94684563325467
+},
+{
+"name": "Clipped Punch A1",
+"alias": -76.09945630562392
+},
+{
+"name": "Driven Clang A#1 III",
+"alias": -89.40129047092647
+},
+{
+"name": "Warm Click F1 II",
+"alias": -81.79636803743381
+},
+{
+"name": "Warm Rumble G1 IV",
+"alias": -53.13410148217357
+},
+{
+"name": "Clean Click G1 II",
+"alias": -90.47052193998528
+},
+{
+"name": "Warm Click F1 III",
+"alias": -88.07227965536063
+},
+{
+"name": "Clipped Clang F#1 III",
+"alias": -66.31550585227784
+},
+{
+"name": "Schranz Air",
+"alias": -84.82804449294045
+},
+{
+"name": "Warm Clang A1",
+"alias": -87.13481434124935
+},
+{
+"name": "Driven Clang A1 IV",
+"alias": -80.9001430209731
+},
+{
+"name": "Warm Clang A1 V",
+"alias": -70.5626214546511
+},
+{
+"name": "Driven Clang G1",
+"alias": -71.71909348314271
+},
+{
+"name": "Driven Clang B1 III",
+"alias": -77.39187766432062
+},
+{
+"name": "Driven Clang A1 II",
+"alias": -74.83386856890179
+},
+{
+"name": "Driven Clang A1 V",
+"alias": -72.072604368463
+},
+{
+"name": "Wide Warm Clang A#1 II",
+"alias": -69.38283463473161
+},
+{
+"name": "Warm Clang A#1 IV",
+"alias": -65.38702958450844
+},
+{
+"name": "Warm Clang F1 VI",
+"alias": -93.14238490051197
+},
+{
+"name": "Clipped Clang B1 IV",
+"alias": -76.80109394160885
+},
+{
+"name": "Warm Click D#1",
+"alias": -63.54713479658777
+},
+{
+"name": "Clipped Rumble F#1 IV",
+"alias": -76.01062104101732
+},
+{
+"name": "Clipped Rumble F#1",
+"alias": -66.43879151144642
+},
+{
+"name": "Clipped Rumble A#1 III",
+"alias": -95.48582606012266
+},
+{
+"name": "Wide Crushed Clang A1",
+"alias": -76.71133361208744
+},
+{
+"name": "Warm Click F1",
+"alias": -70.29691288850039
+},
+{
+"name": "Clean Rumble F#1",
+"alias": -64.96884732427554
+}
+]

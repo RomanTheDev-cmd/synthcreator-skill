@@ -1,0 +1,36 @@
+[  1%] Building CXX object CMakeFiles/PowerKick.dir/Source/KickRenderer.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/KickRenderer.cpp(77,13): warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+   77 |         wav.createWriterFor (stream.get(), sampleRate, (unsigned int) audio.getNumChannels(), 24, {}, 0));
+      |             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h(178,7): note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+1 warning generated.
+[  2%] Building CXX object CMakeFiles/PowerKick.dir/Source/PluginProcessor.cpp.obj
+[  3%] Building CXX object CMakeFiles/PowerKick.dir/Source/PluginEditor.cpp.obj
+[  4%] Linking CXX static library PowerKick_artefacts/Release/PowerKick_SharedCode.lib
+[ 26%] Built target PowerKick
+[ 28%] Built target PowerKick_rc_lib
+[ 30%] Linking CXX executable PowerKick_artefacts/Release/Standalone/PowerKick.exe
+[ 38%] Built target PowerKick_Standalone
+[ 41%] Built target PowerKick_vst3_helper
+[ 42%] Linking CXX shared module PowerKick_artefacts/Release/VST3/PowerKick.vst3/Contents/x86_64-win/PowerKick.vst3
+removing moduleinfo.json
+creating /Users/roman/Library/Caches/PowerKickBuildWin/PowerKick_artefacts/Release/VST3/PowerKick.vst3
+[ 51%] Built target PowerKick_VST3
+[ 53%] Built target powerkick_tests_rc_lib
+[ 54%] Building CXX object CMakeFiles/powerkick_tests.dir/Source/KickRenderer.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/KickRenderer.cpp(77,13): warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+   77 |         wav.createWriterFor (stream.get(), sampleRate, (unsigned int) audio.getNumChannels(), 24, {}, 0));
+      |             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h(178,7): note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+1 warning generated.
+[ 55%] Building CXX object CMakeFiles/powerkick_tests.dir/Tests/PowerKickTests.cpp.obj
+[ 56%] Linking CXX executable powerkick_tests_artefacts/Release/powerkick_tests.exe
+[ 76%] Built target powerkick_tests
+[ 78%] Built target powerkick_wrapper_tests_rc_lib
+[ 80%] Building CXX object CMakeFiles/powerkick_wrapper_tests.dir/Tests/WrapperTests.cpp.obj
+[ 81%] Linking CXX executable powerkick_wrapper_tests_artefacts/Release/powerkick_wrapper_tests.exe
+[100%] Built target powerkick_wrapper_tests

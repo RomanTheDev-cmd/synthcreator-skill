@@ -1,0 +1,18 @@
+[
+  {
+    "command": [
+      "/usr/bin/arch",
+      "-x86_64",
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal/powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests"
+    ],
+    "returncode": 0
+  },
+  {
+    "command": [
+      "/usr/bin/arch",
+      "-x86_64",
+      "/Users/roman/Library/Caches/PowerBassBuildUniversal/powerbass_tests_artefacts/Release/powerbass_tests"
+    ],
+    "returncode": 0
+  }
+]

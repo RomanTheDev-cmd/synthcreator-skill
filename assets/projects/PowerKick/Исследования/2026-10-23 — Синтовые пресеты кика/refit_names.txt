@@ -1,0 +1,88 @@
+Clean Boom A#1
+Clean Boom B1
+Clean Boom B1 II
+Clean Boom F1
+Clean Clang A#1
+Clean Clang A#1 II
+Clean Clang A#1 III
+Clean Clang A1
+Clean Clang B1
+Clean Clang B1 II
+Clean Clang F#1 II
+Clean Clang F#1 III
+Clean Clang F1 II
+Clean Clang G#1 II
+Clean Clang G#1 III
+Clean Clang G1 V
+Clean Click A#1 II
+Clean Click A#1 III
+Clean Click B1
+Clean Click D#1 II
+Clean Click F1
+Clean Click F1 II
+Clean Click F1 IV
+Clean Click G1 III
+Clean Click G1 IV
+Clean Drop F1
+Clean Drop G#1
+Clean Drop G1
+Clean Rumble A#1
+Clean Rumble F#1
+Clean Rumble G1
+Clean Thump A#1
+Clean Thump A#1 II
+Clipped Clang B1 III
+Clipped Clang F#1 III
+Clipped Rumble B1 II
+Crushed Clang C2 II
+Crushed Clang G#1
+Deep Drop
+Driven Drop G1
+Grinding Click A1
+Schranz Air
+Sub Pressure
+Ticking Body
+Warm Boom A1
+Warm Boom A1 II
+Warm Boom G#1
+Warm Clang A#1
+Warm Clang A#1 II
+Warm Clang A#1 III
+Warm Clang A#1 IV
+Warm Clang A#1 V
+Warm Clang A#1 VIII
+Warm Clang A1 II
+Warm Clang A1 VI
+Warm Clang B1
+Warm Clang B1 14
+Warm Clang B1 II
+Warm Clang B1 IV
+Warm Clang B1 IX
+Warm Clang B1 VIII
+Warm Clang B1 XI
+Warm Clang B1 XII
+Warm Clang F1
+Warm Clang F1 IV
+Warm Clang F1 V
+Warm Clang G#1 V
+Warm Clang G#1 VI
+Warm Click A#1
+Warm Click A1 III
+Warm Click A1 IV
+Warm Click D#1
+Warm Click E1
+Warm Click F#1
+Warm Click G#1 III
+Warm Click G1
+Warm Drop D1
+Warm Drop G#1
+Warm Rumble A#1 II
+Wide Clean Boom A#1
+Wide Clean Boom B1
+Wide Clean Clang B1
+Wide Clean Clang B1 II
+Wide Crushed Rumble A1
+Wide Warm Clang A#1
+Wide Warm Clang C2
+Wide Warm Clang F#1
+Wide Warm Click G#1

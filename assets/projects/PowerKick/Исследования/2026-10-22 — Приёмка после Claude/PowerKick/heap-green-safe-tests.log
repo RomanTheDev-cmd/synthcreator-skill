@@ -1,0 +1,2 @@
+FAIL: malloc callback detects JUCE AudioBuffer allocation (0)
+FAILED 8/9 checks

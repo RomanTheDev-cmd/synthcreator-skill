@@ -1,0 +1,29 @@
+[
+  {
+    "command": [
+      "/usr/bin/arch",
+      "-arm64",
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal/powerkick_tests_artefacts/Release/powerkick_tests"
+    ],
+    "returncode": 0,
+    "seconds": 67.27518081665039
+  },
+  {
+    "command": [
+      "/usr/bin/arch",
+      "-x86_64",
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal/powerkick_tests_artefacts/Release/powerkick_tests"
+    ],
+    "returncode": 0,
+    "seconds": 157.65778493881226
+  },
+  {
+    "command": [
+      "/usr/bin/arch",
+      "-x86_64",
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal/powerkick_wrapper_tests_artefacts/Release/powerkick_wrapper_tests"
+    ],
+    "returncode": 0,
+    "seconds": 1.8079922199249268
+  }
+]

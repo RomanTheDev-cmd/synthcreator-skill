@@ -1,0 +1,42 @@
+{
+  "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213107/PowerKick/win",
+  "steps": [
+    {
+      "source": "/Users/roman/Library/Caches/PowerKickBuildWin/PowerKick_artefacts/Release/VST3/PowerKick.vst3",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/Windows/PowerKick.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213107/PowerKick/win/export-vst3",
+      "before": {
+        "Contents/x86_64-win/PowerKick.vst3.manifest": "36660799afd242f2d606943bd879050d6875cd2a47c6250d43c17acd649aa1af",
+        "Contents/x86_64-win/PowerKick.vst3": "e90b55314d4cc67e63fd219d894ff45a1f87fc9013c7b212b0deb7924ae9fa0c",
+        "Contents/Resources/moduleinfo.json": "5928b0b6ec0c3a6dbb777a458bc3efd3f44f6152588076f78f038de0cdd62a27"
+      },
+      "after": {
+        "Contents/x86_64-win/PowerKick.vst3.manifest": "36660799afd242f2d606943bd879050d6875cd2a47c6250d43c17acd649aa1af",
+        "Contents/x86_64-win/PowerKick.vst3": "897605fc462046a0bd21bfe204760e5e23cf163774c05906efd38fb63457e02c",
+        "Contents/Resources/moduleinfo.json": "5928b0b6ec0c3a6dbb777a458bc3efd3f44f6152588076f78f038de0cdd62a27"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerKickBuildWin/PowerKick_artefacts/Release/Standalone/PowerKick.exe",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/Windows/PowerKick.exe",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213107/PowerKick/win/export-exe",
+      "before": {
+        "PowerKick.exe": "c469b2fd5b3f7f7354020e9b4c39d8c70f50e8dc23eadc5fe840fbfc99a45e5a"
+      },
+      "after": {
+        "PowerKick.exe": "dc0eeca0e4c14fdbd7a3cc58599d613c229eff20cc5dea01d3094b93257dc259"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213107/PowerKick/win/PowerKick-new.zip",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/PowerKick-1.0.0-Windows-x64.zip",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213107/PowerKick/win/export-zip",
+      "before": {
+        "PowerKick-1.0.0-Windows-x64.zip": "324790500aa80710a791679b976a973b8422d05eb4a659f333c26710b23a5d72"
+      },
+      "after": {
+        "PowerKick-1.0.0-Windows-x64.zip": "188e954208f277d8af979aef3459ae1b72dac489d933c9d9ec1b0c4375bc67c5"
+      }
+    }
+  ]
+}

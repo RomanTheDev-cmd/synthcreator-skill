@@ -1,0 +1,105 @@
+=== hc_PowerBass
+OK   the VST3 bundle holds one plug-in (1)
+     PowerBass by MyDarknessDays, version 1.0.0
+OK   it is an instrument
+OK   an instance is created
+     2116 parameters, 2 outputs, latency 0 samples
+OK   its parameters are visible to the host
+OK   sound at 44100 Hz, block 64: peak -2.5 dBFS
+OK   sound at 44100 Hz, block 512: peak -2.5 dBFS
+OK   sound at 48000 Hz, block 64: peak -2.5 dBFS
+OK   sound at 48000 Hz, block 512: peak -2.5 dBFS
+OK   sound at 96000 Hz, block 64: peak -2.5 dBFS
+OK   sound at 96000 Hz, block 512: peak -2.5 dBFS
+OK   state saved and restored (2233 bytes, Shape)
+OK   the editor is created (1080x720)
+OK   the editor shows in a window (1080x720)
+OK   sound while the editor is open
+     ... closing the editor
+
+=== hc_PowerKick
+OK   the VST3 bundle holds one plug-in (1)
+     PowerKick by MyDarknessDays, version 1.0.0
+OK   it is an instrument
+OK   an instance is created
+     2116 parameters, 2 outputs, latency 0 samples
+OK   its parameters are visible to the host
+OK   sound at 44100 Hz, block 64: peak -1.4 dBFS
+OK   sound at 44100 Hz, block 512: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 512: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 512: peak -1.4 dBFS
+OK   state saved and restored (2164 bytes, Tune)
+OK   the editor is created (920x660)
+OK   the editor shows in a window (920x660)
+OK   sound while the editor is open
+     ... closing the editor
+
+=== hc_kick_fixed_oldhost
+OK   the VST3 bundle holds one plug-in (1)
+     PowerKick by MyDarknessDays, version 1.0.0
+OK   it is an instrument
+OK   an instance is created
+     2116 parameters, 2 outputs, latency 0 samples
+OK   its parameters are visible to the host
+OK   sound at 44100 Hz, block 64: peak -1.4 dBFS
+OK   sound at 44100 Hz, block 512: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 512: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 512: peak -1.4 dBFS
+OK   state saved and restored (2164 bytes, Tune)
+OK   the editor is created (920x660)
+OK   the editor shows in a window (920x660)
+OK   sound while the editor is open
+     ... closing the editor: removing it from the window
+     ... closing the editor: closing the window
+     ... closing the editor: deleting the editor
+
+=== hc_newhost_newkick
+OK   the VST3 bundle holds one plug-in (1)
+     PowerKick by MyDarknessDays, version 1.0.0
+OK   it is an instrument
+OK   an instance is created
+     2116 parameters, 2 outputs, latency 0 samples
+OK   its parameters are visible to the host
+OK   sound at 44100 Hz, block 64: peak -1.4 dBFS
+OK   sound at 44100 Hz, block 512: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 512: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 512: peak -1.4 dBFS
+OK   state saved and restored (2164 bytes, Tune)
+OK   the editor is created (920x660)
+OK   the editor shows in a window (920x660)
+OK   sound while the editor is open
+     ... closing the editor: removing it from the window
+     ... closing the editor: closing the window
+     ... closing the editor: deleting the editor
+OK   the editor closes
+     ... deleting the instance
+     ... unloading
+PASS
+
+=== hc_newhost_oldkick
+OK   the VST3 bundle holds one plug-in (1)
+     PowerKick by MyDarknessDays, version 1.0.0
+OK   it is an instrument
+OK   an instance is created
+     2116 parameters, 2 outputs, latency 0 samples
+OK   its parameters are visible to the host
+OK   sound at 44100 Hz, block 64: peak -1.4 dBFS
+OK   sound at 44100 Hz, block 512: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 48000 Hz, block 512: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 64: peak -1.4 dBFS
+OK   sound at 96000 Hz, block 512: peak -1.4 dBFS
+OK   state saved and restored (2164 bytes, Tune)
+OK   the editor is created (920x660)
+OK   the editor shows in a window (920x660)
+OK   sound while the editor is open
+     ... closing the editor: removing it from the window
+     ... closing the editor: closing the window
+     ... closing the editor: deleting the editor
+

@@ -1,0 +1,232 @@
+{
+  "cases": 1200,
+  "presets": 300,
+  "cold_warm_changed": 0,
+  "delay0_cold_warm_changed": 0,
+  "parameters": {
+    "attack_ms": {
+      "min": 0.5,
+      "median": 3.1505,
+      "max": 40.0,
+      "count_positive": 300
+    },
+    "stereo_delay_ms": {
+      "min": 0.0,
+      "median": 0.0,
+      "max": 0.0,
+      "count_positive": 0
+    },
+    "width": {
+      "min": 0.0,
+      "median": 0.6826,
+      "max": 1.0,
+      "count_positive": 267
+    },
+    "glide_ms": {
+      "min": 0.0,
+      "median": 0.0,
+      "max": 80.0,
+      "count_positive": 1
+    },
+    "reported_latency": {
+      "min": 6.0,
+      "median": 6.0,
+      "max": 6.0,
+      "count_positive": 300
+    },
+    "onset40_ms": {
+      "min": 0.0,
+      "median": 0.166667,
+      "max": 10.9375,
+      "count_positive": 259
+    },
+    "peak30_ms": {
+      "min": 2.875,
+      "median": 19.90625,
+      "max": 29.9792,
+      "count_positive": 300
+    }
+  },
+  "largest_warm_differences": [
+    {
+      "preset": "Biting Reese 13",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.5",
+      "stereo_delay_ms": "0",
+      "width": "1",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0.0625",
+      "peak30_ms": "29.7083",
+      "peak30": "0.689127",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Biting Reese 15",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.5",
+      "stereo_delay_ms": "0",
+      "width": "0.6125",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0.270833",
+      "onset40_ms": "0.291667",
+      "peak30_ms": "5.41667",
+      "peak30": "0.630577",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Biting Reese 14",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.5",
+      "stereo_delay_ms": "0",
+      "width": "0.6276",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0.0208333",
+      "onset40_ms": "0.0625",
+      "peak30_ms": "5.5",
+      "peak30": "0.524571",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Reese Core",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "3.926",
+      "stereo_delay_ms": "0",
+      "width": "0.6111",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0.104167",
+      "onset40_ms": "0.1875",
+      "peak30_ms": "25.3542",
+      "peak30": "0.746215",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Biting Reese 16",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "2.056",
+      "stereo_delay_ms": "0",
+      "width": "0.75",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0.0416667",
+      "peak30_ms": "24.7292",
+      "peak30": "0.643344",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Biting Reese 17",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.5",
+      "stereo_delay_ms": "0",
+      "width": "0.9037",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0",
+      "peak30_ms": "28.875",
+      "peak30": "0.712471",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Crushed Reese 02",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.8647",
+      "stereo_delay_ms": "0",
+      "width": "0.9042",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0.0208333",
+      "peak30_ms": "29.4167",
+      "peak30": "0.71848",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Biting Reese 18",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.8647",
+      "stereo_delay_ms": "0",
+      "width": "0.625",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0",
+      "peak30_ms": "15.875",
+      "peak30": "0.703292",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Crushed Reese 03",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.8647",
+      "stereo_delay_ms": "0",
+      "width": "0.9941",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0.0625",
+      "onset40_ms": "0.25",
+      "peak30_ms": "26",
+      "peak30": "0.600404",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Dark Reese 10",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "4.472",
+      "stereo_delay_ms": "0",
+      "width": "0.8968",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0.104167",
+      "peak30_ms": "27",
+      "peak30": "0.838776",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Dark Reese 11",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "5.107",
+      "stereo_delay_ms": "0",
+      "width": "0.875",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0.0833333",
+      "peak30_ms": "29.9792",
+      "peak30": "0.602204",
+      "max_diff_vs_cold": "0"
+    },
+    {
+      "preset": "Dark Reese 12",
+      "scenario": "1",
+      "os": "1",
+      "attack_ms": "0.8647",
+      "stereo_delay_ms": "0",
+      "width": "0.7853",
+      "glide_ms": "0",
+      "reported_latency": "6",
+      "onset60_ms": "0",
+      "onset40_ms": "0",
+      "peak30_ms": "12.5",
+      "peak30": "0.802695",
+      "max_diff_vs_cold": "0"
+    }
+  ]
+}

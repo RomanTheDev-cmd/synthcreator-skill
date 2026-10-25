@@ -1,0 +1,45 @@
+[  1%] Building CXX object CMakeFiles/PowerBass.dir/Source/Params.cpp.obj
+[  2%] Building CXX object CMakeFiles/PowerBass.dir/Source/Presets.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/Presets.cpp(31,51): warning: missing field 'group' initializer [-Wmissing-field-initializers]
+   31 |             Preset p { d.name, d.category, {}, {} };
+      |                                                   ^
+1 warning generated.
+[  3%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginProcessor.cpp.obj
+[  4%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginEditor.cpp.obj
+[  5%] Linking CXX static library PowerBass_artefacts/Release/PowerBass_SharedCode.lib
+[ 26%] Built target PowerBass
+[ 28%] Built target PowerBass_rc_lib
+[ 29%] Linking CXX executable PowerBass_artefacts/Release/Standalone/PowerBass.exe
+[ 38%] Built target PowerBass_Standalone
+[ 40%] Built target PowerBass_vst3_helper
+[ 42%] Linking CXX shared module PowerBass_artefacts/Release/VST3/PowerBass.vst3/Contents/x86_64-win/PowerBass.vst3
+removing moduleinfo.json
+creating /Users/roman/Library/Caches/PowerBassBuildWin/PowerBass_artefacts/Release/VST3/PowerBass.vst3
+[ 51%] Built target PowerBass_VST3
+[ 53%] Built target powerbass_tests_rc_lib
+[ 54%] Building CXX object CMakeFiles/powerbass_tests.dir/Source/Params.cpp.obj
+[ 55%] Building CXX object CMakeFiles/powerbass_tests.dir/Source/Presets.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/Presets.cpp(31,51): warning: missing field 'group' initializer [-Wmissing-field-initializers]
+   31 |             Preset p { d.name, d.category, {}, {} };
+      |                                                   ^
+1 warning generated.
+[ 56%] Building CXX object CMakeFiles/powerbass_tests.dir/Tests/PowerBassTests.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(719,61): warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  719 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h(178,7): note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(103,8): warning: unused function 'bandRmsSteep' [-Wunused-function]
+  103 | double bandRmsSteep (const std::vector<float>& x, double sr, double f1, double f2)
+      |        ^~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(201,13): warning: unused function 'preset' [-Wunused-function]
+  201 | SynthParams preset (const char* name)
+      |             ^~~~~~
+3 warnings generated.
+[ 57%] Linking CXX executable powerbass_tests_artefacts/Release/powerbass_tests.exe
+[ 76%] Built target powerbass_tests
+[ 78%] Built target powerbass_wrapper_tests_rc_lib
+[ 79%] Building CXX object CMakeFiles/powerbass_wrapper_tests.dir/Tests/WrapperTests.cpp.obj
+[ 80%] Linking CXX executable powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests.exe
+[100%] Built target powerbass_wrapper_tests

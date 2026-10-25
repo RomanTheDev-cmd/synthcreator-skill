@@ -1,0 +1,11 @@
+{
+  "command": [
+    "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+    "--build",
+    "/Users/roman/Library/Caches/PowerBassBuildDev",
+    "--target",
+    "test"
+  ],
+  "returncode": 0,
+  "seconds": 202.0884780883789
+}

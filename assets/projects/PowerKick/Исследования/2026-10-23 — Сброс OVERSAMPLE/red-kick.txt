@@ -1,0 +1,7 @@
+FAIL: every preset keeps OVERSAMPLE 2x (0/300)
+FAIL: latency at 2x unchanged by preset switches (6 vs 4)
+FAIL: every preset keeps OVERSAMPLE 8x (0/300)
+FAIL: a snapshot with OVERSAMPLE 2x keeps 8x but applies its DECAY
+FAIL: switching back to A keeps the OVERSAMPLE chosen on B (got index 2)
+FAIL: undoing a variation keeps OVERSAMPLE (got index 2)
+FAILED 95/101 wrapper checks

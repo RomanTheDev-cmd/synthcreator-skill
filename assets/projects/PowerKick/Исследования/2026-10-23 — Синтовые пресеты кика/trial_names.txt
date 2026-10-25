@@ -1,0 +1,5 @@
+Clean Clang B1
+Warm Clang A1 VI
+Warm Clang F1 IV
+Wide Warm Clang F#1
+Clean Clang F#1 III

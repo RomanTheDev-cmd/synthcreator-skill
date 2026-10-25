@@ -1,0 +1,4 @@
+interface:
+  display_name: "SynthCreator"
+  short_description: "Разработка синтезаторов по опыту PowerKick и PowerBass"
+  default_prompt: "Используй $synthcreator для разработки или улучшения моего аудиосинтезатора с учётом опыта PowerKick и PowerBass."

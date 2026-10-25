@@ -1,0 +1,152 @@
+{"app_name":"heap-red","timestamp":"2026-10-22 21:30:35.00 +0300","app_version":"","slice_uuid":"2f4eb268-40d9-3d4f-828a-8157a4285029","build_version":"","platform":1,"share_with_app_devs":0,"is_first_party":1,"bug_type":"309","os_version":"macOS 27.0.1 (26A434)","roots_installed":0,"incident_id":"ED95A343-E8DE-40E7-81D3-FBAFC72ABA15","name":"heap-red"}
+{
+  "uptime" : 67000,
+  "procRole" : "Unspecified",
+  "version" : 2,
+  "userID" : 501,
+  "deployVersion" : 210,
+  "modelCode" : "Mac17,2",
+  "coalitionID" : 9083,
+  "osVersion" : {
+    "train" : "macOS 27.0.1",
+    "build" : "26A434",
+    "releaseType" : "User"
+  },
+  "captureTime" : "2026-10-22 21:30:33.6471 +0300",
+  "codeSigningMonitor" : 2,
+  "incident" : "ED95A343-E8DE-40E7-81D3-FBAFC72ABA15",
+  "pid" : 60803,
+  "translated" : false,
+  "cpuType" : "ARM-64",
+  "procLaunch" : "2026-10-22 21:30:30.9545 +0300",
+  "procStartAbsTime" : 1609466724631,
+  "procExitAbsTime" : 1609498310201,
+  "procName" : "heap-red",
+  "procPath" : "\/Users\/USER\/Library\/Mobile Documents\/com~apple~CloudDocs\/*\/heap-red",
+  "parentProc" : "Exited process",
+  "parentPid" : 60704,
+  "coalitionName" : "com.openai.codex",
+  "crashReporterKey" : "97EE7F53-9130-D686-D11A-AC1BB470FB97",
+  "chargingStatus" : {"externalSourceConnected":true},
+  "developerMode" : 1,
+  "responsiblePid" : 42779,
+  "responsibleProc" : "ChatGPT",
+  "codeSigningID" : "heap-red",
+  "codeSigningTeamID" : "",
+  "codeSigningFlags" : 570556929,
+  "codeSigningValidationCategory" : 10,
+  "codeSigningTrustLevel" : 4294967295,
+  "codeSigningAuxiliaryInfo" : 0,
+  "instructionByteStream" : {"beforePC":"MfJ9kjF6cPiRAAC0EAxAuSACEIvAA1\/WfyMD1f17v6n9AwCR\/4ME0Q==","atPC":"4Qu\/qeMTv6nlG7+p5yO\/qekrv6nrM7+p7Tu\/qe9Dv6ngB7+t4g+\/rQ=="},
+  "bootSessionUUID" : "B8B04187-D124-475B-9A66-41B2B7594783",
+  "wakeTime" : 16063,
+  "sleepWakeUUID" : "490B7BD7-8D3C-4980-8660-67DC4C348A2E",
+  "sip" : "enabled",
+  "vmRegionInfo" : "0x16b077f10 is in 0x16b074000-0x16b078000;  bytes after start: 16144  bytes before end: 239\n      REGION TYPE                    START - END         [ VSIZE] PRT\/MAX SHRMOD  REGION DETAIL\n      Stack                       16a878000-16b074000    [ 8176K] rw-\/rwx SM=COW  thread 0\n--->  Stack Guard                 16b074000-16b078000    [   16K] ---\/rwx SM=PRV  \n      Stack                       16b078000-16b100000    [  544K] rw-\/rwx SM=COW  ",
+  "exception" : {"codes":"0x0000000000000002, 0x000000016b077f10","message":"Could not determine thread index for stack guard region","rawCodes":[2,6090620688],"type":"EXC_BAD_ACCESS","signal":"SIGBUS","subtype":"KERN_PROTECTION_FAILURE at 0x000000016b077f10"},
+  "termination" : {"flags":0,"code":10,"namespace":"SIGNAL","indicator":"Bus error: 10","byProc":"exc handler","byPid":60803},
+  "vmregioninfo" : "0x16b077f10 is in 0x16b074000-0x16b078000;  bytes after start: 16144  bytes before end: 239\n      REGION TYPE                    START - END         [ VSIZE] PRT\/MAX SHRMOD  REGION DETAIL\n      Stack                       16a878000-16b074000    [ 8176K] rw-\/rwx SM=COW  thread 0\n--->  Stack Guard                 16b074000-16b078000    [   16K] ---\/rwx SM=PRV  \n      Stack                       16b078000-16b100000    [  544K] rw-\/rwx SM=COW  ",
+  "extMods" : {"caller":{"thread_create":0,"thread_set_state":0,"task_for_pid":0},"system":{"thread_create":0,"thread_set_state":20,"task_for_pid":3},"targeted":{"thread_create":0,"thread_set_state":0,"task_for_pid":0},"warnings":0},
+  "faultingThread" : 1,
+  "threads" : [{"id":1120229,"threadState":{"x":[{"value":0},{"value":6090586392},{"value":0},{"value":0},{"value":517359043808},{"value":0},{"value":1},{"value":18446744072367376383},{"value":8379400192,"symbolLocation":56,"symbol":"_CSBackupRuleTreeGetTypeID.typeIDLock"},{"value":1},{"value":0},{"value":2},{"value":4855443353099264},{"value":0},{"value":0},{"value":0},{"value":6774103948,"symbolLocation":0,"symbol":"CreateUnicodeToTextInfo"},{"value":4389386848},{"value":0},{"value":6090586392},{"value":517354913848},{"value":1},{"value":6090586544},{"value":6090586404},{"value":4379942952,"symbolLocation":0,"symbol":"juce::emptyString"},{"value":4389414080},{"value":4379942968,"symbolLocation":16,"symbol":"juce::emptyString"},{"value":517359042864},{"value":4379788720,"symbolLocation":16,"symbol":"vtable for juce::AudioProcessorValueTreeState::AudioProcessorValueTreeState(juce::AudioProcessor&, juce::UndoManager*, juce::Identifier const&, juce::AudioProcessorValueTreeState::ParameterLayout)::PushBackVisitor"}],"flavor":"ARM_THREAD_STATE64","lr":{"value":6774103992},"cpsr":{"value":2147483648},"fp":{"value":6090586320},"sp":{"value":6090586272},"esr":{"value":2449473615,"description":"(Data Abort) byte write Permission fault"},"pc":{"value":6774089292},"far":{"value":8379402504}},"queue":"com.apple.main-thread","frames":[{"imageOffset":42572,"symbol":"INIT_UnicodeConverter","symbolLocation":16,"imageIndex":1},{"imageOffset":57272,"symbol":"CreateUnicodeToTextInfoImplementation","symbolLocation":40,"imageIndex":1},{"imageOffset":2445792,"symbol":"juce::String::convertToPrecomposedUnicode() const","symbolLocation":112,"imageIndex":0},{"imageOffset":2287224,"symbol":"juce::File::getSpecialLocation(juce::File::SpecialLocationType)","symbolLocation":1128,"imageIndex":0},{"imageOffset":2836484,"symbol":"PowerKickProcessor::PowerKickProcessor()","symbolLocation":2836,"imageIndex":0},{"imageOffset":32712,"symbol":"main","symbolLocation":712,"imageIndex":0},{"imageOffset":204416,"symbol":"start","symbolLocation":6688,"imageIndex":2}]},{"recursionInfoArray":[{"hottestElided":8,"coldestElided":3407,"depth":686,"keyFrame":{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0}}],"id":1120254,"originalLength":3427,"triggered":true,"threadState":{"x":[{"value":4379942984,"symbolLocation":0,"symbol":"trackHeap"},{"value":4385800192},{"value":128},{"value":0},{"value":517350756352},{"value":0},{"value":1},{"value":18446744072367376383},{"value":74},{"value":6701067848,"symbolLocation":0,"symbol":"_tlv_get_addr"},{"value":0},{"value":2},{"value":4391936},{"value":0},{"value":0},{"value":0},{"value":258},{"value":0},{"value":0},{"value":1},{"value":1},{"value":128},{"value":4385800192},{"value":517350756352},{"value":6091157728},{"value":2925143094},{"value":0},{"value":0},{"value":0}],"flavor":"ARM_THREAD_STATE64","lr":{"value":4376313040},"cpsr":{"value":2147483648},"fp":{"value":6090620992},"sp":{"value":6090620704},"esr":{"value":2449473607,"description":"(Data Abort) byte write Translation fault"},"pc":{"value":6701067896,"matchesCrashFrame":1},"far":{"value":6090620688}},"frames":[{"imageOffset":32376,"symbol":"_tlv_get_addr","symbolLocation":48,"imageIndex":4},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":260240,"symbol":"_malloc_zone_calloc_instrumented_or_legacy","symbolLocation":244,"imageIndex":5},{"imageOffset":126520,"symbol":"_malloc_type_calloc_outlined","symbolLocation":88,"imageIndex":5},{"imageOffset":35616,"symbol":"dyld::ThreadLocalVariables::instantiateVariable(dyld::ThreadLocalVariables::Thunk const&)","symbolLocation":96,"imageIndex":4},{"imageOffset":32432,"symbol":"_tlv_get_addr","symbolLocation":104,"imageIndex":4},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":260240,"symbol":"_malloc_zone_calloc_instrumented_or_legacy","symbolLocation":244,"imageIndex":5},{"imageOffset":126520,"symbol":"_malloc_type_calloc_outlined","symbolLocation":88,"imageIndex":5},{"imageOffset":35616,"symbol":"dyld::ThreadLocalVariables::instantiateVariable(dyld::ThreadLocalVariables::Thunk const&)","symbolLocation":96,"imageIndex":4},{"imageOffset":32432,"symbol":"_tlv_get_addr","symbolLocation":104,"imageIndex":4},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":260240,"symbol":"_malloc_zone_calloc_instrumented_or_legacy","symbolLocation":244,"imageIndex":5},{"imageOffset":126520,"symbol":"_malloc_type_calloc_outlined","symbolLocation":88,"imageIndex":5},{"imageOffset":35616,"symbol":"dyld::ThreadLocalVariables::instantiateVariable(dyld::ThreadLocalVariables::Thunk const&)","symbolLocation":96,"imageIndex":4},{"imageOffset":32432,"symbol":"_tlv_get_addr","symbolLocation":104,"imageIndex":4},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":260240,"symbol":"_malloc_zone_calloc_instrumented_or_legacy","symbolLocation":244,"imageIndex":5},{"imageOffset":126520,"symbol":"_malloc_type_calloc_outlined","symbolLocation":88,"imageIndex":5},{"imageOffset":35616,"symbol":"dyld::ThreadLocalVariables::instantiateVariable(dyld::ThreadLocalVariables::Thunk const&)","symbolLocation":96,"imageIndex":4},{"imageOffset":32432,"symbol":"_tlv_get_addr","symbolLocation":104,"imageIndex":4},{"imageOffset":31952,"symbol":"heapLogger(unsigned int, unsigned long, unsigned long, unsigned long, unsigned long, unsigned int)","symbolLocation":28,"imageIndex":0},{"imageOffset":259748,"symbol":"_malloc_zone_malloc_instrumented_or_legacy","symbolLocation":268,"imageIndex":5},{"imageOffset":2484988,"symbol":"juce::Thread::createNativeThread(juce::Thread::Priority)::$_0::__invoke(void*)","symbolLocation":424,"imageIndex":0},{"imageOffset":27904,"symbol":"_pthread_start","symbolLocation":136,"imageIndex":6},{"imageOffset":7404,"symbol":"thread_start","symbolLocation":8,"imageIndex":6}]}],
+  "usedImages" : [
+  {
+    "source" : "P",
+    "arch" : "arm64",
+    "base" : 4376281088,
+    "size" : 3506176,
+    "uuid" : "2f4eb268-40d9-3d4f-828a-8157a4285029",
+    "path" : "\/Users\/USER\/Library\/Mobile Documents\/com~apple~CloudDocs\/*\/heap-red",
+    "name" : "heap-red"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 6774046720,
+    "CFBundleShortVersionString" : "1333",
+    "CFBundleIdentifier" : "com.apple.CoreServices.CarbonCore",
+    "size" : 3084068,
+    "uuid" : "a2180bac-d51d-3e70-acce-e33f35587cb7",
+    "path" : "\/System\/Library\/Frameworks\/CoreServices.framework\/Versions\/A\/Frameworks\/CarbonCore.framework\/Versions\/A\/CarbonCore",
+    "name" : "CarbonCore",
+    "CFBundleVersion" : "1333"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 6701195264,
+    "size" : 784100,
+    "uuid" : "d341ddcb-7969-3a9c-8e03-0cf4751398a9",
+    "path" : "\/usr\/lib\/dyld",
+    "name" : "dyld"
+  },
+  {
+    "size" : 0,
+    "source" : "A",
+    "base" : 0,
+    "uuid" : "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 6701035520,
+    "size" : 159036,
+    "uuid" : "62863bca-dd60-3d32-a9db-89099ba6f3d7",
+    "path" : "\/usr\/lib\/system\/libdyld.dylib",
+    "name" : "libdyld.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 6703222784,
+    "size" : 351328,
+    "uuid" : "2339cb57-fe5a-3154-a206-a76059c749eb",
+    "path" : "\/usr\/lib\/system\/libsystem_malloc.dylib",
+    "name" : "libsystem_malloc.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 6705393664,
+    "size" : 51484,
+    "uuid" : "5a1828c3-cbc2-3b85-bd07-c8ed10021a41",
+    "path" : "\/usr\/lib\/system\/libsystem_pthread.dylib",
+    "name" : "libsystem_pthread.dylib"
+  }
+],
+  "sharedCache" : {
+  "base" : 6696452096,
+  "size" : 7410368512,
+  "uuid" : "c284a291-b68b-3d0d-a1a0-3f866f87efdc"
+},
+  "legacyInfo" : {
+  "threadTriggered" : {
+
+  }
+},
+  "logWritingSignature" : "d557b9e8786fda727cb82dcbeba5fe252919483f",
+  "roots_installed" : 0,
+  "bug_type" : "309",
+  "trmStatus" : 1,
+  "trialInfo" : {
+  "rollouts" : [
+    {
+      "rolloutId" : "644114de41e7236e6177f9bd",
+      "factorPackIds" : [
+
+      ],
+      "deploymentId" : 240000013
+    },
+    {
+      "rolloutId" : "661464ecda55e5192b100804",
+      "factorPackIds" : [
+
+      ],
+      "deploymentId" : 240000005
+    }
+  ],
+  "experiments" : [
+
+  ]
+}
+}

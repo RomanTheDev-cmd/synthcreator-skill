@@ -1,0 +1,49 @@
+preset,scenario,mode,pre_peak_dbfs,safety_samples,rms_dbfs,file
+Reese Core,0,0,-2.20659,0,-14.0493,Reese_Core-s0-m0.f32
+Reese Core,0,2,-1.1309,0,-14.3494,Reese_Core-s0-m2.f32
+Reese Core,1,0,-1.68936,0,-11.8935,Reese_Core-s1-m0.f32
+Reese Core,1,2,0.976034,119,-12.1891,Reese_Core-s1-m2.f32
+Reese Core,2,0,-1.07178,0,-9.35658,Reese_Core-s2-m0.f32
+Reese Core,2,2,1.66009,1138,-9.26529,Reese_Core-s2-m2.f32
+Reese Core,3,0,-2.27869,0,-16.5896,Reese_Core-s3-m0.f32
+Reese Core,3,2,-4.16085,0,-16.58,Reese_Core-s3-m2.f32
+Dark Reese 12,0,0,-1.90899,0,-18.5279,Dark_Reese_12-s0-m0.f32
+Dark Reese 12,0,2,-1.56708,0,-19.5406,Dark_Reese_12-s0-m2.f32
+Dark Reese 12,1,0,-1.90899,0,-13.3293,Dark_Reese_12-s1-m0.f32
+Dark Reese 12,1,2,-1.08859,0,-13.6093,Dark_Reese_12-s1-m2.f32
+Dark Reese 12,2,0,-0.74464,25,-9.58968,Dark_Reese_12-s2-m0.f32
+Dark Reese 12,2,2,-0.474092,45,-10.1328,Dark_Reese_12-s2-m2.f32
+Dark Reese 12,3,0,-3.96874,0,-21.0693,Dark_Reese_12-s3-m0.f32
+Dark Reese 12,3,2,-3.96276,0,-20.9816,Dark_Reese_12-s3-m2.f32
+Heavy Reese 02,0,0,-4.05686,0,-17.5559,Heavy_Reese_02-s0-m0.f32
+Heavy Reese 02,0,2,-4.09863,0,-18.0207,Heavy_Reese_02-s0-m2.f32
+Heavy Reese 02,1,0,-2.22256,0,-14.6459,Heavy_Reese_02-s1-m0.f32
+Heavy Reese 02,1,2,-2.38197,0,-15.0889,Heavy_Reese_02-s1-m2.f32
+Heavy Reese 02,2,0,-0.672613,5,-14.4742,Heavy_Reese_02-s2-m0.f32
+Heavy Reese 02,2,2,-1.90496,0,-14.9789,Heavy_Reese_02-s2-m2.f32
+Heavy Reese 02,3,0,-12.0977,0,-27.337,Heavy_Reese_02-s3-m0.f32
+Heavy Reese 02,3,2,-11.9727,0,-27.3363,Heavy_Reese_02-s3-m2.f32
+Dark FM 07,0,0,-3.15885,0,-20.6209,Dark_FM_07-s0-m0.f32
+Dark FM 07,0,2,-0.187664,9,-21.7755,Dark_FM_07-s0-m2.f32
+Dark FM 07,1,0,-2.60175,0,-11.8103,Dark_FM_07-s1-m0.f32
+Dark FM 07,1,2,-0.187664,53,-13.2267,Dark_FM_07-s1-m2.f32
+Dark FM 07,2,0,-0.588134,4,-10.0538,Dark_FM_07-s2-m0.f32
+Dark FM 07,2,2,-0.377548,51,-11.0339,Dark_FM_07-s2-m2.f32
+Dark FM 07,3,0,-0.943704,0,-22.8149,Dark_FM_07-s3-m0.f32
+Dark FM 07,3,2,-2.86067,0,-22.7072,Dark_FM_07-s3-m2.f32
+Biting Line 03,0,0,-1.81575,0,-13.3529,Biting_Line_03-s0-m0.f32
+Biting Line 03,0,2,-3.8098,0,-15.4703,Biting_Line_03-s0-m2.f32
+Biting Line 03,1,0,-0.0448184,8,-11.406,Biting_Line_03-s1-m0.f32
+Biting Line 03,1,2,-1.76005,0,-13.2798,Biting_Line_03-s1-m2.f32
+Biting Line 03,2,0,-2.96945,0,-14.8597,Biting_Line_03-s2-m0.f32
+Biting Line 03,2,2,-3.96749,0,-15.2951,Biting_Line_03-s2-m2.f32
+Biting Line 03,3,0,-12.172,0,-24.6088,Biting_Line_03-s3-m0.f32
+Biting Line 03,3,2,-11.8176,0,-24.5851,Biting_Line_03-s3-m2.f32
+Heavy Rumble 01,0,0,-3.64554,0,-9.70817,Heavy_Rumble_01-s0-m0.f32
+Heavy Rumble 01,0,2,-1.79719,0,-7.84659,Heavy_Rumble_01-s0-m2.f32
+Heavy Rumble 01,1,0,-0.154007,92,-12.0065,Heavy_Rumble_01-s1-m0.f32
+Heavy Rumble 01,1,2,0.326542,63,-10.8686,Heavy_Rumble_01-s1-m2.f32
+Heavy Rumble 01,2,0,-10.5409,0,-20.3383,Heavy_Rumble_01-s2-m0.f32
+Heavy Rumble 01,2,2,-11.362,0,-20.7433,Heavy_Rumble_01-s2-m2.f32
+Heavy Rumble 01,3,0,-1.8739,0,-8.09879,Heavy_Rumble_01-s3-m0.f32
+Heavy Rumble 01,3,2,-1.87128,0,-8.08517,Heavy_Rumble_01-s3-m2.f32

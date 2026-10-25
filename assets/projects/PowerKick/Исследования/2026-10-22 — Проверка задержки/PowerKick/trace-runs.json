@@ -1,0 +1,110 @@
+[
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Warm Click F#1 III",
+      "0",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Warm Click F#1 III-single.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Warm Click F#1 III",
+      "1714",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Warm Click F#1 III-roll.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Warm Click F#1 III",
+      "0",
+      "0.25",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Warm Click F#1 III-soft.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Classic Punch",
+      "0",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Classic Punch-single.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Classic Punch",
+      "1714",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Classic Punch-roll.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Classic Punch",
+      "0",
+      "0.25",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Classic Punch-soft.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Crushed Click A#1",
+      "0",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Crushed Click A#1-single.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Crushed Click A#1",
+      "1714",
+      "1",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Crushed Click A#1-roll.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/trace",
+      "Crushed Click A#1",
+      "0",
+      "0.25",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/Crushed Click A#1-soft.f64"
+    ],
+    "returncode": 0,
+    "stdout": "records 48000 doubles_per_record 12\n",
+    "stderr": ""
+  }
+]

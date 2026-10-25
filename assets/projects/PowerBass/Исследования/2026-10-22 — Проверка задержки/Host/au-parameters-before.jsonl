@@ -1,0 +1,5 @@
+{"plugin":"PowerKick","id":394773374,"name":"Oversampling","info_default":1,"got":1,"delta":0,"original_value":1,"min":0,"max":2}
+{"plugin":"PowerBass","id":394773374,"name":"Oversampling","info_default":1,"got":1,"delta":0,"original_value":1,"min":0,"max":2}
+{"plugin":"PowerBass","id":740224584,"name":"Attack","info_default":0.35095524787902832,"got":0.350955218076705933,"delta":-2.98023223876953125e-08,"original_value":0.350955218076705933,"min":0,"max":1}
+{"plugin":"PowerBass","id":1370062643,"name":"FM Decay","info_default":0.354080647230148315,"got":0.354080677032470703,"delta":2.98023223876953125e-08,"original_value":0.354080677032470703,"min":0,"max":1}
+{"plugin":"PowerBass","id":2126032876,"name":"Filter Env Decay","info_default":0.181187927722930908,"got":0.181187942624092102,"delta":1.49011611938476562e-08,"original_value":0.181187942624092102,"min":0,"max":1}

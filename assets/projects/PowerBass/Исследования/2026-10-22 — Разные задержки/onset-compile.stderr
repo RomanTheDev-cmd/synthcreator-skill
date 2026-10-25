@@ -1,0 +1,75 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:484:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  484 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:484:17: note: add missing switch cases
+  484 |         switch (t)
+      |                 ^
+  485 |         {
+  486 |             case DistType::fold:
+  487 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  488 |             case DistType::destroy:
+  489 |             {
+  490 |                 double peak = 0.0;
+  491 |                 for (int i = 1; i <= 128; ++i)
+  492 |                 {
+  493 |                     const double x = i / 128.0;
+  494 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  495 |                 }
+  496 |                 return peak;
+  497 |             }
+  498 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:546:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  546 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:614:12: note: previous declaration is here
+  614 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:11:163: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   11 |  for(int scene:{0,1,2,3}){auto p=original;bool warm=scene%2;int group=scene/2;if(group)p.stereoDelayMs=0;int at=warm?sr:0,total=at+noteFrames;std::vector<float>l(total),r(total);
+      |                                                                                                                                                                 ~ ^~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:11:172: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   11 |  for(int scene:{0,1,2,3}){auto p=original;bool warm=scene%2;int group=scene/2;if(group)p.stereoDelayMs=0;int at=warm?sr:0,total=at+noteFrames;std::vector<float>l(total),r(total);
+      |                                                                                                                                                                          ~ ^~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:14:117: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   14 |  int lat=e.getLatencySamples();if(!warm){cold[group].resize(noteFrames*2);for(int i=0;i<noteFrames;i++){cold[group][i]=l[i];cold[group][noteFrames+i]=r[i];}}
+      |                                                                                                         ~~~~        ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:14:122: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   14 |  int lat=e.getLatencySamples();if(!warm){cold[group].resize(noteFrames*2);for(int i=0;i<noteFrames;i++){cold[group][i]=l[i];cold[group][noteFrames+i]=r[i];}}
+      |                                                                                                                        ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:14:147: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   14 |  int lat=e.getLatencySamples();if(!warm){cold[group].resize(noteFrames*2);for(int i=0;i<noteFrames;i++){cold[group][i]=l[i];cold[group][noteFrames+i]=r[i];}}
+      |                                                                                                                             ~~~~        ~~~~~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:14:153: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   14 |  int lat=e.getLatencySamples();if(!warm){cold[group].resize(noteFrames*2);for(int i=0;i<noteFrames;i++){cold[group][i]=l[i];cold[group][noteFrames+i]=r[i];}}
+      |                                                                                                                                                       ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:15:110: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   15 |  double peak=0;int peakAt=0;for(int i=0;i<1440;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(v>peak){peak=v;peakAt=i;}}
+      |                                                                                                      ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:15:88: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   15 |  double peak=0;int peakAt=0;for(int i=0;i<1440;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(v>peak){peak=v;peakAt=i;}}
+      |                                                                                ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:127: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                                       ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:105: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                 ~ ~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:308: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                                                                                                                                                                                                              ~~~~        ~~~~~~~~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:282: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                                                                                                                                                                                                      ~ ~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:257: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                                                                                                                                                                     ~~~~        ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/onset_matrix.cpp:16:241: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   16 |  int on60=-1,on40=-1;double diff=0;for(int i=0;i<noteFrames-lat;i++){double v=std::max(std::abs(l[at+lat+i]),std::abs(r[at+lat+i]));if(on60<0&&v>peak*.001)on60=i;if(on40<0&&v>peak*.01)on40=i;if(warm)diff=std::max({diff,std::abs((double)l[at+i]-cold[group][i]),std::abs((double)r[at+i]-cold[group][noteFrames+i])});}
+      |                                                                                                                                                                                                                                             ~ ~~^~
+17 warnings generated.

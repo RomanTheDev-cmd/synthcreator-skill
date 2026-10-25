@@ -1,0 +1,350 @@
+[  2%] Built target PowerBass_vst3_helper
+[  3%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginProcessor.cpp.o
+[  4%] Building CXX object CMakeFiles/powerbass_tests.dir/Tests/PowerBassTests.cpp.o
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:78:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   78 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:94:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   94 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:628:61: warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  628 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h:178:7: note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:83:8: warning: unused function 'bandRmsSteep' [-Wunused-function]
+   83 | double bandRmsSteep (const std::vector<float>& x, double sr, double f1, double f2)
+      |        ^~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:181:13: warning: unused function 'preset' [-Wunused-function]
+  181 | SynthParams preset (const char* name)
+      |             ^~~~~~
+3 warnings generated.
+8 warnings generated.
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+3 warnings generated.
+[  5%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginEditor.cpp.o
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:78:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   78 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:94:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   94 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:628:61: warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  628 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h:178:7: note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:83:8: warning: unused function 'bandRmsSteep' [-Wunused-function]
+   83 | double bandRmsSteep (const std::vector<float>& x, double sr, double f1, double f2)
+      |        ^~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:181:13: warning: unused function 'preset' [-Wunused-function]
+  181 | SynthParams preset (const char* name)
+      |             ^~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:3:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:3:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:521:25: warning: declaration shadows a field of 'PowerBassEditor' [-Wshadow]
+  521 |         juce::PopupMenu sub;
+      |                         ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:127:25: note: previous declaration is here
+  127 |     pb::ui::Knob shape, sub, oscDrive, fmAmount, fmRatio, fmDecay, oscMix;
+      |                         ^
+4 warnings generated.
+8 warnings generated.
+[  6%] Linking CXX executable powerbass_tests_artefacts/Release/powerbass_tests
+[ 23%] Built target powerbass_tests
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:3:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:3:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.cpp:521:25: warning: declaration shadows a field of 'PowerBassEditor' [-Wshadow]
+  521 |         juce::PopupMenu sub;
+      |                         ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginEditor.h:127:25: note: previous declaration is here
+  127 |     pb::ui::Knob shape, sub, oscDrive, fmAmount, fmRatio, fmDecay, oscMix;
+      |                         ^
+4 warnings generated.
+[ 24%] Linking CXX static library PowerBass_artefacts/Release/libPowerBass_SharedCode.a
+[ 43%] Built target PowerBass
+[ 44%] Linking CXX executable PowerBass_artefacts/Release/Standalone/PowerBass.app/Contents/MacOS/PowerBass
+[ 45%] Linking CXX CFBundle shared module PowerBass_artefacts/Release/AU/PowerBass.component/Contents/MacOS/PowerBass
+[ 56%] Built target PowerBass_AU
+[ 57%] Linking CXX CFBundle shared module PowerBass_artefacts/Release/VST3/PowerBass.vst3/Contents/MacOS/PowerBass
+[ 69%] Built target PowerBass_Standalone
+[ 70%] Building CXX object CMakeFiles/powerbass_wrapper_tests.dir/Tests/WrapperTests.cpp.o
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/WrapperTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/WrapperTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+3 warnings generated.
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/WrapperTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/WrapperTests.cpp:4:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/PluginProcessor.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  474 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:474:17: note: add missing switch cases
+  474 |         switch (t)
+      |                 ^
+  475 |         {
+  476 |             case DistType::fold:
+  477 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  478 |             case DistType::destroy:
+  479 |             {
+  480 |                 double peak = 0.0;
+  481 |                 for (int i = 1; i <= 128; ++i)
+  482 |                 {
+  483 |                     const double x = i / 128.0;
+  484 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  485 |                 }
+  486 |                 return peak;
+  487 |             }
+  488 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:536:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  536 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:595:12: note: previous declaration is here
+  595 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+3 warnings generated.
+[ 71%] Linking CXX executable powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests
+/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3: code object is not signed at all
+-- Replacing invalid signature with ad-hoc signature
+/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3: replacing existing signature
+removing moduleinfo.json
+creating /Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3
+[ 83%] Built target PowerBass_VST3
+[100%] Built target powerbass_wrapper_tests

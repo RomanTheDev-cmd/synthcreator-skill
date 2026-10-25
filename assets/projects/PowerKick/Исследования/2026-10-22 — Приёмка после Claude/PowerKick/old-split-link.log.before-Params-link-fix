@@ -1,0 +1,8 @@
+Undefined symbols for architecture arm64:
+  "pk::baseFrequency(float)", referenced from:
+      pk::dsp::KickVoice::start(pk::KickParams const&, int, float, unsigned int, double) in old-split-benchmark.o
+  "pk::decayMs(float)", referenced from:
+      pk::dsp::KickVoice::start(pk::KickParams const&, int, float, unsigned int, double) in old-split-benchmark.o
+      pk::dsp::KickVoice::start(pk::KickParams const&, int, float, unsigned int, double) in old-split-benchmark.o
+ld: symbol(s) not found for architecture arm64
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)

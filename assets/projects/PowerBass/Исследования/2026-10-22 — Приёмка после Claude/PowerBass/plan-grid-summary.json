@@ -1,0 +1,149 @@
+{
+  "head": "9e40226955996e5865090ead0d564e6dd0632255",
+  "acceptance": {
+    "status": "FAIL",
+    "criterion": "0 safety activations on the required repeat grid",
+    "expected_cases": 7200
+  },
+  "cases": 7200,
+  "presets": 300,
+  "cases_with_safety": 60,
+  "presets_with_safety": 27,
+  "safety_samples": 870,
+  "cases_with_safety_by_pattern": {
+    "0": 35,
+    "1": 25
+  },
+  "worst": [
+    {
+      "preset": "Biting Line 03",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.0448184",
+      "safety_samples": "8"
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.154007",
+      "safety_samples": "92"
+    },
+    {
+      "preset": "Biting Line 03",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.194467",
+      "safety_samples": "4"
+    },
+    {
+      "preset": "Wrecked Roller 02",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.232721",
+      "safety_samples": "85"
+    },
+    {
+      "preset": "Dark FM 07",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.276129",
+      "safety_samples": "6"
+    },
+    {
+      "preset": "Dark FM 07",
+      "bpm": "150",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.397006",
+      "safety_samples": "23"
+    },
+    {
+      "preset": "Warm Reese 01",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.422367",
+      "safety_samples": "150"
+    },
+    {
+      "preset": "Hard Reese 06",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.439627",
+      "safety_samples": "10"
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "bpm": "90",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.450929",
+      "safety_samples": "5"
+    },
+    {
+      "preset": "Wrecked Roller 02",
+      "bpm": "90",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.470662",
+      "safety_samples": "81"
+    },
+    {
+      "preset": "Biting Line 03",
+      "bpm": "150",
+      "division": "16",
+      "velocity": "1",
+      "gate_pattern": "1",
+      "pre_peak_dbfs": "-0.55907",
+      "safety_samples": "2"
+    },
+    {
+      "preset": "Heavy FM 04",
+      "bpm": "210",
+      "division": "32",
+      "velocity": "1",
+      "gate_pattern": "0",
+      "pre_peak_dbfs": "-0.560878",
+      "safety_samples": "4"
+    }
+  ],
+  "sample_rate": 48000,
+  "block": 512,
+  "seconds": 3,
+  "root_midi": 36,
+  "gate": 0.75,
+  "offkick_pattern": {
+    "0": "every step",
+    "1": "skip step divisible by 4"
+  },
+  "coverage": "300 presets x3BPM x2divisions x2velocities x2gate patterns",
+  "evidence": "external instrumented production engine; counts exact pk>.9 branch before unchanged safety; no change to production source",
+  "limitations": "finite C2 grid, not all roots/sample rates; not audition or DAW; a safety activation alone does not prove audible fault or identify engine cause",
+  "sha256": {
+    "Source/DSP/BassEngine.h": "e5c9818f0849e335a3b63cbed54e6f53b89800267961fd22994b72801301ef77",
+    "Source/FactoryPresets.inc": "65eb66c3f21f27395dcfbb85655025ff4d320c6e31fda24d5d6c4d44263a138c",
+    "Source/Params.cpp": "45011c325a2fb6f0e96852d9802569965fbc14ce2a1012a352967d97e3aa2b8a",
+    "Source/Presets.cpp": "949077dc6133cfc76f9e4303a3d6aaf8503ed0930d3679d779339319eeba0fd5",
+    "Исследования/2026-10-22 — Приёмка после Claude/PowerBass/BassEngineAudit.h": "adfa91c4e270ee0483ee46bbf582c2131720d4e45a5a48e9d5a1751fa076daa3",
+    "Исследования/2026-10-22 — Приёмка после Claude/PowerBass/bass_plan_grid.cpp": "0c39d8822c2c10f0d348bfda4174b2449df5c08a26e7f756d29759112160617e",
+    "Исследования/2026-10-22 — Приёмка после Claude/PowerBass/bass_plan_grid": "aad6b3327baa13fc5bc85a7033f0aa67de9a5057dc7cbb177635154962f269bf",
+    "Исследования/2026-10-22 — Приёмка после Claude/PowerBass/plan-grid-grid.csv": "f235009af7235483cb6f62833ec6cff73e5c89ab2d5d4ea0b67033f723783a16"
+  }
+}

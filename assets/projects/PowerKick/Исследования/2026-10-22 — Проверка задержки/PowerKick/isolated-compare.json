@@ -1,0 +1,2116 @@
+{
+  "summary": {
+    "cases": 300,
+    "byte_equal": 300,
+    "max_abs_error": 0.0,
+    "returncodes": [
+      0,
+      0
+    ],
+    "seconds": 11.053679943084717,
+    "before_binary_sha256": "0fee4c4154817d83faecce9cd43343e3391513b02fd94073c06e1c171745b494",
+    "after_binary_sha256": "1d6d037e5581f3b6f980691285cccd41db08f45c5af27ddb207ab2a5ee663303"
+  },
+  "rows": [
+    {
+      "preset": "Short Knock",
+      "before_sha256": "72ca1b0b3b263fa91903285088403b54ce47f7a4d49d6baf24292f297d1b942d",
+      "after_sha256": "72ca1b0b3b263fa91903285088403b54ce47f7a4d49d6baf24292f297d1b942d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click F#1 III",
+      "before_sha256": "491fef22ad465521314d7d929361203f5daa1aba240f967977ff64e6e080dcf7",
+      "after_sha256": "491fef22ad465521314d7d929361203f5daa1aba240f967977ff64e6e080dcf7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click G#1 III",
+      "before_sha256": "159284ac4035941a7fbbb03fe7131030af653e38bbfbd70740e2a36ea43bab9f",
+      "after_sha256": "159284ac4035941a7fbbb03fe7131030af653e38bbfbd70740e2a36ea43bab9f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang A1 II",
+      "before_sha256": "903c279ed4e69b8c7b9f00c78c9f086e5cddccdf027cf8236857b2f705b39127",
+      "after_sha256": "903c279ed4e69b8c7b9f00c78c9f086e5cddccdf027cf8236857b2f705b39127",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click D#1",
+      "before_sha256": "8094067bd6117b2346c8ad5109d23452336a7974f0fef694c6eadbd4f6d17e43",
+      "after_sha256": "8094067bd6117b2346c8ad5109d23452336a7974f0fef694c6eadbd4f6d17e43",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang A1 III",
+      "before_sha256": "adeb8c428ff5d1049c1bee5513d825e8c0a52c7fc9baa9cbdcccd0254f650a51",
+      "after_sha256": "adeb8c428ff5d1049c1bee5513d825e8c0a52c7fc9baa9cbdcccd0254f650a51",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click F1",
+      "before_sha256": "03480404c32788a894e30d889ab39036a79e8ed0ad619dadf2405b8f988107c2",
+      "after_sha256": "03480404c32788a894e30d889ab39036a79e8ed0ad619dadf2405b8f988107c2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang C#1",
+      "before_sha256": "be3c33f01ed76323e6475bef86fd3807eb8fb66a79f0d115ccc6d6b5e950cbb5",
+      "after_sha256": "be3c33f01ed76323e6475bef86fd3807eb8fb66a79f0d115ccc6d6b5e950cbb5",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click D#1 II",
+      "before_sha256": "34d70b89a9f0c02a9ac92d4daf04aace75c2db46c29db64022f6837c43ba6b83",
+      "after_sha256": "34d70b89a9f0c02a9ac92d4daf04aace75c2db46c29db64022f6837c43ba6b83",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G#1 V",
+      "before_sha256": "92c0565b301cc50c308efc0f21467492407f867406029450dc86ed75b4c573b8",
+      "after_sha256": "92c0565b301cc50c308efc0f21467492407f867406029450dc86ed75b4c573b8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Thump G1 IV",
+      "before_sha256": "2fc398aa47799e54bd248dfd6a90ea6cb1c9b77f7e7143cc93decde2e67eb2e2",
+      "after_sha256": "2fc398aa47799e54bd248dfd6a90ea6cb1c9b77f7e7143cc93decde2e67eb2e2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Punch F#1",
+      "before_sha256": "14e24ac5ef473e0b2e45902d07a9f9092e48e14aea3318d8e12aec2ac466c51a",
+      "after_sha256": "14e24ac5ef473e0b2e45902d07a9f9092e48e14aea3318d8e12aec2ac466c51a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G1 IV",
+      "before_sha256": "70e64ca159de193a1d5106406d453b996888bb7e157a8f38b76735bb1803e939",
+      "after_sha256": "70e64ca159de193a1d5106406d453b996888bb7e157a8f38b76735bb1803e939",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Crushed Rumble A1",
+      "before_sha256": "10d967ddbd13f14f052e25f5eb137541763d23f850f28a1d660c2398e06540c7",
+      "after_sha256": "10d967ddbd13f14f052e25f5eb137541763d23f850f28a1d660c2398e06540c7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang F#1",
+      "before_sha256": "eb25f90c9ebd04aa50ebff2a1d1495cfbc514ed8c90086886e9c683fb6b9b1da",
+      "after_sha256": "eb25f90c9ebd04aa50ebff2a1d1495cfbc514ed8c90086886e9c683fb6b9b1da",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Raw Thud",
+      "before_sha256": "3349f8c81da939038147e4efd630baeea67f93ec863f80e380a461323f5de53f",
+      "after_sha256": "3349f8c81da939038147e4efd630baeea67f93ec863f80e380a461323f5de53f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click A#1 IV",
+      "before_sha256": "6c2e952943a74e5ffdc719ebf9d7a3d1cd2e7ad1315f6cdb606381a718ebbe14",
+      "after_sha256": "6c2e952943a74e5ffdc719ebf9d7a3d1cd2e7ad1315f6cdb606381a718ebbe14",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang F#1",
+      "before_sha256": "f110f2930ff0eca663717ac2481cf04dc10758b37628dabd91784c949c2636f6",
+      "after_sha256": "f110f2930ff0eca663717ac2481cf04dc10758b37628dabd91784c949c2636f6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Falling Thump",
+      "before_sha256": "d93167fdc8c0ca8d4cd7fe27b2279b9fc90a5a324c49e84f1979fc6e1bfa61b7",
+      "after_sha256": "d93167fdc8c0ca8d4cd7fe27b2279b9fc90a5a324c49e84f1979fc6e1bfa61b7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Pitch Drop",
+      "before_sha256": "eb4baa46f95339197652857e502400a11dd6b75b1f8a56bcff3880340389384d",
+      "after_sha256": "eb4baa46f95339197652857e502400a11dd6b75b1f8a56bcff3880340389384d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click D#1",
+      "before_sha256": "121f638b0f00944b640ef919e1b95a1641ff0fb5fb1fd359988d6c271757653c",
+      "after_sha256": "121f638b0f00944b640ef919e1b95a1641ff0fb5fb1fd359988d6c271757653c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F1 II",
+      "before_sha256": "85830a2fee403b6dd1dea36d0fdbe9e84933f6a16a4c8487198d982d79af1a67",
+      "after_sha256": "85830a2fee403b6dd1dea36d0fdbe9e84933f6a16a4c8487198d982d79af1a67",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang G#1",
+      "before_sha256": "df0ac9a822ff3345a8ba4dece17d5f5820e5261e43d16c2a568e02388c4de32c",
+      "after_sha256": "df0ac9a822ff3345a8ba4dece17d5f5820e5261e43d16c2a568e02388c4de32c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click A1 III",
+      "before_sha256": "a6ab9f9e4797597d24a126782e40c522dd4ca789f46a6bd37ab187ae354e5469",
+      "after_sha256": "a6ab9f9e4797597d24a126782e40c522dd4ca789f46a6bd37ab187ae354e5469",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Classic Punch",
+      "before_sha256": "7f386416f4a95ffec55136f8d5a5f17dd40b98ad6926a907315af4a00391a6f8",
+      "after_sha256": "7f386416f4a95ffec55136f8d5a5f17dd40b98ad6926a907315af4a00391a6f8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Ticking Body",
+      "before_sha256": "a34c59a013e36f584ba45145f8e2516dadea3814a494b3d19af2f3ec14011cbe",
+      "after_sha256": "a34c59a013e36f584ba45145f8e2516dadea3814a494b3d19af2f3ec14011cbe",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click A1",
+      "before_sha256": "9f6ae25608e9f6aeaa5fb5070d64478f7c719804751716e96339bc1b168434db",
+      "after_sha256": "9f6ae25608e9f6aeaa5fb5070d64478f7c719804751716e96339bc1b168434db",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F1 IV",
+      "before_sha256": "2881bae515722d7a656e17ad70bcea1ed35fb467cac74ffd78c5cd8d6cd29bd8",
+      "after_sha256": "2881bae515722d7a656e17ad70bcea1ed35fb467cac74ffd78c5cd8d6cd29bd8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang D#1",
+      "before_sha256": "0719f6bde4a9ec1afb1d053221f11cf3ecbd23adadfa120fac9c799f1791841a",
+      "after_sha256": "0719f6bde4a9ec1afb1d053221f11cf3ecbd23adadfa120fac9c799f1791841a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Thump F1",
+      "before_sha256": "f3aeaf256cd4f4cb1cf4b43c3909b0f648417d0f7502af3db3da859b6bd6d193",
+      "after_sha256": "f3aeaf256cd4f4cb1cf4b43c3909b0f648417d0f7502af3db3da859b6bd6d193",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Thump A#1",
+      "before_sha256": "e7db70b031a27aad1116a02b941070869d4aa943fec8125b74b56d94827fe4f1",
+      "after_sha256": "e7db70b031a27aad1116a02b941070869d4aa943fec8125b74b56d94827fe4f1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F#1 VI",
+      "before_sha256": "dbb50b51fa62b4194a8287e51ef264c8b6b3afd865d0fe2165424237c516296b",
+      "after_sha256": "dbb50b51fa62b4194a8287e51ef264c8b6b3afd865d0fe2165424237c516296b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Knock C2",
+      "before_sha256": "019b650337078e05dfc6da40ae80931128beb7142b689138c53257e733ca97df",
+      "after_sha256": "019b650337078e05dfc6da40ae80931128beb7142b689138c53257e733ca97df",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F1 III",
+      "before_sha256": "6b20870ef8b8b6aa4663ef6f0f2ab4a4912373caaf05538147615c01fa9927c7",
+      "after_sha256": "6b20870ef8b8b6aa4663ef6f0f2ab4a4912373caaf05538147615c01fa9927c7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F1 III",
+      "before_sha256": "a5e28a39740c4f3d29ffda907fa70140d42740d44ceaa77aa7abb471c8b1803b",
+      "after_sha256": "a5e28a39740c4f3d29ffda907fa70140d42740d44ceaa77aa7abb471c8b1803b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F1 IV",
+      "before_sha256": "4b99d22523b6bba9b3ccd1e87eef270dba64820947cc3d52eb86fdeef241bb92",
+      "after_sha256": "4b99d22523b6bba9b3ccd1e87eef270dba64820947cc3d52eb86fdeef241bb92",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang F#1",
+      "before_sha256": "8ae10250de2f85c38738843359a4153d5c894ef5a39410e45d72a7fb25eec656",
+      "after_sha256": "8ae10250de2f85c38738843359a4153d5c894ef5a39410e45d72a7fb25eec656",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click F1 II",
+      "before_sha256": "967c0f8d2c112ed16c79e70377a961c6d7bc7a199ce2ea2b7d77c29fc1434c9f",
+      "after_sha256": "967c0f8d2c112ed16c79e70377a961c6d7bc7a199ce2ea2b7d77c29fc1434c9f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click G1 II",
+      "before_sha256": "0d9a5104c40b50d728a5d0808273b65a10de3b4251b32954caddd03b6358dc84",
+      "after_sha256": "0d9a5104c40b50d728a5d0808273b65a10de3b4251b32954caddd03b6358dc84",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click G1 III",
+      "before_sha256": "b10e4b0d78408d0a91d3725c6bba9929d009769085f1f68ff2925a64e96af936",
+      "after_sha256": "b10e4b0d78408d0a91d3725c6bba9929d009769085f1f68ff2925a64e96af936",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F1 V",
+      "before_sha256": "d9301db92402c1e8051203e3d544d8a5701596924b66c089691e151bd9518c7c",
+      "after_sha256": "d9301db92402c1e8051203e3d544d8a5701596924b66c089691e151bd9518c7c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Knock G1",
+      "before_sha256": "59deaf147d6508dd3bfc93e4467f57391ac2047fe5f330e0c7d23636cb80aa1a",
+      "after_sha256": "59deaf147d6508dd3bfc93e4467f57391ac2047fe5f330e0c7d23636cb80aa1a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang A1 IV",
+      "before_sha256": "66de37ab2e17ecaa48b8e8a9301c7342af2a132aa0bec2e4626e4bdbc6e69cbd",
+      "after_sha256": "66de37ab2e17ecaa48b8e8a9301c7342af2a132aa0bec2e4626e4bdbc6e69cbd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Click F#1 II",
+      "before_sha256": "2f3af33468ba3e7145326ca7c1f72cc5945f82439ec621c2caa1c622c7723fb1",
+      "after_sha256": "2f3af33468ba3e7145326ca7c1f72cc5945f82439ec621c2caa1c622c7723fb1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang F#1",
+      "before_sha256": "156e98000b26fc3fc58b02c7227903bbc94aae053873e39790f10d36ffa93573",
+      "after_sha256": "156e98000b26fc3fc58b02c7227903bbc94aae053873e39790f10d36ffa93573",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Long Clip",
+      "before_sha256": "a5d2c05cecadc035c30bb4618deec9a038d6b036d468a9824f7dad9d9ef86bca",
+      "after_sha256": "a5d2c05cecadc035c30bb4618deec9a038d6b036d468a9824f7dad9d9ef86bca",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Sub Pressure",
+      "before_sha256": "3b6f2877f7eef946bcaeeb3fbf3d890574f8e817742a2f976cc304b78f86fb63",
+      "after_sha256": "3b6f2877f7eef946bcaeeb3fbf3d890574f8e817742a2f976cc304b78f86fb63",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click A#1",
+      "before_sha256": "69343456d40cb780688af17322e13bcfc3be8b7e319efc747f8b5bb6b21a5c3c",
+      "after_sha256": "69343456d40cb780688af17322e13bcfc3be8b7e319efc747f8b5bb6b21a5c3c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click F1 II",
+      "before_sha256": "fd605c37e9f412f8cfb55cbebf2f7d5df75a232df70378615219c5d0d0410782",
+      "after_sha256": "fd605c37e9f412f8cfb55cbebf2f7d5df75a232df70378615219c5d0d0410782",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G#1",
+      "before_sha256": "14145276e3c891c38802c3077769496609f9ab161ce9a08539e59cec3d3bb2ac",
+      "after_sha256": "14145276e3c891c38802c3077769496609f9ab161ce9a08539e59cec3d3bb2ac",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G#1 II",
+      "before_sha256": "b4cfe05ffc48fd09733a1d851a07f0750eafd4c680802b573890fa1b578ca3e8",
+      "after_sha256": "b4cfe05ffc48fd09733a1d851a07f0750eafd4c680802b573890fa1b578ca3e8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Drop G1",
+      "before_sha256": "0fe479e7435a4749a49e8c5c84dfa5bd55af93ebaaa3a0a6398ef92f8482bcab",
+      "after_sha256": "0fe479e7435a4749a49e8c5c84dfa5bd55af93ebaaa3a0a6398ef92f8482bcab",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Drop G#1 II",
+      "before_sha256": "c9aaa4e313b7f1d9b2ccb3ef6d40e8accda40d568ab39bc66f47e0e435c6130b",
+      "after_sha256": "c9aaa4e313b7f1d9b2ccb3ef6d40e8accda40d568ab39bc66f47e0e435c6130b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G1 II",
+      "before_sha256": "11ca9979281531207a9f27d8f46f073f71ce4f5e9f5db9f0e80aefa11c438077",
+      "after_sha256": "11ca9979281531207a9f27d8f46f073f71ce4f5e9f5db9f0e80aefa11c438077",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G#1 VI",
+      "before_sha256": "fa483c77292f898e80b8ec5e26df75065402c6748fa4757722712ff79bb32f42",
+      "after_sha256": "fa483c77292f898e80b8ec5e26df75065402c6748fa4757722712ff79bb32f42",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Punch B1",
+      "before_sha256": "9b676a0aa5f09c784f889e6cfc04f17ab4e7eb11015714d9341203c346c89328",
+      "after_sha256": "9b676a0aa5f09c784f889e6cfc04f17ab4e7eb11015714d9341203c346c89328",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Thump G#1",
+      "before_sha256": "64cac9d9c3600abd562947a270a34c920dae7aada43d8d09f9e0eea53ccaa02e",
+      "after_sha256": "64cac9d9c3600abd562947a270a34c920dae7aada43d8d09f9e0eea53ccaa02e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G1",
+      "before_sha256": "c8dee4ac5580b96e48242c7b82560fc72a37cdebbc7d84177655e3197a8a815c",
+      "after_sha256": "c8dee4ac5580b96e48242c7b82560fc72a37cdebbc7d84177655e3197a8a815c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Drop G1",
+      "before_sha256": "755ab188ba6c14f8c98723aa464f38fb91b546424f395bee574505ea5bf88c6e",
+      "after_sha256": "755ab188ba6c14f8c98723aa464f38fb91b546424f395bee574505ea5bf88c6e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Punch G1",
+      "before_sha256": "ca0e473f2d69281d21a0b9106bed5aea6ed57b9232d9832ae35a461569be7138",
+      "after_sha256": "ca0e473f2d69281d21a0b9106bed5aea6ed57b9232d9832ae35a461569be7138",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Rumble B1",
+      "before_sha256": "a147207e394b07d43ce021c6cdb129ce9da2130f1ddff58dd7d6a9b76b913e50",
+      "after_sha256": "a147207e394b07d43ce021c6cdb129ce9da2130f1ddff58dd7d6a9b76b913e50",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click F#1",
+      "before_sha256": "3e6a5a0fa23b379e073e5cadba70d6b439b2aceb67ebb5c3de507fbfed8faf37",
+      "after_sha256": "3e6a5a0fa23b379e073e5cadba70d6b439b2aceb67ebb5c3de507fbfed8faf37",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Drop G1",
+      "before_sha256": "146054096cf0921df3938d76935405bdc1aee52d4fbf2d2a964addb889143e25",
+      "after_sha256": "146054096cf0921df3938d76935405bdc1aee52d4fbf2d2a964addb889143e25",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Boom G1",
+      "before_sha256": "174b498ceb7fbcc3023dcb98848d315bc7ae2974f7c8708b665a4a566ed90da6",
+      "after_sha256": "174b498ceb7fbcc3023dcb98848d315bc7ae2974f7c8708b665a4a566ed90da6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click E1",
+      "before_sha256": "d4699997a72e6701f4368c3314f3578bbb8bfa9d7d4a21621b4a9ee3f97c951b",
+      "after_sha256": "d4699997a72e6701f4368c3314f3578bbb8bfa9d7d4a21621b4a9ee3f97c951b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Drop F#1",
+      "before_sha256": "c623cda338a02239aa0bd40d47589ec2b3b743ae92f64bdac3e7ce109e1a6275",
+      "after_sha256": "c623cda338a02239aa0bd40d47589ec2b3b743ae92f64bdac3e7ce109e1a6275",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Rumble Tail",
+      "before_sha256": "9fc7189ba1aef8fe8397071fa15d132159e53a4f82d34c50daaa7321b41c969a",
+      "after_sha256": "9fc7189ba1aef8fe8397071fa15d132159e53a4f82d34c50daaa7321b41c969a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble A#1",
+      "before_sha256": "e04e1834c361cc096dfae2e4cd1843fab3b8719a9450a68164aafba8ed977f60",
+      "after_sha256": "e04e1834c361cc096dfae2e4cd1843fab3b8719a9450a68164aafba8ed977f60",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble B1 III",
+      "before_sha256": "5aba1d14f1edf3e5195dbbefd36db3e662bd4da0eeb1533ea87fdbbbcee9e4dc",
+      "after_sha256": "5aba1d14f1edf3e5195dbbefd36db3e662bd4da0eeb1533ea87fdbbbcee9e4dc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click D#1 III",
+      "before_sha256": "f7526deaf98b36f4c3e2616d32d89d197b122161820454f382ddac72e080d002",
+      "after_sha256": "f7526deaf98b36f4c3e2616d32d89d197b122161820454f382ddac72e080d002",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble A1",
+      "before_sha256": "2f77be830d1462a5d534b45ef5cc78452a9805d0a84b486eefa549115dfe9e1a",
+      "after_sha256": "2f77be830d1462a5d534b45ef5cc78452a9805d0a84b486eefa549115dfe9e1a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble A#1",
+      "before_sha256": "65a1796db28560564ab6764e979e5d858f387f1443a9b6fe1a96cbf8ea14fbec",
+      "after_sha256": "65a1796db28560564ab6764e979e5d858f387f1443a9b6fe1a96cbf8ea14fbec",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Click B1",
+      "before_sha256": "f724e5ecd56067b7e1f780fb66ca333b07e8e952c6dabffe0bebf71dc76eca0d",
+      "after_sha256": "f724e5ecd56067b7e1f780fb66ca333b07e8e952c6dabffe0bebf71dc76eca0d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble B1",
+      "before_sha256": "1695fc3340196e4d99fc1575b11db4d2030cafc03cf3bedb595f0374933712f7",
+      "after_sha256": "1695fc3340196e4d99fc1575b11db4d2030cafc03cf3bedb595f0374933712f7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble E1",
+      "before_sha256": "e953be60b016ba336f601f1b49a9b0a01fbd631604c790076d8956fcb728b87e",
+      "after_sha256": "e953be60b016ba336f601f1b49a9b0a01fbd631604c790076d8956fcb728b87e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Click E1 II",
+      "before_sha256": "51163e7d07a6413a48e787c23072d2f8e2d389b01697ef2692b697e35035567f",
+      "after_sha256": "51163e7d07a6413a48e787c23072d2f8e2d389b01697ef2692b697e35035567f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click E1 II",
+      "before_sha256": "afb6184ef74c291b0349b315dbd53ed3dd4ed49d69d206d62125df1783b92d53",
+      "after_sha256": "afb6184ef74c291b0349b315dbd53ed3dd4ed49d69d206d62125df1783b92d53",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Drop B1",
+      "before_sha256": "15391905bf6c668b9565f16d3e86207882a08b36d74b2585381493248047a589",
+      "after_sha256": "15391905bf6c668b9565f16d3e86207882a08b36d74b2585381493248047a589",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Boom A#1",
+      "before_sha256": "908743ce4a5787a09a44476e778a05355d138cfaa726ead69ca47f041d2dc2ee",
+      "after_sha256": "908743ce4a5787a09a44476e778a05355d138cfaa726ead69ca47f041d2dc2ee",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G1 III",
+      "before_sha256": "41b5c0960239bb1cef9c25444622319fefc4c8ab6e15ea90d04562590232906b",
+      "after_sha256": "41b5c0960239bb1cef9c25444622319fefc4c8ab6e15ea90d04562590232906b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clean Boom B1",
+      "before_sha256": "da649bc1b5d20babb03b313de28eb26c01b374cf62c32604077a92a019e32c7a",
+      "after_sha256": "da649bc1b5d20babb03b313de28eb26c01b374cf62c32604077a92a019e32c7a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang D1",
+      "before_sha256": "d6b5e868ec8d344ecb62bfc7e03cf094b17c6643f2fbd2709ba28cd8d83c5bdf",
+      "after_sha256": "d6b5e868ec8d344ecb62bfc7e03cf094b17c6643f2fbd2709ba28cd8d83c5bdf",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clean Click D#1",
+      "before_sha256": "03cb8a9338849e7b2f498acb016ed6d2fad1d4e78185b85d623c70faaa05a6c8",
+      "after_sha256": "03cb8a9338849e7b2f498acb016ed6d2fad1d4e78185b85d623c70faaa05a6c8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Click F1",
+      "before_sha256": "2335c7d9b2386c4e1576d96c067615639686713f02c2bc651c4d27064cec0331",
+      "after_sha256": "2335c7d9b2386c4e1576d96c067615639686713f02c2bc651c4d27064cec0331",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G1 III",
+      "before_sha256": "76fb6a09af063ef1a251a69d4a7664a294d85d9b4ca879ed12411188a019efdc",
+      "after_sha256": "76fb6a09af063ef1a251a69d4a7664a294d85d9b4ca879ed12411188a019efdc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F#1",
+      "before_sha256": "f6facedb57fc35f53d4ba46b669e84aba332db48d9361a570a4bd432dab51986",
+      "after_sha256": "f6facedb57fc35f53d4ba46b669e84aba332db48d9361a570a4bd432dab51986",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Hard Techno Core",
+      "before_sha256": "13c89789d24a5a98b929ac665ea10dc5b25cbd55adb79a553d0f7959ae434c1e",
+      "after_sha256": "13c89789d24a5a98b929ac665ea10dc5b25cbd55adb79a553d0f7959ae434c1e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G#1 IV",
+      "before_sha256": "18b83d79f1f5641762365034a3d70aca20374cf76d50dd189f552cd6b303da14",
+      "after_sha256": "18b83d79f1f5641762365034a3d70aca20374cf76d50dd189f552cd6b303da14",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Boom G#1 II",
+      "before_sha256": "d3269abcaf778317db7f6b01639744305f064a4614659faf0506b7c9aadb5cfd",
+      "after_sha256": "d3269abcaf778317db7f6b01639744305f064a4614659faf0506b7c9aadb5cfd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F1 IV",
+      "before_sha256": "d176e0085ab2258b4362c9e9d03503e100743661158c9df6eba7a3084395db05",
+      "after_sha256": "d176e0085ab2258b4362c9e9d03503e100743661158c9df6eba7a3084395db05",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G1 IV",
+      "before_sha256": "d9421edd3b1f2e9919d91bcb6e77ffe262fe33d84f65ac2be32736b33fe37ad3",
+      "after_sha256": "d9421edd3b1f2e9919d91bcb6e77ffe262fe33d84f65ac2be32736b33fe37ad3",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F#1",
+      "before_sha256": "41ec24b89d99558d0c3ae4862376560423c5c27494e7ac10ae1d602b38e72135",
+      "after_sha256": "41ec24b89d99558d0c3ae4862376560423c5c27494e7ac10ae1d602b38e72135",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G1 V",
+      "before_sha256": "2e5aec8459527f664396ddc317f6aa7ba13ecebb2548a16fa7d825a6994697c7",
+      "after_sha256": "2e5aec8459527f664396ddc317f6aa7ba13ecebb2548a16fa7d825a6994697c7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A1 IV",
+      "before_sha256": "d185c17f87a40fb711fb63b27b36fdb79189960b272f818a3dd8a3250023845b",
+      "after_sha256": "d185c17f87a40fb711fb63b27b36fdb79189960b272f818a3dd8a3250023845b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang D#1 II",
+      "before_sha256": "5b80a48a05d64b2440d6398a7f646809fa3f9372bcd823c712404abb9669b431",
+      "after_sha256": "5b80a48a05d64b2440d6398a7f646809fa3f9372bcd823c712404abb9669b431",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Punch A1",
+      "before_sha256": "4ca28837709107568ce42bc6eaa8aea237ec4999fbe159515a8c6e6e81a4c87b",
+      "after_sha256": "4ca28837709107568ce42bc6eaa8aea237ec4999fbe159515a8c6e6e81a4c87b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang D1 II",
+      "before_sha256": "5fdfb0a107dc2704ed87da29b67fed445a50153388db5484beb74e534b061bab",
+      "after_sha256": "5fdfb0a107dc2704ed87da29b67fed445a50153388db5484beb74e534b061bab",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click F#1 II",
+      "before_sha256": "1d3a4f5951838638a115824319bd63ff46def05cef2cd8f146e7b45959cabe08",
+      "after_sha256": "1d3a4f5951838638a115824319bd63ff46def05cef2cd8f146e7b45959cabe08",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click A1 IV",
+      "before_sha256": "801448b0b74f71c7bb098ab76e5b4165d9ea84534789ec19a3ae610eabe0b274",
+      "after_sha256": "801448b0b74f71c7bb098ab76e5b4165d9ea84534789ec19a3ae610eabe0b274",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Click A#1",
+      "before_sha256": "e9a8655cf0d69d42b585f8a2ff5f81d9e9485b82d0ec536698a429ef8d61df81",
+      "after_sha256": "e9a8655cf0d69d42b585f8a2ff5f81d9e9485b82d0ec536698a429ef8d61df81",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Deep Drop",
+      "before_sha256": "a3e8e449e78b556488bd3f9f92c7aadf378b4d4fa12785fd05a6feb804ff63c1",
+      "after_sha256": "a3e8e449e78b556488bd3f9f92c7aadf378b4d4fa12785fd05a6feb804ff63c1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Falling Clipper",
+      "before_sha256": "7e96da452014e3a1b7f7cc61e0803768c768051a54fe6615d4c32efba7462f5d",
+      "after_sha256": "7e96da452014e3a1b7f7cc61e0803768c768051a54fe6615d4c32efba7462f5d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Boom F1",
+      "before_sha256": "52954e15a424fe159955813f5144d3191d0efd18beae027509f4b55aaa76ea76",
+      "after_sha256": "52954e15a424fe159955813f5144d3191d0efd18beae027509f4b55aaa76ea76",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang A#1 III",
+      "before_sha256": "60310cfff7122dc2f982753bd1886331cf8114c21b145627c1eba126b0d13eb2",
+      "after_sha256": "60310cfff7122dc2f982753bd1886331cf8114c21b145627c1eba126b0d13eb2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G1 VI",
+      "before_sha256": "d20211a3367d747e99f23def0567460341869eb2ce0b897a283fc50766c49f62",
+      "after_sha256": "d20211a3367d747e99f23def0567460341869eb2ce0b897a283fc50766c49f62",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G1 V",
+      "before_sha256": "29cebe42eebc5925d8cd2bc3d974a11c5da275f749d3f63b7b7f7cd106ff369f",
+      "after_sha256": "29cebe42eebc5925d8cd2bc3d974a11c5da275f749d3f63b7b7f7cd106ff369f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G1 III",
+      "before_sha256": "ba450cfe6cd21ff05becf04e0676dbf04df3bb778b980891e78c3677bc6ba4d7",
+      "after_sha256": "ba450cfe6cd21ff05becf04e0676dbf04df3bb778b980891e78c3677bc6ba4d7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Drop F#1 II",
+      "before_sha256": "3bcd4b71e49be62945715a2b820c730c20337110f7a3799f168ff46a9032d20d",
+      "after_sha256": "3bcd4b71e49be62945715a2b820c730c20337110f7a3799f168ff46a9032d20d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1 V",
+      "before_sha256": "ca8ae56c2d675d25ac4e480226da30893346e9ca8855b2e62a2695d82f37f55d",
+      "after_sha256": "ca8ae56c2d675d25ac4e480226da30893346e9ca8855b2e62a2695d82f37f55d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click D#1",
+      "before_sha256": "40f0a29ba563df53251a2ea4aa8de45f645eabface6849a51e35d547b0d75a15",
+      "after_sha256": "40f0a29ba563df53251a2ea4aa8de45f645eabface6849a51e35d547b0d75a15",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1 VI",
+      "before_sha256": "dfe23dbe70c9dbdfe9abdf8853080ee588ee9a2527427e208140a0464e0abe75",
+      "after_sha256": "dfe23dbe70c9dbdfe9abdf8853080ee588ee9a2527427e208140a0464e0abe75",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click F1",
+      "before_sha256": "9122acd0bb2914e2d59932b724388981c6459fd09b6687368e1145399a640016",
+      "after_sha256": "9122acd0bb2914e2d59932b724388981c6459fd09b6687368e1145399a640016",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click F#1",
+      "before_sha256": "997682cbc1082593a7d61223361a0c80a42f62acb744b84345d45e589b38db28",
+      "after_sha256": "997682cbc1082593a7d61223361a0c80a42f62acb744b84345d45e589b38db28",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G#1",
+      "before_sha256": "f8714227f4bc71bf4ced519382558cbf1de28f319b6b43e96aeb509855e8979d",
+      "after_sha256": "f8714227f4bc71bf4ced519382558cbf1de28f319b6b43e96aeb509855e8979d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click A#1",
+      "before_sha256": "43aae01e1d8fbfcefa27b1deda9f225fa41d892c70737150b3e26b72f1820941",
+      "after_sha256": "43aae01e1d8fbfcefa27b1deda9f225fa41d892c70737150b3e26b72f1820941",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click B1",
+      "before_sha256": "111f0c2c58bd142176777fd0e1485691f9026733e80630176449b10bfe25d817",
+      "after_sha256": "111f0c2c58bd142176777fd0e1485691f9026733e80630176449b10bfe25d817",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1",
+      "before_sha256": "cba7e53413561e74fe21c135bd0c39657668bb1b8068d8a509d0276cb144a7a4",
+      "after_sha256": "cba7e53413561e74fe21c135bd0c39657668bb1b8068d8a509d0276cb144a7a4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G#1",
+      "before_sha256": "d1a485416f39fbd109f17ae88496a63b25ca4b826d81fdf8aeb4164aeebdd7c9",
+      "after_sha256": "d1a485416f39fbd109f17ae88496a63b25ca4b826d81fdf8aeb4164aeebdd7c9",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G1",
+      "before_sha256": "5175e7b66585e36d1959d369e8750f08392cbbe95944db421c949469c3a739df",
+      "after_sha256": "5175e7b66585e36d1959d369e8750f08392cbbe95944db421c949469c3a739df",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1 IV",
+      "before_sha256": "c2d84fde526ece52a58d648a4b0d952b0acbf5b30392cb1426837d2874c518f2",
+      "after_sha256": "c2d84fde526ece52a58d648a4b0d952b0acbf5b30392cb1426837d2874c518f2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Drop G#1",
+      "before_sha256": "90cd6d54b8b61e7129d1dbb5be10d48349966a38448aa9e320113775cc9bbe67",
+      "after_sha256": "90cd6d54b8b61e7129d1dbb5be10d48349966a38448aa9e320113775cc9bbe67",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Drop D1",
+      "before_sha256": "b950b01271a9e52a10d1b9e521689a81b458b39d4a56d4fc86b50cfc0123721f",
+      "after_sha256": "b950b01271a9e52a10d1b9e521689a81b458b39d4a56d4fc86b50cfc0123721f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click F1 II",
+      "before_sha256": "fbc2fb51ea16315ea012d433e781849822384c6d5279ea11f7ed0355b993acde",
+      "after_sha256": "fbc2fb51ea16315ea012d433e781849822384c6d5279ea11f7ed0355b993acde",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Drop A1 II",
+      "before_sha256": "3358d91e296ccaca9e0d92d535e96242e44ca2caf2f63e787474bbcfa849a9c4",
+      "after_sha256": "3358d91e296ccaca9e0d92d535e96242e44ca2caf2f63e787474bbcfa849a9c4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G#1 V",
+      "before_sha256": "253a4c2fce6a0093f8fbc0f26ef21b13dd6428b9e76fc1a1e352c6288c323556",
+      "after_sha256": "253a4c2fce6a0093f8fbc0f26ef21b13dd6428b9e76fc1a1e352c6288c323556",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click D#1 IV",
+      "before_sha256": "c84d7fe14973f9db609919880cf3c27f3c34e31156a48bd58dd3ae63e5d5c8e0",
+      "after_sha256": "c84d7fe14973f9db609919880cf3c27f3c34e31156a48bd58dd3ae63e5d5c8e0",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F#1 II",
+      "before_sha256": "f60976e78e95ae465b32c0df7c62a2e0db419ae3ab96d7e62a149dfa52c0be02",
+      "after_sha256": "f60976e78e95ae465b32c0df7c62a2e0db419ae3ab96d7e62a149dfa52c0be02",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1 II",
+      "before_sha256": "e8beb3ed0e028d410c6be9b6ae8259df86069d2c3af83b9977f160d9ab578b3d",
+      "after_sha256": "e8beb3ed0e028d410c6be9b6ae8259df86069d2c3af83b9977f160d9ab578b3d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Thump A#1 II",
+      "before_sha256": "e0d59024195063d75ed752e1139c2eeaa0abdb4e34ff955d8331abeeb1cf678a",
+      "after_sha256": "e0d59024195063d75ed752e1139c2eeaa0abdb4e34ff955d8331abeeb1cf678a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F#1",
+      "before_sha256": "837605b310469b5a90d8cb03add98254b084bc7bd22ac22f767e993b90a7ea2e",
+      "after_sha256": "837605b310469b5a90d8cb03add98254b084bc7bd22ac22f767e993b90a7ea2e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang E1",
+      "before_sha256": "da6ba551d6b8816e98fbbec0fe2d58343c8f50d8cba4bb1d9e333e39ca0be613",
+      "after_sha256": "da6ba551d6b8816e98fbbec0fe2d58343c8f50d8cba4bb1d9e333e39ca0be613",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G#1 II",
+      "before_sha256": "a6b1eed76b76c3373bdaee9bdea964819cd6f15d9880310b25a7060ef769ddf5",
+      "after_sha256": "a6b1eed76b76c3373bdaee9bdea964819cd6f15d9880310b25a7060ef769ddf5",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F#1 II",
+      "before_sha256": "ed2e45d20f4b1c7b5df07674030d42a706d3f31e10c0c3a9df8b84e203aa20d3",
+      "after_sha256": "ed2e45d20f4b1c7b5df07674030d42a706d3f31e10c0c3a9df8b84e203aa20d3",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble A1",
+      "before_sha256": "d678ad17ba7ac7d9db13cc509f5b18214f3e43022e3063307217d8054540f3d1",
+      "after_sha256": "d678ad17ba7ac7d9db13cc509f5b18214f3e43022e3063307217d8054540f3d1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click F1 III",
+      "before_sha256": "bb0372ddb9e54e65231340be459182d5069089747d4f6ba1ca733a9f49c2443c",
+      "after_sha256": "bb0372ddb9e54e65231340be459182d5069089747d4f6ba1ca733a9f49c2443c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F1 III",
+      "before_sha256": "bec5a38a09357c555f031992b175f59ae56ec9cecf429f4adffad286ab127e20",
+      "after_sha256": "bec5a38a09357c555f031992b175f59ae56ec9cecf429f4adffad286ab127e20",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F#1 III",
+      "before_sha256": "894e8cc4cf0881d2dadaeb18996de182c667fceb7b002a5b4896c1cac9a51317",
+      "after_sha256": "894e8cc4cf0881d2dadaeb18996de182c667fceb7b002a5b4896c1cac9a51317",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F#1 II",
+      "before_sha256": "92b346d3a3405c2b04bf382b28cbabdbcd34e61c5e57e5b2fadda22eae75ce89",
+      "after_sha256": "92b346d3a3405c2b04bf382b28cbabdbcd34e61c5e57e5b2fadda22eae75ce89",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F#1 III",
+      "before_sha256": "2db06f8055734fbf588ac0cb23a096da5823f0d3801c4f74d173948f041bb2d8",
+      "after_sha256": "2db06f8055734fbf588ac0cb23a096da5823f0d3801c4f74d173948f041bb2d8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Drop F1",
+      "before_sha256": "a8778ab416549a48dfbf43538a732b34c91eb09c2a9e0c14280037d649dc8fae",
+      "after_sha256": "a8778ab416549a48dfbf43538a732b34c91eb09c2a9e0c14280037d649dc8fae",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1 III",
+      "before_sha256": "e18c6c2af892f6640c75fd792c05298d6170b7143ac2f021ea5a8e899acb5d19",
+      "after_sha256": "e18c6c2af892f6640c75fd792c05298d6170b7143ac2f021ea5a8e899acb5d19",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G#1",
+      "before_sha256": "637333dad043a2d364b57eafb3f2feafa454dfa34a867a65efa2e2ba2f9bd86d",
+      "after_sha256": "637333dad043a2d364b57eafb3f2feafa454dfa34a867a65efa2e2ba2f9bd86d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang G#1 II",
+      "before_sha256": "3aee63a7759e6714a107e4e250c44490ae968a08f5029581f6cbe32d4476bf53",
+      "after_sha256": "3aee63a7759e6714a107e4e250c44490ae968a08f5029581f6cbe32d4476bf53",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang F#1 III",
+      "before_sha256": "bac941b0ee3f773cc9c9795154c0d73c171132e94029d1a22b7ef8dd02236f8e",
+      "after_sha256": "bac941b0ee3f773cc9c9795154c0d73c171132e94029d1a22b7ef8dd02236f8e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang F#1 II",
+      "before_sha256": "eb61d583cefad9e6aa3a33b6860e339bcd85e1480bed7ef482477efe83976a28",
+      "after_sha256": "eb61d583cefad9e6aa3a33b6860e339bcd85e1480bed7ef482477efe83976a28",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Thump G1",
+      "before_sha256": "25454f631dd69de0ee11f3060b6b243b35a52a4ac0627ea42b06b8f04e54c4ed",
+      "after_sha256": "25454f631dd69de0ee11f3060b6b243b35a52a4ac0627ea42b06b8f04e54c4ed",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Classic Schranz",
+      "before_sha256": "2119530762985bc0a3fcc37f50ba6c302bf71b0900e56b2a74f914e88f7a865e",
+      "after_sha256": "2119530762985bc0a3fcc37f50ba6c302bf71b0900e56b2a74f914e88f7a865e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang C2",
+      "before_sha256": "f40d18b1649d16564fa2be06a218796977c4849f9aa487b7d2e70f700ee985a0",
+      "after_sha256": "f40d18b1649d16564fa2be06a218796977c4849f9aa487b7d2e70f700ee985a0",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble A#1 II",
+      "before_sha256": "1cdcad7edf200788b97bea9c8a24136593aadacbc20f06ab4e06e0a3f8190750",
+      "after_sha256": "1cdcad7edf200788b97bea9c8a24136593aadacbc20f06ab4e06e0a3f8190750",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Thump B1 II",
+      "before_sha256": "8c6c6b01638c3c57b7312081161936d06ecc55bc5904c51e6f7eb8402ff88478",
+      "after_sha256": "8c6c6b01638c3c57b7312081161936d06ecc55bc5904c51e6f7eb8402ff88478",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang B1 IV",
+      "before_sha256": "39464ca57c42f6cb7400bdc9290fea023959ae84c2fadb56109f49f1b67eb843",
+      "after_sha256": "39464ca57c42f6cb7400bdc9290fea023959ae84c2fadb56109f49f1b67eb843",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Schranz Air",
+      "before_sha256": "77056ba0e5e0b9287e4d54885fa26ea9fa6e30124095a03e7d74e821afe73e23",
+      "after_sha256": "77056ba0e5e0b9287e4d54885fa26ea9fa6e30124095a03e7d74e821afe73e23",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clean Boom A#1",
+      "before_sha256": "2e20a9b282cf6824f25c03904ca1ed5015976f4cc4736624fea83630a422a0ce",
+      "after_sha256": "2e20a9b282cf6824f25c03904ca1ed5015976f4cc4736624fea83630a422a0ce",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang B1 III",
+      "before_sha256": "425441602ec673b6cbd7a31980297e40390d37dd2eaaca29136f2396a8f6aa0f",
+      "after_sha256": "425441602ec673b6cbd7a31980297e40390d37dd2eaaca29136f2396a8f6aa0f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Driven Clang A1",
+      "before_sha256": "3bf3c77a902b7593f4f908e8657ee85daeb6d65a8fbb6a63a58f7e87cc6fc07e",
+      "after_sha256": "3bf3c77a902b7593f4f908e8657ee85daeb6d65a8fbb6a63a58f7e87cc6fc07e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A1 II",
+      "before_sha256": "dedaec7f16b514b7b90a1f2953b3496ad6b91b66f99e16ca11be95b293b405a1",
+      "after_sha256": "dedaec7f16b514b7b90a1f2953b3496ad6b91b66f99e16ca11be95b293b405a1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang A#1",
+      "before_sha256": "5c4bf20bf3c78b16b518605d3e7fb247913cfc73f083daef1fb30ee684b7ed99",
+      "after_sha256": "5c4bf20bf3c78b16b518605d3e7fb247913cfc73f083daef1fb30ee684b7ed99",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Driven Clang F1",
+      "before_sha256": "1cb2cfe22a5dc782aeea5fbf9afd5f7471e632e056fe1c0a0a2552bb4c30539f",
+      "after_sha256": "1cb2cfe22a5dc782aeea5fbf9afd5f7471e632e056fe1c0a0a2552bb4c30539f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang G1",
+      "before_sha256": "30a26040181f11309b4352b36ca7a1ad8f7869033f7da7d093541301c6545dd3",
+      "after_sha256": "30a26040181f11309b4352b36ca7a1ad8f7869033f7da7d093541301c6545dd3",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Boom A1 II",
+      "before_sha256": "eaf66a2dd529846ae72f7448858cadbdd3c7ae57c9290eb0ec88276dfa887842",
+      "after_sha256": "eaf66a2dd529846ae72f7448858cadbdd3c7ae57c9290eb0ec88276dfa887842",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang F1",
+      "before_sha256": "07bc885c299defca65681ce80e777448aa99074af75d236d03c32473966fc4b0",
+      "after_sha256": "07bc885c299defca65681ce80e777448aa99074af75d236d03c32473966fc4b0",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 XI",
+      "before_sha256": "7f31ecc251bff90d9e973eaaa8d8a88e76da0ce6da164a1a93767782ea312162",
+      "after_sha256": "7f31ecc251bff90d9e973eaaa8d8a88e76da0ce6da164a1a93767782ea312162",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clean Clang B1",
+      "before_sha256": "8a05505574d4813377920a434ad8774471e9081e957247ad12ec64b920984d13",
+      "after_sha256": "8a05505574d4813377920a434ad8774471e9081e957247ad12ec64b920984d13",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang C2",
+      "before_sha256": "99804bb3da530cad5758ab1060fee2d613820c5ed8a826660498febe3dabce58",
+      "after_sha256": "99804bb3da530cad5758ab1060fee2d613820c5ed8a826660498febe3dabce58",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Schranz Metal",
+      "before_sha256": "bd7ff0e636d7631d9f5e113f78e8325eb929e2fc9b308aa091524938d40a43c3",
+      "after_sha256": "bd7ff0e636d7631d9f5e113f78e8325eb929e2fc9b308aa091524938d40a43c3",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Schranz Pressure",
+      "before_sha256": "873edce1169f6d2d0f03ba0785e02640d9a14d74521e4828d47a5f1e52e81bac",
+      "after_sha256": "873edce1169f6d2d0f03ba0785e02640d9a14d74521e4828d47a5f1e52e81bac",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Hammer",
+      "before_sha256": "d14694189807490a1e94cf0d96a71e2d5c5516974d23c63a65dbbca56a5582ae",
+      "after_sha256": "d14694189807490a1e94cf0d96a71e2d5c5516974d23c63a65dbbca56a5582ae",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Grinding Click A1",
+      "before_sha256": "f460c7ca16c0b9429cc40eacda9e5bfae973180ce3f3f15252f0d82eaa6444ca",
+      "after_sha256": "f460c7ca16c0b9429cc40eacda9e5bfae973180ce3f3f15252f0d82eaa6444ca",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Driven Clang C2",
+      "before_sha256": "a993f6a722cf0adfd376dab493a1dce1748e1bae6b1a7028e333bb71426613e1",
+      "after_sha256": "a993f6a722cf0adfd376dab493a1dce1748e1bae6b1a7028e333bb71426613e1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang C2 II",
+      "before_sha256": "d830a9663e0aa78b37bce1379cb8e8fdd4fe547773ec2836a7654260ce96027c",
+      "after_sha256": "d830a9663e0aa78b37bce1379cb8e8fdd4fe547773ec2836a7654260ce96027c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Drop G#1",
+      "before_sha256": "7d33b32ba6c325e25f2fa932444f71d035cd8282c8e0917fc24a27b153ccfbf6",
+      "after_sha256": "7d33b32ba6c325e25f2fa932444f71d035cd8282c8e0917fc24a27b153ccfbf6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Thump B1",
+      "before_sha256": "7eb1b4e82ff7c317df552296c90093177412fe1a60a8a1815ce08ad153400b97",
+      "after_sha256": "7eb1b4e82ff7c317df552296c90093177412fe1a60a8a1815ce08ad153400b97",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 XII",
+      "before_sha256": "8409bf1e5bcb370a8c61f9cdef6878cc935ec611dc0946fbc5a8a874ec7b15b4",
+      "after_sha256": "8409bf1e5bcb370a8c61f9cdef6878cc935ec611dc0946fbc5a8a874ec7b15b4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F#1 IV",
+      "before_sha256": "d0fad36f5dad11ad233bec370019e3709961b969fa2c14d007c38ae6bae526e6",
+      "after_sha256": "d0fad36f5dad11ad233bec370019e3709961b969fa2c14d007c38ae6bae526e6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G#1 II",
+      "before_sha256": "9ea3676fdb7be6e6b0c17d69770f544e4a7a17811c31765eb22f93bda2f936f4",
+      "after_sha256": "9ea3676fdb7be6e6b0c17d69770f544e4a7a17811c31765eb22f93bda2f936f4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A1 V",
+      "before_sha256": "c0800415d9809823353064f829ec02444e66127865a1afeb6403d17d71adc5ea",
+      "after_sha256": "c0800415d9809823353064f829ec02444e66127865a1afeb6403d17d71adc5ea",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 13",
+      "before_sha256": "dc9553681250ec384d2a8349c3e931146eee476f0be4283c69aaa70d37baa25b",
+      "after_sha256": "dc9553681250ec384d2a8349c3e931146eee476f0be4283c69aaa70d37baa25b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Clang B1",
+      "before_sha256": "3abfb374cd28fcbcfdfbe415f115bdc2e949dabd2d98a1da7bd28eef951ef024",
+      "after_sha256": "3abfb374cd28fcbcfdfbe415f115bdc2e949dabd2d98a1da7bd28eef951ef024",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang D1",
+      "before_sha256": "7486e377c8b81d257cc1bb7992cf83098b01ac10cb6cda4e357167106d5ee840",
+      "after_sha256": "7486e377c8b81d257cc1bb7992cf83098b01ac10cb6cda4e357167106d5ee840",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F1",
+      "before_sha256": "6afeba11c99c6cc107a50b82d8f5b7e5474f97852fc314bd56077f00af01ced1",
+      "after_sha256": "6afeba11c99c6cc107a50b82d8f5b7e5474f97852fc314bd56077f00af01ced1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang G1 II",
+      "before_sha256": "dae1ff86cecbb1b8be2b43c819688532532ce9572f1c88c49d45bb7d20e02ded",
+      "after_sha256": "dae1ff86cecbb1b8be2b43c819688532532ce9572f1c88c49d45bb7d20e02ded",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G1 IV",
+      "before_sha256": "f1e4c61f6887d187fe20b6a628e30593ddd65468b0748de5d090393708fc08e7",
+      "after_sha256": "f1e4c61f6887d187fe20b6a628e30593ddd65468b0748de5d090393708fc08e7",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang C2",
+      "before_sha256": "f70343a6a50344d69382e736f90e951370e2d3398270ff9940bbd0e10c021714",
+      "after_sha256": "f70343a6a50344d69382e736f90e951370e2d3398270ff9940bbd0e10c021714",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang G1",
+      "before_sha256": "a030eec2631de9e5712fe1539a0d7b4491ab3b74191d64db99cd7f37bedb31fc",
+      "after_sha256": "a030eec2631de9e5712fe1539a0d7b4491ab3b74191d64db99cd7f37bedb31fc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang C2 V",
+      "before_sha256": "26fcb078b90c599109fd3adf02cd596331f4cb839ad6c0cdc51456dcbb0180b9",
+      "after_sha256": "26fcb078b90c599109fd3adf02cd596331f4cb839ad6c0cdc51456dcbb0180b9",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang C2 VI",
+      "before_sha256": "d7ae2f70316d72b06f02a3652c36c78456ef3ce95ecb00d2df6bcc9a075b804c",
+      "after_sha256": "d7ae2f70316d72b06f02a3652c36c78456ef3ce95ecb00d2df6bcc9a075b804c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 14",
+      "before_sha256": "90eecfe9e5642aa9befb20eec1257e429bef267912f0fec56134b5a3eef8cf50",
+      "after_sha256": "90eecfe9e5642aa9befb20eec1257e429bef267912f0fec56134b5a3eef8cf50",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang C2 III",
+      "before_sha256": "78e7a1af1c3b55cc85a9dceaae46a1b1694f02249c9cb58819cb5fe8ee05202b",
+      "after_sha256": "78e7a1af1c3b55cc85a9dceaae46a1b1694f02249c9cb58819cb5fe8ee05202b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1",
+      "before_sha256": "ff5ca62fc27db12588b1163df900642cd198fd985e52b7d2962938cd4b007a5e",
+      "after_sha256": "ff5ca62fc27db12588b1163df900642cd198fd985e52b7d2962938cd4b007a5e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1 VIII",
+      "before_sha256": "e2c625a6b7eb7052003ccd95fc832514f435628d6954a764c43b7ea3c15d31cd",
+      "after_sha256": "e2c625a6b7eb7052003ccd95fc832514f435628d6954a764c43b7ea3c15d31cd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang A#1",
+      "before_sha256": "4a83b5fc6550dbe51279b167ac053a352ad827f6ddf5b47d822099d109f417f8",
+      "after_sha256": "4a83b5fc6550dbe51279b167ac053a352ad827f6ddf5b47d822099d109f417f8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang B1 III",
+      "before_sha256": "1653aa36d810e8fd89567f30dee2f30fbdb305eb31e42c5cc94f3e8e7cd97b24",
+      "after_sha256": "1653aa36d810e8fd89567f30dee2f30fbdb305eb31e42c5cc94f3e8e7cd97b24",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Drop B1",
+      "before_sha256": "86ba5c277d853565d2c5e8f0dc1e4f85f297c24b4e3d47a234bb173c30ffd313",
+      "after_sha256": "86ba5c277d853565d2c5e8f0dc1e4f85f297c24b4e3d47a234bb173c30ffd313",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G#1 III",
+      "before_sha256": "d332921bf191bbdd9d326d76ce47a769c36e55ed0942b52f310442db036eb87d",
+      "after_sha256": "d332921bf191bbdd9d326d76ce47a769c36e55ed0942b52f310442db036eb87d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click A#1 II",
+      "before_sha256": "06ab884b3a28ab7bb32e95c2778a1980d4c7b156046acaac3bbaa0e681a5b6be",
+      "after_sha256": "06ab884b3a28ab7bb32e95c2778a1980d4c7b156046acaac3bbaa0e681a5b6be",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang C2 III",
+      "before_sha256": "15168c41897a3d909800e155967126b664aa91508ac2f6f7bff6ea821171ced1",
+      "after_sha256": "15168c41897a3d909800e155967126b664aa91508ac2f6f7bff6ea821171ced1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang A1",
+      "before_sha256": "e24ac70056f01d9f1b348b34c0d7a3937cb08bd9273b549a7954d41cf0ea90fe",
+      "after_sha256": "e24ac70056f01d9f1b348b34c0d7a3937cb08bd9273b549a7954d41cf0ea90fe",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F1 V",
+      "before_sha256": "f91f22e68f9cd5addae7ce2083a20aee486866e0fc23e9a45f845fa7123e6e28",
+      "after_sha256": "f91f22e68f9cd5addae7ce2083a20aee486866e0fc23e9a45f845fa7123e6e28",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G#1 VI",
+      "before_sha256": "83ace30627156f27b95bdaebb8bda1b3c5e3322324dc65280bd8fa5f6ebcd4da",
+      "after_sha256": "83ace30627156f27b95bdaebb8bda1b3c5e3322324dc65280bd8fa5f6ebcd4da",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang A1 II",
+      "before_sha256": "a92f435111f3c269e59d282d19df2c87b19b6b52e86c7cd424dee675c48fbd22",
+      "after_sha256": "a92f435111f3c269e59d282d19df2c87b19b6b52e86c7cd424dee675c48fbd22",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang B1",
+      "before_sha256": "1878cc4214f4f53bd183ad2b20d151a00adaa68bd1caf002a00decf7db3cd94d",
+      "after_sha256": "1878cc4214f4f53bd183ad2b20d151a00adaa68bd1caf002a00decf7db3cd94d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Schranz Wide Tick",
+      "before_sha256": "a4c55b0d1940eda372297b179cc27c8de869f2d67aa087799e39b4a2f1133123",
+      "after_sha256": "a4c55b0d1940eda372297b179cc27c8de869f2d67aa087799e39b4a2f1133123",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 15",
+      "before_sha256": "9b1f325fbfbaf980ab696eb08626e2eed8f9784f30bbd2312cea0830af96889f",
+      "after_sha256": "9b1f325fbfbaf980ab696eb08626e2eed8f9784f30bbd2312cea0830af96889f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang A#1",
+      "before_sha256": "82bdbe35b6bc51f553b0746c3bdb3b7f469f3481be462f5536e6cbb3ca6af106",
+      "after_sha256": "82bdbe35b6bc51f553b0746c3bdb3b7f469f3481be462f5536e6cbb3ca6af106",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click F1 IV",
+      "before_sha256": "99c85791af9d4d9030650f4bf1cc4f86fd2d223eaf2cd945188f7d7fa3778019",
+      "after_sha256": "99c85791af9d4d9030650f4bf1cc4f86fd2d223eaf2cd945188f7d7fa3778019",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Drop F1",
+      "before_sha256": "94e64d4b9b3415d5d885e2b9aa4acd8f0cb7c040b126feabce79ff401dfba829",
+      "after_sha256": "94e64d4b9b3415d5d885e2b9aa4acd8f0cb7c040b126feabce79ff401dfba829",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Boom G#1",
+      "before_sha256": "ac789e9405fc65b20e8af06683cfa85995ec3e6882e13b3550f4b795dbb03ed8",
+      "after_sha256": "ac789e9405fc65b20e8af06683cfa85995ec3e6882e13b3550f4b795dbb03ed8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A1 VI",
+      "before_sha256": "d397637c25a0fec27e14efe5d7de77dc8ef61c5dbc6784e875a71f5242fc4604",
+      "after_sha256": "d397637c25a0fec27e14efe5d7de77dc8ef61c5dbc6784e875a71f5242fc4604",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang A#1 II",
+      "before_sha256": "04d11ce515c12dd71b75a7affc2264b3651c565f60c0f49175b71997ca7e7afd",
+      "after_sha256": "04d11ce515c12dd71b75a7affc2264b3651c565f60c0f49175b71997ca7e7afd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1",
+      "before_sha256": "a71c4a7f9162782e711308a5103661047719405141a5c94a83f8f447102c4f37",
+      "after_sha256": "a71c4a7f9162782e711308a5103661047719405141a5c94a83f8f447102c4f37",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G#1 II",
+      "before_sha256": "5f689870e6a2ae5407a39cc3b5225b90105c219bb37e0d8eeeb3dd4f21ace68c",
+      "after_sha256": "5f689870e6a2ae5407a39cc3b5225b90105c219bb37e0d8eeeb3dd4f21ace68c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang A1 III",
+      "before_sha256": "185c41a7c442dc3b47bb4d635c2b5ae3b1b0e338bd1c80ce15571aa3db35a17f",
+      "after_sha256": "185c41a7c442dc3b47bb4d635c2b5ae3b1b0e338bd1c80ce15571aa3db35a17f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang B1 II",
+      "before_sha256": "2279b912cfa0fd3a32ec9148afdb791cd54e72d8437fe9b21c7930bfcbf0ac6d",
+      "after_sha256": "2279b912cfa0fd3a32ec9148afdb791cd54e72d8437fe9b21c7930bfcbf0ac6d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clean Clang B1 II",
+      "before_sha256": "ea4a347474937e37c4f49a5b0f1ec997dcd4411a187ab60f2a7d9d5697ba30dc",
+      "after_sha256": "ea4a347474937e37c4f49a5b0f1ec997dcd4411a187ab60f2a7d9d5697ba30dc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1 II",
+      "before_sha256": "8ab54bd7bcf6fa6e4f48c9e515d281902441f19cfde44544874869d40bb8ee66",
+      "after_sha256": "8ab54bd7bcf6fa6e4f48c9e515d281902441f19cfde44544874869d40bb8ee66",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Clang A#1 II",
+      "before_sha256": "eeb6a9a2022216e5c70ac562aa65b06aa09edeff68637235f625e425ca95ba51",
+      "after_sha256": "eeb6a9a2022216e5c70ac562aa65b06aa09edeff68637235f625e425ca95ba51",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Boom A1",
+      "before_sha256": "5e3fa1283ceb1690e892005a236e8e0b8d44640eb61f93dc1aebfbaac3eb406e",
+      "after_sha256": "5e3fa1283ceb1690e892005a236e8e0b8d44640eb61f93dc1aebfbaac3eb406e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Boom A#1",
+      "before_sha256": "8a7031e4446b593b94bff278b91fca7e522ff2e69ac9c1efdc3d9d95163800cc",
+      "after_sha256": "8a7031e4446b593b94bff278b91fca7e522ff2e69ac9c1efdc3d9d95163800cc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 III",
+      "before_sha256": "57c11ac35b801fc41bd70bcf21f4a262939cdcda472ba1bf769f6043c02f01d5",
+      "after_sha256": "57c11ac35b801fc41bd70bcf21f4a262939cdcda472ba1bf769f6043c02f01d5",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Boom B1",
+      "before_sha256": "291f2f87b399580b85b54ebe2ee85a50a56b16549ce449a22724dac8525867ed",
+      "after_sha256": "291f2f87b399580b85b54ebe2ee85a50a56b16549ce449a22724dac8525867ed",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 IX",
+      "before_sha256": "ebffe0e55849f2948d147cfd2fc2072aaab42d83f73d6318a15e188799aac49b",
+      "after_sha256": "ebffe0e55849f2948d147cfd2fc2072aaab42d83f73d6318a15e188799aac49b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang B1",
+      "before_sha256": "d1ced247b5cc9100bf17b66a7e81e8e2b6ebe012e3f9bf5e0f9e5f1d0b9a042a",
+      "after_sha256": "d1ced247b5cc9100bf17b66a7e81e8e2b6ebe012e3f9bf5e0f9e5f1d0b9a042a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G#1 VII",
+      "before_sha256": "48b492ebc6fc88eab7abfe4a7a0f3b786a2d1039da55842431a3b262a36da2f4",
+      "after_sha256": "48b492ebc6fc88eab7abfe4a7a0f3b786a2d1039da55842431a3b262a36da2f4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1 IV",
+      "before_sha256": "5d4e9ebe7095494f3acea78a502b63167aceed3d1b206c0f02e47e7884a01a58",
+      "after_sha256": "5d4e9ebe7095494f3acea78a502b63167aceed3d1b206c0f02e47e7884a01a58",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 VIII",
+      "before_sha256": "fe43bab5cc53efa054bc1aa9717af380e9ee9d7f399c652bc70224ad0d2964dd",
+      "after_sha256": "fe43bab5cc53efa054bc1aa9717af380e9ee9d7f399c652bc70224ad0d2964dd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang B1 II",
+      "before_sha256": "28093183bb727530ef4f7d7c4fa942c18ca3e091425e40c71de761d04ab62afc",
+      "after_sha256": "28093183bb727530ef4f7d7c4fa942c18ca3e091425e40c71de761d04ab62afc",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 II",
+      "before_sha256": "c1680464cdabcac390fb161b8265e4c4fc5e5061a774f5558b428d663a06daeb",
+      "after_sha256": "c1680464cdabcac390fb161b8265e4c4fc5e5061a774f5558b428d663a06daeb",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Clang C2",
+      "before_sha256": "ebce1f348eea70fb21f5c933b4da796e7e42ac6df27ac2e7c824893b4055f646",
+      "after_sha256": "ebce1f348eea70fb21f5c933b4da796e7e42ac6df27ac2e7c824893b4055f646",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang A#1 V",
+      "before_sha256": "77c3b4268d9b11c1fb9f3d892764a51d0050339d2966347c4456097f5445903a",
+      "after_sha256": "77c3b4268d9b11c1fb9f3d892764a51d0050339d2966347c4456097f5445903a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang G#1 III",
+      "before_sha256": "870d78c1809e7c3bfcc6a0728b4db7030263748909220f4d76ca23855611799d",
+      "after_sha256": "870d78c1809e7c3bfcc6a0728b4db7030263748909220f4d76ca23855611799d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang A1",
+      "before_sha256": "3613c83a285f814e786f38daa267dbe2127eacee171b036ca731e1da4edaeca0",
+      "after_sha256": "3613c83a285f814e786f38daa267dbe2127eacee171b036ca731e1da4edaeca0",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang F1 II",
+      "before_sha256": "9a23c81c857268f753c705a74ad879d7eebce280559ed206d840c452e06a7be4",
+      "after_sha256": "9a23c81c857268f753c705a74ad879d7eebce280559ed206d840c452e06a7be4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang A#1 III",
+      "before_sha256": "131d607b5c826db9c1884883eaf30d6d564d49d0bf96f6801818e9bc52789b88",
+      "after_sha256": "131d607b5c826db9c1884883eaf30d6d564d49d0bf96f6801818e9bc52789b88",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click A#1 III",
+      "before_sha256": "9469cbd3f5d304ef74825ceb63e295e66b7cd9bd17458913d4d7c217d9bd64b3",
+      "after_sha256": "9469cbd3f5d304ef74825ceb63e295e66b7cd9bd17458913d4d7c217d9bd64b3",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Click G#1",
+      "before_sha256": "e0a738970a9ba8f60e2474ae0a944c76c15f281cda43c61c88bc8f288a344006",
+      "after_sha256": "e0a738970a9ba8f60e2474ae0a944c76c15f281cda43c61c88bc8f288a344006",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang B1 IV",
+      "before_sha256": "68bd27bfc2e73bbc491e5d7b05740e9d7a629fa2afc1c1656212088b23ed1d6b",
+      "after_sha256": "68bd27bfc2e73bbc491e5d7b05740e9d7a629fa2afc1c1656212088b23ed1d6b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang G1",
+      "before_sha256": "c0dd70478139aa9ece401536818bf92a67551b8183d7b0d6fae01e418c0a6fc2",
+      "after_sha256": "c0dd70478139aa9ece401536818bf92a67551b8183d7b0d6fae01e418c0a6fc2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click G1",
+      "before_sha256": "71b921fd1464f149f8c2ecc9035fa32acad48483ce5418eb287f895d5e3042ee",
+      "after_sha256": "71b921fd1464f149f8c2ecc9035fa32acad48483ce5418eb287f895d5e3042ee",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Click G1 III",
+      "before_sha256": "3b9439163f17a669eb4a6938c8d4ee50ed5eea96ae67f24101c4ee18cf78c317",
+      "after_sha256": "3b9439163f17a669eb4a6938c8d4ee50ed5eea96ae67f24101c4ee18cf78c317",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Boom B1 II",
+      "before_sha256": "6329639df850b74f158221cb464cd4bb9a539057e09760a413ea391f7628297b",
+      "after_sha256": "6329639df850b74f158221cb464cd4bb9a539057e09760a413ea391f7628297b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Distorted Factory",
+      "before_sha256": "68600b771acc590d67bb4cc0b59ae4470e5058dce9414a6e72fced9a62610177",
+      "after_sha256": "68600b771acc590d67bb4cc0b59ae4470e5058dce9414a6e72fced9a62610177",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click A#1 II",
+      "before_sha256": "17ea5b1e4dd29a93a9a998c6ec768badfab368bc63a317fecaa78dc99053ad81",
+      "after_sha256": "17ea5b1e4dd29a93a9a998c6ec768badfab368bc63a317fecaa78dc99053ad81",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Click A#1",
+      "before_sha256": "c80b23c5f7ab5663a3375302175019196f0088c849ea8655198a9e65ec98b195",
+      "after_sha256": "c80b23c5f7ab5663a3375302175019196f0088c849ea8655198a9e65ec98b195",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang F1",
+      "before_sha256": "54df6f4acd8f51e3b3074e825af5427ca2e739cee9f6d3d9cc59399a4003151f",
+      "after_sha256": "54df6f4acd8f51e3b3074e825af5427ca2e739cee9f6d3d9cc59399a4003151f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Crushed Clang F1",
+      "before_sha256": "852143d7481f7bab3cb9a23de2fbec1180c287776996e4b879f1dc5e7713848f",
+      "after_sha256": "852143d7481f7bab3cb9a23de2fbec1180c287776996e4b879f1dc5e7713848f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Clang F#1",
+      "before_sha256": "ef70b9b355918ac59bb454b7ac2d39a50f345b4c87919acc4e310d07d696d158",
+      "after_sha256": "ef70b9b355918ac59bb454b7ac2d39a50f345b4c87919acc4e310d07d696d158",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click G1 II",
+      "before_sha256": "62bb4a04ad4708571bb21007f5b499aafaaf1ff5a552d0aabbfbfc1176e0e859",
+      "after_sha256": "62bb4a04ad4708571bb21007f5b499aafaaf1ff5a552d0aabbfbfc1176e0e859",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click D#1",
+      "before_sha256": "2d3a7e07590996f2b6fad8b66bb918ac87fb5abd8191c29374239a936ca2b905",
+      "after_sha256": "2d3a7e07590996f2b6fad8b66bb918ac87fb5abd8191c29374239a936ca2b905",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Click F#1 IV",
+      "before_sha256": "f9653a72cf54afd7b5852910234f0e9a03ae4cbcfae102d4880c8cfc6e354c91",
+      "after_sha256": "f9653a72cf54afd7b5852910234f0e9a03ae4cbcfae102d4880c8cfc6e354c91",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click A#1 II",
+      "before_sha256": "227d5519b1294e161b364d75c5fa95090866dbe977ca8e3b3628d4c36d0c87e4",
+      "after_sha256": "227d5519b1294e161b364d75c5fa95090866dbe977ca8e3b3628d4c36d0c87e4",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Industrial Rumble",
+      "before_sha256": "bd8f9a43a92024a7b1249ffb54765e724c0b962f7e4a8b4bbd7dc5d13326249b",
+      "after_sha256": "bd8f9a43a92024a7b1249ffb54765e724c0b962f7e4a8b4bbd7dc5d13326249b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Steel Press",
+      "before_sha256": "37e5c3c26020b2c62a95e4a3c9ff5632505398e81a9a6113893547c58b730e37",
+      "after_sha256": "37e5c3c26020b2c62a95e4a3c9ff5632505398e81a9a6113893547c58b730e37",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Iron Sub",
+      "before_sha256": "27b002c26602fd717d31de63915bc887cb2c1411c803996378dd2056fb8bccd8",
+      "after_sha256": "27b002c26602fd717d31de63915bc887cb2c1411c803996378dd2056fb8bccd8",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Rumble D#1",
+      "before_sha256": "448d99f66c3a77ed88f15f23cb3642a29f9c972a5faac8236fc70c7ce61e026d",
+      "after_sha256": "448d99f66c3a77ed88f15f23cb3642a29f9c972a5faac8236fc70c7ce61e026d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang B1",
+      "before_sha256": "993af8062e735115972a9a610b022492da1d5a5a8e140ca1954ad0a29c2cf547",
+      "after_sha256": "993af8062e735115972a9a610b022492da1d5a5a8e140ca1954ad0a29c2cf547",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang F#1 II",
+      "before_sha256": "4fc51b3894a39d1b395ee608682641e27725c06b4c4dd427728138f3850cb33d",
+      "after_sha256": "4fc51b3894a39d1b395ee608682641e27725c06b4c4dd427728138f3850cb33d",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble B1 II",
+      "before_sha256": "7c863503c21e70fba4771c28a1c132aed12813bab84d210e11495c2d88f6e611",
+      "after_sha256": "7c863503c21e70fba4771c28a1c132aed12813bab84d210e11495c2d88f6e611",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Rumble A#1",
+      "before_sha256": "0385011c840e3cff10c658a492876898a94f34e4d52e4a1d875be467b0e68a4b",
+      "after_sha256": "0385011c840e3cff10c658a492876898a94f34e4d52e4a1d875be467b0e68a4b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Thump F1 II",
+      "before_sha256": "b1ca5443cdc223cc3120bf0f77c154a7c3901604457fc260a723e62df7f1d741",
+      "after_sha256": "b1ca5443cdc223cc3120bf0f77c154a7c3901604457fc260a723e62df7f1d741",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble B1",
+      "before_sha256": "4fd0fe80868287d4f2f3a7bc96eab10907e9959bcd3be56e003255fd8fede812",
+      "after_sha256": "4fd0fe80868287d4f2f3a7bc96eab10907e9959bcd3be56e003255fd8fede812",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble G1",
+      "before_sha256": "e894c47313792a1ad8680d6add43e769aacfcbe8a6050363fcb291304df3fb3b",
+      "after_sha256": "e894c47313792a1ad8680d6add43e769aacfcbe8a6050363fcb291304df3fb3b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble C1",
+      "before_sha256": "c2373a6d0b2d2874b62b28ac8665aaaec9e9dfe531323dce6fadadd3c4797da2",
+      "after_sha256": "c2373a6d0b2d2874b62b28ac8665aaaec9e9dfe531323dce6fadadd3c4797da2",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble G#1 IV",
+      "before_sha256": "61d7dd741887c4435202906f772f0ea2c8401898b5d25957fb85ee464c1c8067",
+      "after_sha256": "61d7dd741887c4435202906f772f0ea2c8401898b5d25957fb85ee464c1c8067",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble F#1",
+      "before_sha256": "ec0a546b8dd128b18286fd43e8eccc7c97973237c6461921b979494f25c93388",
+      "after_sha256": "ec0a546b8dd128b18286fd43e8eccc7c97973237c6461921b979494f25c93388",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble F1",
+      "before_sha256": "af20c6466aae880b04ae27f1baeb503cee02484aeafb9a6b0f46a67a025c332e",
+      "after_sha256": "af20c6466aae880b04ae27f1baeb503cee02484aeafb9a6b0f46a67a025c332e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble F#1 II",
+      "before_sha256": "b209099c566bd1852fe979bf4d685434c197a35bca2572e447022450ce75780f",
+      "after_sha256": "b209099c566bd1852fe979bf4d685434c197a35bca2572e447022450ce75780f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Rumble F1 II",
+      "before_sha256": "ffb597afec62e52b0eae3ca1dc1f158df31a5f137b3c326e32b29970d298b853",
+      "after_sha256": "ffb597afec62e52b0eae3ca1dc1f158df31a5f137b3c326e32b29970d298b853",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble A#1 II",
+      "before_sha256": "ed55de93cb0b2343aed130517718cf0a13ed6f5f6fb7673e6b2d5d7b7dd2c49b",
+      "after_sha256": "ed55de93cb0b2343aed130517718cf0a13ed6f5f6fb7673e6b2d5d7b7dd2c49b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble F#1 III",
+      "before_sha256": "699b10f8a5e4cc5cfd59bba7a95f1938abf101fda99a41fd9e7f6b0239e71a40",
+      "after_sha256": "699b10f8a5e4cc5cfd59bba7a95f1938abf101fda99a41fd9e7f6b0239e71a40",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble A1 II",
+      "before_sha256": "76d0f0ec8c9113f540b989cb16487804aa497cc0bf0de8ceacdeeef93a8b49d6",
+      "after_sha256": "76d0f0ec8c9113f540b989cb16487804aa497cc0bf0de8ceacdeeef93a8b49d6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble F#1",
+      "before_sha256": "5179f66bea9dee5bbf909b69526ae11bdf72a725b5d6d04288cf9aa55b720722",
+      "after_sha256": "5179f66bea9dee5bbf909b69526ae11bdf72a725b5d6d04288cf9aa55b720722",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble A#1 III",
+      "before_sha256": "1bccb015d4ac733e9d9a8c40e26eeea5628033a1c5097b83f1f79fa91b6bd293",
+      "after_sha256": "1bccb015d4ac733e9d9a8c40e26eeea5628033a1c5097b83f1f79fa91b6bd293",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Rumble A1",
+      "before_sha256": "91da335018f58de1d741c272e5bcf411510d88ac5afc53b31a887f9952ff8e8c",
+      "after_sha256": "91da335018f58de1d741c272e5bcf411510d88ac5afc53b31a887f9952ff8e8c",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble G1 III",
+      "before_sha256": "f5acd2810dd24b06ec0b8dd14096780d50698c8b782209b527b5364006fc2a53",
+      "after_sha256": "f5acd2810dd24b06ec0b8dd14096780d50698c8b782209b527b5364006fc2a53",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Rumble C#1",
+      "before_sha256": "deb658414f94b6979ace51e50fb5da165ee4d99b728e5cd3edcbf909a35d0bc9",
+      "after_sha256": "deb658414f94b6979ace51e50fb5da165ee4d99b728e5cd3edcbf909a35d0bc9",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Rumble G1",
+      "before_sha256": "d18d0dd669febfb55749e09b00ddcf676372d557254fa6b812995a2688a10b5f",
+      "after_sha256": "d18d0dd669febfb55749e09b00ddcf676372d557254fa6b812995a2688a10b5f",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Click C#1",
+      "before_sha256": "b58708b1ae5f46ff9c17745d6974fca9e178ea8b391c4fb49b58ffce72dbf937",
+      "after_sha256": "b58708b1ae5f46ff9c17745d6974fca9e178ea8b391c4fb49b58ffce72dbf937",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Rumble G1 II",
+      "before_sha256": "5bf7db819af2610b66493b0adfbdd4938a1abc807dec2974faeb666cfd165b82",
+      "after_sha256": "5bf7db819af2610b66493b0adfbdd4938a1abc807dec2974faeb666cfd165b82",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Clipped Clang G1",
+      "before_sha256": "f39096f98601238311015742f5a006add5d789c508f79952ebe0da96aaa06bbe",
+      "after_sha256": "f39096f98601238311015742f5a006add5d789c508f79952ebe0da96aaa06bbe",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Crushed Clang A1",
+      "before_sha256": "b9ed7529896d883cb2a1c5136dbd91b96eadb2bcbc17cb8f3aec69adfe153614",
+      "after_sha256": "b9ed7529896d883cb2a1c5136dbd91b96eadb2bcbc17cb8f3aec69adfe153614",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Grinding Boom A1",
+      "before_sha256": "f121be48d1fcc928df77aea3e53e57c728a27ab3ade82371f8486a4b4237d91a",
+      "after_sha256": "f121be48d1fcc928df77aea3e53e57c728a27ab3ade82371f8486a4b4237d91a",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Wide Warm Boom A#1 II",
+      "before_sha256": "222b38437c2f9ceee667d109dd3440ee452b3d59966b47bac2d5f9fbdfecbf80",
+      "after_sha256": "222b38437c2f9ceee667d109dd3440ee452b3d59966b47bac2d5f9fbdfecbf80",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Clang B1",
+      "before_sha256": "e781bb5a6a6326d183ddc3e2b2d9bd5a199379593d945878e564290bedbb3706",
+      "after_sha256": "e781bb5a6a6326d183ddc3e2b2d9bd5a199379593d945878e564290bedbb3706",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F#1 IV",
+      "before_sha256": "d298beb713e875e0efc8b7221b601dca581918c3b2ef11f7d47e72c71be69f43",
+      "after_sha256": "d298beb713e875e0efc8b7221b601dca581918c3b2ef11f7d47e72c71be69f43",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click F1",
+      "before_sha256": "bf2568f684073a6d8f2431073354d30629b8c6d95c53bd6093be24d25df339e6",
+      "after_sha256": "bf2568f684073a6d8f2431073354d30629b8c6d95c53bd6093be24d25df339e6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Drop G1",
+      "before_sha256": "da17e2170099f37a39724e350ada37244e2f5dbcbf2fd996bcb15e8fff95f3f1",
+      "after_sha256": "da17e2170099f37a39724e350ada37244e2f5dbcbf2fd996bcb15e8fff95f3f1",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Crushed Click G1",
+      "before_sha256": "4c2da6e010a01aacc38fcf6274a8e7019eea1da707c635116e7353408d1c76b6",
+      "after_sha256": "4c2da6e010a01aacc38fcf6274a8e7019eea1da707c635116e7353408d1c76b6",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Click F1",
+      "before_sha256": "336551347338244439e9d83eb13807cf72bace9f294162010b7c7f0b70011fdd",
+      "after_sha256": "336551347338244439e9d83eb13807cf72bace9f294162010b7c7f0b70011fdd",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Clang A1",
+      "before_sha256": "f1bb24d1ecad1c1a1aa64ba5fbe9bdc1b91b262075ced084be7717f4c941c016",
+      "after_sha256": "f1bb24d1ecad1c1a1aa64ba5fbe9bdc1b91b262075ced084be7717f4c941c016",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clipped Click A#1 III",
+      "before_sha256": "8e22bfdca280c24b1c2fac9ee8516fddee09f0bd6f20e25dad1a8c78923f3b39",
+      "after_sha256": "8e22bfdca280c24b1c2fac9ee8516fddee09f0bd6f20e25dad1a8c78923f3b39",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang F1 II",
+      "before_sha256": "6cddaaa5e636721c9e8002511c77a501858a690ce4deacff3ac73c5c749dc55e",
+      "after_sha256": "6cddaaa5e636721c9e8002511c77a501858a690ce4deacff3ac73c5c749dc55e",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Clang E1",
+      "before_sha256": "85207963e50ecbc0c523dd096e67b705afcd9f5f6306b029d3432b7d8ca0ea36",
+      "after_sha256": "85207963e50ecbc0c523dd096e67b705afcd9f5f6306b029d3432b7d8ca0ea36",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Warm Thump F#1",
+      "before_sha256": "8409f9e68571782b768c019e0596b6d9c9398b23046654ad3372070f611e3464",
+      "after_sha256": "8409f9e68571782b768c019e0596b6d9c9398b23046654ad3372070f611e3464",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Clang F#1 III",
+      "before_sha256": "3a0daf0e4a2cfbf1e17833bf60247bd86af9c760b9be04e9c5a1b0a3fac61991",
+      "after_sha256": "3a0daf0e4a2cfbf1e17833bf60247bd86af9c760b9be04e9c5a1b0a3fac61991",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Driven Rumble F1",
+      "before_sha256": "1b5025b81d42686d1019e6cefb4da766410976072a8bebac68836e6a6d3740ca",
+      "after_sha256": "1b5025b81d42686d1019e6cefb4da766410976072a8bebac68836e6a6d3740ca",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Clean Rumble F#1",
+      "before_sha256": "7aceb5c0510fb64b73d3cbcc830e68fbca637b8b79f5b4eb01621c52250e70fe",
+      "after_sha256": "7aceb5c0510fb64b73d3cbcc830e68fbca637b8b79f5b4eb01621c52250e70fe",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Hardstyle Tok",
+      "before_sha256": "860ff66c8922b59ed8e5f40bf5067b289f1efcfae29d2394d69998b3c5dc3fc5",
+      "after_sha256": "860ff66c8922b59ed8e5f40bf5067b289f1efcfae29d2394d69998b3c5dc3fc5",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Rawstyle Screech",
+      "before_sha256": "eb54c234ca1b3a9e09c23cf6127cb1a740ec79cda5f1824690e89f22d563a081",
+      "after_sha256": "eb54c234ca1b3a9e09c23cf6127cb1a740ec79cda5f1824690e89f22d563a081",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Gabba Lite",
+      "before_sha256": "663d9428476b83c8f86af49aa6673a2a86286199a2f8aaed533add0f10e9010b",
+      "after_sha256": "663d9428476b83c8f86af49aa6673a2a86286199a2f8aaed533add0f10e9010b",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    },
+    {
+      "preset": "Euphoric Punch",
+      "before_sha256": "1a45321de5193215f77b217b7d0fcacaa11a8c11ac4f11615f3b3dfe75103c20",
+      "after_sha256": "1a45321de5193215f77b217b7d0fcacaa11a8c11ac4f11615f3b3dfe75103c20",
+      "byte_equal": true,
+      "max_abs_error": 0.0
+    }
+  ]
+}

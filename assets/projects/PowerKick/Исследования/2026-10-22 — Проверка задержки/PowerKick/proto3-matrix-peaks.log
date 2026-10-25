@@ -1,0 +1,2701 @@
+preset,case,sr,velocity,bpm,step,pre_ceiling_dbfs
+Short Knock,single,48000,0.25,150,0,-6.808469389
+Short Knock,single,48000,0.50,150,0,-5.820553175
+Short Knock,single,48000,0.70,150,0,-3.427108811
+Short Knock,single,48000,0.85,150,0,-2.038615026
+Short Knock,single,48000,1.00,150,0,-1.197379316
+Short Knock,accented32,48000,0.80,90,4000,-1.197367543
+Short Knock,accented32,48000,0.80,150,2400,-1.197367543
+Short Knock,accented32,48000,0.80,210,1714,-1.197367543
+Short Knock,accented32,48000,0.80,300,1200,-1.197367543
+Clipped Click F#1 III,single,48000,0.25,150,0,-5.124725335
+Clipped Click F#1 III,single,48000,0.50,150,0,-3.220292619
+Clipped Click F#1 III,single,48000,0.70,150,0,-2.776391416
+Clipped Click F#1 III,single,48000,0.85,150,0,-2.733313461
+Clipped Click F#1 III,single,48000,1.00,150,0,-2.800687870
+Clipped Click F#1 III,accented32,48000,0.80,90,4000,-2.713283997
+Clipped Click F#1 III,accented32,48000,0.80,150,2400,-2.713283997
+Clipped Click F#1 III,accented32,48000,0.80,210,1714,-2.713283997
+Clipped Click F#1 III,accented32,48000,0.80,300,1200,-2.713283997
+Driven Click G#1 III,single,48000,0.25,150,0,-3.744778010
+Driven Click G#1 III,single,48000,0.50,150,0,-2.487237669
+Driven Click G#1 III,single,48000,0.70,150,0,-1.881266711
+Driven Click G#1 III,single,48000,0.85,150,0,-1.464770333
+Driven Click G#1 III,single,48000,1.00,150,0,-1.071744813
+Driven Click G#1 III,accented32,48000,0.80,90,4000,-1.071629939
+Driven Click G#1 III,accented32,48000,0.80,150,2400,-1.071629939
+Driven Click G#1 III,accented32,48000,0.80,210,1714,-1.520647468
+Driven Click G#1 III,accented32,48000,0.80,300,1200,-2.700498995
+Clipped Clang A1 II,single,48000,0.25,150,0,-6.051666434
+Clipped Clang A1 II,single,48000,0.50,150,0,-5.352225864
+Clipped Clang A1 II,single,48000,0.70,150,0,-4.541048893
+Clipped Clang A1 II,single,48000,0.85,150,0,-3.544606657
+Clipped Clang A1 II,single,48000,1.00,150,0,-2.792551556
+Clipped Clang A1 II,accented32,48000,0.80,90,4000,-2.788771167
+Clipped Clang A1 II,accented32,48000,0.80,150,2400,-2.788771167
+Clipped Clang A1 II,accented32,48000,0.80,210,1714,-2.788771167
+Clipped Clang A1 II,accented32,48000,0.80,300,1200,-2.788771167
+Driven Click D#1,single,48000,0.25,150,0,-4.534247298
+Driven Click D#1,single,48000,0.50,150,0,-2.816418113
+Driven Click D#1,single,48000,0.70,150,0,-2.173446688
+Driven Click D#1,single,48000,0.85,150,0,-1.762593246
+Driven Click D#1,single,48000,1.00,150,0,-1.381603656
+Driven Click D#1,accented32,48000,0.80,90,4000,-1.381603656
+Driven Click D#1,accented32,48000,0.80,150,2400,-1.421422337
+Driven Click D#1,accented32,48000,0.80,210,1714,-2.438982618
+Driven Click D#1,accented32,48000,0.80,300,1200,-4.369424413
+Clipped Clang A1 III,single,48000,0.25,150,0,-5.171712739
+Clipped Clang A1 III,single,48000,0.50,150,0,-4.368668791
+Clipped Clang A1 III,single,48000,0.70,150,0,-4.330330431
+Clipped Clang A1 III,single,48000,0.85,150,0,-4.340409484
+Clipped Clang A1 III,single,48000,1.00,150,0,-4.404615311
+Clipped Clang A1 III,accented32,48000,0.80,90,4000,-4.320069100
+Clipped Clang A1 III,accented32,48000,0.80,150,2400,-4.320069100
+Clipped Clang A1 III,accented32,48000,0.80,210,1714,-4.320069100
+Clipped Clang A1 III,accented32,48000,0.80,300,1200,-4.320069100
+Driven Click F1,single,48000,0.25,150,0,-2.366280083
+Driven Click F1,single,48000,0.50,150,0,-1.284853936
+Driven Click F1,single,48000,0.70,150,0,-1.237114978
+Driven Click F1,single,48000,0.85,150,0,-1.301995011
+Driven Click F1,single,48000,1.00,150,0,-1.400582970
+Driven Click F1,accented32,48000,0.80,90,4000,-1.276631685
+Driven Click F1,accented32,48000,0.80,150,2400,-1.276631685
+Driven Click F1,accented32,48000,0.80,210,1714,-1.276631685
+Driven Click F1,accented32,48000,0.80,300,1200,-1.276631685
+Warm Clang C#1,single,48000,0.25,150,0,-6.038207986
+Warm Clang C#1,single,48000,0.50,150,0,-4.683877030
+Warm Clang C#1,single,48000,0.70,150,0,-4.272638864
+Warm Clang C#1,single,48000,0.85,150,0,-2.897415723
+Warm Clang C#1,single,48000,1.00,150,0,-2.392711736
+Warm Clang C#1,accented32,48000,0.80,90,4000,-2.392711736
+Warm Clang C#1,accented32,48000,0.80,150,2400,-2.392711736
+Warm Clang C#1,accented32,48000,0.80,210,1714,-2.392711736
+Warm Clang C#1,accented32,48000,0.80,300,1200,-2.392711736
+Clean Click D#1 II,single,48000,0.25,150,0,-4.828451108
+Clean Click D#1 II,single,48000,0.50,150,0,-3.127529065
+Clean Click D#1 II,single,48000,0.70,150,0,-1.524372016
+Clean Click D#1 II,single,48000,0.85,150,0,-1.236408367
+Clean Click D#1 II,single,48000,1.00,150,0,-1.003906738
+Clean Click D#1 II,accented32,48000,0.80,90,4000,-1.003906738
+Clean Click D#1 II,accented32,48000,0.80,150,2400,-1.003906738
+Clean Click D#1 II,accented32,48000,0.80,210,1714,-1.003906738
+Clean Click D#1 II,accented32,48000,0.80,300,1200,-1.003906738
+Clipped Click G#1 V,single,48000,0.25,150,0,-4.368225286
+Clipped Click G#1 V,single,48000,0.50,150,0,-1.848630901
+Clipped Click G#1 V,single,48000,0.70,150,0,-1.164942210
+Clipped Click G#1 V,single,48000,0.85,150,0,-1.074924774
+Clipped Click G#1 V,single,48000,1.00,150,0,-1.049176204
+Clipped Click G#1 V,accented32,48000,0.80,90,4000,-1.049176204
+Clipped Click G#1 V,accented32,48000,0.80,150,2400,-1.049176204
+Clipped Click G#1 V,accented32,48000,0.80,210,1714,-1.049176204
+Clipped Click G#1 V,accented32,48000,0.80,300,1200,-1.049176204
+Clipped Thump G1 IV,single,48000,0.25,150,0,-2.858396670
+Clipped Thump G1 IV,single,48000,0.50,150,0,-2.088728279
+Clipped Thump G1 IV,single,48000,0.70,150,0,-1.646692718
+Clipped Thump G1 IV,single,48000,0.85,150,0,-1.333393043
+Clipped Thump G1 IV,single,48000,1.00,150,0,-1.031997933
+Clipped Thump G1 IV,accented32,48000,0.80,90,4000,-1.031997933
+Clipped Thump G1 IV,accented32,48000,0.80,150,2400,-1.031997933
+Clipped Thump G1 IV,accented32,48000,0.80,210,1714,-1.576245056
+Clipped Thump G1 IV,accented32,48000,0.80,300,1200,-2.747060118
+Crushed Punch F#1,single,48000,0.25,150,0,-6.325823750
+Crushed Punch F#1,single,48000,0.50,150,0,-5.130894554
+Crushed Punch F#1,single,48000,0.70,150,0,-4.433199964
+Crushed Punch F#1,single,48000,0.85,150,0,-3.681033701
+Crushed Punch F#1,single,48000,1.00,150,0,-3.066981013
+Crushed Punch F#1,accented32,48000,0.80,90,4000,-3.066981013
+Crushed Punch F#1,accented32,48000,0.80,150,2400,-3.066981013
+Crushed Punch F#1,accented32,48000,0.80,210,1714,-3.066981013
+Crushed Punch F#1,accented32,48000,0.80,300,1200,-3.066981013
+Clean Clang G1 IV,single,48000,0.25,150,0,-5.132798217
+Clean Clang G1 IV,single,48000,0.50,150,0,-4.410745158
+Clean Clang G1 IV,single,48000,0.70,150,0,-2.234573430
+Clean Clang G1 IV,single,48000,0.85,150,0,-1.380325494
+Clean Clang G1 IV,single,48000,1.00,150,0,-1.036740747
+Clean Clang G1 IV,accented32,48000,0.80,90,4000,-1.351341443
+Clean Clang G1 IV,accented32,48000,0.80,150,2400,-2.276906738
+Clean Clang G1 IV,accented32,48000,0.80,210,1714,-2.841810647
+Clean Clang G1 IV,accented32,48000,0.80,300,1200,-3.784337447
+Wide Crushed Rumble A1,single,48000,0.25,150,0,-6.705602264
+Wide Crushed Rumble A1,single,48000,0.50,150,0,-4.347544793
+Wide Crushed Rumble A1,single,48000,0.70,150,0,-2.851010750
+Wide Crushed Rumble A1,single,48000,0.85,150,0,-1.893351080
+Wide Crushed Rumble A1,single,48000,1.00,150,0,-1.051995378
+Wide Crushed Rumble A1,accented32,48000,0.80,90,4000,-2.735264494
+Wide Crushed Rumble A1,accented32,48000,0.80,150,2400,-3.830776524
+Wide Crushed Rumble A1,accented32,48000,0.80,210,1714,-4.942329468
+Wide Crushed Rumble A1,accented32,48000,0.80,300,1200,-5.410818100
+Wide Warm Clang F#1,single,48000,0.25,150,0,-5.313960504
+Wide Warm Clang F#1,single,48000,0.50,150,0,-3.556889281
+Wide Warm Clang F#1,single,48000,0.70,150,0,-2.875975582
+Wide Warm Clang F#1,single,48000,0.85,150,0,-1.949619410
+Wide Warm Clang F#1,single,48000,1.00,150,0,-1.254659718
+Wide Warm Clang F#1,accented32,48000,0.80,90,4000,-1.254144235
+Wide Warm Clang F#1,accented32,48000,0.80,150,2400,-1.254144235
+Wide Warm Clang F#1,accented32,48000,0.80,210,1714,-1.254144235
+Wide Warm Clang F#1,accented32,48000,0.80,300,1200,-1.254144235
+Raw Thud,single,48000,0.25,150,0,-6.158745409
+Raw Thud,single,48000,0.50,150,0,-4.380260523
+Raw Thud,single,48000,0.70,150,0,-3.782395181
+Raw Thud,single,48000,0.85,150,0,-3.330454510
+Raw Thud,single,48000,1.00,150,0,-2.883503560
+Raw Thud,accented32,48000,0.80,90,4000,-2.883503560
+Raw Thud,accented32,48000,0.80,150,2400,-2.883503560
+Raw Thud,accented32,48000,0.80,210,1714,-2.883503560
+Raw Thud,accented32,48000,0.80,300,1200,-2.883503560
+Clipped Click A#1 IV,single,48000,0.25,150,0,-2.983038513
+Clipped Click A#1 IV,single,48000,0.50,150,0,-1.837161051
+Clipped Click A#1 IV,single,48000,0.70,150,0,-1.356963366
+Clipped Click A#1 IV,single,48000,0.85,150,0,-1.166258275
+Clipped Click A#1 IV,single,48000,1.00,150,0,-1.013100941
+Clipped Click A#1 IV,accented32,48000,0.80,90,4000,-1.013100941
+Clipped Click A#1 IV,accented32,48000,0.80,150,2400,-1.013100941
+Clipped Click A#1 IV,accented32,48000,0.80,210,1714,-1.013100941
+Clipped Click A#1 IV,accented32,48000,0.80,300,1200,-1.013100941
+Crushed Clang F#1,single,48000,0.25,150,0,-5.129682761
+Crushed Clang F#1,single,48000,0.50,150,0,-4.464376301
+Crushed Clang F#1,single,48000,0.70,150,0,-3.670258963
+Crushed Clang F#1,single,48000,0.85,150,0,-3.091479324
+Crushed Clang F#1,single,48000,1.00,150,0,-2.696922844
+Crushed Clang F#1,accented32,48000,0.80,90,4000,-2.696922844
+Crushed Clang F#1,accented32,48000,0.80,150,2400,-2.696922844
+Crushed Clang F#1,accented32,48000,0.80,210,1714,-2.696922844
+Crushed Clang F#1,accented32,48000,0.80,300,1200,-2.696922844
+Falling Thump,single,48000,0.25,150,0,-2.048692612
+Falling Thump,single,48000,0.50,150,0,-1.950922529
+Falling Thump,single,48000,0.70,150,0,-1.991118513
+Falling Thump,single,48000,0.85,150,0,-2.016506236
+Falling Thump,single,48000,1.00,150,0,-2.042384884
+Falling Thump,accented32,48000,0.80,90,4000,-2.008744985
+Falling Thump,accented32,48000,0.80,150,2400,-2.008744985
+Falling Thump,accented32,48000,0.80,210,1714,-2.008744985
+Falling Thump,accented32,48000,0.80,300,1200,-2.008744985
+Pitch Drop,single,48000,0.25,150,0,-6.600882598
+Pitch Drop,single,48000,0.50,150,0,-5.982549380
+Pitch Drop,single,48000,0.70,150,0,-4.227808847
+Pitch Drop,single,48000,0.85,150,0,-2.882948223
+Pitch Drop,single,48000,1.00,150,0,-2.448449454
+Pitch Drop,accented32,48000,0.80,90,4000,-2.448449454
+Pitch Drop,accented32,48000,0.80,150,2400,-2.448449454
+Pitch Drop,accented32,48000,0.80,210,1714,-2.448449454
+Pitch Drop,accented32,48000,0.80,300,1200,-2.448449454
+Clipped Click D#1,single,48000,0.25,150,0,-3.133094142
+Clipped Click D#1,single,48000,0.50,150,0,-1.968270696
+Clipped Click D#1,single,48000,0.70,150,0,-1.438549058
+Clipped Click D#1,single,48000,0.85,150,0,-1.161971827
+Clipped Click D#1,single,48000,1.00,150,0,-1.040960041
+Clipped Click D#1,accented32,48000,0.80,90,4000,-1.040960041
+Clipped Click D#1,accented32,48000,0.80,150,2400,-1.040960041
+Clipped Click D#1,accented32,48000,0.80,210,1714,-1.040960041
+Clipped Click D#1,accented32,48000,0.80,300,1200,-1.040960041
+Clipped Clang F1 II,single,48000,0.25,150,0,-6.363492676
+Clipped Clang F1 II,single,48000,0.50,150,0,-4.195654621
+Clipped Clang F1 II,single,48000,0.70,150,0,-3.012000164
+Clipped Clang F1 II,single,48000,0.85,150,0,-2.708336550
+Clipped Clang F1 II,single,48000,1.00,150,0,-2.608550303
+Clipped Clang F1 II,accented32,48000,0.80,90,4000,-2.608550303
+Clipped Clang F1 II,accented32,48000,0.80,150,2400,-2.608550303
+Clipped Clang F1 II,accented32,48000,0.80,210,1714,-2.608550303
+Clipped Clang F1 II,accented32,48000,0.80,300,1200,-2.608550303
+Crushed Clang G#1,single,48000,0.25,150,0,-5.644249145
+Crushed Clang G#1,single,48000,0.50,150,0,-4.266665185
+Crushed Clang G#1,single,48000,0.70,150,0,-2.718415895
+Crushed Clang G#1,single,48000,0.85,150,0,-1.989141947
+Crushed Clang G#1,single,48000,1.00,150,0,-1.466997826
+Crushed Clang G#1,accented32,48000,0.80,90,4000,-1.466997826
+Crushed Clang G#1,accented32,48000,0.80,150,2400,-1.466997826
+Crushed Clang G#1,accented32,48000,0.80,210,1714,-1.466997826
+Crushed Clang G#1,accented32,48000,0.80,300,1200,-1.466997826
+Warm Click A1 III,single,48000,0.25,150,0,-5.291663440
+Warm Click A1 III,single,48000,0.50,150,0,-2.565525065
+Warm Click A1 III,single,48000,0.70,150,0,-1.781332815
+Warm Click A1 III,single,48000,0.85,150,0,-1.391328895
+Warm Click A1 III,single,48000,1.00,150,0,-1.069890180
+Warm Click A1 III,accented32,48000,0.80,90,4000,-1.069846676
+Warm Click A1 III,accented32,48000,0.80,150,2400,-1.069846676
+Warm Click A1 III,accented32,48000,0.80,210,1714,-1.836317103
+Warm Click A1 III,accented32,48000,0.80,300,1200,-2.595459303
+Classic Punch,single,48000,0.25,150,0,-3.078187916
+Classic Punch,single,48000,0.50,150,0,-2.187746286
+Classic Punch,single,48000,0.70,150,0,-1.826117650
+Classic Punch,single,48000,0.85,150,0,-1.573474872
+Classic Punch,single,48000,1.00,150,0,-1.328242282
+Classic Punch,accented32,48000,0.80,90,4000,-1.328242282
+Classic Punch,accented32,48000,0.80,150,2400,-1.328242282
+Classic Punch,accented32,48000,0.80,210,1714,-1.556637940
+Classic Punch,accented32,48000,0.80,300,1200,-1.809703259
+Ticking Body,single,48000,0.25,150,0,-5.964267063
+Ticking Body,single,48000,0.50,150,0,-4.779042321
+Ticking Body,single,48000,0.70,150,0,-4.638134502
+Ticking Body,single,48000,0.85,150,0,-4.002893977
+Ticking Body,single,48000,1.00,150,0,-3.435076847
+Ticking Body,accented32,48000,0.80,90,4000,-3.434072352
+Ticking Body,accented32,48000,0.80,150,2400,-3.434072352
+Ticking Body,accented32,48000,0.80,210,1714,-3.434072352
+Ticking Body,accented32,48000,0.80,300,1200,-3.434072352
+Clean Click A1,single,48000,0.25,150,0,-10.130901039
+Clean Click A1,single,48000,0.50,150,0,-4.712427580
+Clean Click A1,single,48000,0.70,150,0,-2.134646832
+Clean Click A1,single,48000,0.85,150,0,-1.238556761
+Clean Click A1,single,48000,1.00,150,0,-1.044942507
+Clean Click A1,accented32,48000,0.80,90,4000,-1.044942507
+Clean Click A1,accented32,48000,0.80,150,2400,-1.221276452
+Clean Click A1,accented32,48000,0.80,210,1714,-1.919917723
+Clean Click A1,accented32,48000,0.80,300,1200,-2.649766205
+Warm Click F1 IV,single,48000,0.25,150,0,-5.309299377
+Warm Click F1 IV,single,48000,0.50,150,0,-3.509407264
+Warm Click F1 IV,single,48000,0.70,150,0,-2.611803451
+Warm Click F1 IV,single,48000,0.85,150,0,-2.251126326
+Warm Click F1 IV,single,48000,1.00,150,0,-2.142923116
+Warm Click F1 IV,accented32,48000,0.80,90,4000,-2.142923116
+Warm Click F1 IV,accented32,48000,0.80,150,2400,-2.142923116
+Warm Click F1 IV,accented32,48000,0.80,210,1714,-2.142923116
+Warm Click F1 IV,accented32,48000,0.80,300,1200,-2.142923116
+Warm Clang D#1,single,48000,0.25,150,0,-6.182417280
+Warm Clang D#1,single,48000,0.50,150,0,-4.005753144
+Warm Clang D#1,single,48000,0.70,150,0,-3.444809483
+Warm Clang D#1,single,48000,0.85,150,0,-2.891500921
+Warm Clang D#1,single,48000,1.00,150,0,-1.815930791
+Warm Clang D#1,accented32,48000,0.80,90,4000,-1.815930791
+Warm Clang D#1,accented32,48000,0.80,150,2400,-1.815930791
+Warm Clang D#1,accented32,48000,0.80,210,1714,-1.815930791
+Warm Clang D#1,accented32,48000,0.80,300,1200,-1.815930791
+Warm Thump F1,single,48000,0.25,150,0,-4.247764302
+Warm Thump F1,single,48000,0.50,150,0,-1.821679550
+Warm Thump F1,single,48000,0.70,150,0,-1.480386347
+Warm Thump F1,single,48000,0.85,150,0,-1.278601701
+Warm Thump F1,single,48000,1.00,150,0,-1.075213233
+Warm Thump F1,accented32,48000,0.80,90,4000,-1.075213233
+Warm Thump F1,accented32,48000,0.80,150,2400,-1.075213233
+Warm Thump F1,accented32,48000,0.80,210,1714,-1.075213233
+Warm Thump F1,accented32,48000,0.80,300,1200,-1.432763418
+Clean Thump A#1,single,48000,0.25,150,0,-10.280039295
+Clean Thump A#1,single,48000,0.50,150,0,-5.224334059
+Clean Thump A#1,single,48000,0.70,150,0,-3.057815577
+Clean Thump A#1,single,48000,0.85,150,0,-1.908499708
+Clean Thump A#1,single,48000,1.00,150,0,-1.037561904
+Clean Thump A#1,accented32,48000,0.80,90,4000,-1.037214015
+Clean Thump A#1,accented32,48000,0.80,150,2400,-1.037214015
+Clean Thump A#1,accented32,48000,0.80,210,1714,-1.037214015
+Clean Thump A#1,accented32,48000,0.80,300,1200,-1.037214015
+Warm Click F#1 VI,single,48000,0.25,150,0,-3.483468044
+Warm Click F#1 VI,single,48000,0.50,150,0,-2.185381500
+Warm Click F#1 VI,single,48000,0.70,150,0,-1.597368304
+Warm Click F#1 VI,single,48000,0.85,150,0,-1.274932935
+Warm Click F#1 VI,single,48000,1.00,150,0,-1.103193398
+Warm Click F#1 VI,accented32,48000,0.80,90,4000,-1.103193398
+Warm Click F#1 VI,accented32,48000,0.80,150,2400,-1.103193398
+Warm Click F#1 VI,accented32,48000,0.80,210,1714,-1.103193398
+Warm Click F#1 VI,accented32,48000,0.80,300,1200,-1.103193398
+Clean Knock C2,single,48000,0.25,150,0,-3.282982350
+Clean Knock C2,single,48000,0.50,150,0,-2.863208589
+Clean Knock C2,single,48000,0.70,150,0,-2.384584833
+Clean Knock C2,single,48000,0.85,150,0,-2.123173065
+Clean Knock C2,single,48000,1.00,150,0,-2.007793087
+Clean Knock C2,accented32,48000,0.80,90,4000,-2.007793087
+Clean Knock C2,accented32,48000,0.80,150,2400,-2.007793087
+Clean Knock C2,accented32,48000,0.80,210,1714,-2.007793087
+Clean Knock C2,accented32,48000,0.80,300,1200,-2.007793087
+Clipped Clang F1 III,single,48000,0.25,150,0,-4.591293382
+Clipped Clang F1 III,single,48000,0.50,150,0,-3.700020058
+Clipped Clang F1 III,single,48000,0.70,150,0,-2.644133029
+Clipped Clang F1 III,single,48000,0.85,150,0,-2.240985162
+Clipped Clang F1 III,single,48000,1.00,150,0,-1.919116866
+Clipped Clang F1 III,accented32,48000,0.80,90,4000,-1.919116866
+Clipped Clang F1 III,accented32,48000,0.80,150,2400,-1.919116866
+Clipped Clang F1 III,accented32,48000,0.80,210,1714,-1.919116866
+Clipped Clang F1 III,accented32,48000,0.80,300,1200,-1.919116866
+Warm Clang F1 III,single,48000,0.25,150,0,-3.217386487
+Warm Clang F1 III,single,48000,0.50,150,0,-1.750281542
+Warm Clang F1 III,single,48000,0.70,150,0,-1.216693166
+Warm Clang F1 III,single,48000,0.85,150,0,-1.098571301
+Warm Clang F1 III,single,48000,1.00,150,0,-1.090655999
+Warm Clang F1 III,accented32,48000,0.80,90,4000,-1.090655999
+Warm Clang F1 III,accented32,48000,0.80,150,2400,-1.090655999
+Warm Clang F1 III,accented32,48000,0.80,210,1714,-1.090655999
+Warm Clang F1 III,accented32,48000,0.80,300,1200,-1.090655999
+Warm Clang F1 IV,single,48000,0.25,150,0,-6.220344377
+Warm Clang F1 IV,single,48000,0.50,150,0,-3.912642354
+Warm Clang F1 IV,single,48000,0.70,150,0,-2.481726630
+Warm Clang F1 IV,single,48000,0.85,150,0,-1.661577054
+Warm Clang F1 IV,single,48000,1.00,150,0,-1.048132341
+Warm Clang F1 IV,accented32,48000,0.80,90,4000,-1.048132341
+Warm Clang F1 IV,accented32,48000,0.80,150,2400,-1.048132341
+Warm Clang F1 IV,accented32,48000,0.80,210,1714,-1.048132341
+Warm Clang F1 IV,accented32,48000,0.80,300,1200,-1.048132341
+Clean Clang F#1,single,48000,0.25,150,0,-2.992561765
+Clean Clang F#1,single,48000,0.50,150,0,-2.490655409
+Clean Clang F#1,single,48000,0.70,150,0,-2.031354941
+Clean Clang F#1,single,48000,0.85,150,0,-1.715183786
+Clean Clang F#1,single,48000,1.00,150,0,-1.531557359
+Clean Clang F#1,accented32,48000,0.80,90,4000,-1.531557359
+Clean Clang F#1,accented32,48000,0.80,150,2400,-1.531557359
+Clean Clang F#1,accented32,48000,0.80,210,1714,-1.531557359
+Clean Clang F#1,accented32,48000,0.80,300,1200,-1.531557359
+Driven Click F1 II,single,48000,0.25,150,0,-3.170627845
+Driven Click F1 II,single,48000,0.50,150,0,-2.053661411
+Driven Click F1 II,single,48000,0.70,150,0,-1.472243706
+Driven Click F1 II,single,48000,0.85,150,0,-1.208123183
+Driven Click F1 II,single,48000,1.00,150,0,-1.047917103
+Driven Click F1 II,accented32,48000,0.80,90,4000,-1.047917103
+Driven Click F1 II,accented32,48000,0.80,150,2400,-1.047917103
+Driven Click F1 II,accented32,48000,0.80,210,1714,-1.047917103
+Driven Click F1 II,accented32,48000,0.80,300,1200,-1.047917103
+Driven Click G1 II,single,48000,0.25,150,0,-4.225553806
+Driven Click G1 II,single,48000,0.50,150,0,-1.879059667
+Driven Click G1 II,single,48000,0.70,150,0,-1.301978926
+Driven Click G1 II,single,48000,0.85,150,0,-1.131105679
+Driven Click G1 II,single,48000,1.00,150,0,-1.075477904
+Driven Click G1 II,accented32,48000,0.80,90,4000,-1.075477904
+Driven Click G1 II,accented32,48000,0.80,150,2400,-1.075477904
+Driven Click G1 II,accented32,48000,0.80,210,1714,-1.075477904
+Driven Click G1 II,accented32,48000,0.80,300,1200,-1.075477904
+Driven Click G1 III,single,48000,0.25,150,0,-3.824640219
+Driven Click G1 III,single,48000,0.50,150,0,-1.848493859
+Driven Click G1 III,single,48000,0.70,150,0,-1.358376012
+Driven Click G1 III,single,48000,0.85,150,0,-1.156583053
+Driven Click G1 III,single,48000,1.00,150,0,-1.030775966
+Driven Click G1 III,accented32,48000,0.80,90,4000,-1.030775966
+Driven Click G1 III,accented32,48000,0.80,150,2400,-1.030775966
+Driven Click G1 III,accented32,48000,0.80,210,1714,-1.030775966
+Driven Click G1 III,accented32,48000,0.80,300,1200,-1.030775966
+Warm Click F1 V,single,48000,0.25,150,0,-6.868172006
+Warm Click F1 V,single,48000,0.50,150,0,-2.532179879
+Warm Click F1 V,single,48000,0.70,150,0,-1.888391536
+Warm Click F1 V,single,48000,0.85,150,0,-1.441481767
+Warm Click F1 V,single,48000,1.00,150,0,-1.021676105
+Warm Click F1 V,accented32,48000,0.80,90,4000,-1.889086939
+Warm Click F1 V,accented32,48000,0.80,150,2400,-3.335072979
+Warm Click F1 V,accented32,48000,0.80,210,1714,-4.331666198
+Warm Click F1 V,accented32,48000,0.80,300,1200,-5.087645145
+Wide Clipped Knock G1,single,48000,0.25,150,0,-4.581863791
+Wide Clipped Knock G1,single,48000,0.50,150,0,-3.431763747
+Wide Clipped Knock G1,single,48000,0.70,150,0,-2.384821707
+Wide Clipped Knock G1,single,48000,0.85,150,0,-1.702239678
+Wide Clipped Knock G1,single,48000,1.00,150,0,-1.057379874
+Wide Clipped Knock G1,accented32,48000,0.80,90,4000,-1.654548935
+Wide Clipped Knock G1,accented32,48000,0.80,150,2400,-2.120886021
+Wide Clipped Knock G1,accented32,48000,0.80,210,1714,-2.535967627
+Wide Clipped Knock G1,accented32,48000,0.80,300,1200,-2.535967627
+Clipped Clang A1 IV,single,48000,0.25,150,0,-3.002018666
+Clipped Clang A1 IV,single,48000,0.50,150,0,-1.272834902
+Clipped Clang A1 IV,single,48000,0.70,150,0,-1.280355843
+Clipped Clang A1 IV,single,48000,0.85,150,0,-1.454516907
+Clipped Clang A1 IV,single,48000,1.00,150,0,-1.449511378
+Clipped Clang A1 IV,accented32,48000,0.80,90,4000,-1.406728289
+Clipped Clang A1 IV,accented32,48000,0.80,150,2400,-1.406728289
+Clipped Clang A1 IV,accented32,48000,0.80,210,1714,-1.406728289
+Clipped Clang A1 IV,accented32,48000,0.80,300,1200,-1.406728289
+Wide Warm Click F#1 II,single,48000,0.25,150,0,-5.151861532
+Wide Warm Click F#1 II,single,48000,0.50,150,0,-3.809997863
+Wide Warm Click F#1 II,single,48000,0.70,150,0,-3.169140840
+Wide Warm Click F#1 II,single,48000,0.85,150,0,-2.910843990
+Wide Warm Click F#1 II,single,48000,1.00,150,0,-2.834302355
+Wide Warm Click F#1 II,accented32,48000,0.80,90,4000,-2.834302355
+Wide Warm Click F#1 II,accented32,48000,0.80,150,2400,-2.834302355
+Wide Warm Click F#1 II,accented32,48000,0.80,210,1714,-2.834302355
+Wide Warm Click F#1 II,accented32,48000,0.80,300,1200,-2.834302355
+Driven Clang F#1,single,48000,0.25,150,0,-7.329855554
+Driven Clang F#1,single,48000,0.50,150,0,-5.883193354
+Driven Clang F#1,single,48000,0.70,150,0,-4.811540948
+Driven Clang F#1,single,48000,0.85,150,0,-3.995361052
+Driven Clang F#1,single,48000,1.00,150,0,-3.113578377
+Driven Clang F#1,accented32,48000,0.80,90,4000,-3.113159314
+Driven Clang F#1,accented32,48000,0.80,150,2400,-3.113159314
+Driven Clang F#1,accented32,48000,0.80,210,1714,-3.113159314
+Driven Clang F#1,accented32,48000,0.80,300,1200,-3.113159314
+Long Clip,single,48000,0.25,150,0,-4.679803896
+Long Clip,single,48000,0.50,150,0,-2.253803565
+Long Clip,single,48000,0.70,150,0,-1.565557118
+Long Clip,single,48000,0.85,150,0,-1.189731653
+Long Clip,single,48000,1.00,150,0,-1.093274050
+Long Clip,accented32,48000,0.80,90,4000,-1.093274050
+Long Clip,accented32,48000,0.80,150,2400,-1.093274050
+Long Clip,accented32,48000,0.80,210,1714,-1.093274050
+Long Clip,accented32,48000,0.80,300,1200,-1.093274050
+Sub Pressure,single,48000,0.25,150,0,-11.571922882
+Sub Pressure,single,48000,0.50,150,0,-6.153382306
+Sub Pressure,single,48000,0.70,150,0,-3.575601268
+Sub Pressure,single,48000,0.85,150,0,-2.062993626
+Sub Pressure,single,48000,1.00,150,0,-1.036777729
+Sub Pressure,accented32,48000,0.80,90,4000,-1.036777729
+Sub Pressure,accented32,48000,0.80,150,2400,-1.036777729
+Sub Pressure,accented32,48000,0.80,210,1714,-1.036777729
+Sub Pressure,accented32,48000,0.80,300,1200,-1.036777729
+Warm Click A#1,single,48000,0.25,150,0,-3.268064192
+Warm Click A#1,single,48000,0.50,150,0,-2.014871814
+Warm Click A#1,single,48000,0.70,150,0,-1.590862470
+Warm Click A#1,single,48000,0.85,150,0,-1.306061456
+Warm Click A#1,single,48000,1.00,150,0,-1.035915045
+Warm Click A#1,accented32,48000,0.80,90,4000,-1.035915045
+Warm Click A#1,accented32,48000,0.80,150,2400,-1.035915045
+Warm Click A#1,accented32,48000,0.80,210,1714,-1.035915045
+Warm Click A#1,accented32,48000,0.80,300,1200,-1.035915045
+Clipped Click F1 II,single,48000,0.25,150,0,-3.408960440
+Clipped Click F1 II,single,48000,0.50,150,0,-2.488557069
+Clipped Click F1 II,single,48000,0.70,150,0,-1.883240537
+Clipped Click F1 II,single,48000,0.85,150,0,-1.591063259
+Clipped Click F1 II,single,48000,1.00,150,0,-1.542455246
+Clipped Click F1 II,accented32,48000,0.80,90,4000,-1.542455246
+Clipped Click F1 II,accented32,48000,0.80,150,2400,-1.542455246
+Clipped Click F1 II,accented32,48000,0.80,210,1714,-1.542455246
+Clipped Click F1 II,accented32,48000,0.80,300,1200,-1.542455246
+Clipped Click G#1,single,48000,0.25,150,0,-2.918131724
+Clipped Click G#1,single,48000,0.50,150,0,-2.069813560
+Clipped Click G#1,single,48000,0.70,150,0,-1.629871161
+Clipped Click G#1,single,48000,0.85,150,0,-1.323511439
+Clipped Click G#1,single,48000,1.00,150,0,-1.031345927
+Clipped Click G#1,accented32,48000,0.80,90,4000,-1.031174993
+Clipped Click G#1,accented32,48000,0.80,150,2400,-1.031174993
+Clipped Click G#1,accented32,48000,0.80,210,1714,-1.143321983
+Clipped Click G#1,accented32,48000,0.80,300,1200,-2.523573134
+Clipped Click G#1 II,single,48000,0.25,150,0,-3.492396400
+Clipped Click G#1 II,single,48000,0.50,150,0,-1.475333072
+Clipped Click G#1 II,single,48000,0.70,150,0,-1.131254641
+Clipped Click G#1 II,single,48000,0.85,150,0,-1.054008889
+Clipped Click G#1 II,single,48000,1.00,150,0,-1.007416124
+Clipped Click G#1 II,accented32,48000,0.80,90,4000,-1.007416124
+Clipped Click G#1 II,accented32,48000,0.80,150,2400,-1.007416124
+Clipped Click G#1 II,accented32,48000,0.80,210,1714,-1.007416124
+Clipped Click G#1 II,accented32,48000,0.80,300,1200,-1.007416124
+Clean Drop G1,single,48000,0.25,150,0,-10.433498699
+Clean Drop G1,single,48000,0.50,150,0,-5.014959299
+Clean Drop G1,single,48000,0.70,150,0,-2.436999240
+Clean Drop G1,single,48000,0.85,150,0,-1.280849705
+Clean Drop G1,single,48000,1.00,150,0,-1.052223452
+Clean Drop G1,accented32,48000,0.80,90,4000,-1.052206086
+Clean Drop G1,accented32,48000,0.80,150,2400,-1.052206086
+Clean Drop G1,accented32,48000,0.80,210,1714,-1.523946011
+Clean Drop G1,accented32,48000,0.80,300,1200,-2.931721450
+Clipped Drop G#1 II,single,48000,0.25,150,0,-3.835329163
+Clipped Drop G#1 II,single,48000,0.50,150,0,-3.026685858
+Clipped Drop G#1 II,single,48000,0.70,150,0,-2.543658052
+Clipped Drop G#1 II,single,48000,0.85,150,0,-2.204050804
+Clipped Drop G#1 II,single,48000,1.00,150,0,-1.880538184
+Clipped Drop G#1 II,accented32,48000,0.80,90,4000,-1.880490425
+Clipped Drop G#1 II,accented32,48000,0.80,150,2400,-2.095077596
+Clipped Drop G#1 II,accented32,48000,0.80,210,1714,-3.024933422
+Clipped Drop G#1 II,accented32,48000,0.80,300,1200,-3.766226230
+Warm Click G1 II,single,48000,0.25,150,0,-3.134288068
+Warm Click G1 II,single,48000,0.50,150,0,-1.819545768
+Warm Click G1 II,single,48000,0.70,150,0,-1.545211877
+Warm Click G1 II,single,48000,0.85,150,0,-1.256227090
+Warm Click G1 II,single,48000,1.00,150,0,-1.028336012
+Warm Click G1 II,accented32,48000,0.80,90,4000,-1.028336012
+Warm Click G1 II,accented32,48000,0.80,150,2400,-1.028336012
+Warm Click G1 II,accented32,48000,0.80,210,1714,-1.028336012
+Warm Click G1 II,accented32,48000,0.80,300,1200,-1.028336012
+Clipped Click G#1 VI,single,48000,0.25,150,0,-4.977288602
+Clipped Click G#1 VI,single,48000,0.50,150,0,-3.066306518
+Clipped Click G#1 VI,single,48000,0.70,150,0,-1.828396734
+Clipped Click G#1 VI,single,48000,0.85,150,0,-1.488862288
+Clipped Click G#1 VI,single,48000,1.00,150,0,-1.257610998
+Clipped Click G#1 VI,accented32,48000,0.80,90,4000,-1.257610998
+Clipped Click G#1 VI,accented32,48000,0.80,150,2400,-1.257610998
+Clipped Click G#1 VI,accented32,48000,0.80,210,1714,-1.257610998
+Clipped Click G#1 VI,accented32,48000,0.80,300,1200,-1.257610998
+Clipped Punch B1,single,48000,0.25,150,0,-3.865761496
+Clipped Punch B1,single,48000,0.50,150,0,-3.126681528
+Clipped Punch B1,single,48000,0.70,150,0,-2.699901351
+Clipped Punch B1,single,48000,0.85,150,0,-2.396620921
+Clipped Punch B1,single,48000,1.00,150,0,-2.104186538
+Clipped Punch B1,accented32,48000,0.80,90,4000,-2.104186538
+Clipped Punch B1,accented32,48000,0.80,150,2400,-2.104186538
+Clipped Punch B1,accented32,48000,0.80,210,1714,-2.939122400
+Clipped Punch B1,accented32,48000,0.80,300,1200,-4.134915824
+Warm Thump G#1,single,48000,0.25,150,0,-3.106946202
+Warm Thump G#1,single,48000,0.50,150,0,-2.088435426
+Warm Thump G#1,single,48000,0.70,150,0,-1.652462016
+Warm Thump G#1,single,48000,0.85,150,0,-1.360723334
+Warm Thump G#1,single,48000,1.00,150,0,-1.086518273
+Warm Thump G#1,accented32,48000,0.80,90,4000,-1.086518273
+Warm Thump G#1,accented32,48000,0.80,150,2400,-1.086518273
+Warm Thump G#1,accented32,48000,0.80,210,1714,-1.324398388
+Warm Thump G#1,accented32,48000,0.80,300,1200,-2.653286099
+Clipped Click G1,single,48000,0.25,150,0,-2.774044341
+Clipped Click G1,single,48000,0.50,150,0,-2.095409185
+Clipped Click G1,single,48000,0.70,150,0,-1.701658885
+Clipped Click G1,single,48000,0.85,150,0,-1.415930584
+Clipped Click G1,single,48000,1.00,150,0,-1.135990022
+Clipped Click G1,accented32,48000,0.80,90,4000,-1.135975410
+Clipped Click G1,accented32,48000,0.80,150,2400,-1.135975410
+Clipped Click G1,accented32,48000,0.80,210,1714,-1.564031781
+Clipped Click G1,accented32,48000,0.80,300,1200,-2.641644856
+Clipped Drop G1,single,48000,0.25,150,0,-2.875499989
+Clipped Drop G1,single,48000,0.50,150,0,-1.997287777
+Clipped Drop G1,single,48000,0.70,150,0,-1.579429461
+Clipped Drop G1,single,48000,0.85,150,0,-1.291690836
+Clipped Drop G1,single,48000,1.00,150,0,-1.019260619
+Clipped Drop G1,accented32,48000,0.80,90,4000,-1.019126253
+Clipped Drop G1,accented32,48000,0.80,150,2400,-1.019126253
+Clipped Drop G1,accented32,48000,0.80,210,1714,-1.389223624
+Clipped Drop G1,accented32,48000,0.80,300,1200,-1.965127000
+Clipped Punch G1,single,48000,0.25,150,0,-1.847505438
+Clipped Punch G1,single,48000,0.50,150,0,-1.021706678
+Clipped Punch G1,single,48000,0.70,150,0,-1.025784204
+Clipped Punch G1,single,48000,0.85,150,0,-1.048293194
+Clipped Punch G1,single,48000,1.00,150,0,-1.059203449
+Clipped Punch G1,accented32,48000,0.80,90,4000,-1.044004407
+Clipped Punch G1,accented32,48000,0.80,150,2400,-1.044004407
+Clipped Punch G1,accented32,48000,0.80,210,1714,-1.044004407
+Clipped Punch G1,accented32,48000,0.80,300,1200,-1.044004407
+Wide Clipped Rumble B1,single,48000,0.25,150,0,-4.627366079
+Wide Clipped Rumble B1,single,48000,0.50,150,0,-4.037557667
+Wide Clipped Rumble B1,single,48000,0.70,150,0,-3.627242564
+Wide Clipped Rumble B1,single,48000,0.85,150,0,-3.380717337
+Wide Clipped Rumble B1,single,48000,1.00,150,0,-3.178399426
+Wide Clipped Rumble B1,accented32,48000,0.80,90,4000,-3.178391292
+Wide Clipped Rumble B1,accented32,48000,0.80,150,2400,-3.178391292
+Wide Clipped Rumble B1,accented32,48000,0.80,210,1714,-3.271374467
+Wide Clipped Rumble B1,accented32,48000,0.80,300,1200,-3.271374467
+Driven Click F#1,single,48000,0.25,150,0,-2.623517807
+Driven Click F#1,single,48000,0.50,150,0,-1.344656213
+Driven Click F#1,single,48000,0.70,150,0,-1.105208913
+Driven Click F#1,single,48000,0.85,150,0,-1.085561726
+Driven Click F#1,single,48000,1.00,150,0,-1.137584646
+Driven Click F#1,accented32,48000,0.80,90,4000,-1.081978808
+Driven Click F#1,accented32,48000,0.80,150,2400,-1.081978808
+Driven Click F#1,accented32,48000,0.80,210,1714,-1.081978808
+Driven Click F#1,accented32,48000,0.80,300,1200,-1.081978808
+Driven Drop G1,single,48000,0.25,150,0,-4.249758273
+Driven Drop G1,single,48000,0.50,150,0,-2.300995849
+Driven Drop G1,single,48000,0.70,150,0,-1.720948131
+Driven Drop G1,single,48000,0.85,150,0,-1.387704871
+Driven Drop G1,single,48000,1.00,150,0,-1.086079503
+Driven Drop G1,accented32,48000,0.80,90,4000,-1.086079503
+Driven Drop G1,accented32,48000,0.80,150,2400,-1.086079503
+Driven Drop G1,accented32,48000,0.80,210,1714,-1.336865867
+Driven Drop G1,accented32,48000,0.80,300,1200,-2.123004774
+Wide Warm Boom G1,single,48000,0.25,150,0,-4.112082648
+Wide Warm Boom G1,single,48000,0.50,150,0,-2.227395625
+Wide Warm Boom G1,single,48000,0.70,150,0,-1.824431980
+Wide Warm Boom G1,single,48000,0.85,150,0,-1.415303435
+Wide Warm Boom G1,single,48000,1.00,150,0,-1.198398297
+Wide Warm Boom G1,accented32,48000,0.80,90,4000,-1.198398297
+Wide Warm Boom G1,accented32,48000,0.80,150,2400,-1.869905083
+Wide Warm Boom G1,accented32,48000,0.80,210,1714,-2.342670312
+Wide Warm Boom G1,accented32,48000,0.80,300,1200,-2.342670312
+Warm Click E1,single,48000,0.25,150,0,-6.053722264
+Warm Click E1,single,48000,0.50,150,0,-2.801756956
+Warm Click E1,single,48000,0.70,150,0,-1.822853544
+Warm Click E1,single,48000,0.85,150,0,-1.372143341
+Warm Click E1,single,48000,1.00,150,0,-1.031772700
+Warm Click E1,accented32,48000,0.80,90,4000,-1.031227543
+Warm Click E1,accented32,48000,0.80,150,2400,-1.031227543
+Warm Click E1,accented32,48000,0.80,210,1714,-1.031227543
+Warm Click E1,accented32,48000,0.80,300,1200,-1.031227543
+Wide Clipped Drop F#1,single,48000,0.25,150,0,-3.634088725
+Wide Clipped Drop F#1,single,48000,0.50,150,0,-2.735295411
+Wide Clipped Drop F#1,single,48000,0.70,150,0,-1.954249899
+Wide Clipped Drop F#1,single,48000,0.85,150,0,-1.313664926
+Wide Clipped Drop F#1,single,48000,1.00,150,0,-1.046300675
+Wide Clipped Drop F#1,accented32,48000,0.80,90,4000,-1.046300675
+Wide Clipped Drop F#1,accented32,48000,0.80,150,2400,-1.046300675
+Wide Clipped Drop F#1,accented32,48000,0.80,210,1714,-1.046300675
+Wide Clipped Drop F#1,accented32,48000,0.80,300,1200,-1.046300675
+Rumble Tail,single,48000,0.25,150,0,-5.452727586
+Rumble Tail,single,48000,0.50,150,0,-2.616604017
+Rumble Tail,single,48000,0.70,150,0,-1.947305091
+Rumble Tail,single,48000,0.85,150,0,-1.483373977
+Rumble Tail,single,48000,1.00,150,0,-1.050294272
+Rumble Tail,accented32,48000,0.80,90,4000,-1.050294272
+Rumble Tail,accented32,48000,0.80,150,2400,-2.011858609
+Rumble Tail,accented32,48000,0.80,210,1714,-2.911545957
+Rumble Tail,accented32,48000,0.80,300,1200,-4.235465172
+Clipped Rumble A#1,single,48000,0.25,150,0,-6.988699939
+Clipped Rumble A#1,single,48000,0.50,150,0,-5.900449809
+Clipped Rumble A#1,single,48000,0.70,150,0,-6.010248047
+Clipped Rumble A#1,single,48000,0.85,150,0,-4.084330292
+Clipped Rumble A#1,single,48000,1.00,150,0,-3.252293082
+Clipped Rumble A#1,accented32,48000,0.80,90,4000,-3.251635362
+Clipped Rumble A#1,accented32,48000,0.80,150,2400,-3.251635362
+Clipped Rumble A#1,accented32,48000,0.80,210,1714,-3.251635362
+Clipped Rumble A#1,accented32,48000,0.80,300,1200,-3.251635362
+Warm Rumble B1 III,single,48000,0.25,150,0,-5.428810945
+Warm Rumble B1 III,single,48000,0.50,150,0,-2.411463592
+Warm Rumble B1 III,single,48000,0.70,150,0,-1.819523003
+Warm Rumble B1 III,single,48000,0.85,150,0,-1.406388209
+Warm Rumble B1 III,single,48000,1.00,150,0,-1.018743926
+Warm Rumble B1 III,accented32,48000,0.80,90,4000,-2.048264120
+Warm Rumble B1 III,accented32,48000,0.80,150,2400,-2.954735180
+Warm Rumble B1 III,accented32,48000,0.80,210,1714,-3.561288976
+Warm Rumble B1 III,accented32,48000,0.80,300,1200,-4.195616381
+Clean Click D#1 III,single,48000,0.25,150,0,-5.032658676
+Clean Click D#1 III,single,48000,0.50,150,0,-2.686179461
+Clean Click D#1 III,single,48000,0.70,150,0,-1.797829873
+Clean Click D#1 III,single,48000,0.85,150,0,-1.406171746
+Clean Click D#1 III,single,48000,1.00,150,0,-1.038557682
+Clean Click D#1 III,accented32,48000,0.80,90,4000,-1.038557682
+Clean Click D#1 III,accented32,48000,0.80,150,2400,-1.038557682
+Clean Click D#1 III,accented32,48000,0.80,210,1714,-1.038557682
+Clean Click D#1 III,accented32,48000,0.80,300,1200,-1.038557682
+Clipped Rumble A1,single,48000,0.25,150,0,-5.326577277
+Clipped Rumble A1,single,48000,0.50,150,0,-4.137774196
+Clipped Rumble A1,single,48000,0.70,150,0,-3.333759295
+Clipped Rumble A1,single,48000,0.85,150,0,-2.780461654
+Clipped Rumble A1,single,48000,1.00,150,0,-2.268065053
+Clipped Rumble A1,accented32,48000,0.80,90,4000,-2.268065053
+Clipped Rumble A1,accented32,48000,0.80,150,2400,-2.268065053
+Clipped Rumble A1,accented32,48000,0.80,210,1714,-2.761358531
+Clipped Rumble A1,accented32,48000,0.80,300,1200,-3.614285545
+Warm Rumble A#1,single,48000,0.25,150,0,-2.341906070
+Warm Rumble A#1,single,48000,0.50,150,0,-1.188040992
+Warm Rumble A#1,single,48000,0.70,150,0,-1.215689143
+Warm Rumble A#1,single,48000,0.85,150,0,-1.249222624
+Warm Rumble A#1,single,48000,1.00,150,0,-1.319584866
+Warm Rumble A#1,accented32,48000,0.80,90,4000,-1.226965403
+Warm Rumble A#1,accented32,48000,0.80,150,2400,-1.226965403
+Warm Rumble A#1,accented32,48000,0.80,210,1714,-1.226965403
+Warm Rumble A#1,accented32,48000,0.80,300,1200,-1.226965403
+Crushed Click B1,single,48000,0.25,150,0,-5.532968146
+Crushed Click B1,single,48000,0.50,150,0,-3.725251099
+Crushed Click B1,single,48000,0.70,150,0,-2.532940454
+Crushed Click B1,single,48000,0.85,150,0,-1.739747090
+Crushed Click B1,single,48000,1.00,150,0,-1.023213530
+Crushed Click B1,accented32,48000,0.80,90,4000,-1.312678263
+Crushed Click B1,accented32,48000,0.80,150,2400,-2.237741878
+Crushed Click B1,accented32,48000,0.80,210,1714,-3.247160905
+Crushed Click B1,accented32,48000,0.80,300,1200,-4.020320549
+Warm Rumble B1,single,48000,0.25,150,0,-2.943955511
+Warm Rumble B1,single,48000,0.50,150,0,-1.987133597
+Warm Rumble B1,single,48000,0.70,150,0,-1.602840328
+Warm Rumble B1,single,48000,0.85,150,0,-1.335228258
+Warm Rumble B1,single,48000,1.00,150,0,-1.075054782
+Warm Rumble B1,accented32,48000,0.80,90,4000,-1.075054782
+Warm Rumble B1,accented32,48000,0.80,150,2400,-1.075054782
+Warm Rumble B1,accented32,48000,0.80,210,1714,-1.075054782
+Warm Rumble B1,accented32,48000,0.80,300,1200,-1.748837574
+Warm Rumble E1,single,48000,0.25,150,0,-6.138013513
+Warm Rumble E1,single,48000,0.50,150,0,-1.885625776
+Warm Rumble E1,single,48000,0.70,150,0,-1.455403389
+Warm Rumble E1,single,48000,0.85,150,0,-1.234029964
+Warm Rumble E1,single,48000,1.00,150,0,-1.039349532
+Warm Rumble E1,accented32,48000,0.80,90,4000,-1.039349532
+Warm Rumble E1,accented32,48000,0.80,150,2400,-1.039349532
+Warm Rumble E1,accented32,48000,0.80,210,1714,-1.039349532
+Warm Rumble E1,accented32,48000,0.80,300,1200,-1.039349532
+Wide Warm Click E1 II,single,48000,0.25,150,0,-3.832242516
+Wide Warm Click E1 II,single,48000,0.50,150,0,-2.824026662
+Wide Warm Click E1 II,single,48000,0.70,150,0,-2.109986808
+Wide Warm Click E1 II,single,48000,0.85,150,0,-1.593901287
+Wide Warm Click E1 II,single,48000,1.00,150,0,-1.077751157
+Wide Warm Click E1 II,accented32,48000,0.80,90,4000,-2.140089556
+Wide Warm Click E1 II,accented32,48000,0.80,150,2400,-2.140089556
+Wide Warm Click E1 II,accented32,48000,0.80,210,1714,-2.140089556
+Wide Warm Click E1 II,accented32,48000,0.80,300,1200,-2.142065994
+Clean Click E1 II,single,48000,0.25,150,0,-4.917180369
+Clean Click E1 II,single,48000,0.50,150,0,-3.326885461
+Clean Click E1 II,single,48000,0.70,150,0,-2.173064687
+Clean Click E1 II,single,48000,0.85,150,0,-1.587619075
+Clean Click E1 II,single,48000,1.00,150,0,-1.168160001
+Clean Click E1 II,accented32,48000,0.80,90,4000,-1.168160001
+Clean Click E1 II,accented32,48000,0.80,150,2400,-1.168160001
+Clean Click E1 II,accented32,48000,0.80,210,1714,-1.168160001
+Clean Click E1 II,accented32,48000,0.80,300,1200,-1.168160001
+Wide Clipped Drop B1,single,48000,0.25,150,0,-2.476693090
+Wide Clipped Drop B1,single,48000,0.50,150,0,-1.259311700
+Wide Clipped Drop B1,single,48000,0.70,150,0,-1.017892834
+Wide Clipped Drop B1,single,48000,0.85,150,0,-1.018476942
+Wide Clipped Drop B1,single,48000,1.00,150,0,-1.034582186
+Wide Clipped Drop B1,accented32,48000,0.80,90,4000,-1.018757189
+Wide Clipped Drop B1,accented32,48000,0.80,150,2400,-1.018757189
+Wide Clipped Drop B1,accented32,48000,0.80,210,1714,-1.018757189
+Wide Clipped Drop B1,accented32,48000,0.80,300,1200,-1.018757189
+Wide Warm Boom A#1,single,48000,0.25,150,0,-3.446104993
+Wide Warm Boom A#1,single,48000,0.50,150,0,-2.150366432
+Wide Warm Boom A#1,single,48000,0.70,150,0,-1.705981142
+Wide Warm Boom A#1,single,48000,0.85,150,0,-1.405649605
+Wide Warm Boom A#1,single,48000,1.00,150,0,-1.163804597
+Wide Warm Boom A#1,accented32,48000,0.80,90,4000,-1.163788765
+Wide Warm Boom A#1,accented32,48000,0.80,150,2400,-1.427310429
+Wide Warm Boom A#1,accented32,48000,0.80,210,1714,-2.753713822
+Wide Warm Boom A#1,accented32,48000,0.80,300,1200,-2.753713822
+Clipped Clang G1 III,single,48000,0.25,150,0,-7.277193851
+Clipped Clang G1 III,single,48000,0.50,150,0,-5.633462774
+Clipped Clang G1 III,single,48000,0.70,150,0,-4.492817970
+Clipped Clang G1 III,single,48000,0.85,150,0,-4.079397570
+Clipped Clang G1 III,single,48000,1.00,150,0,-3.561532396
+Clipped Clang G1 III,accented32,48000,0.80,90,4000,-3.561532396
+Clipped Clang G1 III,accented32,48000,0.80,150,2400,-3.561532396
+Clipped Clang G1 III,accented32,48000,0.80,210,1714,-3.561532396
+Clipped Clang G1 III,accented32,48000,0.80,300,1200,-3.561532396
+Wide Clean Boom B1,single,48000,0.25,150,0,-6.727999641
+Wide Clean Boom B1,single,48000,0.50,150,0,-2.144736081
+Wide Clean Boom B1,single,48000,0.70,150,0,-1.714287884
+Wide Clean Boom B1,single,48000,0.85,150,0,-1.523531638
+Wide Clean Boom B1,single,48000,1.00,150,0,-1.359544196
+Wide Clean Boom B1,accented32,48000,0.80,90,4000,-1.359544196
+Wide Clean Boom B1,accented32,48000,0.80,150,2400,-1.359544196
+Wide Clean Boom B1,accented32,48000,0.80,210,1714,-1.359544196
+Wide Clean Boom B1,accented32,48000,0.80,300,1200,-1.359544196
+Clean Clang D1,single,48000,0.25,150,0,-4.316587003
+Clean Clang D1,single,48000,0.50,150,0,-2.458842029
+Clean Clang D1,single,48000,0.70,150,0,-1.595724595
+Clean Clang D1,single,48000,0.85,150,0,-1.339505352
+Clean Clang D1,single,48000,1.00,150,0,-1.144841892
+Clean Clang D1,accented32,48000,0.80,90,4000,-1.659973921
+Clean Clang D1,accented32,48000,0.80,150,2400,-1.659973921
+Clean Clang D1,accented32,48000,0.80,210,1714,-1.659973921
+Clean Clang D1,accented32,48000,0.80,300,1200,-1.659973921
+Wide Clean Click D#1,single,48000,0.25,150,0,-4.413958325
+Wide Clean Click D#1,single,48000,0.50,150,0,-1.393246833
+Wide Clean Click D#1,single,48000,0.70,150,0,-1.035917357
+Wide Clean Click D#1,single,48000,0.85,150,0,-1.009282809
+Wide Clean Click D#1,single,48000,1.00,150,0,-1.063713055
+Wide Clean Click D#1,accented32,48000,0.80,90,4000,-1.006602995
+Wide Clean Click D#1,accented32,48000,0.80,150,2400,-1.006602995
+Wide Clean Click D#1,accented32,48000,0.80,210,1714,-1.006602995
+Wide Clean Click D#1,accented32,48000,0.80,300,1200,-1.006602995
+Wide Warm Click F1,single,48000,0.25,150,0,-3.145157914
+Wide Warm Click F1,single,48000,0.50,150,0,-2.373467141
+Wide Warm Click F1,single,48000,0.70,150,0,-1.768343260
+Wide Warm Click F1,single,48000,0.85,150,0,-1.467920803
+Wide Warm Click F1,single,48000,1.00,150,0,-1.087739389
+Wide Warm Click F1,accented32,48000,0.80,90,4000,-1.087739389
+Wide Warm Click F1,accented32,48000,0.80,150,2400,-1.087739389
+Wide Warm Click F1,accented32,48000,0.80,210,1714,-1.700408845
+Wide Warm Click F1,accented32,48000,0.80,300,1200,-3.339507091
+Clipped Click G1 III,single,48000,0.25,150,0,-3.047446269
+Clipped Click G1 III,single,48000,0.50,150,0,-2.284218985
+Clipped Click G1 III,single,48000,0.70,150,0,-1.771885026
+Clipped Click G1 III,single,48000,0.85,150,0,-1.405807571
+Clipped Click G1 III,single,48000,1.00,150,0,-1.055966113
+Clipped Click G1 III,accented32,48000,0.80,90,4000,-1.055952793
+Clipped Click G1 III,accented32,48000,0.80,150,2400,-1.620958043
+Clipped Click G1 III,accented32,48000,0.80,210,1714,-3.405945720
+Clipped Click G1 III,accented32,48000,0.80,300,1200,-4.537867926
+Clipped Clang F#1,single,48000,0.25,150,0,-5.721186399
+Clipped Clang F#1,single,48000,0.50,150,0,-6.177885471
+Clipped Clang F#1,single,48000,0.70,150,0,-3.357461711
+Clipped Clang F#1,single,48000,0.85,150,0,-2.442764581
+Clipped Clang F#1,single,48000,1.00,150,0,-1.962856117
+Clipped Clang F#1,accented32,48000,0.80,90,4000,-1.961452865
+Clipped Clang F#1,accented32,48000,0.80,150,2400,-1.961452865
+Clipped Clang F#1,accented32,48000,0.80,210,1714,-1.961452865
+Clipped Clang F#1,accented32,48000,0.80,300,1200,-1.961452865
+Hard Techno Core,single,48000,0.25,150,0,-5.193350194
+Hard Techno Core,single,48000,0.50,150,0,-4.117096581
+Hard Techno Core,single,48000,0.70,150,0,-3.696389308
+Hard Techno Core,single,48000,0.85,150,0,-3.414659456
+Hard Techno Core,single,48000,1.00,150,0,-3.136825062
+Hard Techno Core,accented32,48000,0.80,90,4000,-3.136814024
+Hard Techno Core,accented32,48000,0.80,150,2400,-3.528315817
+Hard Techno Core,accented32,48000,0.80,210,1714,-4.075487516
+Hard Techno Core,accented32,48000,0.80,300,1200,-4.075487516
+Warm Clang G#1 IV,single,48000,0.25,150,0,-5.328571673
+Warm Clang G#1 IV,single,48000,0.50,150,0,-3.938977365
+Warm Clang G#1 IV,single,48000,0.70,150,0,-3.737064172
+Warm Clang G#1 IV,single,48000,0.85,150,0,-3.425606156
+Warm Clang G#1 IV,single,48000,1.00,150,0,-2.563456094
+Warm Clang G#1 IV,accented32,48000,0.80,90,4000,-2.563456094
+Warm Clang G#1 IV,accented32,48000,0.80,150,2400,-2.563456094
+Warm Clang G#1 IV,accented32,48000,0.80,210,1714,-2.563456094
+Warm Clang G#1 IV,accented32,48000,0.80,300,1200,-2.563456094
+Clipped Boom G#1 II,single,48000,0.25,150,0,-1.760830670
+Clipped Boom G#1 II,single,48000,0.50,150,0,-1.206957507
+Clipped Boom G#1 II,single,48000,0.70,150,0,-1.186257775
+Clipped Boom G#1 II,single,48000,0.85,150,0,-1.193116905
+Clipped Boom G#1 II,single,48000,1.00,150,0,-1.260470193
+Clipped Boom G#1 II,accented32,48000,0.80,90,4000,-1.186680469
+Clipped Boom G#1 II,accented32,48000,0.80,150,2400,-1.186680469
+Clipped Boom G#1 II,accented32,48000,0.80,210,1714,-1.186680469
+Clipped Boom G#1 II,accented32,48000,0.80,300,1200,-1.186680469
+Clipped Clang F1 IV,single,48000,0.25,150,0,-4.253862241
+Clipped Clang F1 IV,single,48000,0.50,150,0,-4.257189509
+Clipped Clang F1 IV,single,48000,0.70,150,0,-3.354458773
+Clipped Clang F1 IV,single,48000,0.85,150,0,-2.683591207
+Clipped Clang F1 IV,single,48000,1.00,150,0,-2.206961511
+Clipped Clang F1 IV,accented32,48000,0.80,90,4000,-2.206539685
+Clipped Clang F1 IV,accented32,48000,0.80,150,2400,-2.206539685
+Clipped Clang F1 IV,accented32,48000,0.80,210,1714,-2.206539685
+Clipped Clang F1 IV,accented32,48000,0.80,300,1200,-2.206539685
+Clipped Clang G1 IV,single,48000,0.25,150,0,-5.796257113
+Clipped Clang G1 IV,single,48000,0.50,150,0,-3.840222521
+Clipped Clang G1 IV,single,48000,0.70,150,0,-2.051195814
+Clipped Clang G1 IV,single,48000,0.85,150,0,-1.701511665
+Clipped Clang G1 IV,single,48000,1.00,150,0,-1.433331345
+Clipped Clang G1 IV,accented32,48000,0.80,90,4000,-1.432915224
+Clipped Clang G1 IV,accented32,48000,0.80,150,2400,-1.432915224
+Clipped Clang G1 IV,accented32,48000,0.80,210,1714,-1.432915224
+Clipped Clang G1 IV,accented32,48000,0.80,300,1200,-1.432915224
+Warm Clang F#1,single,48000,0.25,150,0,-4.862559914
+Warm Clang F#1,single,48000,0.50,150,0,-2.548568261
+Warm Clang F#1,single,48000,0.70,150,0,-2.173214192
+Warm Clang F#1,single,48000,0.85,150,0,-1.913399797
+Warm Clang F#1,single,48000,1.00,150,0,-1.662668744
+Warm Clang F#1,accented32,48000,0.80,90,4000,-1.662623410
+Warm Clang F#1,accented32,48000,0.80,150,2400,-1.679272134
+Warm Clang F#1,accented32,48000,0.80,210,1714,-2.713407351
+Warm Clang F#1,accented32,48000,0.80,300,1200,-3.461519525
+Clipped Clang G1 V,single,48000,0.25,150,0,-7.421509480
+Clipped Clang G1 V,single,48000,0.50,150,0,-6.753590241
+Clipped Clang G1 V,single,48000,0.70,150,0,-6.306140100
+Clipped Clang G1 V,single,48000,0.85,150,0,-5.403910921
+Clipped Clang G1 V,single,48000,1.00,150,0,-4.687691666
+Clipped Clang G1 V,accented32,48000,0.80,90,4000,-4.687691666
+Clipped Clang G1 V,accented32,48000,0.80,150,2400,-4.687691666
+Clipped Clang G1 V,accented32,48000,0.80,210,1714,-4.687691666
+Clipped Clang G1 V,accented32,48000,0.80,300,1200,-4.687691666
+Warm Clang A1 IV,single,48000,0.25,150,0,-7.342229648
+Warm Clang A1 IV,single,48000,0.50,150,0,-5.110729892
+Warm Clang A1 IV,single,48000,0.70,150,0,-3.330823235
+Warm Clang A1 IV,single,48000,0.85,150,0,-2.279641942
+Warm Clang A1 IV,single,48000,1.00,150,0,-1.511254891
+Warm Clang A1 IV,accented32,48000,0.80,90,4000,-1.511254891
+Warm Clang A1 IV,accented32,48000,0.80,150,2400,-1.511254891
+Warm Clang A1 IV,accented32,48000,0.80,210,1714,-1.511254891
+Warm Clang A1 IV,accented32,48000,0.80,300,1200,-1.511254891
+Warm Clang D#1 II,single,48000,0.25,150,0,-3.944395452
+Warm Clang D#1 II,single,48000,0.50,150,0,-1.685426742
+Warm Clang D#1 II,single,48000,0.70,150,0,-1.762740248
+Warm Clang D#1 II,single,48000,0.85,150,0,-1.552177185
+Warm Clang D#1 II,single,48000,1.00,150,0,-1.499739617
+Warm Clang D#1 II,accented32,48000,0.80,90,4000,-1.499739617
+Warm Clang D#1 II,accented32,48000,0.80,150,2400,-1.499739617
+Warm Clang D#1 II,accented32,48000,0.80,210,1714,-1.499739617
+Warm Clang D#1 II,accented32,48000,0.80,300,1200,-1.499739617
+Clipped Punch A1,single,48000,0.25,150,0,-2.609761520
+Clipped Punch A1,single,48000,0.50,150,0,-1.592320452
+Clipped Punch A1,single,48000,0.70,150,0,-1.258404104
+Clipped Punch A1,single,48000,0.85,150,0,-1.076570338
+Clipped Punch A1,single,48000,1.00,150,0,-1.005978227
+Clipped Punch A1,accented32,48000,0.80,90,4000,-1.005978227
+Clipped Punch A1,accented32,48000,0.80,150,2400,-1.005978227
+Clipped Punch A1,accented32,48000,0.80,210,1714,-1.005978227
+Clipped Punch A1,accented32,48000,0.80,300,1200,-1.005978227
+Clipped Clang D1 II,single,48000,0.25,150,0,-3.808045081
+Clipped Clang D1 II,single,48000,0.50,150,0,-2.471734037
+Clipped Clang D1 II,single,48000,0.70,150,0,-2.258555236
+Clipped Clang D1 II,single,48000,0.85,150,0,-2.295774020
+Clipped Clang D1 II,single,48000,1.00,150,0,-2.431593931
+Clipped Clang D1 II,accented32,48000,0.80,90,4000,-2.268370684
+Clipped Clang D1 II,accented32,48000,0.80,150,2400,-2.268370684
+Clipped Clang D1 II,accented32,48000,0.80,210,1714,-2.268370684
+Clipped Clang D1 II,accented32,48000,0.80,300,1200,-2.268370684
+Driven Click F#1 II,single,48000,0.25,150,0,-5.085710829
+Driven Click F#1 II,single,48000,0.50,150,0,-3.356003507
+Driven Click F#1 II,single,48000,0.70,150,0,-2.756486470
+Driven Click F#1 II,single,48000,0.85,150,0,-2.380924573
+Driven Click F#1 II,single,48000,1.00,150,0,-2.036154344
+Driven Click F#1 II,accented32,48000,0.80,90,4000,-2.036154344
+Driven Click F#1 II,accented32,48000,0.80,150,2400,-2.127366342
+Driven Click F#1 II,accented32,48000,0.80,210,1714,-3.277636803
+Driven Click F#1 II,accented32,48000,0.80,300,1200,-4.163767242
+Warm Click A1 IV,single,48000,0.25,150,0,-3.996942839
+Warm Click A1 IV,single,48000,0.50,150,0,-3.527875490
+Warm Click A1 IV,single,48000,0.70,150,0,-3.508477855
+Warm Click A1 IV,single,48000,0.85,150,0,-1.226105474
+Warm Click A1 IV,single,48000,1.00,150,0,-1.078620329
+Warm Click A1 IV,accented32,48000,0.80,90,4000,-1.078620329
+Warm Click A1 IV,accented32,48000,0.80,150,2400,-1.078620329
+Warm Click A1 IV,accented32,48000,0.80,210,1714,-1.078620329
+Warm Click A1 IV,accented32,48000,0.80,300,1200,-1.078620329
+Wide Warm Click A#1,single,48000,0.25,150,0,-6.126391570
+Wide Warm Click A#1,single,48000,0.50,150,0,-3.365911581
+Wide Warm Click A#1,single,48000,0.70,150,0,-2.536997752
+Wide Warm Click A#1,single,48000,0.85,150,0,-2.115698046
+Wide Warm Click A#1,single,48000,1.00,150,0,-1.763800747
+Wide Warm Click A#1,accented32,48000,0.80,90,4000,-1.763359066
+Wide Warm Click A#1,accented32,48000,0.80,150,2400,-1.763359066
+Wide Warm Click A#1,accented32,48000,0.80,210,1714,-2.494539223
+Wide Warm Click A#1,accented32,48000,0.80,300,1200,-2.934767206
+Deep Drop,single,48000,0.25,150,0,-5.702681083
+Deep Drop,single,48000,0.50,150,0,-4.082158958
+Deep Drop,single,48000,0.70,150,0,-1.923559608
+Deep Drop,single,48000,0.85,150,0,-1.582413210
+Deep Drop,single,48000,1.00,150,0,-1.424593374
+Deep Drop,accented32,48000,0.80,90,4000,-1.424593374
+Deep Drop,accented32,48000,0.80,150,2400,-1.511215832
+Deep Drop,accented32,48000,0.80,210,1714,-2.155329341
+Deep Drop,accented32,48000,0.80,300,1200,-2.889176179
+Falling Clipper,single,48000,0.25,150,0,-8.335706050
+Falling Clipper,single,48000,0.50,150,0,-2.912264475
+Falling Clipper,single,48000,0.70,150,0,-1.821722560
+Falling Clipper,single,48000,0.85,150,0,-1.618030224
+Falling Clipper,single,48000,1.00,150,0,-1.443131662
+Falling Clipper,accented32,48000,0.80,90,4000,-1.443104413
+Falling Clipper,accented32,48000,0.80,150,2400,-1.474569743
+Falling Clipper,accented32,48000,0.80,210,1714,-2.774267374
+Falling Clipper,accented32,48000,0.80,300,1200,-3.873689860
+Clean Boom F1,single,48000,0.25,150,0,-12.784614579
+Clean Boom F1,single,48000,0.50,150,0,-7.366073985
+Clean Boom F1,single,48000,0.70,150,0,-4.788292484
+Clean Boom F1,single,48000,0.85,150,0,-3.275684199
+Clean Boom F1,single,48000,1.00,150,0,-2.008844511
+Clean Boom F1,accented32,48000,0.80,90,4000,-2.008370805
+Clean Boom F1,accented32,48000,0.80,150,2400,-2.008370805
+Clean Boom F1,accented32,48000,0.80,210,1714,-2.008370805
+Clean Boom F1,accented32,48000,0.80,300,1200,-2.008370805
+Driven Clang A#1 III,single,48000,0.25,150,0,-4.837826569
+Driven Clang A#1 III,single,48000,0.50,150,0,-3.461102432
+Driven Clang A#1 III,single,48000,0.70,150,0,-3.008649486
+Driven Clang A#1 III,single,48000,0.85,150,0,-2.564334468
+Driven Clang A#1 III,single,48000,1.00,150,0,-1.954856180
+Driven Clang A#1 III,accented32,48000,0.80,90,4000,-1.954856180
+Driven Clang A#1 III,accented32,48000,0.80,150,2400,-1.954856180
+Driven Clang A#1 III,accented32,48000,0.80,210,1714,-1.954856180
+Driven Clang A#1 III,accented32,48000,0.80,300,1200,-1.954856180
+Warm Clang G1 VI,single,48000,0.25,150,0,-8.408206550
+Warm Clang G1 VI,single,48000,0.50,150,0,-5.293468720
+Warm Clang G1 VI,single,48000,0.70,150,0,-4.939662843
+Warm Clang G1 VI,single,48000,0.85,150,0,-4.669941515
+Warm Clang G1 VI,single,48000,1.00,150,0,-4.164758717
+Warm Clang G1 VI,accented32,48000,0.80,90,4000,-4.164758717
+Warm Clang G1 VI,accented32,48000,0.80,150,2400,-4.164758717
+Warm Clang G1 VI,accented32,48000,0.80,210,1714,-4.164758717
+Warm Clang G1 VI,accented32,48000,0.80,300,1200,-4.164758717
+Clean Clang G1 V,single,48000,0.25,150,0,-10.378251390
+Clean Clang G1 V,single,48000,0.50,150,0,-4.548519835
+Clean Clang G1 V,single,48000,0.70,150,0,-3.494260314
+Clean Clang G1 V,single,48000,0.85,150,0,-1.979837171
+Clean Clang G1 V,single,48000,1.00,150,0,-1.065903799
+Clean Clang G1 V,accented32,48000,0.80,90,4000,-1.065903799
+Clean Clang G1 V,accented32,48000,0.80,150,2400,-1.065903799
+Clean Clang G1 V,accented32,48000,0.80,210,1714,-1.437538426
+Clean Clang G1 V,accented32,48000,0.80,300,1200,-2.602878735
+Warm Click G1 III,single,48000,0.25,150,0,-5.614800614
+Warm Click G1 III,single,48000,0.50,150,0,-2.558387374
+Warm Click G1 III,single,48000,0.70,150,0,-2.146431895
+Warm Click G1 III,single,48000,0.85,150,0,-1.866881978
+Warm Click G1 III,single,48000,1.00,150,0,-1.601006276
+Warm Click G1 III,accented32,48000,0.80,90,4000,-1.601006276
+Warm Click G1 III,accented32,48000,0.80,150,2400,-1.754543339
+Warm Click G1 III,accented32,48000,0.80,210,1714,-3.064349758
+Warm Click G1 III,accented32,48000,0.80,300,1200,-4.780254182
+Clean Drop F#1 II,single,48000,0.25,150,0,-8.051876452
+Clean Drop F#1 II,single,48000,0.50,150,0,-2.633335257
+Clean Drop F#1 II,single,48000,0.70,150,0,-1.858898130
+Clean Drop F#1 II,single,48000,0.85,150,0,-1.462963381
+Clean Drop F#1 II,single,48000,1.00,150,0,-1.089496679
+Clean Drop F#1 II,accented32,48000,0.80,90,4000,-2.809546135
+Clean Drop F#1 II,accented32,48000,0.80,150,2400,-4.369476995
+Clean Drop F#1 II,accented32,48000,0.80,210,1714,-5.322037140
+Clean Drop F#1 II,accented32,48000,0.80,300,1200,-6.469789998
+Clean Click G1 V,single,48000,0.25,150,0,-9.262601133
+Clean Click G1 V,single,48000,0.50,150,0,-3.842299880
+Clean Click G1 V,single,48000,0.70,150,0,-1.775433899
+Clean Click G1 V,single,48000,0.85,150,0,-1.517159634
+Clean Click G1 V,single,48000,1.00,150,0,-1.284002526
+Clean Click G1 V,accented32,48000,0.80,90,4000,-1.284002526
+Clean Click G1 V,accented32,48000,0.80,150,2400,-1.284002526
+Clean Click G1 V,accented32,48000,0.80,210,1714,-2.632967206
+Clean Click G1 V,accented32,48000,0.80,300,1200,-3.877970117
+Clean Click D#1,single,48000,0.25,150,0,-5.383644511
+Clean Click D#1,single,48000,0.50,150,0,-3.868751998
+Clean Click D#1,single,48000,0.70,150,0,-2.334588732
+Clean Click D#1,single,48000,0.85,150,0,-2.086447677
+Clean Click D#1,single,48000,1.00,150,0,-1.963428283
+Clean Click D#1,accented32,48000,0.80,90,4000,-1.963428283
+Clean Click D#1,accented32,48000,0.80,150,2400,-1.963428283
+Clean Click D#1,accented32,48000,0.80,210,1714,-1.963428283
+Clean Click D#1,accented32,48000,0.80,300,1200,-1.963428283
+Clean Click G1 VI,single,48000,0.25,150,0,-6.938549678
+Clean Click G1 VI,single,48000,0.50,150,0,-1.888314414
+Clean Click G1 VI,single,48000,0.70,150,0,-1.485286794
+Clean Click G1 VI,single,48000,0.85,150,0,-1.264902234
+Clean Click G1 VI,single,48000,1.00,150,0,-1.062973463
+Clean Click G1 VI,accented32,48000,0.80,90,4000,-1.062973463
+Clean Click G1 VI,accented32,48000,0.80,150,2400,-1.561663250
+Clean Click G1 VI,accented32,48000,0.80,210,1714,-3.374787922
+Clean Click G1 VI,accented32,48000,0.80,300,1200,-4.847283845
+Clean Click F1,single,48000,0.25,150,0,-5.352591506
+Clean Click F1,single,48000,0.50,150,0,-2.574694956
+Clean Click F1,single,48000,0.70,150,0,-1.915378381
+Clean Click F1,single,48000,0.85,150,0,-1.638441669
+Clean Click F1,single,48000,1.00,150,0,-1.459127358
+Clean Click F1,accented32,48000,0.80,90,4000,-1.459127358
+Clean Click F1,accented32,48000,0.80,150,2400,-1.459127358
+Clean Click F1,accented32,48000,0.80,210,1714,-1.459127358
+Clean Click F1,accented32,48000,0.80,300,1200,-1.459127358
+Clean Click F#1,single,48000,0.25,150,0,-9.650057211
+Clean Click F#1,single,48000,0.50,150,0,-4.230812307
+Clean Click F#1,single,48000,0.70,150,0,-1.653859030
+Clean Click F#1,single,48000,0.85,150,0,-1.236757231
+Clean Click F#1,single,48000,1.00,150,0,-1.069375687
+Clean Click F#1,accented32,48000,0.80,90,4000,-1.069374527
+Clean Click F#1,accented32,48000,0.80,150,2400,-1.069374527
+Clean Click F#1,accented32,48000,0.80,210,1714,-1.997848660
+Clean Click F#1,accented32,48000,0.80,300,1200,-3.158004893
+Clean Clang G#1,single,48000,0.25,150,0,-9.326398201
+Clean Clang G#1,single,48000,0.50,150,0,-5.480185005
+Clean Clang G#1,single,48000,0.70,150,0,-2.902891846
+Clean Clang G#1,single,48000,0.85,150,0,-2.139257644
+Clean Clang G#1,single,48000,1.00,150,0,-1.965337916
+Clean Clang G#1,accented32,48000,0.80,90,4000,-1.965330843
+Clean Clang G#1,accented32,48000,0.80,150,2400,-2.188872506
+Clean Clang G#1,accented32,48000,0.80,210,1714,-3.211573429
+Clean Clang G#1,accented32,48000,0.80,300,1200,-3.706987498
+Clean Click A#1,single,48000,0.25,150,0,-10.322568076
+Clean Click A#1,single,48000,0.50,150,0,-4.904091439
+Clean Click A#1,single,48000,0.70,150,0,-2.326298144
+Clean Click A#1,single,48000,0.85,150,0,-1.415974046
+Clean Click A#1,single,48000,1.00,150,0,-1.231058910
+Clean Click A#1,accented32,48000,0.80,90,4000,-1.231049456
+Clean Click A#1,accented32,48000,0.80,150,2400,-1.783784060
+Clean Click A#1,accented32,48000,0.80,210,1714,-3.158211449
+Clean Click A#1,accented32,48000,0.80,300,1200,-4.563803651
+Clean Click B1,single,48000,0.25,150,0,-11.779607302
+Clean Click B1,single,48000,0.50,150,0,-6.018831979
+Clean Click B1,single,48000,0.70,150,0,-3.919159237
+Clean Click B1,single,48000,0.85,150,0,-2.406485478
+Clean Click B1,single,48000,1.00,150,0,-1.769435250
+Clean Click B1,accented32,48000,0.80,90,4000,-1.769435250
+Clean Click B1,accented32,48000,0.80,150,2400,-2.537022476
+Clean Click B1,accented32,48000,0.80,210,1714,-3.899779910
+Clean Click B1,accented32,48000,0.80,300,1200,-3.899779910
+Clean Click G1,single,48000,0.25,150,0,-9.595341284
+Clean Click G1,single,48000,0.50,150,0,-4.176846911
+Clean Click G1,single,48000,0.70,150,0,-1.599241044
+Clean Click G1,single,48000,0.85,150,0,-1.234385826
+Clean Click G1,single,48000,1.00,150,0,-1.065910177
+Clean Click G1,accented32,48000,0.80,90,4000,-1.065910177
+Clean Click G1,accented32,48000,0.80,150,2400,-1.761826865
+Clean Click G1,accented32,48000,0.80,210,1714,-3.393411429
+Clean Click G1,accented32,48000,0.80,300,1200,-4.609940064
+Clean Click G#1,single,48000,0.25,150,0,-8.545209933
+Clean Click G#1,single,48000,0.50,150,0,-3.126244192
+Clean Click G#1,single,48000,0.70,150,0,-1.410897164
+Clean Click G#1,single,48000,0.85,150,0,-1.206467239
+Clean Click G#1,single,48000,1.00,150,0,-1.004558415
+Clean Click G#1,accented32,48000,0.80,90,4000,-1.004558415
+Clean Click G#1,accented32,48000,0.80,150,2400,-1.004558415
+Clean Click G#1,accented32,48000,0.80,210,1714,-2.512207743
+Clean Click G#1,accented32,48000,0.80,300,1200,-3.023516183
+Clean Clang G1,single,48000,0.25,150,0,-9.142438170
+Clean Clang G1,single,48000,0.50,150,0,-3.723510953
+Clean Clang G1,single,48000,0.70,150,0,-3.147349579
+Clean Clang G1,single,48000,0.85,150,0,-2.925433478
+Clean Clang G1,single,48000,1.00,150,0,-2.725882891
+Clean Clang G1,accented32,48000,0.80,90,4000,-2.725870959
+Clean Clang G1,accented32,48000,0.80,150,2400,-3.408283157
+Clean Clang G1,accented32,48000,0.80,210,1714,-4.769682994
+Clean Clang G1,accented32,48000,0.80,300,1200,-5.128244381
+Clean Click G1 IV,single,48000,0.25,150,0,-4.653012643
+Clean Click G1 IV,single,48000,0.50,150,0,-2.319239076
+Clean Click G1 IV,single,48000,0.70,150,0,-1.488904899
+Clean Click G1 IV,single,48000,0.85,150,0,-1.254871252
+Clean Click G1 IV,single,48000,1.00,150,0,-1.075379812
+Clean Click G1 IV,accented32,48000,0.80,90,4000,-1.075379812
+Clean Click G1 IV,accented32,48000,0.80,150,2400,-1.075379812
+Clean Click G1 IV,accented32,48000,0.80,210,1714,-1.075379812
+Clean Click G1 IV,accented32,48000,0.80,300,1200,-1.075379812
+Clean Drop G#1,single,48000,0.25,150,0,-14.274553553
+Clean Drop G#1,single,48000,0.50,150,0,-8.064824916
+Clean Drop G#1,single,48000,0.70,150,0,-5.161209156
+Clean Drop G#1,single,48000,0.85,150,0,-3.671809244
+Clean Drop G#1,single,48000,1.00,150,0,-2.718898393
+Clean Drop G#1,accented32,48000,0.80,90,4000,-2.718898393
+Clean Drop G#1,accented32,48000,0.80,150,2400,-2.718898393
+Clean Drop G#1,accented32,48000,0.80,210,1714,-2.718898393
+Clean Drop G#1,accented32,48000,0.80,300,1200,-2.718898393
+Warm Drop D1,single,48000,0.25,150,0,-6.275780351
+Warm Drop D1,single,48000,0.50,150,0,-1.934967332
+Warm Drop D1,single,48000,0.70,150,0,-1.493064690
+Warm Drop D1,single,48000,0.85,150,0,-1.259737965
+Warm Drop D1,single,48000,1.00,150,0,-1.046048461
+Warm Drop D1,accented32,48000,0.80,90,4000,-1.046001027
+Warm Drop D1,accented32,48000,0.80,150,2400,-1.046001027
+Warm Drop D1,accented32,48000,0.80,210,1714,-1.046001027
+Warm Drop D1,accented32,48000,0.80,300,1200,-1.046001027
+Clean Click F1 II,single,48000,0.25,150,0,-10.437191876
+Clean Click F1 II,single,48000,0.50,150,0,-5.018439628
+Clean Click F1 II,single,48000,0.70,150,0,-2.440119479
+Clean Click F1 II,single,48000,0.85,150,0,-1.288244351
+Clean Click F1 II,single,48000,1.00,150,0,-1.088961258
+Clean Click F1 II,accented32,48000,0.80,90,4000,-1.088804300
+Clean Click F1 II,accented32,48000,0.80,150,2400,-1.088804300
+Clean Click F1 II,accented32,48000,0.80,210,1714,-1.088804300
+Clean Click F1 II,accented32,48000,0.80,300,1200,-1.414504927
+Clean Drop A1 II,single,48000,0.25,150,0,-10.500032678
+Clean Drop A1 II,single,48000,0.50,150,0,-5.081466973
+Clean Drop A1 II,single,48000,0.70,150,0,-2.503749379
+Clean Drop A1 II,single,48000,0.85,150,0,-1.265507938
+Clean Drop A1 II,single,48000,1.00,150,0,-1.076057190
+Clean Drop A1 II,accented32,48000,0.80,90,4000,-1.076052547
+Clean Drop A1 II,accented32,48000,0.80,150,2400,-1.155785716
+Clean Drop A1 II,accented32,48000,0.80,210,1714,-2.388926517
+Clean Drop A1 II,accented32,48000,0.80,300,1200,-3.524416775
+Warm Clang G#1 V,single,48000,0.25,150,0,-4.615533420
+Warm Clang G#1 V,single,48000,0.50,150,0,-4.298352834
+Warm Clang G#1 V,single,48000,0.70,150,0,-3.574711186
+Warm Clang G#1 V,single,48000,0.85,150,0,-1.879615514
+Warm Clang G#1 V,single,48000,1.00,150,0,-1.076271385
+Warm Clang G#1 V,accented32,48000,0.80,90,4000,-1.072459623
+Warm Clang G#1 V,accented32,48000,0.80,150,2400,-1.072459623
+Warm Clang G#1 V,accented32,48000,0.80,210,1714,-1.072459623
+Warm Clang G#1 V,accented32,48000,0.80,300,1200,-1.072459623
+Clean Click D#1 IV,single,48000,0.25,150,0,-3.608006562
+Clean Click D#1 IV,single,48000,0.50,150,0,-2.325111069
+Clean Click D#1 IV,single,48000,0.70,150,0,-2.035674608
+Clean Click D#1 IV,single,48000,0.85,150,0,-1.978357111
+Clean Click D#1 IV,single,48000,1.00,150,0,-1.500491142
+Clean Click D#1 IV,accented32,48000,0.80,90,4000,-1.500491142
+Clean Click D#1 IV,accented32,48000,0.80,150,2400,-1.500491142
+Clean Click D#1 IV,accented32,48000,0.80,210,1714,-1.500491142
+Clean Click D#1 IV,accented32,48000,0.80,300,1200,-1.500491142
+Clipped Clang F#1 II,single,48000,0.25,150,0,-5.619280969
+Clipped Clang F#1 II,single,48000,0.50,150,0,-4.035359637
+Clipped Clang F#1 II,single,48000,0.70,150,0,-2.236563526
+Clipped Clang F#1 II,single,48000,0.85,150,0,-1.933419937
+Clipped Clang F#1 II,single,48000,1.00,150,0,-1.751311034
+Clipped Clang F#1 II,accented32,48000,0.80,90,4000,-1.751311034
+Clipped Clang F#1 II,accented32,48000,0.80,150,2400,-1.751311034
+Clipped Clang F#1 II,accented32,48000,0.80,210,1714,-1.751311034
+Clipped Clang F#1 II,accented32,48000,0.80,300,1200,-1.751311034
+Clean Click G1 II,single,48000,0.25,150,0,-7.842177000
+Clean Click G1 II,single,48000,0.50,150,0,-3.113244446
+Clean Click G1 II,single,48000,0.70,150,0,-2.717891349
+Clean Click G1 II,single,48000,0.85,150,0,-2.493008449
+Clean Click G1 II,single,48000,1.00,150,0,-2.286438014
+Clean Click G1 II,accented32,48000,0.80,90,4000,-2.286436012
+Clean Click G1 II,accented32,48000,0.80,150,2400,-2.352971982
+Clean Click G1 II,accented32,48000,0.80,210,1714,-3.921208042
+Clean Click G1 II,accented32,48000,0.80,300,1200,-4.574853887
+Clean Thump A#1 II,single,48000,0.25,150,0,-10.670240548
+Clean Thump A#1 II,single,48000,0.50,150,0,-5.251700185
+Clean Thump A#1 II,single,48000,0.70,150,0,-2.673917060
+Clean Thump A#1 II,single,48000,0.85,150,0,-1.438754224
+Clean Thump A#1 II,single,48000,1.00,150,0,-1.087984679
+Clean Thump A#1 II,accented32,48000,0.80,90,4000,-1.561907563
+Clean Thump A#1 II,accented32,48000,0.80,150,2400,-2.501941314
+Clean Thump A#1 II,accented32,48000,0.80,210,1714,-3.005305899
+Clean Thump A#1 II,accented32,48000,0.80,300,1200,-3.568051623
+Warm Click F#1,single,48000,0.25,150,0,-2.634890965
+Warm Click F#1,single,48000,0.50,150,0,-2.156421785
+Warm Click F#1,single,48000,0.70,150,0,-1.693672083
+Warm Click F#1,single,48000,0.85,150,0,-1.355843486
+Warm Click F#1,single,48000,1.00,150,0,-1.024656014
+Warm Click F#1,accented32,48000,0.80,90,4000,-1.400938491
+Warm Click F#1,accented32,48000,0.80,150,2400,-1.537682830
+Warm Click F#1,accented32,48000,0.80,210,1714,-1.846636380
+Warm Click F#1,accented32,48000,0.80,300,1200,-2.107049586
+Clean Clang E1,single,48000,0.25,150,0,-7.505119462
+Clean Clang E1,single,48000,0.50,150,0,-2.903997228
+Clean Clang E1,single,48000,0.70,150,0,-1.356400410
+Clean Clang E1,single,48000,0.85,150,0,-1.162274331
+Clean Clang E1,single,48000,1.00,150,0,-1.006873646
+Clean Clang E1,accented32,48000,0.80,90,4000,-1.006873646
+Clean Clang E1,accented32,48000,0.80,150,2400,-1.006873646
+Clean Clang E1,accented32,48000,0.80,210,1714,-1.006873646
+Clean Clang E1,accented32,48000,0.80,300,1200,-1.882225862
+Warm Click G#1 II,single,48000,0.25,150,0,-5.273113629
+Warm Click G#1 II,single,48000,0.50,150,0,-2.434257478
+Warm Click G#1 II,single,48000,0.70,150,0,-2.040371322
+Warm Click G#1 II,single,48000,0.85,150,0,-1.772271797
+Warm Click G#1 II,single,48000,1.00,150,0,-1.516569102
+Warm Click G#1 II,accented32,48000,0.80,90,4000,-1.516569102
+Warm Click G#1 II,accented32,48000,0.80,150,2400,-1.548163054
+Warm Click G#1 II,accented32,48000,0.80,210,1714,-2.765085407
+Warm Click G#1 II,accented32,48000,0.80,300,1200,-3.129953788
+Warm Clang F#1 II,single,48000,0.25,150,0,-5.244396806
+Warm Clang F#1 II,single,48000,0.50,150,0,-4.077414441
+Warm Clang F#1 II,single,48000,0.70,150,0,-3.864972418
+Warm Clang F#1 II,single,48000,0.85,150,0,-3.404540069
+Warm Clang F#1 II,single,48000,1.00,150,0,-2.340947169
+Warm Clang F#1 II,accented32,48000,0.80,90,4000,-2.340947169
+Warm Clang F#1 II,accented32,48000,0.80,150,2400,-2.340947169
+Warm Clang F#1 II,accented32,48000,0.80,210,1714,-2.340947169
+Warm Clang F#1 II,accented32,48000,0.80,300,1200,-2.340947169
+Warm Rumble A1,single,48000,0.25,150,0,-2.963862405
+Warm Rumble A1,single,48000,0.50,150,0,-1.909588378
+Warm Rumble A1,single,48000,0.70,150,0,-1.486022465
+Warm Rumble A1,single,48000,0.85,150,0,-1.277080781
+Warm Rumble A1,single,48000,1.00,150,0,-1.136464053
+Warm Rumble A1,accented32,48000,0.80,90,4000,-2.671730038
+Warm Rumble A1,accented32,48000,0.80,150,2400,-3.488199267
+Warm Rumble A1,accented32,48000,0.80,210,1714,-4.073865130
+Warm Rumble A1,accented32,48000,0.80,300,1200,-4.783916576
+Clean Click F1 III,single,48000,0.25,150,0,-9.681915532
+Clean Click F1 III,single,48000,0.50,150,0,-4.263481739
+Clean Click F1 III,single,48000,0.70,150,0,-1.685725620
+Clean Click F1 III,single,48000,0.85,150,0,-1.219993927
+Clean Click F1 III,single,48000,1.00,150,0,-1.056769398
+Clean Click F1 III,accented32,48000,0.80,90,4000,-1.056769398
+Clean Click F1 III,accented32,48000,0.80,150,2400,-1.298293723
+Clean Click F1 III,accented32,48000,0.80,210,1714,-2.499237787
+Clean Click F1 III,accented32,48000,0.80,300,1200,-3.519610416
+Warm Click F1 III,single,48000,0.25,150,0,-4.180156420
+Warm Click F1 III,single,48000,0.50,150,0,-3.083556893
+Warm Click F1 III,single,48000,0.70,150,0,-3.148704636
+Warm Click F1 III,single,48000,0.85,150,0,-3.203419133
+Warm Click F1 III,single,48000,1.00,150,0,-1.084605284
+Warm Click F1 III,accented32,48000,0.80,90,4000,-1.084605284
+Warm Click F1 III,accented32,48000,0.80,150,2400,-1.084605284
+Warm Click F1 III,accented32,48000,0.80,210,1714,-1.084605284
+Warm Click F1 III,accented32,48000,0.80,300,1200,-1.084605284
+Warm Clang F#1 III,single,48000,0.25,150,0,-5.611069075
+Warm Clang F#1 III,single,48000,0.50,150,0,-4.908069015
+Warm Clang F#1 III,single,48000,0.70,150,0,-3.905433276
+Warm Clang F#1 III,single,48000,0.85,150,0,-2.639486792
+Warm Clang F#1 III,single,48000,1.00,150,0,-1.984275642
+Warm Clang F#1 III,accented32,48000,0.80,90,4000,-1.984141598
+Warm Clang F#1 III,accented32,48000,0.80,150,2400,-1.984141598
+Warm Clang F#1 III,accented32,48000,0.80,210,1714,-1.984141598
+Warm Clang F#1 III,accented32,48000,0.80,300,1200,-1.984141598
+Warm Click F#1 II,single,48000,0.25,150,0,-2.862370054
+Warm Click F#1 II,single,48000,0.50,150,0,-2.170321355
+Warm Click F#1 II,single,48000,0.70,150,0,-1.729836202
+Warm Click F#1 II,single,48000,0.85,150,0,-1.407444069
+Warm Click F#1 II,single,48000,1.00,150,0,-1.094152339
+Warm Click F#1 II,accented32,48000,0.80,90,4000,-1.094101151
+Warm Click F#1 II,accented32,48000,0.80,150,2400,-1.094101151
+Warm Click F#1 II,accented32,48000,0.80,210,1714,-1.750214419
+Warm Click F#1 II,accented32,48000,0.80,300,1200,-3.388195214
+Warm Click F#1 III,single,48000,0.25,150,0,-5.791940301
+Warm Click F#1 III,single,48000,0.50,150,0,-1.875388656
+Warm Click F#1 III,single,48000,0.70,150,0,-1.527367479
+Warm Click F#1 III,single,48000,0.85,150,0,-1.300527173
+Warm Click F#1 III,single,48000,1.00,150,0,-1.062359696
+Warm Click F#1 III,accented32,48000,0.80,90,4000,-1.062359696
+Warm Click F#1 III,accented32,48000,0.80,150,2400,-1.062359696
+Warm Click F#1 III,accented32,48000,0.80,210,1714,-1.137789256
+Warm Click F#1 III,accented32,48000,0.80,300,1200,-2.744441001
+Warm Drop F1,single,48000,0.25,150,0,-4.856113658
+Warm Drop F1,single,48000,0.50,150,0,-2.300868189
+Warm Drop F1,single,48000,0.70,150,0,-2.028106722
+Warm Drop F1,single,48000,0.85,150,0,-1.825346909
+Warm Drop F1,single,48000,1.00,150,0,-1.621900617
+Warm Drop F1,accented32,48000,0.80,90,4000,-1.621900617
+Warm Drop F1,accented32,48000,0.80,150,2400,-1.621900617
+Warm Drop F1,accented32,48000,0.80,210,1714,-1.621900617
+Warm Drop F1,accented32,48000,0.80,300,1200,-1.621900617
+Warm Clang A#1 III,single,48000,0.25,150,0,-6.810410231
+Warm Clang A#1 III,single,48000,0.50,150,0,-4.171043175
+Warm Clang A#1 III,single,48000,0.70,150,0,-3.777212644
+Warm Clang A#1 III,single,48000,0.85,150,0,-3.529261209
+Warm Clang A#1 III,single,48000,1.00,150,0,-3.290577260
+Warm Clang A#1 III,accented32,48000,0.80,90,4000,-3.290569770
+Warm Clang A#1 III,accented32,48000,0.80,150,2400,-3.600016537
+Warm Clang A#1 III,accented32,48000,0.80,210,1714,-4.112971076
+Warm Clang A#1 III,accented32,48000,0.80,300,1200,-4.455692414
+Clipped Clang G#1,single,48000,0.25,150,0,-5.605840963
+Clipped Clang G#1,single,48000,0.50,150,0,-4.442572937
+Clipped Clang G#1,single,48000,0.70,150,0,-3.647415610
+Clipped Clang G#1,single,48000,0.85,150,0,-3.035621367
+Clipped Clang G#1,single,48000,1.00,150,0,-2.834194328
+Clipped Clang G#1,accented32,48000,0.80,90,4000,-2.834194328
+Clipped Clang G#1,accented32,48000,0.80,150,2400,-2.834194328
+Clipped Clang G#1,accented32,48000,0.80,210,1714,-2.834194328
+Clipped Clang G#1,accented32,48000,0.80,300,1200,-2.834194328
+Crushed Clang G#1 II,single,48000,0.25,150,0,-3.894963708
+Crushed Clang G#1 II,single,48000,0.50,150,0,-2.870265187
+Crushed Clang G#1 II,single,48000,0.70,150,0,-2.359346587
+Crushed Clang G#1 II,single,48000,0.85,150,0,-2.108111134
+Crushed Clang G#1 II,single,48000,1.00,150,0,-1.948538547
+Crushed Clang G#1 II,accented32,48000,0.80,90,4000,-1.948538547
+Crushed Clang G#1 II,accented32,48000,0.80,150,2400,-1.948538547
+Crushed Clang G#1 II,accented32,48000,0.80,210,1714,-1.948538547
+Crushed Clang G#1 II,accented32,48000,0.80,300,1200,-1.948538547
+Clipped Clang F#1 III,single,48000,0.25,150,0,-5.346843692
+Clipped Clang F#1 III,single,48000,0.50,150,0,-5.418065693
+Clipped Clang F#1 III,single,48000,0.70,150,0,-4.196516720
+Clipped Clang F#1 III,single,48000,0.85,150,0,-3.483245948
+Clipped Clang F#1 III,single,48000,1.00,150,0,-2.979577574
+Clipped Clang F#1 III,accented32,48000,0.80,90,4000,-2.979577574
+Clipped Clang F#1 III,accented32,48000,0.80,150,2400,-2.979577574
+Clipped Clang F#1 III,accented32,48000,0.80,210,1714,-2.979577574
+Clipped Clang F#1 III,accented32,48000,0.80,300,1200,-2.979577574
+Crushed Clang F#1 II,single,48000,0.25,150,0,-5.046906540
+Crushed Clang F#1 II,single,48000,0.50,150,0,-4.961876788
+Crushed Clang F#1 II,single,48000,0.70,150,0,-3.401932779
+Crushed Clang F#1 II,single,48000,0.85,150,0,-2.680410213
+Crushed Clang F#1 II,single,48000,1.00,150,0,-2.123580383
+Crushed Clang F#1 II,accented32,48000,0.80,90,4000,-2.123580383
+Crushed Clang F#1 II,accented32,48000,0.80,150,2400,-2.123580383
+Crushed Clang F#1 II,accented32,48000,0.80,210,1714,-2.123580383
+Crushed Clang F#1 II,accented32,48000,0.80,300,1200,-2.123580383
+Crushed Thump G1,single,48000,0.25,150,0,-7.408762067
+Crushed Thump G1,single,48000,0.50,150,0,-4.641159020
+Crushed Thump G1,single,48000,0.70,150,0,-4.260510515
+Crushed Thump G1,single,48000,0.85,150,0,-4.134914173
+Crushed Thump G1,single,48000,1.00,150,0,-3.439986762
+Crushed Thump G1,accented32,48000,0.80,90,4000,-3.439986762
+Crushed Thump G1,accented32,48000,0.80,150,2400,-3.439986762
+Crushed Thump G1,accented32,48000,0.80,210,1714,-3.439986762
+Crushed Thump G1,accented32,48000,0.80,300,1200,-3.439986762
+Classic Schranz,single,48000,0.25,150,0,-4.353491415
+Classic Schranz,single,48000,0.50,150,0,-3.578013463
+Classic Schranz,single,48000,0.70,150,0,-3.016638125
+Classic Schranz,single,48000,0.85,150,0,-2.601864986
+Classic Schranz,single,48000,1.00,150,0,-2.199766179
+Classic Schranz,accented32,48000,0.80,90,4000,-2.199752966
+Classic Schranz,accented32,48000,0.80,150,2400,-2.199752966
+Classic Schranz,accented32,48000,0.80,210,1714,-2.922963936
+Classic Schranz,accented32,48000,0.80,300,1200,-2.922963936
+Crushed Clang C2,single,48000,0.25,150,0,-5.785349312
+Crushed Clang C2,single,48000,0.50,150,0,-5.071708175
+Crushed Clang C2,single,48000,0.70,150,0,-3.949774092
+Crushed Clang C2,single,48000,0.85,150,0,-2.352926259
+Crushed Clang C2,single,48000,1.00,150,0,-1.520202095
+Crushed Clang C2,accented32,48000,0.80,90,4000,-1.520202095
+Crushed Clang C2,accented32,48000,0.80,150,2400,-1.520202095
+Crushed Clang C2,accented32,48000,0.80,210,1714,-1.520202095
+Crushed Clang C2,accented32,48000,0.80,300,1200,-1.520202095
+Warm Rumble A#1 II,single,48000,0.25,150,0,-4.241607128
+Warm Rumble A#1 II,single,48000,0.50,150,0,-3.375349140
+Warm Rumble A#1 II,single,48000,0.70,150,0,-2.801897150
+Warm Rumble A#1 II,single,48000,0.85,150,0,-2.637677351
+Warm Rumble A#1 II,single,48000,1.00,150,0,-2.599999027
+Warm Rumble A#1 II,accented32,48000,0.80,90,4000,-2.599999027
+Warm Rumble A#1 II,accented32,48000,0.80,150,2400,-2.599999027
+Warm Rumble A#1 II,accented32,48000,0.80,210,1714,-2.599999027
+Warm Rumble A#1 II,accented32,48000,0.80,300,1200,-2.599999027
+Crushed Thump B1 II,single,48000,0.25,150,0,-4.891751709
+Crushed Thump B1 II,single,48000,0.50,150,0,-3.740502918
+Crushed Thump B1 II,single,48000,0.70,150,0,-3.457170064
+Crushed Thump B1 II,single,48000,0.85,150,0,-3.249608823
+Crushed Thump B1 II,single,48000,1.00,150,0,-2.214945673
+Crushed Thump B1 II,accented32,48000,0.80,90,4000,-2.214945673
+Crushed Thump B1 II,accented32,48000,0.80,150,2400,-2.214945673
+Crushed Thump B1 II,accented32,48000,0.80,210,1714,-2.214945673
+Crushed Thump B1 II,accented32,48000,0.80,300,1200,-2.214945673
+Driven Clang B1 IV,single,48000,0.25,150,0,-5.352370220
+Driven Clang B1 IV,single,48000,0.50,150,0,-4.483150909
+Driven Clang B1 IV,single,48000,0.70,150,0,-3.829903742
+Driven Clang B1 IV,single,48000,0.85,150,0,-2.630435716
+Driven Clang B1 IV,single,48000,1.00,150,0,-1.711886149
+Driven Clang B1 IV,accented32,48000,0.80,90,4000,-1.711678176
+Driven Clang B1 IV,accented32,48000,0.80,150,2400,-1.711678176
+Driven Clang B1 IV,accented32,48000,0.80,210,1714,-1.711678176
+Driven Clang B1 IV,accented32,48000,0.80,300,1200,-1.711678176
+Schranz Air,single,48000,0.25,150,0,-8.034960831
+Schranz Air,single,48000,0.50,150,0,-5.166778684
+Schranz Air,single,48000,0.70,150,0,-3.137711125
+Schranz Air,single,48000,0.85,150,0,-1.989939613
+Schranz Air,single,48000,1.00,150,0,-1.094411189
+Schranz Air,accented32,48000,0.80,90,4000,-1.094411189
+Schranz Air,accented32,48000,0.80,150,2400,-1.094411189
+Schranz Air,accented32,48000,0.80,210,1714,-1.094411189
+Schranz Air,accented32,48000,0.80,300,1200,-1.094411189
+Wide Clean Boom A#1,single,48000,0.25,150,0,-9.776953637
+Wide Clean Boom A#1,single,48000,0.50,150,0,-4.333808752
+Wide Clean Boom A#1,single,48000,0.70,150,0,-2.821903715
+Wide Clean Boom A#1,single,48000,0.85,150,0,-2.587876259
+Wide Clean Boom A#1,single,48000,1.00,150,0,-2.384938459
+Wide Clean Boom A#1,accented32,48000,0.80,90,4000,-2.384938459
+Wide Clean Boom A#1,accented32,48000,0.80,150,2400,-3.162781282
+Wide Clean Boom A#1,accented32,48000,0.80,210,1714,-4.767444399
+Wide Clean Boom A#1,accented32,48000,0.80,300,1200,-4.767444399
+Clipped Clang B1 III,single,48000,0.25,150,0,-5.824371813
+Clipped Clang B1 III,single,48000,0.50,150,0,-5.126764598
+Clipped Clang B1 III,single,48000,0.70,150,0,-3.942298378
+Clipped Clang B1 III,single,48000,0.85,150,0,-3.162672783
+Clipped Clang B1 III,single,48000,1.00,150,0,-2.653377282
+Clipped Clang B1 III,accented32,48000,0.80,90,4000,-2.653377282
+Clipped Clang B1 III,accented32,48000,0.80,150,2400,-2.653377282
+Clipped Clang B1 III,accented32,48000,0.80,210,1714,-2.653377282
+Clipped Clang B1 III,accented32,48000,0.80,300,1200,-2.653377282
+Wide Driven Clang A1,single,48000,0.25,150,0,-6.762457829
+Wide Driven Clang A1,single,48000,0.50,150,0,-5.531865705
+Wide Driven Clang A1,single,48000,0.70,150,0,-3.475128800
+Wide Driven Clang A1,single,48000,0.85,150,0,-2.359215375
+Wide Driven Clang A1,single,48000,1.00,150,0,-1.532580214
+Wide Driven Clang A1,accented32,48000,0.80,90,4000,-1.532580214
+Wide Driven Clang A1,accented32,48000,0.80,150,2400,-1.532580214
+Wide Driven Clang A1,accented32,48000,0.80,210,1714,-1.532580214
+Wide Driven Clang A1,accented32,48000,0.80,300,1200,-1.532580214
+Warm Clang A1 II,single,48000,0.25,150,0,-5.404099131
+Warm Clang A1 II,single,48000,0.50,150,0,-3.588516169
+Warm Clang A1 II,single,48000,0.70,150,0,-2.224961716
+Warm Clang A1 II,single,48000,0.85,150,0,-1.532960145
+Warm Clang A1 II,single,48000,1.00,150,0,-1.099209749
+Warm Clang A1 II,accented32,48000,0.80,90,4000,-1.099209749
+Warm Clang A1 II,accented32,48000,0.80,150,2400,-1.099209749
+Warm Clang A1 II,accented32,48000,0.80,210,1714,-1.099209749
+Warm Clang A1 II,accented32,48000,0.80,300,1200,-1.099209749
+Wide Warm Clang A#1,single,48000,0.25,150,0,-8.078415970
+Wide Warm Clang A#1,single,48000,0.50,150,0,-4.416452119
+Wide Warm Clang A#1,single,48000,0.70,150,0,-2.702250874
+Wide Warm Clang A#1,single,48000,0.85,150,0,-1.848164584
+Wide Warm Clang A#1,single,48000,1.00,150,0,-1.208978975
+Wide Warm Clang A#1,accented32,48000,0.80,90,4000,-1.207288689
+Wide Warm Clang A#1,accented32,48000,0.80,150,2400,-1.207288689
+Wide Warm Clang A#1,accented32,48000,0.80,210,1714,-1.207288689
+Wide Warm Clang A#1,accented32,48000,0.80,300,1200,-1.207288689
+Wide Driven Clang F1,single,48000,0.25,150,0,-5.979654820
+Wide Driven Clang F1,single,48000,0.50,150,0,-4.445634487
+Wide Driven Clang F1,single,48000,0.70,150,0,-2.755333499
+Wide Driven Clang F1,single,48000,0.85,150,0,-1.874031915
+Wide Driven Clang F1,single,48000,1.00,150,0,-1.189241181
+Wide Driven Clang F1,accented32,48000,0.80,90,4000,-1.188239738
+Wide Driven Clang F1,accented32,48000,0.80,150,2400,-1.188239738
+Wide Driven Clang F1,accented32,48000,0.80,210,1714,-1.188239738
+Wide Driven Clang F1,accented32,48000,0.80,300,1200,-1.188239738
+Wide Warm Clang G1,single,48000,0.25,150,0,-3.002527323
+Wide Warm Clang G1,single,48000,0.50,150,0,-2.110712605
+Wide Warm Clang G1,single,48000,0.70,150,0,-1.859604515
+Wide Warm Clang G1,single,48000,0.85,150,0,-1.506244624
+Wide Warm Clang G1,single,48000,1.00,150,0,-1.279800208
+Wide Warm Clang G1,accented32,48000,0.80,90,4000,-1.279800208
+Wide Warm Clang G1,accented32,48000,0.80,150,2400,-1.279800208
+Wide Warm Clang G1,accented32,48000,0.80,210,1714,-1.279800208
+Wide Warm Clang G1,accented32,48000,0.80,300,1200,-1.279800208
+Warm Boom A1 II,single,48000,0.25,150,0,-8.192730742
+Warm Boom A1 II,single,48000,0.50,150,0,-5.572590757
+Warm Boom A1 II,single,48000,0.70,150,0,-4.760094217
+Warm Boom A1 II,single,48000,0.85,150,0,-4.391360136
+Warm Boom A1 II,single,48000,1.00,150,0,-4.180416156
+Warm Boom A1 II,accented32,48000,0.80,90,4000,-4.180416156
+Warm Boom A1 II,accented32,48000,0.80,150,2400,-4.180416156
+Warm Boom A1 II,accented32,48000,0.80,210,1714,-4.180416156
+Warm Boom A1 II,accented32,48000,0.80,300,1200,-4.180416156
+Wide Warm Clang F1,single,48000,0.25,150,0,-3.246450661
+Wide Warm Clang F1,single,48000,0.50,150,0,-2.185794384
+Wide Warm Clang F1,single,48000,0.70,150,0,-1.695059535
+Wide Warm Clang F1,single,48000,0.85,150,0,-1.498027140
+Wide Warm Clang F1,single,48000,1.00,150,0,-1.398232684
+Wide Warm Clang F1,accented32,48000,0.80,90,4000,-1.398232684
+Wide Warm Clang F1,accented32,48000,0.80,150,2400,-1.398232684
+Wide Warm Clang F1,accented32,48000,0.80,210,1714,-1.398232684
+Wide Warm Clang F1,accented32,48000,0.80,300,1200,-1.398232684
+Warm Clang B1 XI,single,48000,0.25,150,0,-3.817279346
+Warm Clang B1 XI,single,48000,0.50,150,0,-3.014360194
+Warm Clang B1 XI,single,48000,0.70,150,0,-3.020534272
+Warm Clang B1 XI,single,48000,0.85,150,0,-2.848319528
+Warm Clang B1 XI,single,48000,1.00,150,0,-2.170774346
+Warm Clang B1 XI,accented32,48000,0.80,90,4000,-2.168353617
+Warm Clang B1 XI,accented32,48000,0.80,150,2400,-2.168353617
+Warm Clang B1 XI,accented32,48000,0.80,210,1714,-2.168353617
+Warm Clang B1 XI,accented32,48000,0.80,300,1200,-2.168353617
+Wide Clean Clang B1,single,48000,0.25,150,0,-5.598487808
+Wide Clean Clang B1,single,48000,0.50,150,0,-4.026345614
+Wide Clean Clang B1,single,48000,0.70,150,0,-3.820100343
+Wide Clean Clang B1,single,48000,0.85,150,0,-3.552890929
+Wide Clean Clang B1,single,48000,1.00,150,0,-3.254836438
+Wide Clean Clang B1,accented32,48000,0.80,90,4000,-3.254836438
+Wide Clean Clang B1,accented32,48000,0.80,150,2400,-3.254836438
+Wide Clean Clang B1,accented32,48000,0.80,210,1714,-3.254836438
+Wide Clean Clang B1,accented32,48000,0.80,300,1200,-3.254836438
+Wide Warm Clang C2,single,48000,0.25,150,0,-7.281804768
+Wide Warm Clang C2,single,48000,0.50,150,0,-4.360827267
+Wide Warm Clang C2,single,48000,0.70,150,0,-3.817721061
+Wide Warm Clang C2,single,48000,0.85,150,0,-3.451812415
+Wide Warm Clang C2,single,48000,1.00,150,0,-3.278992892
+Wide Warm Clang C2,accented32,48000,0.80,90,4000,-3.278992892
+Wide Warm Clang C2,accented32,48000,0.80,150,2400,-3.278992892
+Wide Warm Clang C2,accented32,48000,0.80,210,1714,-3.278992892
+Wide Warm Clang C2,accented32,48000,0.80,300,1200,-3.278992892
+Schranz Metal,single,48000,0.25,150,0,-7.856549557
+Schranz Metal,single,48000,0.50,150,0,-4.650288827
+Schranz Metal,single,48000,0.70,150,0,-4.288419062
+Schranz Metal,single,48000,0.85,150,0,-4.058230677
+Schranz Metal,single,48000,1.00,150,0,-3.846976754
+Schranz Metal,accented32,48000,0.80,90,4000,-3.846951200
+Schranz Metal,accented32,48000,0.80,150,2400,-4.202162803
+Schranz Metal,accented32,48000,0.80,210,1714,-4.358894039
+Schranz Metal,accented32,48000,0.80,300,1200,-4.358894039
+Schranz Pressure,single,48000,0.25,150,0,-6.160637558
+Schranz Pressure,single,48000,0.50,150,0,-3.599595069
+Schranz Pressure,single,48000,0.70,150,0,-2.256794168
+Schranz Pressure,single,48000,0.85,150,0,-1.727508373
+Schranz Pressure,single,48000,1.00,150,0,-1.368868314
+Schranz Pressure,accented32,48000,0.80,90,4000,-1.368868314
+Schranz Pressure,accented32,48000,0.80,150,2400,-1.368868314
+Schranz Pressure,accented32,48000,0.80,210,1714,-1.368868314
+Schranz Pressure,accented32,48000,0.80,300,1200,-1.368868314
+Wide Hammer,single,48000,0.25,150,0,-4.828401931
+Wide Hammer,single,48000,0.50,150,0,-4.855723483
+Wide Hammer,single,48000,0.70,150,0,-4.474946135
+Wide Hammer,single,48000,0.85,150,0,-3.632274033
+Wide Hammer,single,48000,1.00,150,0,-2.470357215
+Wide Hammer,accented32,48000,0.80,90,4000,-2.470357215
+Wide Hammer,accented32,48000,0.80,150,2400,-2.470357215
+Wide Hammer,accented32,48000,0.80,210,1714,-2.470357215
+Wide Hammer,accented32,48000,0.80,300,1200,-2.470357215
+Grinding Click A1,single,48000,0.25,150,0,-5.439456309
+Grinding Click A1,single,48000,0.50,150,0,-3.477494115
+Grinding Click A1,single,48000,0.70,150,0,-3.325117278
+Grinding Click A1,single,48000,0.85,150,0,-2.260672582
+Grinding Click A1,single,48000,1.00,150,0,-1.042238950
+Grinding Click A1,accented32,48000,0.80,90,4000,-1.039047233
+Grinding Click A1,accented32,48000,0.80,150,2400,-1.039047233
+Grinding Click A1,accented32,48000,0.80,210,1714,-1.039047233
+Grinding Click A1,accented32,48000,0.80,300,1200,-1.039047233
+Wide Driven Clang C2,single,48000,0.25,150,0,-5.891050309
+Wide Driven Clang C2,single,48000,0.50,150,0,-4.511386114
+Wide Driven Clang C2,single,48000,0.70,150,0,-2.872450670
+Wide Driven Clang C2,single,48000,0.85,150,0,-2.039668242
+Wide Driven Clang C2,single,48000,1.00,150,0,-1.417540012
+Wide Driven Clang C2,accented32,48000,0.80,90,4000,-1.417338364
+Wide Driven Clang C2,accented32,48000,0.80,150,2400,-1.417338364
+Wide Driven Clang C2,accented32,48000,0.80,210,1714,-1.417338364
+Wide Driven Clang C2,accented32,48000,0.80,300,1200,-1.417338364
+Crushed Clang C2 II,single,48000,0.25,150,0,-5.273306554
+Crushed Clang C2 II,single,48000,0.50,150,0,-3.457034918
+Crushed Clang C2 II,single,48000,0.70,150,0,-2.502534384
+Crushed Clang C2 II,single,48000,0.85,150,0,-2.067723358
+Crushed Clang C2 II,single,48000,1.00,150,0,-1.817804474
+Crushed Clang C2 II,accented32,48000,0.80,90,4000,-1.817804474
+Crushed Clang C2 II,accented32,48000,0.80,150,2400,-1.817804474
+Crushed Clang C2 II,accented32,48000,0.80,210,1714,-1.817804474
+Crushed Clang C2 II,accented32,48000,0.80,300,1200,-1.817804474
+Warm Drop G#1,single,48000,0.25,150,0,-6.735398289
+Warm Drop G#1,single,48000,0.50,150,0,-2.615226909
+Warm Drop G#1,single,48000,0.70,150,0,-2.242292242
+Warm Drop G#1,single,48000,0.85,150,0,-1.990643838
+Warm Drop G#1,single,48000,1.00,150,0,-1.763666293
+Warm Drop G#1,accented32,48000,0.80,90,4000,-1.763658753
+Warm Drop G#1,accented32,48000,0.80,150,2400,-2.842572504
+Warm Drop G#1,accented32,48000,0.80,210,1714,-3.930865033
+Warm Drop G#1,accented32,48000,0.80,300,1200,-4.281254902
+Crushed Thump B1,single,48000,0.25,150,0,-4.324824881
+Crushed Thump B1,single,48000,0.50,150,0,-4.193864187
+Crushed Thump B1,single,48000,0.70,150,0,-2.740758829
+Crushed Thump B1,single,48000,0.85,150,0,-2.019034471
+Crushed Thump B1,single,48000,1.00,150,0,-1.320113202
+Crushed Thump B1,accented32,48000,0.80,90,4000,-1.320113202
+Crushed Thump B1,accented32,48000,0.80,150,2400,-1.320113202
+Crushed Thump B1,accented32,48000,0.80,210,1714,-1.320113202
+Crushed Thump B1,accented32,48000,0.80,300,1200,-1.320113202
+Warm Clang B1 XII,single,48000,0.25,150,0,-4.740209284
+Warm Clang B1 XII,single,48000,0.50,150,0,-3.163819109
+Warm Clang B1 XII,single,48000,0.70,150,0,-3.016418942
+Warm Clang B1 XII,single,48000,0.85,150,0,-2.975406474
+Warm Clang B1 XII,single,48000,1.00,150,0,-3.026886408
+Warm Clang B1 XII,accented32,48000,0.80,90,4000,-2.989999262
+Warm Clang B1 XII,accented32,48000,0.80,150,2400,-2.989999262
+Warm Clang B1 XII,accented32,48000,0.80,210,1714,-2.989999262
+Warm Clang B1 XII,accented32,48000,0.80,300,1200,-2.989999262
+Warm Click F#1 IV,single,48000,0.25,150,0,-2.841985633
+Warm Click F#1 IV,single,48000,0.50,150,0,-1.264913505
+Warm Click F#1 IV,single,48000,0.70,150,0,-1.287014348
+Warm Click F#1 IV,single,48000,0.85,150,0,-1.268854012
+Warm Click F#1 IV,single,48000,1.00,150,0,-1.229468895
+Warm Click F#1 IV,accented32,48000,0.80,90,4000,-1.229468895
+Warm Click F#1 IV,accented32,48000,0.80,150,2400,-1.229468895
+Warm Click F#1 IV,accented32,48000,0.80,210,1714,-1.229468895
+Warm Click F#1 IV,accented32,48000,0.80,300,1200,-1.229468895
+Clipped Clang G#1 II,single,48000,0.25,150,0,-6.848361076
+Clipped Clang G#1 II,single,48000,0.50,150,0,-5.862729376
+Clipped Clang G#1 II,single,48000,0.70,150,0,-5.203511832
+Clipped Clang G#1 II,single,48000,0.85,150,0,-4.449981020
+Clipped Clang G#1 II,single,48000,1.00,150,0,-4.158231310
+Clipped Clang G#1 II,accented32,48000,0.80,90,4000,-4.158231310
+Clipped Clang G#1 II,accented32,48000,0.80,150,2400,-4.158231310
+Clipped Clang G#1 II,accented32,48000,0.80,210,1714,-4.158231310
+Clipped Clang G#1 II,accented32,48000,0.80,300,1200,-4.158231310
+Warm Clang A1 V,single,48000,0.25,150,0,-8.430659654
+Warm Clang A1 V,single,48000,0.50,150,0,-4.211624411
+Warm Clang A1 V,single,48000,0.70,150,0,-3.888252310
+Warm Clang A1 V,single,48000,0.85,150,0,-3.659881317
+Warm Clang A1 V,single,48000,1.00,150,0,-3.448604294
+Warm Clang A1 V,accented32,48000,0.80,90,4000,-3.448604294
+Warm Clang A1 V,accented32,48000,0.80,150,2400,-4.009981003
+Warm Clang A1 V,accented32,48000,0.80,210,1714,-4.009981003
+Warm Clang A1 V,accented32,48000,0.80,300,1200,-4.009981003
+Warm Clang B1 13,single,48000,0.25,150,0,-5.613812035
+Warm Clang B1 13,single,48000,0.50,150,0,-4.125836703
+Warm Clang B1 13,single,48000,0.70,150,0,-3.914152006
+Warm Clang B1 13,single,48000,0.85,150,0,-3.879074576
+Warm Clang B1 13,single,48000,1.00,150,0,-3.713534284
+Warm Clang B1 13,accented32,48000,0.80,90,4000,-3.713534284
+Warm Clang B1 13,accented32,48000,0.80,150,2400,-3.713534284
+Warm Clang B1 13,accented32,48000,0.80,210,1714,-3.713534284
+Warm Clang B1 13,accented32,48000,0.80,300,1200,-3.713534284
+Wide Clipped Clang B1,single,48000,0.25,150,0,-4.857311202
+Wide Clipped Clang B1,single,48000,0.50,150,0,-3.775814523
+Wide Clipped Clang B1,single,48000,0.70,150,0,-1.916162268
+Wide Clipped Clang B1,single,48000,0.85,150,0,-1.349820314
+Wide Clipped Clang B1,single,48000,1.00,150,0,-1.033377761
+Wide Clipped Clang B1,accented32,48000,0.80,90,4000,-1.031544584
+Wide Clipped Clang B1,accented32,48000,0.80,150,2400,-1.031544584
+Wide Clipped Clang B1,accented32,48000,0.80,210,1714,-1.031544584
+Wide Clipped Clang B1,accented32,48000,0.80,300,1200,-1.031544584
+Clipped Clang D1,single,48000,0.25,150,0,-6.436269057
+Clipped Clang D1,single,48000,0.50,150,0,-5.103697242
+Clipped Clang D1,single,48000,0.70,150,0,-3.859950731
+Clipped Clang D1,single,48000,0.85,150,0,-3.374207833
+Clipped Clang D1,single,48000,1.00,150,0,-3.042588730
+Clipped Clang D1,accented32,48000,0.80,90,4000,-3.042588730
+Clipped Clang D1,accented32,48000,0.80,150,2400,-3.042588730
+Clipped Clang D1,accented32,48000,0.80,210,1714,-3.042588730
+Clipped Clang D1,accented32,48000,0.80,300,1200,-3.042588730
+Warm Clang F1,single,48000,0.25,150,0,-3.627787628
+Warm Clang F1,single,48000,0.50,150,0,-2.360541042
+Warm Clang F1,single,48000,0.70,150,0,-2.301261201
+Warm Clang F1,single,48000,0.85,150,0,-2.044216567
+Warm Clang F1,single,48000,1.00,150,0,-1.931329629
+Warm Clang F1,accented32,48000,0.80,90,4000,-1.931329629
+Warm Clang F1,accented32,48000,0.80,150,2400,-1.931329629
+Warm Clang F1,accented32,48000,0.80,210,1714,-1.931329629
+Warm Clang F1,accented32,48000,0.80,300,1200,-1.931329629
+Clipped Clang G1 II,single,48000,0.25,150,0,-7.589897204
+Clipped Clang G1 II,single,48000,0.50,150,0,-5.507885162
+Clipped Clang G1 II,single,48000,0.70,150,0,-3.570436194
+Clipped Clang G1 II,single,48000,0.85,150,0,-3.148740007
+Clipped Clang G1 II,single,48000,1.00,150,0,-2.986505171
+Clipped Clang G1 II,accented32,48000,0.80,90,4000,-2.986505171
+Clipped Clang G1 II,accented32,48000,0.80,150,2400,-2.986505171
+Clipped Clang G1 II,accented32,48000,0.80,210,1714,-2.986505171
+Clipped Clang G1 II,accented32,48000,0.80,300,1200,-2.986505171
+Warm Click G1 IV,single,48000,0.25,150,0,-3.305414117
+Warm Click G1 IV,single,48000,0.50,150,0,-2.157561044
+Warm Click G1 IV,single,48000,0.70,150,0,-1.696270776
+Warm Click G1 IV,single,48000,0.85,150,0,-1.373834180
+Warm Click G1 IV,single,48000,1.00,150,0,-1.067861386
+Warm Click G1 IV,accented32,48000,0.80,90,4000,-1.067851528
+Warm Click G1 IV,accented32,48000,0.80,150,2400,-2.040429698
+Warm Click G1 IV,accented32,48000,0.80,210,1714,-3.868846468
+Warm Click G1 IV,accented32,48000,0.80,300,1200,-5.274410545
+Clipped Clang C2,single,48000,0.25,150,0,-4.688335666
+Clipped Clang C2,single,48000,0.50,150,0,-3.357410383
+Clipped Clang C2,single,48000,0.70,150,0,-3.376256847
+Clipped Clang C2,single,48000,0.85,150,0,-3.398953109
+Clipped Clang C2,single,48000,1.00,150,0,-3.408484362
+Clipped Clang C2,accented32,48000,0.80,90,4000,-3.392951361
+Clipped Clang C2,accented32,48000,0.80,150,2400,-3.392951361
+Clipped Clang C2,accented32,48000,0.80,210,1714,-3.392951361
+Clipped Clang C2,accented32,48000,0.80,300,1200,-3.392951361
+Driven Clang G1,single,48000,0.25,150,0,-6.213363137
+Driven Clang G1,single,48000,0.50,150,0,-4.169554514
+Driven Clang G1,single,48000,0.70,150,0,-3.215185250
+Driven Clang G1,single,48000,0.85,150,0,-2.812917993
+Driven Clang G1,single,48000,1.00,150,0,-2.520264432
+Driven Clang G1,accented32,48000,0.80,90,4000,-2.520264432
+Driven Clang G1,accented32,48000,0.80,150,2400,-2.520264432
+Driven Clang G1,accented32,48000,0.80,210,1714,-2.520264432
+Driven Clang G1,accented32,48000,0.80,300,1200,-2.520264432
+Driven Clang C2 V,single,48000,0.25,150,0,-5.643238551
+Driven Clang C2 V,single,48000,0.50,150,0,-4.592038168
+Driven Clang C2 V,single,48000,0.70,150,0,-3.301032617
+Driven Clang C2 V,single,48000,0.85,150,0,-2.379970798
+Driven Clang C2 V,single,48000,1.00,150,0,-1.724413078
+Driven Clang C2 V,accented32,48000,0.80,90,4000,-1.724413078
+Driven Clang C2 V,accented32,48000,0.80,150,2400,-1.724413078
+Driven Clang C2 V,accented32,48000,0.80,210,1714,-1.724413078
+Driven Clang C2 V,accented32,48000,0.80,300,1200,-1.724413078
+Driven Clang C2 VI,single,48000,0.25,150,0,-6.266770000
+Driven Clang C2 VI,single,48000,0.50,150,0,-5.049462303
+Driven Clang C2 VI,single,48000,0.70,150,0,-4.685273571
+Driven Clang C2 VI,single,48000,0.85,150,0,-4.128379451
+Driven Clang C2 VI,single,48000,1.00,150,0,-3.307540027
+Driven Clang C2 VI,accented32,48000,0.80,90,4000,-3.307501751
+Driven Clang C2 VI,accented32,48000,0.80,150,2400,-3.307501751
+Driven Clang C2 VI,accented32,48000,0.80,210,1714,-3.307501751
+Driven Clang C2 VI,accented32,48000,0.80,300,1200,-3.307501751
+Warm Clang B1 14,single,48000,0.25,150,0,-5.682821014
+Warm Clang B1 14,single,48000,0.50,150,0,-3.827407832
+Warm Clang B1 14,single,48000,0.70,150,0,-2.809527710
+Warm Clang B1 14,single,48000,0.85,150,0,-2.056873062
+Warm Clang B1 14,single,48000,1.00,150,0,-1.628372222
+Warm Clang B1 14,accented32,48000,0.80,90,4000,-1.622474865
+Warm Clang B1 14,accented32,48000,0.80,150,2400,-1.622474865
+Warm Clang B1 14,accented32,48000,0.80,210,1714,-1.622474865
+Warm Clang B1 14,accented32,48000,0.80,300,1200,-1.622474865
+Crushed Clang C2 III,single,48000,0.25,150,0,-4.561130205
+Crushed Clang C2 III,single,48000,0.50,150,0,-4.619155804
+Crushed Clang C2 III,single,48000,0.70,150,0,-3.337677595
+Crushed Clang C2 III,single,48000,0.85,150,0,-2.321822827
+Crushed Clang C2 III,single,48000,1.00,150,0,-1.624205257
+Crushed Clang C2 III,accented32,48000,0.80,90,4000,-1.624205257
+Crushed Clang C2 III,accented32,48000,0.80,150,2400,-1.624205257
+Crushed Clang C2 III,accented32,48000,0.80,210,1714,-1.624205257
+Crushed Clang C2 III,accented32,48000,0.80,300,1200,-1.624205257
+Warm Clang B1,single,48000,0.25,150,0,-8.676495189
+Warm Clang B1,single,48000,0.50,150,0,-4.826664835
+Warm Clang B1,single,48000,0.70,150,0,-4.388185063
+Warm Clang B1,single,48000,0.85,150,0,-3.969813737
+Warm Clang B1,single,48000,1.00,150,0,-3.803585383
+Warm Clang B1,accented32,48000,0.80,90,4000,-3.803585383
+Warm Clang B1,accented32,48000,0.80,150,2400,-3.803585383
+Warm Clang B1,accented32,48000,0.80,210,1714,-3.803585383
+Warm Clang B1,accented32,48000,0.80,300,1200,-3.803585383
+Warm Clang A#1 VIII,single,48000,0.25,150,0,-7.554047079
+Warm Clang A#1 VIII,single,48000,0.50,150,0,-5.213647050
+Warm Clang A#1 VIII,single,48000,0.70,150,0,-4.182630456
+Warm Clang A#1 VIII,single,48000,0.85,150,0,-3.986749552
+Warm Clang A#1 VIII,single,48000,1.00,150,0,-3.898655944
+Warm Clang A#1 VIII,accented32,48000,0.80,90,4000,-3.898655944
+Warm Clang A#1 VIII,accented32,48000,0.80,150,2400,-3.898655944
+Warm Clang A#1 VIII,accented32,48000,0.80,210,1714,-3.898655944
+Warm Clang A#1 VIII,accented32,48000,0.80,300,1200,-3.898655944
+Driven Clang A#1,single,48000,0.25,150,0,-5.647767010
+Driven Clang A#1,single,48000,0.50,150,0,-4.866360458
+Driven Clang A#1,single,48000,0.70,150,0,-4.366953409
+Driven Clang A#1,single,48000,0.85,150,0,-3.389592161
+Driven Clang A#1,single,48000,1.00,150,0,-2.632743605
+Driven Clang A#1,accented32,48000,0.80,90,4000,-2.631769412
+Driven Clang A#1,accented32,48000,0.80,150,2400,-2.631769412
+Driven Clang A#1,accented32,48000,0.80,210,1714,-2.631769412
+Driven Clang A#1,accented32,48000,0.80,300,1200,-2.632743605
+Driven Clang B1 III,single,48000,0.25,150,0,-5.232812958
+Driven Clang B1 III,single,48000,0.50,150,0,-4.370236928
+Driven Clang B1 III,single,48000,0.70,150,0,-3.649281867
+Driven Clang B1 III,single,48000,0.85,150,0,-3.378701321
+Driven Clang B1 III,single,48000,1.00,150,0,-3.209331366
+Driven Clang B1 III,accented32,48000,0.80,90,4000,-3.209331366
+Driven Clang B1 III,accented32,48000,0.80,150,2400,-3.209331366
+Driven Clang B1 III,accented32,48000,0.80,210,1714,-3.209331366
+Driven Clang B1 III,accented32,48000,0.80,300,1200,-3.209331366
+Warm Drop B1,single,48000,0.25,150,0,-7.894455569
+Warm Drop B1,single,48000,0.50,150,0,-3.605387192
+Warm Drop B1,single,48000,0.70,150,0,-3.228416669
+Warm Drop B1,single,48000,0.85,150,0,-2.992316409
+Warm Drop B1,single,48000,1.00,150,0,-2.784449709
+Warm Drop B1,accented32,48000,0.80,90,4000,-2.784449709
+Warm Drop B1,accented32,48000,0.80,150,2400,-3.151335037
+Warm Drop B1,accented32,48000,0.80,210,1714,-4.538786291
+Warm Drop B1,accented32,48000,0.80,300,1200,-4.775100276
+Warm Click G#1 III,single,48000,0.25,150,0,-3.980614825
+Warm Click G#1 III,single,48000,0.50,150,0,-1.979234296
+Warm Click G#1 III,single,48000,0.70,150,0,-1.575994806
+Warm Click G#1 III,single,48000,0.85,150,0,-1.307438424
+Warm Click G#1 III,single,48000,1.00,150,0,-1.055724042
+Warm Click G#1 III,accented32,48000,0.80,90,4000,-1.055694508
+Warm Click G#1 III,accented32,48000,0.80,150,2400,-1.265468782
+Warm Click G#1 III,accented32,48000,0.80,210,1714,-2.553242481
+Warm Click G#1 III,accented32,48000,0.80,300,1200,-3.611330850
+Clean Click A#1 II,single,48000,0.25,150,0,-7.958584658
+Clean Click A#1 II,single,48000,0.50,150,0,-4.796053172
+Clean Click A#1 II,single,48000,0.70,150,0,-4.603381421
+Clean Click A#1 II,single,48000,0.85,150,0,-4.308586842
+Clean Click A#1 II,single,48000,1.00,150,0,-4.172854612
+Clean Click A#1 II,accented32,48000,0.80,90,4000,-4.172854612
+Clean Click A#1 II,accented32,48000,0.80,150,2400,-4.172854612
+Clean Click A#1 II,accented32,48000,0.80,210,1714,-4.172854612
+Clean Click A#1 II,accented32,48000,0.80,300,1200,-4.172854612
+Driven Clang C2 III,single,48000,0.25,150,0,-6.159275857
+Driven Clang C2 III,single,48000,0.50,150,0,-4.321411725
+Driven Clang C2 III,single,48000,0.70,150,0,-2.512736450
+Driven Clang C2 III,single,48000,0.85,150,0,-1.754894189
+Driven Clang C2 III,single,48000,1.00,150,0,-1.207060042
+Driven Clang C2 III,accented32,48000,0.80,90,4000,-1.206593339
+Driven Clang C2 III,accented32,48000,0.80,150,2400,-1.206593339
+Driven Clang C2 III,accented32,48000,0.80,210,1714,-1.206593339
+Driven Clang C2 III,accented32,48000,0.80,300,1200,-1.226253711
+Driven Clang A1,single,48000,0.25,150,0,-5.382419813
+Driven Clang A1,single,48000,0.50,150,0,-4.916068474
+Driven Clang A1,single,48000,0.70,150,0,-3.911123309
+Driven Clang A1,single,48000,0.85,150,0,-3.356495586
+Driven Clang A1,single,48000,1.00,150,0,-2.859899841
+Driven Clang A1,accented32,48000,0.80,90,4000,-2.858567715
+Driven Clang A1,accented32,48000,0.80,150,2400,-2.858567715
+Driven Clang A1,accented32,48000,0.80,210,1714,-2.858567715
+Driven Clang A1,accented32,48000,0.80,300,1200,-2.858567715
+Warm Clang F1 V,single,48000,0.25,150,0,-5.585391104
+Warm Clang F1 V,single,48000,0.50,150,0,-3.889241716
+Warm Clang F1 V,single,48000,0.70,150,0,-2.426693103
+Warm Clang F1 V,single,48000,0.85,150,0,-1.703757660
+Warm Clang F1 V,single,48000,1.00,150,0,-1.191777941
+Warm Clang F1 V,accented32,48000,0.80,90,4000,-1.191777941
+Warm Clang F1 V,accented32,48000,0.80,150,2400,-1.191777941
+Warm Clang F1 V,accented32,48000,0.80,210,1714,-1.191777941
+Warm Clang F1 V,accented32,48000,0.80,300,1200,-1.191777941
+Warm Clang G#1 VI,single,48000,0.25,150,0,-6.690031510
+Warm Clang G#1 VI,single,48000,0.50,150,0,-4.233786747
+Warm Clang G#1 VI,single,48000,0.70,150,0,-2.951785430
+Warm Clang G#1 VI,single,48000,0.85,150,0,-1.942535919
+Warm Clang G#1 VI,single,48000,1.00,150,0,-1.130665820
+Warm Clang G#1 VI,accented32,48000,0.80,90,4000,-1.130665820
+Warm Clang G#1 VI,accented32,48000,0.80,150,2400,-1.130665820
+Warm Clang G#1 VI,accented32,48000,0.80,210,1714,-1.130665820
+Warm Clang G#1 VI,accented32,48000,0.80,300,1200,-1.130665820
+Driven Clang A1 II,single,48000,0.25,150,0,-4.787149801
+Driven Clang A1 II,single,48000,0.50,150,0,-4.714227574
+Driven Clang A1 II,single,48000,0.70,150,0,-4.198472349
+Driven Clang A1 II,single,48000,0.85,150,0,-3.741239744
+Driven Clang A1 II,single,48000,1.00,150,0,-3.310767782
+Driven Clang A1 II,accented32,48000,0.80,90,4000,-3.310767782
+Driven Clang A1 II,accented32,48000,0.80,150,2400,-3.368067466
+Driven Clang A1 II,accented32,48000,0.80,210,1714,-3.368067466
+Driven Clang A1 II,accented32,48000,0.80,300,1200,-3.368067466
+Driven Clang B1,single,48000,0.25,150,0,-5.712818242
+Driven Clang B1,single,48000,0.50,150,0,-3.982209340
+Driven Clang B1,single,48000,0.70,150,0,-3.220603199
+Driven Clang B1,single,48000,0.85,150,0,-3.015275939
+Driven Clang B1,single,48000,1.00,150,0,-2.770391225
+Driven Clang B1,accented32,48000,0.80,90,4000,-2.770372882
+Driven Clang B1,accented32,48000,0.80,150,2400,-2.929745910
+Driven Clang B1,accented32,48000,0.80,210,1714,-2.929745910
+Driven Clang B1,accented32,48000,0.80,300,1200,-2.929745910
+Schranz Wide Tick,single,48000,0.25,150,0,-4.963131684
+Schranz Wide Tick,single,48000,0.50,150,0,-4.030178143
+Schranz Wide Tick,single,48000,0.70,150,0,-3.061026246
+Schranz Wide Tick,single,48000,0.85,150,0,-2.420692423
+Schranz Wide Tick,single,48000,1.00,150,0,-2.008598284
+Schranz Wide Tick,accented32,48000,0.80,90,4000,-2.008598284
+Schranz Wide Tick,accented32,48000,0.80,150,2400,-2.008598284
+Schranz Wide Tick,accented32,48000,0.80,210,1714,-2.008598284
+Schranz Wide Tick,accented32,48000,0.80,300,1200,-2.008598284
+Warm Clang B1 15,single,48000,0.25,150,0,-5.902436764
+Warm Clang B1 15,single,48000,0.50,150,0,-4.037858889
+Warm Clang B1 15,single,48000,0.70,150,0,-3.856158190
+Warm Clang B1 15,single,48000,0.85,150,0,-3.846415365
+Warm Clang B1 15,single,48000,1.00,150,0,-3.822164135
+Warm Clang B1 15,accented32,48000,0.80,90,4000,-3.822164135
+Warm Clang B1 15,accented32,48000,0.80,150,2400,-3.822164135
+Warm Clang B1 15,accented32,48000,0.80,210,1714,-3.822164135
+Warm Clang B1 15,accented32,48000,0.80,300,1200,-3.822164135
+Clean Clang A#1,single,48000,0.25,150,0,-11.106872570
+Clean Clang A#1,single,48000,0.50,150,0,-6.613274490
+Clean Clang A#1,single,48000,0.70,150,0,-4.791318114
+Clean Clang A#1,single,48000,0.85,150,0,-3.955463337
+Clean Clang A#1,single,48000,1.00,150,0,-3.392820242
+Clean Clang A#1,accented32,48000,0.80,90,4000,-3.392820242
+Clean Clang A#1,accented32,48000,0.80,150,2400,-3.392820242
+Clean Clang A#1,accented32,48000,0.80,210,1714,-3.392820242
+Clean Clang A#1,accented32,48000,0.80,300,1200,-3.392820242
+Clean Click F1 IV,single,48000,0.25,150,0,-7.671867946
+Clean Click F1 IV,single,48000,0.50,150,0,-2.253142154
+Clean Click F1 IV,single,48000,0.70,150,0,-1.619617600
+Clean Click F1 IV,single,48000,0.85,150,0,-1.384092583
+Clean Click F1 IV,single,48000,1.00,150,0,-1.174069622
+Clean Click F1 IV,accented32,48000,0.80,90,4000,-1.174069622
+Clean Click F1 IV,accented32,48000,0.80,150,2400,-1.820449431
+Clean Click F1 IV,accented32,48000,0.80,210,1714,-4.013650829
+Clean Click F1 IV,accented32,48000,0.80,300,1200,-4.715635181
+Clean Drop F1,single,48000,0.25,150,0,-9.149418453
+Clean Drop F1,single,48000,0.50,150,0,-3.730873130
+Clean Drop F1,single,48000,0.70,150,0,-1.470642335
+Clean Drop F1,single,48000,0.85,150,0,-1.235300375
+Clean Drop F1,single,48000,1.00,150,0,-1.073488425
+Clean Drop F1,accented32,48000,0.80,90,4000,-1.073474498
+Clean Drop F1,accented32,48000,0.80,150,2400,-1.073488425
+Clean Drop F1,accented32,48000,0.80,210,1714,-2.542992754
+Clean Drop F1,accented32,48000,0.80,300,1200,-3.784552313
+Warm Boom G#1,single,48000,0.25,150,0,-9.340073599
+Warm Boom G#1,single,48000,0.50,150,0,-5.065960336
+Warm Boom G#1,single,48000,0.70,150,0,-3.353440923
+Warm Boom G#1,single,48000,0.85,150,0,-2.490348004
+Warm Boom G#1,single,48000,1.00,150,0,-1.839359375
+Warm Boom G#1,accented32,48000,0.80,90,4000,-3.936510434
+Warm Boom G#1,accented32,48000,0.80,150,2400,-5.313026377
+Warm Boom G#1,accented32,48000,0.80,210,1714,-5.624319234
+Warm Boom G#1,accented32,48000,0.80,300,1200,-5.624319234
+Warm Clang A1 VI,single,48000,0.25,150,0,-6.304234536
+Warm Clang A1 VI,single,48000,0.50,150,0,-4.531455914
+Warm Clang A1 VI,single,48000,0.70,150,0,-4.001116824
+Warm Clang A1 VI,single,48000,0.85,150,0,-3.711224894
+Warm Clang A1 VI,single,48000,1.00,150,0,-3.508339604
+Warm Clang A1 VI,accented32,48000,0.80,90,4000,-3.508339604
+Warm Clang A1 VI,accented32,48000,0.80,150,2400,-3.508339604
+Warm Clang A1 VI,accented32,48000,0.80,210,1714,-3.508339604
+Warm Clang A1 VI,accented32,48000,0.80,300,1200,-3.508339604
+Clean Clang A#1 II,single,48000,0.25,150,0,-4.397963923
+Clean Clang A#1 II,single,48000,0.50,150,0,-2.420079844
+Clean Clang A#1 II,single,48000,0.70,150,0,-1.912487052
+Clean Clang A#1 II,single,48000,0.85,150,0,-1.522526347
+Clean Clang A#1 II,single,48000,1.00,150,0,-1.222288795
+Clean Clang A#1 II,accented32,48000,0.80,90,4000,-1.222288795
+Clean Clang A#1 II,accented32,48000,0.80,150,2400,-1.222288795
+Clean Clang A#1 II,accented32,48000,0.80,210,1714,-1.222288795
+Clean Clang A#1 II,accented32,48000,0.80,300,1200,-1.222288795
+Warm Clang A#1,single,48000,0.25,150,0,-7.069172004
+Warm Clang A#1,single,48000,0.50,150,0,-4.830435392
+Warm Clang A#1,single,48000,0.70,150,0,-3.997914639
+Warm Clang A#1,single,48000,0.85,150,0,-3.576150069
+Warm Clang A#1,single,48000,1.00,150,0,-3.178333617
+Warm Clang A#1,accented32,48000,0.80,90,4000,-3.177495895
+Warm Clang A#1,accented32,48000,0.80,150,2400,-3.177495895
+Warm Clang A#1,accented32,48000,0.80,210,1714,-3.177495895
+Warm Clang A#1,accented32,48000,0.80,300,1200,-3.177495895
+Clean Clang G#1 II,single,48000,0.25,150,0,-4.977299517
+Clean Clang G#1 II,single,48000,0.50,150,0,-2.683783291
+Clean Clang G#1 II,single,48000,0.70,150,0,-2.150352638
+Clean Clang G#1 II,single,48000,0.85,150,0,-1.939379723
+Clean Clang G#1 II,single,48000,1.00,150,0,-1.807581888
+Clean Clang G#1 II,accented32,48000,0.80,90,4000,-1.807581888
+Clean Clang G#1 II,accented32,48000,0.80,150,2400,-1.807581888
+Clean Clang G#1 II,accented32,48000,0.80,210,1714,-1.807581888
+Clean Clang G#1 II,accented32,48000,0.80,300,1200,-1.807581888
+Driven Clang A1 III,single,48000,0.25,150,0,-6.649189768
+Driven Clang A1 III,single,48000,0.50,150,0,-4.857701448
+Driven Clang A1 III,single,48000,0.70,150,0,-2.984901109
+Driven Clang A1 III,single,48000,0.85,150,0,-1.989534645
+Driven Clang A1 III,single,48000,1.00,150,0,-1.254125276
+Driven Clang A1 III,accented32,48000,0.80,90,4000,-1.254125276
+Driven Clang A1 III,accented32,48000,0.80,150,2400,-1.254125276
+Driven Clang A1 III,accented32,48000,0.80,210,1714,-1.254125276
+Driven Clang A1 III,accented32,48000,0.80,300,1200,-1.254125276
+Driven Clang B1 II,single,48000,0.25,150,0,-5.663365525
+Driven Clang B1 II,single,48000,0.50,150,0,-3.315121145
+Driven Clang B1 II,single,48000,0.70,150,0,-2.060722371
+Driven Clang B1 II,single,48000,0.85,150,0,-1.591163655
+Driven Clang B1 II,single,48000,1.00,150,0,-1.311263487
+Driven Clang B1 II,accented32,48000,0.80,90,4000,-1.311263487
+Driven Clang B1 II,accented32,48000,0.80,150,2400,-1.311263487
+Driven Clang B1 II,accented32,48000,0.80,210,1714,-1.311263487
+Driven Clang B1 II,accented32,48000,0.80,300,1200,-1.311263487
+Wide Clean Clang B1 II,single,48000,0.25,150,0,-3.003980276
+Wide Clean Clang B1 II,single,48000,0.50,150,0,-2.054797666
+Wide Clean Clang B1 II,single,48000,0.70,150,0,-1.890239479
+Wide Clean Clang B1 II,single,48000,0.85,150,0,-1.721719041
+Wide Clean Clang B1 II,single,48000,1.00,150,0,-1.398701365
+Wide Clean Clang B1 II,accented32,48000,0.80,90,4000,-1.398701365
+Wide Clean Clang B1 II,accented32,48000,0.80,150,2400,-1.398701365
+Wide Clean Clang B1 II,accented32,48000,0.80,210,1714,-1.398701365
+Wide Clean Clang B1 II,accented32,48000,0.80,300,1200,-1.398701365
+Warm Clang A#1 II,single,48000,0.25,150,0,-6.539327938
+Warm Clang A#1 II,single,48000,0.50,150,0,-4.711465089
+Warm Clang A#1 II,single,48000,0.70,150,0,-2.826374503
+Warm Clang A#1 II,single,48000,0.85,150,0,-1.825410185
+Warm Clang A#1 II,single,48000,1.00,150,0,-1.110262860
+Warm Clang A#1 II,accented32,48000,0.80,90,4000,-1.110015192
+Warm Clang A#1 II,accented32,48000,0.80,150,2400,-1.110015192
+Warm Clang A#1 II,accented32,48000,0.80,210,1714,-1.110015192
+Warm Clang A#1 II,accented32,48000,0.80,300,1200,-1.110015192
+Wide Warm Clang A#1 II,single,48000,0.25,150,0,-7.054777140
+Wide Warm Clang A#1 II,single,48000,0.50,150,0,-4.536292577
+Wide Warm Clang A#1 II,single,48000,0.70,150,0,-2.744248977
+Wide Warm Clang A#1 II,single,48000,0.85,150,0,-1.824501577
+Wide Warm Clang A#1 II,single,48000,1.00,150,0,-1.114615981
+Wide Warm Clang A#1 II,accented32,48000,0.80,90,4000,-1.114116905
+Wide Warm Clang A#1 II,accented32,48000,0.80,150,2400,-1.114116905
+Wide Warm Clang A#1 II,accented32,48000,0.80,210,1714,-1.114116905
+Wide Warm Clang A#1 II,accented32,48000,0.80,300,1200,-1.114116905
+Warm Boom A1,single,48000,0.25,150,0,-7.275302885
+Warm Boom A1,single,48000,0.50,150,0,-2.275506472
+Warm Boom A1,single,48000,0.70,150,0,-1.875283648
+Warm Boom A1,single,48000,0.85,150,0,-1.657705702
+Warm Boom A1,single,48000,1.00,150,0,-1.460409889
+Warm Boom A1,accented32,48000,0.80,90,4000,-1.460383799
+Warm Boom A1,accented32,48000,0.80,150,2400,-1.975227145
+Warm Boom A1,accented32,48000,0.80,210,1714,-2.896126504
+Warm Boom A1,accented32,48000,0.80,300,1200,-2.896126504
+Clean Boom A#1,single,48000,0.25,150,0,-9.147929767
+Clean Boom A#1,single,48000,0.50,150,0,-4.351090104
+Clean Boom A#1,single,48000,0.70,150,0,-2.610488747
+Clean Boom A#1,single,48000,0.85,150,0,-2.416265749
+Clean Boom A#1,single,48000,1.00,150,0,-2.238701398
+Clean Boom A#1,accented32,48000,0.80,90,4000,-2.238701398
+Clean Boom A#1,accented32,48000,0.80,150,2400,-2.818346051
+Clean Boom A#1,accented32,48000,0.80,210,1714,-4.114715261
+Clean Boom A#1,accented32,48000,0.80,300,1200,-4.115401337
+Warm Clang B1 III,single,48000,0.25,150,0,-5.094600270
+Warm Clang B1 III,single,48000,0.50,150,0,-3.313989226
+Warm Clang B1 III,single,48000,0.70,150,0,-2.934557269
+Warm Clang B1 III,single,48000,0.85,150,0,-2.680620381
+Warm Clang B1 III,single,48000,1.00,150,0,-2.439623697
+Warm Clang B1 III,accented32,48000,0.80,90,4000,-2.439609435
+Warm Clang B1 III,accented32,48000,0.80,150,2400,-2.624943407
+Warm Clang B1 III,accented32,48000,0.80,210,1714,-4.083852650
+Warm Clang B1 III,accented32,48000,0.80,300,1200,-4.496220852
+Clean Boom B1,single,48000,0.25,150,0,-8.757961361
+Clean Boom B1,single,48000,0.50,150,0,-4.871338785
+Clean Boom B1,single,48000,0.70,150,0,-3.627928572
+Clean Boom B1,single,48000,0.85,150,0,-3.097676983
+Clean Boom B1,single,48000,1.00,150,0,-2.757209885
+Clean Boom B1,accented32,48000,0.80,90,4000,-2.757209885
+Clean Boom B1,accented32,48000,0.80,150,2400,-2.757209885
+Clean Boom B1,accented32,48000,0.80,210,1714,-2.757209885
+Clean Boom B1,accented32,48000,0.80,300,1200,-2.757209885
+Warm Clang B1 IX,single,48000,0.25,150,0,-8.864561146
+Warm Clang B1 IX,single,48000,0.50,150,0,-5.216971361
+Warm Clang B1 IX,single,48000,0.70,150,0,-4.337660260
+Warm Clang B1 IX,single,48000,0.85,150,0,-4.044220452
+Warm Clang B1 IX,single,48000,1.00,150,0,-3.890445526
+Warm Clang B1 IX,accented32,48000,0.80,90,4000,-3.890445526
+Warm Clang B1 IX,accented32,48000,0.80,150,2400,-3.890445526
+Warm Clang B1 IX,accented32,48000,0.80,210,1714,-3.890445526
+Warm Clang B1 IX,accented32,48000,0.80,300,1200,-3.890445526
+Clean Clang B1,single,48000,0.25,150,0,-7.317607430
+Clean Clang B1,single,48000,0.50,150,0,-3.580967687
+Clean Clang B1,single,48000,0.70,150,0,-2.426142484
+Clean Clang B1,single,48000,0.85,150,0,-1.911589101
+Clean Clang B1,single,48000,1.00,150,0,-1.532897739
+Clean Clang B1,accented32,48000,0.80,90,4000,-1.532897739
+Clean Clang B1,accented32,48000,0.80,150,2400,-1.532897739
+Clean Clang B1,accented32,48000,0.80,210,1714,-1.532897739
+Clean Clang B1,accented32,48000,0.80,300,1200,-1.532897739
+Warm Clang G#1 VII,single,48000,0.25,150,0,-7.105103516
+Warm Clang G#1 VII,single,48000,0.50,150,0,-4.352176833
+Warm Clang G#1 VII,single,48000,0.70,150,0,-3.230026919
+Warm Clang G#1 VII,single,48000,0.85,150,0,-2.370388940
+Warm Clang G#1 VII,single,48000,1.00,150,0,-1.627525433
+Warm Clang G#1 VII,accented32,48000,0.80,90,4000,-1.627525433
+Warm Clang G#1 VII,accented32,48000,0.80,150,2400,-1.627525433
+Warm Clang G#1 VII,accented32,48000,0.80,210,1714,-1.627525433
+Warm Clang G#1 VII,accented32,48000,0.80,300,1200,-1.627525433
+Warm Clang A#1 IV,single,48000,0.25,150,0,-6.668245537
+Warm Clang A#1 IV,single,48000,0.50,150,0,-4.327731255
+Warm Clang A#1 IV,single,48000,0.70,150,0,-3.672865097
+Warm Clang A#1 IV,single,48000,0.85,150,0,-3.609509250
+Warm Clang A#1 IV,single,48000,1.00,150,0,-3.423871768
+Warm Clang A#1 IV,accented32,48000,0.80,90,4000,-3.420119677
+Warm Clang A#1 IV,accented32,48000,0.80,150,2400,-3.420119677
+Warm Clang A#1 IV,accented32,48000,0.80,210,1714,-3.420119677
+Warm Clang A#1 IV,accented32,48000,0.80,300,1200,-3.420119677
+Warm Clang B1 VIII,single,48000,0.25,150,0,-8.740972617
+Warm Clang B1 VIII,single,48000,0.50,150,0,-4.873905418
+Warm Clang B1 VIII,single,48000,0.70,150,0,-3.964235695
+Warm Clang B1 VIII,single,48000,0.85,150,0,-3.661217125
+Warm Clang B1 VIII,single,48000,1.00,150,0,-3.502254145
+Warm Clang B1 VIII,accented32,48000,0.80,90,4000,-3.502254145
+Warm Clang B1 VIII,accented32,48000,0.80,150,2400,-3.502254145
+Warm Clang B1 VIII,accented32,48000,0.80,210,1714,-3.502254145
+Warm Clang B1 VIII,accented32,48000,0.80,300,1200,-3.502254145
+Clean Clang B1 II,single,48000,0.25,150,0,-7.933097830
+Clean Clang B1 II,single,48000,0.50,150,0,-4.340521906
+Clean Clang B1 II,single,48000,0.70,150,0,-3.704445738
+Clean Clang B1 II,single,48000,0.85,150,0,-3.450551913
+Clean Clang B1 II,single,48000,1.00,150,0,-3.337122571
+Clean Clang B1 II,accented32,48000,0.80,90,4000,-3.337122571
+Clean Clang B1 II,accented32,48000,0.80,150,2400,-3.337122571
+Clean Clang B1 II,accented32,48000,0.80,210,1714,-3.337122571
+Clean Clang B1 II,accented32,48000,0.80,300,1200,-3.337122571
+Warm Clang B1 II,single,48000,0.25,150,0,-6.766748046
+Warm Clang B1 II,single,48000,0.50,150,0,-4.145927621
+Warm Clang B1 II,single,48000,0.70,150,0,-3.555065162
+Warm Clang B1 II,single,48000,0.85,150,0,-3.320796485
+Warm Clang B1 II,single,48000,1.00,150,0,-3.145269142
+Warm Clang B1 II,accented32,48000,0.80,90,4000,-3.145269142
+Warm Clang B1 II,accented32,48000,0.80,150,2400,-3.145269142
+Warm Clang B1 II,accented32,48000,0.80,210,1714,-3.145269142
+Warm Clang B1 II,accented32,48000,0.80,300,1200,-3.145269142
+Driven Clang C2,single,48000,0.25,150,0,-5.001180512
+Driven Clang C2,single,48000,0.50,150,0,-4.178512708
+Driven Clang C2,single,48000,0.70,150,0,-3.735562120
+Driven Clang C2,single,48000,0.85,150,0,-2.635454978
+Driven Clang C2,single,48000,1.00,150,0,-1.837129370
+Driven Clang C2,accented32,48000,0.80,90,4000,-1.837129370
+Driven Clang C2,accented32,48000,0.80,150,2400,-1.837129370
+Driven Clang C2,accented32,48000,0.80,210,1714,-1.837129370
+Driven Clang C2,accented32,48000,0.80,300,1200,-1.837129370
+Warm Clang A#1 V,single,48000,0.25,150,0,-7.004910114
+Warm Clang A#1 V,single,48000,0.50,150,0,-5.031332373
+Warm Clang A#1 V,single,48000,0.70,150,0,-4.323692638
+Warm Clang A#1 V,single,48000,0.85,150,0,-4.056118213
+Warm Clang A#1 V,single,48000,1.00,150,0,-3.895586869
+Warm Clang A#1 V,accented32,48000,0.80,90,4000,-3.895586869
+Warm Clang A#1 V,accented32,48000,0.80,150,2400,-3.895586869
+Warm Clang A#1 V,accented32,48000,0.80,210,1714,-3.895586869
+Warm Clang A#1 V,accented32,48000,0.80,300,1200,-3.895586869
+Clean Clang G#1 III,single,48000,0.25,150,0,-5.472246981
+Clean Clang G#1 III,single,48000,0.50,150,0,-3.227597155
+Clean Clang G#1 III,single,48000,0.70,150,0,-2.145020992
+Clean Clang G#1 III,single,48000,0.85,150,0,-1.722456879
+Clean Clang G#1 III,single,48000,1.00,150,0,-1.411747831
+Clean Clang G#1 III,accented32,48000,0.80,90,4000,-1.411747831
+Clean Clang G#1 III,accented32,48000,0.80,150,2400,-1.411747831
+Clean Clang G#1 III,accented32,48000,0.80,210,1714,-1.411747831
+Clean Clang G#1 III,accented32,48000,0.80,300,1200,-1.411747831
+Clean Clang A1,single,48000,0.25,150,0,-8.080511591
+Clean Clang A1,single,48000,0.50,150,0,-3.400300206
+Clean Clang A1,single,48000,0.70,150,0,-1.930969017
+Clean Clang A1,single,48000,0.85,150,0,-1.363911286
+Clean Clang A1,single,48000,1.00,150,0,-1.048739896
+Clean Clang A1,accented32,48000,0.80,90,4000,-1.048739896
+Clean Clang A1,accented32,48000,0.80,150,2400,-1.048739896
+Clean Clang A1,accented32,48000,0.80,210,1714,-1.048739896
+Clean Clang A1,accented32,48000,0.80,300,1200,-1.048739896
+Clean Clang F1 II,single,48000,0.25,150,0,-7.651566830
+Clean Clang F1 II,single,48000,0.50,150,0,-3.398354720
+Clean Clang F1 II,single,48000,0.70,150,0,-2.785937309
+Clean Clang F1 II,single,48000,0.85,150,0,-2.577517295
+Clean Clang F1 II,single,48000,1.00,150,0,-2.389168236
+Clean Clang F1 II,accented32,48000,0.80,90,4000,-2.389150681
+Clean Clang F1 II,accented32,48000,0.80,150,2400,-2.855051284
+Clean Clang F1 II,accented32,48000,0.80,210,1714,-4.090339984
+Clean Clang F1 II,accented32,48000,0.80,300,1200,-4.090339984
+Clean Clang A#1 III,single,48000,0.25,150,0,-4.913911930
+Clean Clang A#1 III,single,48000,0.50,150,0,-3.350095458
+Clean Clang A#1 III,single,48000,0.70,150,0,-2.413179117
+Clean Clang A#1 III,single,48000,0.85,150,0,-1.970656883
+Clean Clang A#1 III,single,48000,1.00,150,0,-1.721378907
+Clean Clang A#1 III,accented32,48000,0.80,90,4000,-1.721378907
+Clean Clang A#1 III,accented32,48000,0.80,150,2400,-1.721378907
+Clean Clang A#1 III,accented32,48000,0.80,210,1714,-1.721378907
+Clean Clang A#1 III,accented32,48000,0.80,300,1200,-1.721378907
+Clean Click A#1 III,single,48000,0.25,150,0,-7.741475520
+Clean Click A#1 III,single,48000,0.50,150,0,-2.657632609
+Clean Click A#1 III,single,48000,0.70,150,0,-2.272628003
+Clean Click A#1 III,single,48000,0.85,150,0,-2.042724199
+Clean Click A#1 III,single,48000,1.00,150,0,-1.833787018
+Clean Click A#1 III,accented32,48000,0.80,90,4000,-1.833787018
+Clean Click A#1 III,accented32,48000,0.80,150,2400,-1.833787018
+Clean Click A#1 III,accented32,48000,0.80,210,1714,-2.010256735
+Clean Click A#1 III,accented32,48000,0.80,300,1200,-3.238283676
+Wide Warm Click G#1,single,48000,0.25,150,0,-3.294186871
+Wide Warm Click G#1,single,48000,0.50,150,0,-2.538831676
+Wide Warm Click G#1,single,48000,0.70,150,0,-2.149218264
+Wide Warm Click G#1,single,48000,0.85,150,0,-2.021411994
+Wide Warm Click G#1,single,48000,1.00,150,0,-1.956816608
+Wide Warm Click G#1,accented32,48000,0.80,90,4000,-1.956816608
+Wide Warm Click G#1,accented32,48000,0.80,150,2400,-1.956816608
+Wide Warm Click G#1,accented32,48000,0.80,210,1714,-1.956816608
+Wide Warm Click G#1,accented32,48000,0.80,300,1200,-1.956816608
+Warm Clang B1 IV,single,48000,0.25,150,0,-6.930718042
+Warm Clang B1 IV,single,48000,0.50,150,0,-4.978674906
+Warm Clang B1 IV,single,48000,0.70,150,0,-4.458864844
+Warm Clang B1 IV,single,48000,0.85,150,0,-4.234673516
+Warm Clang B1 IV,single,48000,1.00,150,0,-4.132897696
+Warm Clang B1 IV,accented32,48000,0.80,90,4000,-4.132897696
+Warm Clang B1 IV,accented32,48000,0.80,150,2400,-4.132897696
+Warm Clang B1 IV,accented32,48000,0.80,210,1714,-4.132897696
+Warm Clang B1 IV,accented32,48000,0.80,300,1200,-4.132897696
+Warm Clang G1,single,48000,0.25,150,0,-6.823014349
+Warm Clang G1,single,48000,0.50,150,0,-5.193005181
+Warm Clang G1,single,48000,0.70,150,0,-2.560386273
+Warm Clang G1,single,48000,0.85,150,0,-1.933744130
+Warm Clang G1,single,48000,1.00,150,0,-1.680023176
+Warm Clang G1,accented32,48000,0.80,90,4000,-1.680023176
+Warm Clang G1,accented32,48000,0.80,150,2400,-1.680023176
+Warm Clang G1,accented32,48000,0.80,210,1714,-1.680023176
+Warm Clang G1,accented32,48000,0.80,300,1200,-1.680023176
+Warm Click G1,single,48000,0.25,150,0,-5.844994783
+Warm Click G1,single,48000,0.50,150,0,-2.028248571
+Warm Click G1,single,48000,0.70,150,0,-1.663454374
+Warm Click G1,single,48000,0.85,150,0,-1.432645483
+Warm Click G1,single,48000,1.00,150,0,-1.215249699
+Warm Click G1,accented32,48000,0.80,90,4000,-1.215249699
+Warm Click G1,accented32,48000,0.80,150,2400,-1.215249699
+Warm Click G1,accented32,48000,0.80,210,1714,-1.286394059
+Warm Click G1,accented32,48000,0.80,300,1200,-2.644368049
+Clean Click G1 III,single,48000,0.25,150,0,-4.844043390
+Clean Click G1 III,single,48000,0.50,150,0,-3.157689167
+Clean Click G1 III,single,48000,0.70,150,0,-1.439622151
+Clean Click G1 III,single,48000,0.85,150,0,-1.157539250
+Clean Click G1 III,single,48000,1.00,150,0,-1.034228062
+Clean Click G1 III,accented32,48000,0.80,90,4000,-1.034228062
+Clean Click G1 III,accented32,48000,0.80,150,2400,-1.034228062
+Clean Click G1 III,accented32,48000,0.80,210,1714,-1.034228062
+Clean Click G1 III,accented32,48000,0.80,300,1200,-1.034228062
+Clean Boom B1 II,single,48000,0.25,150,0,-11.445381985
+Clean Boom B1 II,single,48000,0.50,150,0,-6.267920714
+Clean Boom B1 II,single,48000,0.70,150,0,-4.150646869
+Clean Boom B1 II,single,48000,0.85,150,0,-3.077881656
+Clean Boom B1 II,single,48000,1.00,150,0,-2.294440835
+Clean Boom B1 II,accented32,48000,0.80,90,4000,-2.294440835
+Clean Boom B1 II,accented32,48000,0.80,150,2400,-2.294440835
+Clean Boom B1 II,accented32,48000,0.80,210,1714,-2.294440835
+Clean Boom B1 II,accented32,48000,0.80,300,1200,-2.294440835
+Distorted Factory,single,48000,0.25,150,0,-4.229153975
+Distorted Factory,single,48000,0.50,150,0,-2.859906256
+Distorted Factory,single,48000,0.70,150,0,-2.176131711
+Distorted Factory,single,48000,0.85,150,0,-1.615240507
+Distorted Factory,single,48000,1.00,150,0,-1.100333694
+Distorted Factory,accented32,48000,0.80,90,4000,-1.100301097
+Distorted Factory,accented32,48000,0.80,150,2400,-1.100301097
+Distorted Factory,accented32,48000,0.80,210,1714,-1.402354691
+Distorted Factory,accented32,48000,0.80,300,1200,-2.172032708
+Warm Click A#1 II,single,48000,0.25,150,0,-2.972186134
+Warm Click A#1 II,single,48000,0.50,150,0,-2.456048457
+Warm Click A#1 II,single,48000,0.70,150,0,-1.989168384
+Warm Click A#1 II,single,48000,0.85,150,0,-1.819853724
+Warm Click A#1 II,single,48000,1.00,150,0,-1.668802893
+Warm Click A#1 II,accented32,48000,0.80,90,4000,-1.668802893
+Warm Click A#1 II,accented32,48000,0.80,150,2400,-1.668802893
+Warm Click A#1 II,accented32,48000,0.80,210,1714,-1.668802893
+Warm Click A#1 II,accented32,48000,0.80,300,1200,-1.668802893
+Crushed Click A#1,single,48000,0.25,150,0,-0.837755011
+Crushed Click A#1,single,48000,0.50,150,0,-0.980035086
+Crushed Click A#1,single,48000,0.70,150,0,-1.073192479
+Crushed Click A#1,single,48000,0.85,150,0,-1.165184412
+Crushed Click A#1,single,48000,1.00,150,0,-1.321973678
+Crushed Click A#1,accented32,48000,0.80,90,4000,-1.121999355
+Crushed Click A#1,accented32,48000,0.80,150,2400,-1.121999355
+Crushed Click A#1,accented32,48000,0.80,210,1714,-1.121999355
+Crushed Click A#1,accented32,48000,0.80,300,1200,-1.121999355
+Crushed Clang F1,single,48000,0.25,150,0,-8.607801953
+Crushed Clang F1,single,48000,0.50,150,0,-5.683099223
+Crushed Clang F1,single,48000,0.70,150,0,-4.096658749
+Crushed Clang F1,single,48000,0.85,150,0,-3.379794785
+Crushed Clang F1,single,48000,1.00,150,0,-2.853949975
+Crushed Clang F1,accented32,48000,0.80,90,4000,-2.851536988
+Crushed Clang F1,accented32,48000,0.80,150,2400,-2.851536988
+Crushed Clang F1,accented32,48000,0.80,210,1714,-2.851536988
+Crushed Clang F1,accented32,48000,0.80,300,1200,-2.851536988
+Wide Crushed Clang F1,single,48000,0.25,150,0,-3.450375671
+Wide Crushed Clang F1,single,48000,0.50,150,0,-2.564034777
+Wide Crushed Clang F1,single,48000,0.70,150,0,-1.757860353
+Wide Crushed Clang F1,single,48000,0.85,150,0,-1.516655206
+Wide Crushed Clang F1,single,48000,1.00,150,0,-1.325253170
+Wide Crushed Clang F1,accented32,48000,0.80,90,4000,-1.325253170
+Wide Crushed Clang F1,accented32,48000,0.80,150,2400,-1.325253170
+Wide Crushed Clang F1,accented32,48000,0.80,210,1714,-1.325253170
+Wide Crushed Clang F1,accented32,48000,0.80,300,1200,-1.325253170
+Wide Clipped Clang F#1,single,48000,0.25,150,0,-4.839438772
+Wide Clipped Clang F#1,single,48000,0.50,150,0,-3.454690434
+Wide Clipped Clang F#1,single,48000,0.70,150,0,-2.609423553
+Wide Clipped Clang F#1,single,48000,0.85,150,0,-2.133490250
+Wide Clipped Clang F#1,single,48000,1.00,150,0,-1.610113743
+Wide Clipped Clang F#1,accented32,48000,0.80,90,4000,-1.607591915
+Wide Clipped Clang F#1,accented32,48000,0.80,150,2400,-1.607591915
+Wide Clipped Clang F#1,accented32,48000,0.80,210,1714,-1.607591915
+Wide Clipped Clang F#1,accented32,48000,0.80,300,1200,-1.607591915
+Clipped Click G1 II,single,48000,0.25,150,0,-7.108354996
+Clipped Click G1 II,single,48000,0.50,150,0,-4.559199558
+Clipped Click G1 II,single,48000,0.70,150,0,-4.211029791
+Clipped Click G1 II,single,48000,0.85,150,0,-4.233856049
+Clipped Click G1 II,single,48000,1.00,150,0,-4.216132016
+Clipped Click G1 II,accented32,48000,0.80,90,4000,-4.216132016
+Clipped Click G1 II,accented32,48000,0.80,150,2400,-4.216132016
+Clipped Click G1 II,accented32,48000,0.80,210,1714,-4.216132016
+Clipped Click G1 II,accented32,48000,0.80,300,1200,-4.216132016
+Warm Click D#1,single,48000,0.25,150,0,-4.053355276
+Warm Click D#1,single,48000,0.50,150,0,-1.995800223
+Warm Click D#1,single,48000,0.70,150,0,-1.336576960
+Warm Click D#1,single,48000,0.85,150,0,-1.184185164
+Warm Click D#1,single,48000,1.00,150,0,-1.073719966
+Warm Click D#1,accented32,48000,0.80,90,4000,-1.073719966
+Warm Click D#1,accented32,48000,0.80,150,2400,-1.073719966
+Warm Click D#1,accented32,48000,0.80,210,1714,-1.073719966
+Warm Click D#1,accented32,48000,0.80,300,1200,-1.073719966
+Crushed Click F#1 IV,single,48000,0.25,150,0,-2.992243310
+Crushed Click F#1 IV,single,48000,0.50,150,0,-1.597568011
+Crushed Click F#1 IV,single,48000,0.70,150,0,-1.186958554
+Crushed Click F#1 IV,single,48000,0.85,150,0,-1.113304219
+Crushed Click F#1 IV,single,48000,1.00,150,0,-1.013170671
+Crushed Click F#1 IV,accented32,48000,0.80,90,4000,-1.013170671
+Crushed Click F#1 IV,accented32,48000,0.80,150,2400,-1.013170671
+Crushed Click F#1 IV,accented32,48000,0.80,210,1714,-1.013170671
+Crushed Click F#1 IV,accented32,48000,0.80,300,1200,-1.013170671
+Driven Click A#1 II,single,48000,0.25,150,0,-4.123570878
+Driven Click A#1 II,single,48000,0.50,150,0,-3.520804065
+Driven Click A#1 II,single,48000,0.70,150,0,-3.250170958
+Driven Click A#1 II,single,48000,0.85,150,0,-2.802660471
+Driven Click A#1 II,single,48000,1.00,150,0,-2.351143939
+Driven Click A#1 II,accented32,48000,0.80,90,4000,-2.746197544
+Driven Click A#1 II,accented32,48000,0.80,150,2400,-3.004676765
+Driven Click A#1 II,accented32,48000,0.80,210,1714,-3.004676765
+Driven Click A#1 II,accented32,48000,0.80,300,1200,-3.004676765
+Industrial Rumble,single,48000,0.25,150,0,-1.581033791
+Industrial Rumble,single,48000,0.50,150,0,-1.904850720
+Industrial Rumble,single,48000,0.70,150,0,-1.950718382
+Industrial Rumble,single,48000,0.85,150,0,-2.020311807
+Industrial Rumble,single,48000,1.00,150,0,-2.065045614
+Industrial Rumble,accented32,48000,0.80,90,4000,-2.000686550
+Industrial Rumble,accented32,48000,0.80,150,2400,-2.000686550
+Industrial Rumble,accented32,48000,0.80,210,1714,-2.000686550
+Industrial Rumble,accented32,48000,0.80,300,1200,-2.000686550
+Steel Press,single,48000,0.25,150,0,-2.663201381
+Steel Press,single,48000,0.50,150,0,-2.385186140
+Steel Press,single,48000,0.70,150,0,-1.089623417
+Steel Press,single,48000,0.85,150,0,-1.846772125
+Steel Press,single,48000,1.00,150,0,-1.117115289
+Steel Press,accented32,48000,0.80,90,4000,-1.117115289
+Steel Press,accented32,48000,0.80,150,2400,-1.117115289
+Steel Press,accented32,48000,0.80,210,1714,-1.117115289
+Steel Press,accented32,48000,0.80,300,1200,-2.930787163
+Wide Iron Sub,single,48000,0.25,150,0,-2.471937171
+Wide Iron Sub,single,48000,0.50,150,0,-3.324832267
+Wide Iron Sub,single,48000,0.70,150,0,-2.529634358
+Wide Iron Sub,single,48000,0.85,150,0,-1.017936078
+Wide Iron Sub,single,48000,1.00,150,0,-1.950523869
+Wide Iron Sub,accented32,48000,0.80,90,4000,-1.950523869
+Wide Iron Sub,accented32,48000,0.80,150,2400,-1.950523869
+Wide Iron Sub,accented32,48000,0.80,210,1714,-1.950523869
+Wide Iron Sub,accented32,48000,0.80,300,1200,-1.950523869
+Clean Rumble D#1,single,48000,0.25,150,0,-3.845777357
+Clean Rumble D#1,single,48000,0.50,150,0,-1.892587742
+Clean Rumble D#1,single,48000,0.70,150,0,-1.459102486
+Clean Rumble D#1,single,48000,0.85,150,0,-1.351348633
+Clean Rumble D#1,single,48000,1.00,150,0,-1.377597253
+Clean Rumble D#1,accented32,48000,0.80,90,4000,-1.327034684
+Clean Rumble D#1,accented32,48000,0.80,150,2400,-1.327034684
+Clean Rumble D#1,accented32,48000,0.80,210,1714,-1.327034684
+Clean Rumble D#1,accented32,48000,0.80,300,1200,-1.327034684
+Clipped Clang B1,single,48000,0.25,150,0,-6.999835335
+Clipped Clang B1,single,48000,0.50,150,0,-6.341700125
+Clipped Clang B1,single,48000,0.70,150,0,-5.357331044
+Clipped Clang B1,single,48000,0.85,150,0,-4.479687004
+Clipped Clang B1,single,48000,1.00,150,0,-4.068266580
+Clipped Clang B1,accented32,48000,0.80,90,4000,-4.068266580
+Clipped Clang B1,accented32,48000,0.80,150,2400,-4.068266580
+Clipped Clang B1,accented32,48000,0.80,210,1714,-4.068266580
+Clipped Clang B1,accented32,48000,0.80,300,1200,-4.068266580
+Clean Clang F#1 II,single,48000,0.25,150,0,-7.223633696
+Clean Clang F#1 II,single,48000,0.50,150,0,-4.685868137
+Clean Clang F#1 II,single,48000,0.70,150,0,-4.008439146
+Clean Clang F#1 II,single,48000,0.85,150,0,-3.128444322
+Clean Clang F#1 II,single,48000,1.00,150,0,-2.475763521
+Clean Clang F#1 II,accented32,48000,0.80,90,4000,-2.475763521
+Clean Clang F#1 II,accented32,48000,0.80,150,2400,-2.475763521
+Clean Clang F#1 II,accented32,48000,0.80,210,1714,-2.475763521
+Clean Clang F#1 II,accented32,48000,0.80,300,1200,-2.475763521
+Clipped Rumble B1 II,single,48000,0.25,150,0,-4.013661412
+Clipped Rumble B1 II,single,48000,0.50,150,0,-3.412329418
+Clipped Rumble B1 II,single,48000,0.70,150,0,-3.443473000
+Clipped Rumble B1 II,single,48000,0.85,150,0,-3.446948436
+Clipped Rumble B1 II,single,48000,1.00,150,0,-3.437139511
+Clipped Rumble B1 II,accented32,48000,0.80,90,4000,-3.437139511
+Clipped Rumble B1 II,accented32,48000,0.80,150,2400,-3.437139511
+Clipped Rumble B1 II,accented32,48000,0.80,210,1714,-3.437139511
+Clipped Rumble B1 II,accented32,48000,0.80,300,1200,-3.437139511
+Clean Rumble A#1,single,48000,0.25,150,0,-3.318783806
+Clean Rumble A#1,single,48000,0.50,150,0,-1.978300438
+Clean Rumble A#1,single,48000,0.70,150,0,-1.392695367
+Clean Rumble A#1,single,48000,0.85,150,0,-1.207365888
+Clean Rumble A#1,single,48000,1.00,150,0,-1.088277641
+Clean Rumble A#1,accented32,48000,0.80,90,4000,-1.088277641
+Clean Rumble A#1,accented32,48000,0.80,150,2400,-1.088277641
+Clean Rumble A#1,accented32,48000,0.80,210,1714,-1.088277641
+Clean Rumble A#1,accented32,48000,0.80,300,1200,-1.088277641
+Clipped Thump F1 II,single,48000,0.25,150,0,-2.996697666
+Clipped Thump F1 II,single,48000,0.50,150,0,-1.804401750
+Clipped Thump F1 II,single,48000,0.70,150,0,-1.343684582
+Clipped Thump F1 II,single,48000,0.85,150,0,-1.123286167
+Clipped Thump F1 II,single,48000,1.00,150,0,-1.061557053
+Clipped Thump F1 II,accented32,48000,0.80,90,4000,-1.061557053
+Clipped Thump F1 II,accented32,48000,0.80,150,2400,-1.061557053
+Clipped Thump F1 II,accented32,48000,0.80,210,1714,-1.061557053
+Clipped Thump F1 II,accented32,48000,0.80,300,1200,-1.061557053
+Clipped Rumble B1,single,48000,0.25,150,0,-2.301531908
+Clipped Rumble B1,single,48000,0.50,150,0,-1.411233197
+Clipped Rumble B1,single,48000,0.70,150,0,-1.122992606
+Clipped Rumble B1,single,48000,0.85,150,0,-1.038072204
+Clipped Rumble B1,single,48000,1.00,150,0,-1.023064102
+Clipped Rumble B1,accented32,48000,0.80,90,4000,-1.023064102
+Clipped Rumble B1,accented32,48000,0.80,150,2400,-1.023064102
+Clipped Rumble B1,accented32,48000,0.80,210,1714,-1.023064102
+Clipped Rumble B1,accented32,48000,0.80,300,1200,-1.023064102
+Warm Rumble G1,single,48000,0.25,150,0,-1.800230887
+Warm Rumble G1,single,48000,0.50,150,0,-1.588727371
+Warm Rumble G1,single,48000,0.70,150,0,-1.410768063
+Warm Rumble G1,single,48000,0.85,150,0,-1.282597762
+Warm Rumble G1,single,48000,1.00,150,0,-1.098626006
+Warm Rumble G1,accented32,48000,0.80,90,4000,-1.098626006
+Warm Rumble G1,accented32,48000,0.80,150,2400,-1.098626006
+Warm Rumble G1,accented32,48000,0.80,210,1714,-1.098626006
+Warm Rumble G1,accented32,48000,0.80,300,1200,-1.098626006
+Clipped Rumble C1,single,48000,0.25,150,0,-4.429846444
+Clipped Rumble C1,single,48000,0.50,150,0,-3.684748174
+Clipped Rumble C1,single,48000,0.70,150,0,-1.328492069
+Clipped Rumble C1,single,48000,0.85,150,0,-1.028568662
+Clipped Rumble C1,single,48000,1.00,150,0,-1.145365556
+Clipped Rumble C1,accented32,48000,0.80,90,4000,-1.049353280
+Clipped Rumble C1,accented32,48000,0.80,150,2400,-1.049353280
+Clipped Rumble C1,accented32,48000,0.80,210,1714,-1.049353280
+Clipped Rumble C1,accented32,48000,0.80,300,1200,-1.049353280
+Warm Rumble G#1 IV,single,48000,0.25,150,0,-1.552644436
+Warm Rumble G#1 IV,single,48000,0.50,150,0,-1.243606071
+Warm Rumble G#1 IV,single,48000,0.70,150,0,-1.098424645
+Warm Rumble G#1 IV,single,48000,0.85,150,0,-1.009023603
+Warm Rumble G#1 IV,single,48000,1.00,150,0,-1.078234213
+Warm Rumble G#1 IV,accented32,48000,0.80,90,4000,-1.029423110
+Warm Rumble G#1 IV,accented32,48000,0.80,150,2400,-1.029423110
+Warm Rumble G#1 IV,accented32,48000,0.80,210,1714,-1.029423110
+Warm Rumble G#1 IV,accented32,48000,0.80,300,1200,-1.029423110
+Clipped Rumble F#1,single,48000,0.25,150,0,-4.959084342
+Clipped Rumble F#1,single,48000,0.50,150,0,-4.303179218
+Clipped Rumble F#1,single,48000,0.70,150,0,-3.850306710
+Clipped Rumble F#1,single,48000,0.85,150,0,-3.508217485
+Clipped Rumble F#1,single,48000,1.00,150,0,-2.298576646
+Clipped Rumble F#1,accented32,48000,0.80,90,4000,-2.298563282
+Clipped Rumble F#1,accented32,48000,0.80,150,2400,-2.298563282
+Clipped Rumble F#1,accented32,48000,0.80,210,1714,-2.298563282
+Clipped Rumble F#1,accented32,48000,0.80,300,1200,-2.298563282
+Warm Rumble F1,single,48000,0.25,150,0,-2.493030998
+Warm Rumble F1,single,48000,0.50,150,0,-2.248847202
+Warm Rumble F1,single,48000,0.70,150,0,-1.660622093
+Warm Rumble F1,single,48000,0.85,150,0,-1.577116377
+Warm Rumble F1,single,48000,1.00,150,0,-1.537400633
+Warm Rumble F1,accented32,48000,0.80,90,4000,-1.537400633
+Warm Rumble F1,accented32,48000,0.80,150,2400,-1.537400633
+Warm Rumble F1,accented32,48000,0.80,210,1714,-1.537400633
+Warm Rumble F1,accented32,48000,0.80,300,1200,-1.537400633
+Clipped Rumble F#1 II,single,48000,0.25,150,0,-2.614418211
+Clipped Rumble F#1 II,single,48000,0.50,150,0,-1.602612746
+Clipped Rumble F#1 II,single,48000,0.70,150,0,-1.043565467
+Clipped Rumble F#1 II,single,48000,0.85,150,0,-1.013819009
+Clipped Rumble F#1 II,single,48000,1.00,150,0,-1.016037557
+Clipped Rumble F#1 II,accented32,48000,0.80,90,4000,-1.008918195
+Clipped Rumble F#1 II,accented32,48000,0.80,150,2400,-1.008918195
+Clipped Rumble F#1 II,accented32,48000,0.80,210,1714,-1.008918195
+Clipped Rumble F#1 II,accented32,48000,0.80,300,1200,-1.008918195
+Crushed Rumble F1 II,single,48000,0.25,150,0,-5.579392644
+Crushed Rumble F1 II,single,48000,0.50,150,0,-5.159797128
+Crushed Rumble F1 II,single,48000,0.70,150,0,-4.532721864
+Crushed Rumble F1 II,single,48000,0.85,150,0,-3.978845468
+Crushed Rumble F1 II,single,48000,1.00,150,0,-3.426135669
+Crushed Rumble F1 II,accented32,48000,0.80,90,4000,-3.723110217
+Crushed Rumble F1 II,accented32,48000,0.80,150,2400,-3.723110217
+Crushed Rumble F1 II,accented32,48000,0.80,210,1714,-3.723110217
+Crushed Rumble F1 II,accented32,48000,0.80,300,1200,-3.723110217
+Clipped Rumble A#1 II,single,48000,0.25,150,0,-1.898254115
+Clipped Rumble A#1 II,single,48000,0.50,150,0,-1.286049737
+Clipped Rumble A#1 II,single,48000,0.70,150,0,-1.347901758
+Clipped Rumble A#1 II,single,48000,0.85,150,0,-1.457214834
+Clipped Rumble A#1 II,single,48000,1.00,150,0,-1.590872324
+Clipped Rumble A#1 II,accented32,48000,0.80,90,4000,-1.421262275
+Clipped Rumble A#1 II,accented32,48000,0.80,150,2400,-1.421262275
+Clipped Rumble A#1 II,accented32,48000,0.80,210,1714,-1.421262275
+Clipped Rumble A#1 II,accented32,48000,0.80,300,1200,-1.421262275
+Clipped Rumble F#1 III,single,48000,0.25,150,0,-2.958000960
+Clipped Rumble F#1 III,single,48000,0.50,150,0,-2.166795016
+Clipped Rumble F#1 III,single,48000,0.70,150,0,-1.602546755
+Clipped Rumble F#1 III,single,48000,0.85,150,0,-1.229068926
+Clipped Rumble F#1 III,single,48000,1.00,150,0,-1.078681296
+Clipped Rumble F#1 III,accented32,48000,0.80,90,4000,-1.078681296
+Clipped Rumble F#1 III,accented32,48000,0.80,150,2400,-1.078681296
+Clipped Rumble F#1 III,accented32,48000,0.80,210,1714,-1.078681296
+Clipped Rumble F#1 III,accented32,48000,0.80,300,1200,-1.078681296
+Clipped Rumble A1 II,single,48000,0.25,150,0,-5.878372002
+Clipped Rumble A1 II,single,48000,0.50,150,0,-3.623569718
+Clipped Rumble A1 II,single,48000,0.70,150,0,-2.320716081
+Clipped Rumble A1 II,single,48000,0.85,150,0,-1.682464044
+Clipped Rumble A1 II,single,48000,1.00,150,0,-1.180984345
+Clipped Rumble A1 II,accented32,48000,0.80,90,4000,-1.180984345
+Clipped Rumble A1 II,accented32,48000,0.80,150,2400,-1.180984345
+Clipped Rumble A1 II,accented32,48000,0.80,210,1714,-1.180984345
+Clipped Rumble A1 II,accented32,48000,0.80,300,1200,-1.180984345
+Warm Rumble F#1,single,48000,0.25,150,0,-3.219593484
+Warm Rumble F#1,single,48000,0.50,150,0,-2.232967092
+Warm Rumble F#1,single,48000,0.70,150,0,-1.712896109
+Warm Rumble F#1,single,48000,0.85,150,0,-1.337043523
+Warm Rumble F#1,single,48000,1.00,150,0,-1.016792188
+Warm Rumble F#1,accented32,48000,0.80,90,4000,-1.016792188
+Warm Rumble F#1,accented32,48000,0.80,150,2400,-1.016792188
+Warm Rumble F#1,accented32,48000,0.80,210,1714,-1.016792188
+Warm Rumble F#1,accented32,48000,0.80,300,1200,-1.016792188
+Clipped Rumble A#1 III,single,48000,0.25,150,0,-4.397871177
+Clipped Rumble A#1 III,single,48000,0.50,150,0,-3.239551721
+Clipped Rumble A#1 III,single,48000,0.70,150,0,-2.626235321
+Clipped Rumble A#1 III,single,48000,0.85,150,0,-2.269887015
+Clipped Rumble A#1 III,single,48000,1.00,150,0,-1.988434619
+Clipped Rumble A#1 III,accented32,48000,0.80,90,4000,-2.850467455
+Clipped Rumble A#1 III,accented32,48000,0.80,150,2400,-3.468957221
+Clipped Rumble A#1 III,accented32,48000,0.80,210,1714,-3.736270930
+Clipped Rumble A#1 III,accented32,48000,0.80,300,1200,-4.168216098
+Crushed Rumble A1,single,48000,0.25,150,0,-1.996521703
+Crushed Rumble A1,single,48000,0.50,150,0,-1.613017900
+Crushed Rumble A1,single,48000,0.70,150,0,-1.673788449
+Crushed Rumble A1,single,48000,0.85,150,0,-1.707524123
+Crushed Rumble A1,single,48000,1.00,150,0,-1.713038524
+Crushed Rumble A1,accented32,48000,0.80,90,4000,-1.700445645
+Crushed Rumble A1,accented32,48000,0.80,150,2400,-1.700445645
+Crushed Rumble A1,accented32,48000,0.80,210,1714,-1.700445645
+Crushed Rumble A1,accented32,48000,0.80,300,1200,-1.700445645
+Warm Rumble G1 III,single,48000,0.25,150,0,-3.161257983
+Warm Rumble G1 III,single,48000,0.50,150,0,-1.853305610
+Warm Rumble G1 III,single,48000,0.70,150,0,-1.490575395
+Warm Rumble G1 III,single,48000,0.85,150,0,-1.259627691
+Warm Rumble G1 III,single,48000,1.00,150,0,-1.083581555
+Warm Rumble G1 III,accented32,48000,0.80,90,4000,-1.083581555
+Warm Rumble G1 III,accented32,48000,0.80,150,2400,-1.083581555
+Warm Rumble G1 III,accented32,48000,0.80,210,1714,-1.083581555
+Warm Rumble G1 III,accented32,48000,0.80,300,1200,-1.083581555
+Clipped Rumble C#1,single,48000,0.25,150,0,-2.802980548
+Clipped Rumble C#1,single,48000,0.50,150,0,-2.013017212
+Clipped Rumble C#1,single,48000,0.70,150,0,-1.942519885
+Clipped Rumble C#1,single,48000,0.85,150,0,-1.850505940
+Clipped Rumble C#1,single,48000,1.00,150,0,-1.833590039
+Clipped Rumble C#1,accented32,48000,0.80,90,4000,-1.833590039
+Clipped Rumble C#1,accented32,48000,0.80,150,2400,-1.833590039
+Clipped Rumble C#1,accented32,48000,0.80,210,1714,-1.833590039
+Clipped Rumble C#1,accented32,48000,0.80,300,1200,-1.833590039
+Clean Rumble G1,single,48000,0.25,150,0,-3.499529893
+Clean Rumble G1,single,48000,0.50,150,0,-1.529793950
+Clean Rumble G1,single,48000,0.70,150,0,-1.142665661
+Clean Rumble G1,single,48000,0.85,150,0,-1.006044445
+Clean Rumble G1,single,48000,1.00,150,0,-1.019810216
+Clean Rumble G1,accented32,48000,0.80,90,4000,-1.019810216
+Clean Rumble G1,accented32,48000,0.80,150,2400,-1.019810216
+Clean Rumble G1,accented32,48000,0.80,210,1714,-1.019810216
+Clean Rumble G1,accented32,48000,0.80,300,1200,-1.019810216
+Driven Click C#1,single,48000,0.25,150,0,-2.874805212
+Driven Click C#1,single,48000,0.50,150,0,-1.752330608
+Driven Click C#1,single,48000,0.70,150,0,-1.365210440
+Driven Click C#1,single,48000,0.85,150,0,-1.160512807
+Driven Click C#1,single,48000,1.00,150,0,-1.028654680
+Driven Click C#1,accented32,48000,0.80,90,4000,-1.028654680
+Driven Click C#1,accented32,48000,0.80,150,2400,-1.028654680
+Driven Click C#1,accented32,48000,0.80,210,1714,-1.028654680
+Driven Click C#1,accented32,48000,0.80,300,1200,-1.028654680
+Warm Rumble G1 II,single,48000,0.25,150,0,-2.657367287
+Warm Rumble G1 II,single,48000,0.50,150,0,-2.148017711
+Warm Rumble G1 II,single,48000,0.70,150,0,-2.086295745
+Warm Rumble G1 II,single,48000,0.85,150,0,-2.033763709
+Warm Rumble G1 II,single,48000,1.00,150,0,-2.031970516
+Warm Rumble G1 II,accented32,48000,0.80,90,4000,-2.031970516
+Warm Rumble G1 II,accented32,48000,0.80,150,2400,-2.031970516
+Warm Rumble G1 II,accented32,48000,0.80,210,1714,-2.031970516
+Warm Rumble G1 II,accented32,48000,0.80,300,1200,-2.031970516
+Wide Clipped Clang G1,single,48000,0.25,150,0,-6.179709715
+Wide Clipped Clang G1,single,48000,0.50,150,0,-4.601494496
+Wide Clipped Clang G1,single,48000,0.70,150,0,-4.005295256
+Wide Clipped Clang G1,single,48000,0.85,150,0,-3.657665846
+Wide Clipped Clang G1,single,48000,1.00,150,0,-3.263701488
+Wide Clipped Clang G1,accented32,48000,0.80,90,4000,-3.263583506
+Wide Clipped Clang G1,accented32,48000,0.80,150,2400,-3.263583506
+Wide Clipped Clang G1,accented32,48000,0.80,210,1714,-3.263583506
+Wide Clipped Clang G1,accented32,48000,0.80,300,1200,-3.263583506
+Wide Crushed Clang A1,single,48000,0.25,150,0,-5.881143170
+Wide Crushed Clang A1,single,48000,0.50,150,0,-4.497052201
+Wide Crushed Clang A1,single,48000,0.70,150,0,-3.419384506
+Wide Crushed Clang A1,single,48000,0.85,150,0,-2.575068824
+Wide Crushed Clang A1,single,48000,1.00,150,0,-2.002963471
+Wide Crushed Clang A1,accented32,48000,0.80,90,4000,-2.002963471
+Wide Crushed Clang A1,accented32,48000,0.80,150,2400,-2.002963471
+Wide Crushed Clang A1,accented32,48000,0.80,210,1714,-2.002963471
+Wide Crushed Clang A1,accented32,48000,0.80,300,1200,-2.002963471
+Wide Grinding Boom A1,single,48000,0.25,150,0,-7.101660426
+Wide Grinding Boom A1,single,48000,0.50,150,0,-4.548509446
+Wide Grinding Boom A1,single,48000,0.70,150,0,-3.002983836
+Wide Grinding Boom A1,single,48000,0.85,150,0,-1.972552661
+Wide Grinding Boom A1,single,48000,1.00,150,0,-1.059558593
+Wide Grinding Boom A1,accented32,48000,0.80,90,4000,-2.001292852
+Wide Grinding Boom A1,accented32,48000,0.80,150,2400,-3.071588541
+Wide Grinding Boom A1,accented32,48000,0.80,210,1714,-3.692217193
+Wide Grinding Boom A1,accented32,48000,0.80,300,1200,-3.692217193
+Wide Warm Boom A#1 II,single,48000,0.25,150,0,-7.718096439
+Wide Warm Boom A#1 II,single,48000,0.50,150,0,-4.793675079
+Wide Warm Boom A#1 II,single,48000,0.70,150,0,-4.058466336
+Wide Warm Boom A#1 II,single,48000,0.85,150,0,-3.712283190
+Wide Warm Boom A#1 II,single,48000,1.00,150,0,-3.653516190
+Wide Warm Boom A#1 II,accented32,48000,0.80,90,4000,-3.653516190
+Wide Warm Boom A#1 II,accented32,48000,0.80,150,2400,-3.653516190
+Wide Warm Boom A#1 II,accented32,48000,0.80,210,1714,-3.653516190
+Wide Warm Boom A#1 II,accented32,48000,0.80,300,1200,-3.653516190
+Crushed Clang B1,single,48000,0.25,150,0,-4.811413338
+Crushed Clang B1,single,48000,0.50,150,0,-3.409302139
+Crushed Clang B1,single,48000,0.70,150,0,-2.427824966
+Crushed Clang B1,single,48000,0.85,150,0,-1.736227796
+Crushed Clang B1,single,48000,1.00,150,0,-1.085996401
+Crushed Clang B1,accented32,48000,0.80,90,4000,-1.590075988
+Crushed Clang B1,accented32,48000,0.80,150,2400,-1.824688226
+Crushed Clang B1,accented32,48000,0.80,210,1714,-1.891067642
+Crushed Clang B1,accented32,48000,0.80,300,1200,-2.086951093
+Warm Clang F#1 IV,single,48000,0.25,150,0,-6.399265732
+Warm Clang F#1 IV,single,48000,0.50,150,0,-3.933865132
+Warm Clang F#1 IV,single,48000,0.70,150,0,-3.586349048
+Warm Clang F#1 IV,single,48000,0.85,150,0,-3.314042552
+Warm Clang F#1 IV,single,48000,1.00,150,0,-3.071636747
+Warm Clang F#1 IV,accented32,48000,0.80,90,4000,-3.071636747
+Warm Clang F#1 IV,accented32,48000,0.80,150,2400,-3.912795238
+Warm Clang F#1 IV,accented32,48000,0.80,210,1714,-3.912795238
+Warm Clang F#1 IV,accented32,48000,0.80,300,1200,-3.912795238
+Clipped Click F1,single,48000,0.25,150,0,-2.456138954
+Clipped Click F1,single,48000,0.50,150,0,-1.315096203
+Clipped Click F1,single,48000,0.70,150,0,-1.155483438
+Clipped Click F1,single,48000,0.85,150,0,-1.070405864
+Clipped Click F1,single,48000,1.00,150,0,-1.042392177
+Clipped Click F1,accented32,48000,0.80,90,4000,-1.042392177
+Clipped Click F1,accented32,48000,0.80,150,2400,-1.042392177
+Clipped Click F1,accented32,48000,0.80,210,1714,-1.042392177
+Clipped Click F1,accented32,48000,0.80,300,1200,-1.042392177
+Crushed Drop G1,single,48000,0.25,150,0,-3.815325721
+Crushed Drop G1,single,48000,0.50,150,0,-3.111058434
+Crushed Drop G1,single,48000,0.70,150,0,-2.632298504
+Crushed Drop G1,single,48000,0.85,150,0,-1.864220939
+Crushed Drop G1,single,48000,1.00,150,0,-1.195343479
+Crushed Drop G1,accented32,48000,0.80,90,4000,-1.195218719
+Crushed Drop G1,accented32,48000,0.80,150,2400,-1.195218719
+Crushed Drop G1,accented32,48000,0.80,210,1714,-1.195218719
+Crushed Drop G1,accented32,48000,0.80,300,1200,-1.621089070
+Crushed Click G1,single,48000,0.25,150,0,-1.374407879
+Crushed Click G1,single,48000,0.50,150,0,-1.669820908
+Crushed Click G1,single,48000,0.70,150,0,-1.889855707
+Crushed Click G1,single,48000,0.85,150,0,-2.069405502
+Crushed Click G1,single,48000,1.00,150,0,-2.263686848
+Crushed Click G1,accented32,48000,0.80,90,4000,-2.009342156
+Crushed Click G1,accented32,48000,0.80,150,2400,-2.009342156
+Crushed Click G1,accented32,48000,0.80,210,1714,-2.009342156
+Crushed Click G1,accented32,48000,0.80,300,1200,-2.009342156
+Warm Click F1,single,48000,0.25,150,0,-6.289234614
+Warm Click F1,single,48000,0.50,150,0,-3.779855827
+Warm Click F1,single,48000,0.70,150,0,-3.405374932
+Warm Click F1,single,48000,0.85,150,0,-3.155357723
+Warm Click F1,single,48000,1.00,150,0,-2.932212351
+Warm Click F1,accented32,48000,0.80,90,4000,-2.932200851
+Warm Click F1,accented32,48000,0.80,150,2400,-3.780344777
+Warm Click F1,accented32,48000,0.80,210,1714,-4.509480281
+Warm Click F1,accented32,48000,0.80,300,1200,-4.509480281
+Clipped Clang A1,single,48000,0.25,150,0,-4.581008643
+Clipped Clang A1,single,48000,0.50,150,0,-3.431654119
+Clipped Clang A1,single,48000,0.70,150,0,-3.341238275
+Clipped Clang A1,single,48000,0.85,150,0,-2.670519216
+Clipped Clang A1,single,48000,1.00,150,0,-2.134490777
+Clipped Clang A1,accented32,48000,0.80,90,4000,-2.134490777
+Clipped Clang A1,accented32,48000,0.80,150,2400,-2.134490777
+Clipped Clang A1,accented32,48000,0.80,210,1714,-2.134490777
+Clipped Clang A1,accented32,48000,0.80,300,1200,-2.134490777
+Clipped Click A#1 III,single,48000,0.25,150,0,-1.962460124
+Clipped Click A#1 III,single,48000,0.50,150,0,-1.491200087
+Clipped Click A#1 III,single,48000,0.70,150,0,-1.237056437
+Clipped Click A#1 III,single,48000,0.85,150,0,-1.163239364
+Clipped Click A#1 III,single,48000,1.00,150,0,-1.066927766
+Clipped Click A#1 III,accented32,48000,0.80,90,4000,-1.066927766
+Clipped Click A#1 III,accented32,48000,0.80,150,2400,-1.066927766
+Clipped Click A#1 III,accented32,48000,0.80,210,1714,-1.066927766
+Clipped Click A#1 III,accented32,48000,0.80,300,1200,-1.066927766
+Warm Clang F1 II,single,48000,0.25,150,0,-5.495350988
+Warm Clang F1 II,single,48000,0.50,150,0,-4.192826171
+Warm Clang F1 II,single,48000,0.70,150,0,-4.275253483
+Warm Clang F1 II,single,48000,0.85,150,0,-3.510920647
+Warm Clang F1 II,single,48000,1.00,150,0,-2.394614085
+Warm Clang F1 II,accented32,48000,0.80,90,4000,-2.394614085
+Warm Clang F1 II,accented32,48000,0.80,150,2400,-2.394614085
+Warm Clang F1 II,accented32,48000,0.80,210,1714,-2.394614085
+Warm Clang F1 II,accented32,48000,0.80,300,1200,-2.394614085
+Warm Clang E1,single,48000,0.25,150,0,-3.273680449
+Warm Clang E1,single,48000,0.50,150,0,-2.273087694
+Warm Clang E1,single,48000,0.70,150,0,-2.052023231
+Warm Clang E1,single,48000,0.85,150,0,-1.772877458
+Warm Clang E1,single,48000,1.00,150,0,-1.571151083
+Warm Clang E1,accented32,48000,0.80,90,4000,-1.571151083
+Warm Clang E1,accented32,48000,0.80,150,2400,-1.571151083
+Warm Clang E1,accented32,48000,0.80,210,1714,-1.571151083
+Warm Clang E1,accented32,48000,0.80,300,1200,-1.571151083
+Warm Thump F#1,single,48000,0.25,150,0,-1.637328250
+Warm Thump F#1,single,48000,0.50,150,0,-1.550025213
+Warm Thump F#1,single,48000,0.70,150,0,-1.338186108
+Warm Thump F#1,single,48000,0.85,150,0,-1.142118764
+Warm Thump F#1,single,48000,1.00,150,0,-1.087407502
+Warm Thump F#1,accented32,48000,0.80,90,4000,-1.087407502
+Warm Thump F#1,accented32,48000,0.80,150,2400,-1.087407502
+Warm Thump F#1,accented32,48000,0.80,210,1714,-1.087407502
+Warm Thump F#1,accented32,48000,0.80,300,1200,-1.087407502
+Clean Clang F#1 III,single,48000,0.25,150,0,-6.826532152
+Clean Clang F#1 III,single,48000,0.50,150,0,-3.241551336
+Clean Clang F#1 III,single,48000,0.70,150,0,-2.573884505
+Clean Clang F#1 III,single,48000,0.85,150,0,-1.316415525
+Clean Clang F#1 III,single,48000,1.00,150,0,-1.028134541
+Clean Clang F#1 III,accented32,48000,0.80,90,4000,-1.715997300
+Clean Clang F#1 III,accented32,48000,0.80,150,2400,-1.915588093
+Clean Clang F#1 III,accented32,48000,0.80,210,1714,-1.986648181
+Clean Clang F#1 III,accented32,48000,0.80,300,1200,-2.110380431
+Driven Rumble F1,single,48000,0.25,150,0,-2.589900613
+Driven Rumble F1,single,48000,0.50,150,0,-1.469667441
+Driven Rumble F1,single,48000,0.70,150,0,-1.098109808
+Driven Rumble F1,single,48000,0.85,150,0,-1.054031470
+Driven Rumble F1,single,48000,1.00,150,0,-1.105184451
+Driven Rumble F1,accented32,48000,0.80,90,4000,-1.054724557
+Driven Rumble F1,accented32,48000,0.80,150,2400,-1.054724557
+Driven Rumble F1,accented32,48000,0.80,210,1714,-1.054724557
+Driven Rumble F1,accented32,48000,0.80,300,1200,-1.054724557
+Clean Rumble F#1,single,48000,0.25,150,0,-2.671561936
+Clean Rumble F#1,single,48000,0.50,150,0,-2.166135591
+Clean Rumble F#1,single,48000,0.70,150,0,-1.724937849
+Clean Rumble F#1,single,48000,0.85,150,0,-1.314160089
+Clean Rumble F#1,single,48000,1.00,150,0,-1.063121260
+Clean Rumble F#1,accented32,48000,0.80,90,4000,-1.063121260
+Clean Rumble F#1,accented32,48000,0.80,150,2400,-1.063121260
+Clean Rumble F#1,accented32,48000,0.80,210,1714,-1.063121260
+Clean Rumble F#1,accented32,48000,0.80,300,1200,-1.063121260
+Hardstyle Tok,single,48000,0.25,150,0,-4.739002113
+Hardstyle Tok,single,48000,0.50,150,0,-4.202525528
+Hardstyle Tok,single,48000,0.70,150,0,-4.081779072
+Hardstyle Tok,single,48000,0.85,150,0,-3.936415224
+Hardstyle Tok,single,48000,1.00,150,0,-3.864803568
+Hardstyle Tok,accented32,48000,0.80,90,4000,-3.864803568
+Hardstyle Tok,accented32,48000,0.80,150,2400,-3.864803568
+Hardstyle Tok,accented32,48000,0.80,210,1714,-3.864803568
+Hardstyle Tok,accented32,48000,0.80,300,1200,-3.864803568
+Rawstyle Screech,single,48000,0.25,150,0,-1.729986406
+Rawstyle Screech,single,48000,0.50,150,0,-1.654153722
+Rawstyle Screech,single,48000,0.70,150,0,-1.988440422
+Rawstyle Screech,single,48000,0.85,150,0,-1.681432099
+Rawstyle Screech,single,48000,1.00,150,0,-1.074657218
+Rawstyle Screech,accented32,48000,0.80,90,4000,-1.074657218
+Rawstyle Screech,accented32,48000,0.80,150,2400,-1.624688765
+Rawstyle Screech,accented32,48000,0.80,210,1714,-1.997048976
+Rawstyle Screech,accented32,48000,0.80,300,1200,-1.997048976
+Gabba Lite,single,48000,0.25,150,0,-3.716201423
+Gabba Lite,single,48000,0.50,150,0,-3.839662365
+Gabba Lite,single,48000,0.70,150,0,-3.919614217
+Gabba Lite,single,48000,0.85,150,0,-4.037179726
+Gabba Lite,single,48000,1.00,150,0,-4.158348848
+Gabba Lite,accented32,48000,0.80,90,4000,-3.999369293
+Gabba Lite,accented32,48000,0.80,150,2400,-3.999369293
+Gabba Lite,accented32,48000,0.80,210,1714,-3.999369293
+Gabba Lite,accented32,48000,0.80,300,1200,-3.999369293
+Euphoric Punch,single,48000,0.25,150,0,-5.379234499
+Euphoric Punch,single,48000,0.50,150,0,-3.723510166
+Euphoric Punch,single,48000,0.70,150,0,-3.225895162
+Euphoric Punch,single,48000,0.85,150,0,-2.976057331
+Euphoric Punch,single,48000,1.00,150,0,-2.830981864
+Euphoric Punch,accented32,48000,0.80,90,4000,-2.830981864
+Euphoric Punch,accented32,48000,0.80,150,2400,-2.830981864
+Euphoric Punch,accented32,48000,0.80,210,1714,-2.830981864
+Euphoric Punch,accented32,48000,0.80,300,1200,-2.830981864

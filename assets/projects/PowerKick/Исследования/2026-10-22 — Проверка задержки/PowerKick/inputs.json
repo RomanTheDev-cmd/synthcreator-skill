@@ -1,0 +1,10 @@
+{
+  "binary": "/Users/roman/Library/Caches/PowerKickBuildDev/powerkick_tests_artefacts/Release/powerkick_tests",
+  "binary_sha256": "0fee4c4154817d83faecce9cd43343e3391513b02fd94073c06e1c171745b494",
+  "git_head": "fcc360f3b6df158a785843902707d35ae5876fbe",
+  "source_sha256": {
+    "Source/DSP/KickEngine.h": "200d7f1271b6d6a6484b5bc73399694b19b155c297ad87e4d1dddf92b8c1074b",
+    "Tests/PowerKickTests.cpp": "fd89f8e953077472b154a131a5a6d9fabb97915bc7a6a121f4fcf7acb6ae3ee2",
+    "Source/Presets.cpp": "696c7555e2bd761be92a9fdb4e1678580e03532fad4bd865af9d485c91af218e"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "binary_sha256": "196c8eb8360f368dec3f70204c2e61ab94db67a12b9c12233d0f4bd6e30d0052",
+  "exit": 0,
+  "rows": [
+    {
+      "preset": "Heavy Reese 02",
+      "bpm_server": 90,
+      "master_delta": 0,
+      "peak_dbfs": -1.551778607117633,
+      "peak_sample": 41852,
+      "peak_time_ms": 871.9166666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "bpm_server": 90,
+      "master_delta": -36,
+      "peak_dbfs": -1.5517785406485771,
+      "peak_sample": 41852,
+      "peak_time_ms": 871.9166666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "bpm_server": 420,
+      "master_delta": 0,
+      "peak_dbfs": -0.008857515897941549,
+      "peak_sample": 46292,
+      "peak_time_ms": 964.4166666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "bpm_server": 420,
+      "master_delta": -36,
+      "peak_dbfs": 2.6536210045279702,
+      "peak_sample": 46292,
+      "peak_time_ms": 964.4166666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Reese Core",
+      "bpm_server": 90,
+      "master_delta": 0,
+      "peak_dbfs": -2.386863756290704,
+      "peak_sample": 45597,
+      "peak_time_ms": 949.9375,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Reese Core",
+      "bpm_server": 90,
+      "master_delta": -36,
+      "peak_dbfs": -2.386864629064725,
+      "peak_sample": 45597,
+      "peak_time_ms": 949.9375,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Reese Core",
+      "bpm_server": 420,
+      "master_delta": 0,
+      "peak_dbfs": -1.7080263309594976,
+      "peak_sample": 5329,
+      "peak_time_ms": 111.02083333333333,
+      "peak_channel": 1
+    },
+    {
+      "preset": "Reese Core",
+      "bpm_server": 420,
+      "master_delta": -36,
+      "peak_dbfs": -1.7080273169330198,
+      "peak_sample": 5329,
+      "peak_time_ms": 111.02083333333333,
+      "peak_channel": 1
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm_server": 90,
+      "master_delta": 0,
+      "peak_dbfs": -0.07223822107239831,
+      "peak_sample": 40283,
+      "peak_time_ms": 839.2291666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm_server": 90,
+      "master_delta": -36,
+      "peak_dbfs": 0.5195052250236074,
+      "peak_sample": 40283,
+      "peak_time_ms": 839.2291666666666,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm_server": 420,
+      "master_delta": 0,
+      "peak_dbfs": -3.0639000679196244,
+      "peak_sample": 8944,
+      "peak_time_ms": 186.33333333333334,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "bpm_server": 420,
+      "master_delta": -36,
+      "peak_dbfs": -3.0639010751801834,
+      "peak_sample": 8944,
+      "peak_time_ms": 186.33333333333334,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Schranz Saw",
+      "bpm_server": 90,
+      "master_delta": 0,
+      "peak_dbfs": -0.08735773256067891,
+      "peak_sample": 24006,
+      "peak_time_ms": 500.125,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Schranz Saw",
+      "bpm_server": 90,
+      "master_delta": -36,
+      "peak_dbfs": 0.42927419279494927,
+      "peak_sample": 24006,
+      "peak_time_ms": 500.125,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Schranz Saw",
+      "bpm_server": 420,
+      "master_delta": 0,
+      "peak_dbfs": -1.1932555068216197,
+      "peak_sample": 15434,
+      "peak_time_ms": 321.5416666666667,
+      "peak_channel": 0
+    },
+    {
+      "preset": "Schranz Saw",
+      "bpm_server": 420,
+      "master_delta": -36,
+      "peak_dbfs": -1.1932535033844687,
+      "peak_sample": 15434,
+      "peak_time_ms": 321.5416666666667,
+      "peak_channel": 0
+    }
+  ]
+}

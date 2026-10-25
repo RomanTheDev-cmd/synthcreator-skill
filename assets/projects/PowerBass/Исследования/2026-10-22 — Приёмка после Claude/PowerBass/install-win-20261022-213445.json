@@ -1,0 +1,42 @@
+{
+  "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213445/PowerBass/win",
+  "steps": [
+    {
+      "source": "/Users/roman/Library/Caches/PowerBassBuildWin/PowerBass_artefacts/Release/VST3/PowerBass.vst3",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/Windows/PowerBass.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213445/PowerBass/win/export-vst3",
+      "before": {
+        "Contents/x86_64-win/PowerBass.vst3.manifest": "36660799afd242f2d606943bd879050d6875cd2a47c6250d43c17acd649aa1af",
+        "Contents/x86_64-win/PowerBass.vst3": "fdf0d62eaed0b5122d6cddacc8a89fe5a819b766d38b88ebeb32dbb88b1565ad",
+        "Contents/Resources/moduleinfo.json": "871d36aeb86520e6f27922bc8cfda752e2fc17ecd83e63dea0c50f2d406c8ef2"
+      },
+      "after": {
+        "Contents/x86_64-win/PowerBass.vst3.manifest": "36660799afd242f2d606943bd879050d6875cd2a47c6250d43c17acd649aa1af",
+        "Contents/x86_64-win/PowerBass.vst3": "d93330af13a5bcf34967d14ef7847cdffd5afaf690639117cf3e3e18c7741c3f",
+        "Contents/Resources/moduleinfo.json": "871d36aeb86520e6f27922bc8cfda752e2fc17ecd83e63dea0c50f2d406c8ef2"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerBassBuildWin/PowerBass_artefacts/Release/Standalone/PowerBass.exe",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/Windows/PowerBass.exe",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213445/PowerBass/win/export-exe",
+      "before": {
+        "PowerBass.exe": "e2e4525ef5d0dc88b3cb80a74c3f8062bd63caef2cb101a9c225a038b477cd53"
+      },
+      "after": {
+        "PowerBass.exe": "0e5935f355a28701dfc6938ca31ea9e4f2a541aa98c0481bbb114f37e29fda40"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213445/PowerBass/win/PowerBass-new.zip",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/PowerBass-1.0.0-Windows-x64.zip",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213445/PowerBass/win/export-zip",
+      "before": {
+        "PowerBass-1.0.0-Windows-x64.zip": "50f5b9e625f926a3714dc04e958414d99bf408498cf7d924ebe9f3ccec5f09f3"
+      },
+      "after": {
+        "PowerBass-1.0.0-Windows-x64.zip": "73547c126a04fccb61d945197ab56a1570803c137688276d4775d75dba7b4a42"
+      }
+    }
+  ]
+}

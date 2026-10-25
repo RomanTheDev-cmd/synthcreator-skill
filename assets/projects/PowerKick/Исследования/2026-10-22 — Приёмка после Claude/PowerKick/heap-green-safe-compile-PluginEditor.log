@@ -1,0 +1,53 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.h:3:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginProcessor.h:6:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:205:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  205 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:151:104: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  151 | juce::Font LookAndFeel::getTextButtonFont (juce::TextButton&, int h) { return uiFont (std::min (13.0f, h * 0.48f), true).withExtraKerningFactor (0.06f); }
+      |                                                                                                        ^ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:310:21: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  310 |     const float s = getWidth() / 872.0f;
+      |                     ^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:316:44: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  316 |         if (l.text != "ADVANCED" && l.area.getX() < getWidth() * 0.72f) // group captions get a hairline
+      |                                     ~~~~~~~^~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:316:53: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  316 |         if (l.text != "ADVANCED" && l.area.getX() < getWidth() * 0.72f) // group captions get a hairline
+      |                                                     ^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:330:21: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  330 |     const float s = getWidth() / 872.0f;
+      |                     ^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:338:55: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  338 |     auto grid = r.removeFromLeft (juce::roundToInt (r.getWidth() * 0.735f) - S (16));
+      |                                                     ~~^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:435:60: warning: implicit conversion from 'const int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  435 |             p.lineTo (plot.getX() + plot.getWidth() * c / (cols - 1.0f), mid - maxV[(size_t) c] * half);
+      |                                                            ^~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:435:55: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  435 |             p.lineTo (plot.getX() + plot.getWidth() * c / (cols - 1.0f), mid - maxV[(size_t) c] * half);
+      |                                                     ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:437:60: warning: implicit conversion from 'const int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  437 |             p.lineTo (plot.getX() + plot.getWidth() * c / (cols - 1.0f), mid - minV[(size_t) c] * half);
+      |                                                            ^~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:437:55: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  437 |             p.lineTo (plot.getX() + plot.getWidth() * c / (cols - 1.0f), mid - minV[(size_t) c] * half);
+      |                                                     ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:507:55: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  507 |         auto bar = juce::Rectangle<float> (r.getX() + c * (bw + 4.0f), r.getY(), bw, r.getHeight());
+      |                                                       ^ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:622:21: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  622 |     const float s = getWidth() / 920.0f;
+      |                     ^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:638:64: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  638 |         g.fillRoundedRectangle (monoBadge.toFloat(), monoBadge.getHeight() * 0.5f);
+      |                                                      ~~~~~~~~~~^~~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:654:21: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  654 |     const float s = getWidth() / 920.0f;
+      |                     ^~~~~~~~~~ ~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/PluginEditor.cpp:916:55: warning: implicit conversion from 'int' to 'float' may lose precision [-Wimplicit-int-float-conversion]
+  916 |             setFloat (proc.state, pk::id::velSens, (r - 30) * 0.25f);
+      |                                                     ~~^~~~  ~
+16 warnings generated.

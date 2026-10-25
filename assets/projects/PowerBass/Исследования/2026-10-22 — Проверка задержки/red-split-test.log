@@ -1,0 +1,3 @@
+FAIL: SPLIT must not disperse the centre when WIDTH is zero (error 0.014352007)
+FAIL: SPLIT must not disperse the centre when WIDTH is zero (error 0.027471466)
+FAILED 3129/3131 checks

@@ -1,0 +1,54 @@
+[  5%] Building CXX object CMakeFiles/powerbass_tests.dir/Tests/PowerBassTests.cpp.o
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:5:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:473:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  473 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:473:17: note: add missing switch cases
+  473 |         switch (t)
+      |                 ^
+  474 |         {
+  475 |             case DistType::fold:
+  476 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  477 |             case DistType::destroy:
+  478 |             {
+  479 |                 double peak = 0.0;
+  480 |                 for (int i = 1; i <= 128; ++i)
+  481 |                 {
+  482 |                     const double x = i / 128.0;
+  483 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  484 |                 }
+  485 |                 return peak;
+  486 |             }
+  487 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:535:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  535 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/BassEngine.h:594:12: note: previous declaration is here
+  594 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:78:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   78 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:94:29: warning: implicit conversion from 'const unsigned long' to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   94 |     return std::sqrt (sum / std::max<size_t> (1, x.size()));
+      |                           ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:647:61: warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  647 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h:178:7: note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:83:8: warning: unused function 'bandRmsSteep' [-Wunused-function]
+   83 | double bandRmsSteep (const std::vector<float>& x, double sr, double f1, double f2)
+      |        ^~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp:181:13: warning: unused function 'preset' [-Wunused-function]
+  181 | SynthParams preset (const char* name)
+      |             ^~~~~~
+8 warnings generated.
+[ 10%] Linking CXX executable powerbass_tests_artefacts/Release/powerbass_tests
+[100%] Built target powerbass_tests

@@ -1,0 +1,418 @@
+
+    AU Validation Tool
+    Version: 1.10.0 
+    Copyright 2003-2019, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+--------------------------------------------------
+VALIDATING AUDIO UNIT: 'aumu' - 'Pwbs' - 'Mddy'
+--------------------------------------------------
+Manufacturer String: MyDarknessDays
+AudioUnit Name: PowerBass
+Component Version: 1.0.0 (0x10000)
+
+* * PASS
+--------------------------------------------------
+TESTING OPEN TIMES:
+COLD:
+Time to open AudioUnit:         5.881 ms
+WARM:
+Time to open AudioUnit:         0.406  ms
+This AudioUnit is a version 2 implementation.
+FIRST TIME:
+Time for initialization:        0.037 ms
+
+* * PASS
+--------------------------------------------------
+VERIFYING DEFAULT SCOPE FORMATS:
+Input Scope Bus Configuration:
+ Default Bus Count:0
+
+Output Scope Bus Configuration:
+ Default Bus Count:1
+    Bus Name: Output
+    Default Format: AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+    Has Channel Layouts: 0x640001 0x650002 0x660002 0x670002 0x6A0002 
+    Default Layout:
+	Tag=0x650002, Num Chan Descs=0
+
+* * PASS
+--------------------------------------------------
+VERIFYING REQUIRED PROPERTIES:
+
+* * PASS
+--------------------------------------------------
+VERIFYING RECOMMENDED PROPERTIES:
+  VERIFYING PROPERTY: Latency
+    PASS
+
+* * PASS
+--------------------------------------------------
+VERIFYING OPTIONAL PROPERTIES:
+  VERIFYING PROPERTY: Tail Time
+    PASS
+  VERIFYING PROPERTY: Bypass Effect
+    PASS
+
+* * PASS
+--------------------------------------------------
+VERIFYING SPECIAL PROPERTIES:
+
+VERIFYING CUSTOM UI
+Cocoa Views Available: 1
+  JUCE_AUCocoaViewClass_5b4236016c629de8
+    PASS
+
+HAS FACTORY PRESETS
+    ID:   0    Name: Reese Core
+
+VERIFYING CLASS INFO
+    PASS
+
+TESTING HOST CALLBACKS
+    PASS
+
+* * PASS
+--------------------------------------------------
+PUBLISHED PARAMETER INFO:
+
+# # # 34 Global Scope Parameters:
+Parameter ID:114240
+Name: Sub
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 29 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:3024120
+Name: Bite
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 38 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:3075958
+Name: Dark
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 32 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:95459258
+Name: Decay
+Parameter Type: Generic
+Values: Minimum = 5.0 ms, Default = 2.37 s, Maximum = 5.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:98444197
+Name: Glide
+Parameter Type: Generic
+Values: Minimum = 0.0 ms, Default = 0.0 ms, Maximum = 1.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:107028782
+Name: Punch
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 69 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:109399969
+Name: Shape
+Parameter Type: Generic
+Values: Minimum = SINE, Default = TRI→SAW, Maximum = SQUARE
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:113126854
+Name: Width
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 61 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:157452366
+Name: Resonance
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 100 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:288073784
+Name: Distortion Tone
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 99 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:288083456
+Name: Distortion Type
+Parameter Type: Indexed
+Values: Minimum = Saturate, Default = Destroy, Maximum = Crush
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 5
+Value: 0,  String: Saturate
+Value: 1,  String: Hard Clip
+Value: 2,  String: Fold
+Value: 3,  String: Destroy
+Value: 4,  String: Crush
+  -parameter PASS
+
+Parameter ID:295592483
+Name: Sustain
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 83 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:325661572
+Name: Distortion Drive
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 88 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:345109716
+Name: Velocity Sens
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 50 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:394773374
+Name: Oversampling
+Parameter Type: Indexed
+Values: Minimum = 2x, Default = 4x, Maximum = 8x
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 3
+Value: 0,  String: 2x
+Value: 1,  String: 4x
+Value: 2,  String: 8x
+  -parameter PASS
+
+Parameter ID:403933362
+Name: Split Freq
+Parameter Type: Generic
+Values: Minimum = 100 Hz, Default = 150 Hz, Maximum = 1.0 kHz
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:594214203
+Name: Filter Mode
+Parameter Type: Indexed
+Values: Minimum = LP 24, Default = LP 24, Maximum = HP
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 4
+Value: 0,  String: LP 24
+Value: 1,  String: LP 12
+Value: 2,  String: BP
+Value: 3,  String: HP
+  -parameter PASS
+
+Parameter ID:676106116
+Name: Bend Range
+Parameter Type: Generic
+Values: Minimum = 0 st, Default = 2 st, Maximum = 12 st
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:740224584
+Name: Attack
+Parameter Type: Generic
+Values: Minimum = 0.5 ms, Default = 3.9 ms, Maximum = 2.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+WARNING: retrievedValue = 0.350955 (was 0.350955), Parameter did not retain default value when set
+  -parameter PASS
+
+Parameter ID:798419949
+Name: Cutoff
+Parameter Type: Generic
+Values: Minimum = 30 Hz, Default = 1.4 kHz, Maximum = 18.0 kHz
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:812278777
+Name: Detune
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 86 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1066216034
+Name: Master
+Parameter Type: Generic
+Values: Minimum = -30.0 dB, Default = -10.1 dB, Maximum = 6.0 dB
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1090594823
+Name: Release
+Parameter Type: Generic
+Values: Minimum = 5.0 ms, Default = 400 ms, Maximum = 5.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1139583709
+Name: Analog/FM Mix
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 19 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1266097084
+Name: Filter After Distortion
+Parameter Type: Boolean
+Values: Minimum = Off, Default = Off, Maximum = On
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1370062643
+Name: FM Decay
+Parameter Type: Generic
+Values: Minimum = 5.0 ms, Default = 55.05 ms, Maximum = 3.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+WARNING: retrievedValue = 0.354081 (was 0.354081), Parameter did not retain default value when set
+  -parameter PASS
+
+Parameter ID:1382889348
+Name: FM Ratio
+Parameter Type: Generic
+Values: Minimum = ×0.5, Default = ×6, Maximum = ×7.13
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1565423336
+Name: Glide Mode
+Parameter Type: Indexed
+Values: Minimum = Mono, Default = Legato, Maximum = Legato
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 2
+Value: 0,  String: Mono
+Value: 1,  String: Legato
+  -parameter PASS
+
+Parameter ID:1591629823
+Name: FM Amount
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 8 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1671853782
+Name: Distortion Mix
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 75 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1970695275
+Name: Stereo Delay
+Parameter Type: Generic
+Values: Minimum = 0.00 ms, Default = 0.00 ms, Maximum = 15.00 ms
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:2030018469
+Name: Env Amount
+Parameter Type: Generic
+Values: Minimum = -100 %, Default = -21 %, Maximum = +100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:2062713291
+Name: Osc Drive
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 100 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:2126032876
+Name: Filter Env Decay
+Parameter Type: Generic
+Values: Minimum = 10 ms, Default = 15.97 ms, Maximum = 3.00 s
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+WARNING: retrievedValue = 0.181188 (was 0.181188), Parameter did not retain default value when set
+  -parameter PASS
+
+Testing that parameters retain value across reset and initialization
+  PASS
+
+* * PASS
+--------------------------------------------------
+FORMAT TESTS:
+
+Reported Channel Capabilities (explicit):
+      [0, 1]  [0, 2]  
+
+No Input, Output Chans:
+0-1   0-2   0-4   0-5   0-6   0-7   0-8
+X     X                                   
+
+# # AudioChannelLayouts (5), Output Scope:
+ChannelLayout is Writable: T
+The Unit publishes the following Channel Layouts:
+  0x640001, 0x650002, 0x660002, 0x670002, 0x6A0002, 
+
+Is Audio Channel Layout Available:
+Mono    Stereo  Binau.  AU_4    Ambi.   AU_5    AU_5_0  AU_6    AU_6_0  AU_7_0  AU_7_0F AU_8    AU_5_1  AU_6_1  AU_7_1  AU_7_1F 
+X       X       X                                                                                                               
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x640001, Success - did not reset format with mis-matched layout
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x650002, Successsful
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x6A0002, Successsful
+
+* * PASS
+--------------------------------------------------
+RENDER TESTS:
+
+Output Format: AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Render Test at 512 frames
+Slicing Render Test at 64 frames
+  PASS
+
+
+Render Test at 64 frames, sample rate: 22050 Hz
+Render Test at 137 frames, sample rate: 96000 Hz
+Render Test at 4096 frames, sample rate: 48000 Hz
+Render Test at 4096 frames, sample rate: 192000 Hz
+Render Test at 4096 frames, sample rate: 11025 Hz
+Render Test at 512 frames, sample rate: 44100 Hz
+  PASS
+
+1 Channel Test:
+Render Test at 512 frames
+  PASS
+
+Bad Max Frames - Render should fail
+  PASS
+
+Checking parameter setting
+Using AudioUnitSetParameter
+Using AudioUnitScheduleParameter
+  PASS
+
+Checking ramped parameter scheduling
+  PASS
+
+Test MIDI
+  PASS
+
+Stress Test
+Render for 20 seconds of audio at frame size: 512, sample rate: 44100 Hz
+  PASS
+
+* * PASS
+--------------------------------------------------
+AU VALIDATION SUCCEEDED.
+--------------------------------------------------

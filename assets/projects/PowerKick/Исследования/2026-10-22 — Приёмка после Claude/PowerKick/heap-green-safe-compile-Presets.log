@@ -1,0 +1,4 @@
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/Presets.cpp:341:51: warning: missing field 'group' initializer [-Wmissing-field-initializers]
+  341 |             Preset p { r.name, r.category, {}, {} };
+      |                                                   ^
+1 warning generated.

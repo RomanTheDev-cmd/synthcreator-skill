@@ -1,0 +1,42 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/causal.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/BassEngineCausal.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/causal.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/BassEngineCausal.h:497:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  497 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/BassEngineCausal.h:497:17: note: add missing switch cases
+  497 |         switch (t)
+      |                 ^
+  498 |         {
+  499 |             case DistType::fold:
+  500 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  501 |             case DistType::destroy:
+  502 |             {
+  503 |                 double peak = 0.0;
+  504 |                 for (int i = 1; i <= 128; ++i)
+  505 |                 {
+  506 |                     const double x = i / 128.0;
+  507 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  508 |                 }
+  509 |                 return peak;
+  510 |             }
+  511 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/BassEngineCausal.h:559:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  559 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/BassEngineCausal.h:627:12: note: previous declaration is here
+  627 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/causal.cpp:12:98: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   12 |  auto work=[&]{for(int ix;(ix=next++)<(int)ps.size();){if(std::find(names.begin(),names.end(),ps[ix].name.toStdString())==names.end())continue;
+      |                                                                                               ~~ ^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/causal.cpp:13:31: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   13 |  auto p=paramsFromSnapshot(ps[ix].values);
+      |                            ~~ ^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Приёмка после Claude/PowerBass/Bass-repeat-cause/causal.cpp:20:56: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   20 |  std::lock_guard<std::mutex> lock(mutex);std::cout<<ps[ix].name<<','<<bpm<<','<<div<<','<<off<<','<<mode<<','<<20*std::log10(std::max(1.e-15,dsp::BassEngine::auditPeak))<<','<<dsp::BassEngine::auditSafetySamples<<','<<dsp::BassEngine::auditPeakSample<<'\n';
+      |                                                     ~~ ^~
+6 warnings generated.

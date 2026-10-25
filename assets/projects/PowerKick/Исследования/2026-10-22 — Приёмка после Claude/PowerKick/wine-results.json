@@ -1,0 +1,18 @@
+[
+  {
+    "command": [
+      "/Users/roman/Library/Caches/PowerToolsWin/wine/Wine Stable.app/Contents/Resources/wine/bin/wine",
+      "/Users/roman/Library/Caches/PowerKickBuildWin/powerkick_tests_artefacts/Release/powerkick_tests.exe"
+    ],
+    "returncode": 0,
+    "seconds": 155.69868993759155
+  },
+  {
+    "command": [
+      "/Users/roman/Library/Caches/PowerToolsWin/wine/Wine Stable.app/Contents/Resources/wine/bin/wine",
+      "/Users/roman/Library/Caches/PowerKickBuildWin/powerkick_wrapper_tests_artefacts/Release/powerkick_wrapper_tests.exe"
+    ],
+    "returncode": 0,
+    "seconds": 0.9391281604766846
+  }
+]

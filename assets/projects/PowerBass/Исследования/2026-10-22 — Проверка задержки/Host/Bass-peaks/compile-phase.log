@@ -1,0 +1,39 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/peaks_probe.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/BassEngineCurrentProbe.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/peaks_probe.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/BassEngineCurrentProbe.h:507:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  507 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/BassEngineCurrentProbe.h:507:17: note: add missing switch cases
+  507 |         switch (t)
+      |                 ^
+  508 |         {
+  509 |             case DistType::fold:
+  510 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  511 |             case DistType::destroy:
+  512 |             {
+  513 |                 double peak = 0.0;
+  514 |                 for (int i = 1; i <= 128; ++i)
+  515 |                 {
+  516 |                     const double x = i / 128.0;
+  517 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  518 |                 }
+  519 |                 return peak;
+  520 |             }
+  521 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/BassEngineCurrentProbe.h:570:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  570 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/BassEngineCurrentProbe.h:629:12: note: previous declaration is here
+  629 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/peaks_probe.cpp:64:64: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   64 |     for(int i=0;i<total;i++)for(int c=0;c<2;c++)interleaved[i*2+c]=audio.getSample(c,i);
+      |                                                 ~~~~~~~~~~~ ~~~^~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/peaks_probe.cpp:66:84: warning: implicit conversion changes signedness: 'unsigned long' to 'streamsize' (aka 'long') [-Wsign-conversion]
+   66 |     wave.write(reinterpret_cast<const char*>(interleaved.data()),interleaved.size()*sizeof(float));
+      |          ~~~~~                                                   ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+5 warnings generated.

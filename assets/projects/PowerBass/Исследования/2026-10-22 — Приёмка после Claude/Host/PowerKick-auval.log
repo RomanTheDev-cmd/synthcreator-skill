@@ -1,0 +1,439 @@
+
+    AU Validation Tool
+    Version: 1.10.0 
+    Copyright 2003-2019, Apple Inc. All Rights Reserved.
+    Specify -h (-help) for command options
+
+--------------------------------------------------
+VALIDATING AUDIO UNIT: 'aumu' - 'Pwkk' - 'Mddy'
+--------------------------------------------------
+Manufacturer String: MyDarknessDays
+AudioUnit Name: PowerKick
+Component Version: 1.0.0 (0x10000)
+
+* * PASS
+--------------------------------------------------
+TESTING OPEN TIMES:
+COLD:
+Time to open AudioUnit:         3.807 ms
+WARM:
+Time to open AudioUnit:         0.394  ms
+This AudioUnit is a version 2 implementation.
+FIRST TIME:
+Time for initialization:        0.044 ms
+
+* * PASS
+--------------------------------------------------
+VERIFYING DEFAULT SCOPE FORMATS:
+Input Scope Bus Configuration:
+ Default Bus Count:0
+
+Output Scope Bus Configuration:
+ Default Bus Count:1
+    Bus Name: Output
+    Default Format: AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+    Has Channel Layouts: 0x640001 0x650002 0x660002 0x670002 0x6A0002 
+    Default Layout:
+	Tag=0x650002, Num Chan Descs=0
+
+* * PASS
+--------------------------------------------------
+VERIFYING REQUIRED PROPERTIES:
+
+* * PASS
+--------------------------------------------------
+VERIFYING RECOMMENDED PROPERTIES:
+  VERIFYING PROPERTY: Latency
+    PASS
+
+* * PASS
+--------------------------------------------------
+VERIFYING OPTIONAL PROPERTIES:
+  VERIFYING PROPERTY: Tail Time
+    PASS
+  VERIFYING PROPERTY: Bypass Effect
+    PASS
+
+* * PASS
+--------------------------------------------------
+VERIFYING SPECIAL PROPERTIES:
+
+VERIFYING CUSTOM UI
+Cocoa Views Available: 1
+  JUCE_AUCocoaViewClass_75b618ed757c3d1
+    PASS
+
+HAS FACTORY PRESETS
+    ID:   0    Name: Hard Techno Core
+
+VERIFYING CLASS INFO
+    PASS
+
+TESTING HOST CALLBACKS
+    PASS
+
+* * PASS
+--------------------------------------------------
+PUBLISHED PARAMETER INFO:
+
+# # # 35 Global Scope Parameters:
+Parameter ID:3029410
+Name: Body
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 80 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:3571704
+Name: Tune
+Parameter Type: Generic
+Values: Minimum = A0, Default = F#1 +50c, Maximum = A2
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:49927460
+Name: Sub Layer
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:94636932
+Name: Choke
+Parameter Type: Boolean
+Values: Minimum = Off, Default = Off, Maximum = On
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:94750088
+Name: Click
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 100 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:95459258
+Name: Decay
+Parameter Type: Generic
+Values: Minimum = 60 ms, Default = 402 ms, Maximum = 1500 ms
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:95467907
+Name: Stereo Delay
+Parameter Type: Generic
+Values: Minimum = 0.00 ms, Default = 0.00 ms, Maximum = 15.00 ms
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:95852938
+Name: Drive
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 38 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:107028782
+Name: Punch
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 3 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:113126854
+Name: Stereo Width
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 20 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:182427418
+Name: Click Tone
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 50 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:182437090
+Name: Click Type
+Parameter Type: Indexed
+Values: Minimum = Soft, Default = Sharp, Maximum = FM Blip
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 5
+Value: 0,  String: Soft
+Value: 1,  String: Sharp
+Value: 2,  String: Metal
+Value: 3,  String: 909 Noise
+Value: 4,  String: FM Blip
+  -parameter PASS
+
+Parameter ID:345109716
+Name: Velocity Sens
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 60 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:394773374
+Name: Oversampling
+Parameter Type: Indexed
+Values: Minimum = 2x, Default = 4x, Maximum = 8x
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 3
+Value: 0,  String: 2x
+Value: 1,  String: 4x
+Value: 2,  String: 8x
+  -parameter PASS
+
+Parameter ID:403933362
+Name: Stereo Split
+Parameter Type: Generic
+Values: Minimum = 150 Hz, Default = 600 Hz, Maximum = 2.0 kHz
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:490898988
+Name: Key Track
+Parameter Type: Boolean
+Values: Minimum = Off, Default = Off, Maximum = On
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:543780571
+Name: Pitch Fall
+Parameter Type: Generic
+Values: Minimum = 0.0 st, Default = 13.6 st, Maximum = 24.0 st
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:544205357
+Name: Pitch Time
+Parameter Type: Generic
+Values: Minimum = 4.0 ms, Default = 50.9 ms, Maximum = 150.0 ms
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:560120377
+Name: Start Phase
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:780104269
+Name: Drive Mode
+Parameter Type: Indexed
+Values: Minimum = Saturate, Default = Clip, Maximum = Industrial
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 3
+Value: 0,  String: Saturate
+Value: 1,  String: Clip
+Value: 2,  String: Industrial
+  -parameter PASS
+
+Parameter ID:1141971201
+Name: Output
+Parameter Type: Generic
+Values: Minimum = -24.0 dB, Default = -3.1 dB, Maximum = 6.0 dB
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1157446612
+Name: Rumble Mode
+Parameter Type: Indexed
+Values: Minimum = Classic, Default = Classic, Maximum = Reverb
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 2
+Value: 0,  String: Classic
+Value: 1,  String: Reverb
+  -parameter PASS
+
+Parameter ID:1157635276
+Name: Rumble Sync
+Parameter Type: Indexed
+Values: Minimum = 1/16, Default = 1/16, Maximum = 3/16
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 3
+Value: 0,  String: 1/16
+Value: 1,  String: 1/8
+Value: 2,  String: 3/16
+  -parameter PASS
+
+Parameter ID:1157649662
+Name: Rumble Time
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 98 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1227636369
+Name: Rumble
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1331973089
+Name: Key Root
+Parameter Type: Generic
+Values: Minimum = C0, Default = C3, Maximum = C5
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1435346457
+Name: Character Mode
+Parameter Type: Indexed
+Values: Minimum = Deep, Default = Punchy, Maximum = Raw
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 5
+Value: 0,  String: Deep
+Value: 1,  String: Punchy
+Value: 2,  String: Dark
+Value: 3,  String: Hard
+Value: 4,  String: Raw
+  -parameter PASS
+
+Parameter ID:1498157992
+Name: Mod Wheel Drive
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1549177603
+Name: Drive Attack
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1564195625
+Name: Character
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 80 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1597315644
+Name: Beat Length
+Parameter Type: Indexed
+Values: Minimum = Off, Default = Off, Maximum = 1/16
+Flags: Values Have Strings, High Resolution, Readable, Writable 
+Parameter has Value Strings
+Num Strings = 4
+Value: 0,  String: Off
+Value: 1,  String: 1/4
+Value: 2,  String: 1/8
+Value: 3,  String: 1/16
+  -parameter PASS
+
+Parameter ID:1702655540
+Name: Body Tone
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 50 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1822643599
+Name: Pitch Curve
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:1823088483
+Name: Pitch Depth
+Parameter Type: Generic
+Values: Minimum = 0.0 st, Default = 39.0 st, Maximum = 48.0 st
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Parameter ID:2094996461
+Name: Velocity Drive
+Parameter Type: Generic
+Values: Minimum = 0 %, Default = 0 %, Maximum = 100 %
+Flags: Values Have Strings, High Resolution, Can Ramp, Readable, Writable 
+  -parameter PASS
+
+Testing that parameters retain value across reset and initialization
+  PASS
+
+* * PASS
+--------------------------------------------------
+FORMAT TESTS:
+
+Reported Channel Capabilities (explicit):
+      [0, 1]  [0, 2]  
+
+No Input, Output Chans:
+0-1   0-2   0-4   0-5   0-6   0-7   0-8
+X     X                                   
+
+# # AudioChannelLayouts (5), Output Scope:
+ChannelLayout is Writable: T
+The Unit publishes the following Channel Layouts:
+  0x640001, 0x650002, 0x660002, 0x670002, 0x6A0002, 
+
+Is Audio Channel Layout Available:
+Mono    Stereo  Binau.  AU_4    Ambi.   AU_5    AU_5_0  AU_6    AU_6_0  AU_7_0  AU_7_0F AU_8    AU_5_1  AU_6_1  AU_7_1  AU_7_1F 
+X       X       X                                                                                                               
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x640001, Success - did not reset format with mis-matched layout
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x650002, Successsful
+
+Current Format:AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Current Format Tag = 0x650002, New Format Tag = 0x6A0002, Successsful
+
+* * PASS
+--------------------------------------------------
+RENDER TESTS:
+
+Output Format: AudioStreamBasicDescription:  2 ch,  44100 Hz, Float32, deinterleaved
+Render Test at 512 frames
+Slicing Render Test at 64 frames
+  PASS
+
+
+Render Test at 64 frames, sample rate: 22050 Hz
+Render Test at 137 frames, sample rate: 96000 Hz
+Render Test at 4096 frames, sample rate: 48000 Hz
+Render Test at 4096 frames, sample rate: 192000 Hz
+Render Test at 4096 frames, sample rate: 11025 Hz
+Render Test at 512 frames, sample rate: 44100 Hz
+  PASS
+
+1 Channel Test:
+Render Test at 512 frames
+  PASS
+
+Bad Max Frames - Render should fail
+  PASS
+
+Checking parameter setting
+Using AudioUnitSetParameter
+Using AudioUnitScheduleParameter
+  PASS
+
+Checking ramped parameter scheduling
+  PASS
+
+Test MIDI
+  PASS
+
+Stress Test
+Render for 20 seconds of audio at frame size: 512, sample rate: 44100 Hz
+  PASS
+
+* * PASS
+--------------------------------------------------
+AU VALIDATION SUCCEEDED.
+--------------------------------------------------

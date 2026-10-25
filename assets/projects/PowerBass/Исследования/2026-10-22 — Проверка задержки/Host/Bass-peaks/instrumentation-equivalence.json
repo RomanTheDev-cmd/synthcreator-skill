@@ -1,0 +1,22 @@
+[
+  {
+    "preset": "Reese_Core",
+    "exact": true,
+    "max_error": 0.0
+  },
+  {
+    "preset": "Heavy_Reese_02",
+    "exact": true,
+    "max_error": 0.0
+  },
+  {
+    "preset": "Heavy_Rumble_01",
+    "exact": true,
+    "max_error": 0.0
+  },
+  {
+    "preset": "Schranz_Saw",
+    "exact": true,
+    "max_error": 0.0
+  }
+]

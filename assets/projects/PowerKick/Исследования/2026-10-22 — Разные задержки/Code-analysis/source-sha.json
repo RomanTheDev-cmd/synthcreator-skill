@@ -1,0 +1,6 @@
+{
+  "Source/DSP/KickEngine.h": "82787c7475187ab1e1fa10b8ed04278e4972bc297951989f89c42393e5903768",
+  "Source/DSP/Filters.h": "59cdec25de112bad2f45f23c1579b4ed7c506c6a6b701441c3a409b68c2a4eab",
+  "Source/KickRenderer.cpp": "86e5f8ff13e642abf08ce53bddd375ccac760deb359d124b9438a2720f68e764",
+  "Source/PluginProcessor.cpp": "d1f36b5a7a4cad4ad874c0b794f5a685d8ebdfc161d33f4f3a90a7c302d94644"
+}

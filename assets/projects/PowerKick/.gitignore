@@ -1,0 +1,30 @@
+third_party/JUCE/
+build/
+.DS_Store
+
+# Rebuildable research artefacts: object files, raw signal traces and probe executables
+Исследования/**/*.o
+Исследования/**/*.f32
+Исследования/**/*.f64
+Исследования/2026-10-22 — Проверка задержки/PowerKick/baseline-tests-frozen
+Исследования/2026-10-22 — Проверка задержки/PowerKick/benchmark-after
+Исследования/2026-10-22 — Проверка задержки/PowerKick/benchmark-before
+Исследования/2026-10-22 — Проверка задержки/PowerKick/cancel-green
+Исследования/2026-10-22 — Проверка задержки/PowerKick/cancel-red
+Исследования/2026-10-22 — Проверка задержки/PowerKick/dsp-green
+Исследования/2026-10-22 — Проверка задержки/PowerKick/final-green
+Исследования/2026-10-22 — Проверка задержки/PowerKick/handoff-green
+Исследования/2026-10-22 — Проверка задержки/PowerKick/handoff-red
+Исследования/2026-10-22 — Проверка задержки/PowerKick/independent
+Исследования/2026-10-22 — Проверка задержки/PowerKick/production_matrix
+Исследования/2026-10-22 — Проверка задержки/PowerKick/proto
+Исследования/2026-10-22 — Проверка задержки/PowerKick/proto2_matrix
+Исследования/2026-10-22 — Проверка задержки/PowerKick/proto3_final_matrix
+Исследования/2026-10-22 — Проверка задержки/PowerKick/proto3_matrix
+Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix
+Исследования/2026-10-22 — Проверка задержки/PowerKick/prototype3-tests
+Исследования/2026-10-22 — Проверка задержки/PowerKick/review-events
+Исследования/2026-10-22 — Проверка задержки/PowerKick/trace
+Исследования/2026-10-22 — Проверка задержки/PowerKick/wrapper-green
+Исследования/2026-10-22 — Проверка задержки/PowerKick/wrapper-prepare-red
+Исследования/2026-10-22 — Проверка задержки/PowerKick/wrapper-red

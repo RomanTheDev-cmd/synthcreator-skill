@@ -1,0 +1,107 @@
+[
+  {
+    "scenario": "Hard Techno Core original",
+    "max_abs_diff": "0.205287217163",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "-2.29621011324"
+  },
+  {
+    "scenario": "Hard Techno Core snap-scoop hypothesis",
+    "max_abs_diff": "0.0044007897377",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0.000689458533616"
+  },
+  {
+    "scenario": "Hard Techno Core snap-both hypothesis",
+    "max_abs_diff": "0",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Hard Techno Core snap-scoop bodyTone1 control",
+    "max_abs_diff": "0",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Hard Techno Core drive0 control",
+    "max_abs_diff": "0.0064467638731",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0.00160697460681"
+  },
+  {
+    "scenario": "Classic Punch original",
+    "max_abs_diff": "0.239368990064",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "-2.71582315291"
+  },
+  {
+    "scenario": "Classic Punch snap-scoop hypothesis",
+    "max_abs_diff": "0.00200659036636",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0.000405195975703"
+  },
+  {
+    "scenario": "Classic Punch snap-both hypothesis",
+    "max_abs_diff": "0",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Classic Punch snap-scoop bodyTone1 control",
+    "max_abs_diff": "0",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Classic Punch drive0 control",
+    "max_abs_diff": "0.0041321516037",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0.000699506638394"
+  },
+  {
+    "scenario": "Rawstyle Screech original",
+    "max_abs_diff": "0.280471637845",
+    "onset_cold": "3",
+    "onset_idle": "3",
+    "first10ms_warm_minus_cold_db": "-4.98394363569"
+  },
+  {
+    "scenario": "Rawstyle Screech snap-scoop hypothesis",
+    "max_abs_diff": "0",
+    "onset_cold": "3",
+    "onset_idle": "3",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Rawstyle Screech snap-both hypothesis",
+    "max_abs_diff": "0",
+    "onset_cold": "3",
+    "onset_idle": "3",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Rawstyle Screech snap-scoop bodyTone1 control",
+    "max_abs_diff": "0",
+    "onset_cold": "3",
+    "onset_idle": "3",
+    "first10ms_warm_minus_cold_db": "0"
+  },
+  {
+    "scenario": "Rawstyle Screech drive0 control",
+    "max_abs_diff": "0",
+    "onset_cold": "4",
+    "onset_idle": "4",
+    "first10ms_warm_minus_cold_db": "0"
+  }
+]

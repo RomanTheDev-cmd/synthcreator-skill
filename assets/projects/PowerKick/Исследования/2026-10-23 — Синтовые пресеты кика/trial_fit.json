@@ -1,0 +1,237 @@
+[
+ {
+  "name": "Wide Warm Clang F#1",
+  "category": "Techno",
+  "group": "Wide",
+  "target": "OBI Punchy Kick 9.wav",
+  "params": {
+   "bodyTone": 0.061550268266421466,
+   "pitchFall": 7.646479983981986,
+   "tune": -2.965427381083167,
+   "decay": 0.433473143043011,
+   "punch": 0.5240632325765802,
+   "body": 0.6955035121021046,
+   "click": 0.874660236968392,
+   "drive": 0.4185222673667149,
+   "character": 0.615589234161571,
+   "rumble": 0.0,
+   "output": -2.4040035306075414,
+   "width": 70.0,
+   "delay": 0.0,
+   "driveMode": 2,
+   "charMode": 1,
+   "pitchDepth": 33.580131591501406,
+   "pitchTime": 51.91665838417678,
+   "clickType": 2.0,
+   "clickTone": 0.5049749975108621,
+   "rumbleTime": 0.9618994855776856,
+   "rumbleSync": 0.0,
+   "splitFreq": 1000.0
+  },
+  "distance": 18.85219048526729,
+  "before": 25.989431822257494,
+  "parts": {
+   "env": 6.7867218205332165,
+   "f0": 1.1561232156168781,
+   "spec": 8.387355395823896,
+   "side": 7.7583981282874035,
+   "tonal": 0.5201124841611671
+  },
+  "tonal_before": [
+   -11.591807859371585,
+   -22.847390067688295
+  ],
+  "tonal_after": [
+   -3.80543315741243,
+   -14.904643842769755
+  ]
+ },
+ {
+  "name": "Warm Clang F1 IV",
+  "category": "Hard Techno",
+  "group": "Short",
+  "target": "HST1 Short Kick Shot  11.wav",
+  "params": {
+   "bodyTone": 0.15426421186896505,
+   "pitchFall": 11.714182241024163,
+   "tune": -3.6667062365874563,
+   "decay": 0.29200059009232215,
+   "punch": 0.29767955776478683,
+   "body": 0.6804717482654051,
+   "click": 0.8935271518353672,
+   "drive": 0.3812466888854027,
+   "character": 0.2,
+   "rumble": 0.0,
+   "output": -3.357399087149375,
+   "width": 5.268475701116679,
+   "delay": 0.0,
+   "driveMode": 1,
+   "charMode": 1,
+   "pitchDepth": 43.800000000000004,
+   "pitchTime": 46.42412311972859,
+   "clickType": 2.0,
+   "clickTone": 0.7794486801046194,
+   "rumbleTime": 0.31478079055421915,
+   "rumbleSync": 0.0,
+   "splitFreq": 1000.0
+  },
+  "distance": 9.615250822778567,
+  "before": 20.9876102378724,
+  "parts": {
+   "env": 2.866998122292861,
+   "f0": 0.864653542448277,
+   "spec": 4.162081489386241,
+   "side": 5.52202219685793,
+   "tonal": 0.3072583785989069
+  },
+  "tonal_before": [
+   -13.476268711524321,
+   -25.328063092202157
+  ],
+  "tonal_after": [
+   -9.99174284206238,
+   -19.348328619418393
+  ]
+ },
+ {
+  "name": "Warm Clang A1 VI",
+  "category": "Schranz",
+  "group": "Clean",
+  "target": "SSP Signature Schranz Kick 34.wav",
+  "params": {
+   "bodyTone": 0.3117296045497307,
+   "pitchFall": 0.0,
+   "tune": 0.4148155232202825,
+   "decay": 0.4375807571699593,
+   "punch": 0.7385187935739008,
+   "body": 0.5928454064389823,
+   "click": 0.30000000000000004,
+   "drive": 0.47696400947324263,
+   "character": 1.0,
+   "rumble": 0.0,
+   "output": -0.12364271680888628,
+   "width": 24.78639941108687,
+   "delay": 0.0,
+   "driveMode": 2,
+   "charMode": 1,
+   "pitchDepth": 42.4715463103918,
+   "pitchTime": 49.87520072389722,
+   "clickType": 2,
+   "clickTone": 0.9,
+   "rumbleTime": 0.6786403609334473,
+   "rumbleSync": 0.0,
+   "splitFreq": 1000.0
+  },
+  "distance": 20.015154956032987,
+  "before": 33.276506932226525,
+  "parts": {
+   "env": 8.207879414672659,
+   "f0": 1.7991524922054625,
+   "spec": 8.555276821198257,
+   "side": 2.6254815607604214,
+   "tonal": 0.10629849849320938
+  },
+  "tonal_before": [
+   -8.105701653205616,
+   -25.829280540517928
+  ],
+  "tonal_after": [
+   -3.475682934365994,
+   -6.548537168454308
+  ]
+ },
+ {
+  "name": "Clean Clang B1",
+  "category": "Schranz",
+  "group": "Clean",
+  "target": "SSP Signature Schranz Kick 33.wav",
+  "params": {
+   "bodyTone": 0.6279621341864929,
+   "pitchFall": 10.101972120343117,
+   "tune": 1.9437511336005908,
+   "decay": 0.4138768179686072,
+   "punch": 0.7539720409855297,
+   "body": 0.9453537810570303,
+   "click": 0.8430127061446945,
+   "drive": 0.3733169030103983,
+   "character": 0.984684381769842,
+   "rumble": 0.0,
+   "output": -3.4963580430197094,
+   "width": 30.0,
+   "delay": 0.0,
+   "driveMode": 0.0,
+   "charMode": 1.0,
+   "pitchDepth": 36.81323368573165,
+   "pitchTime": 32.50036580191027,
+   "clickType": 2.0,
+   "clickTone": 0.8899814236044392,
+   "rumbleTime": 0.3778554401795927,
+   "rumbleSync": 0.0,
+   "splitFreq": 600.0
+  },
+  "distance": 18.11819514088194,
+  "before": 42.21276040702595,
+  "parts": {
+   "env": 4.346465615486827,
+   "f0": 4.529007215488021,
+   "spec": 6.72367713885833,
+   "side": 1.4989153608905827,
+   "tonal": 0.019802839447443876
+  },
+  "tonal_before": [
+   -16.03911807596661,
+   -36.320283492782245
+  ],
+  "tonal_after": [
+   -5.5223328977407595,
+   -12.992696392287996
+  ]
+ },
+ {
+  "name": "Clean Clang F#1 III",
+  "category": "Industrial",
+  "group": "Clean",
+  "target": "OBI Hard Industrial Kick 10.wav",
+  "params": {
+   "bodyTone": 0.43715397808434997,
+   "pitchFall": 7.375245452268213,
+   "tune": -3.49,
+   "decay": 0.358890578360201,
+   "punch": 0.8675108734927238,
+   "body": 0.26510778865612905,
+   "click": 0.4,
+   "drive": 0.6648685211586604,
+   "character": 0.2,
+   "rumble": 0.30000000000000004,
+   "output": 1.7999023911707575,
+   "width": 0.0,
+   "delay": 0.0,
+   "driveMode": 0.0,
+   "charMode": 2,
+   "pitchDepth": 39.6,
+   "pitchTime": 47.76535037945292,
+   "clickType": 2,
+   "clickTone": 0.30000000000000004,
+   "rumbleTime": 0.0,
+   "rumbleSync": 0.0,
+   "splitFreq": 500.0
+  },
+  "distance": 18.284326424812228,
+  "before": 31.07417591250086,
+  "parts": {
+   "env": 9.615010693522652,
+   "f0": 1.9151107955735682,
+   "spec": 4.616572804701836,
+   "side": 0.0,
+   "tonal": 0.786717822151592
+  },
+  "tonal_before": [
+   -22.17833323333554,
+   -27.869989796111465
+  ],
+  "tonal_after": [
+   -5.977665582052412,
+   -21.839452011526326
+  ]
+ }
+]

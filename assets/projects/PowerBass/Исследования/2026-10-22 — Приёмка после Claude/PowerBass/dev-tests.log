@@ -1,0 +1,10 @@
+Running tests...
+Test project /Users/roman/Library/Caches/PowerBassBuildDev
+    Start 1: powerbass_tests
+1/2 Test #1: powerbass_tests ..................   Passed  199.17 sec
+    Start 2: powerbass_wrapper_tests
+2/2 Test #2: powerbass_wrapper_tests ..........   Passed    0.66 sec
+
+100% tests passed out of 2
+
+Total Test time (real) = 199.83 sec

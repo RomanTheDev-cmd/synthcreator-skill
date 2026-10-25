@@ -1,0 +1,5 @@
+FAIL: every preset keeps OVERSAMPLE 2x (0/300)
+FAIL: latency at 2x unchanged by preset switches (6 vs 4)
+FAIL: every preset keeps OVERSAMPLE 8x (0/300)
+FAIL: a snapshot with OVERSAMPLE 2x keeps 8x but applies its CUTOFF
+FAILED 114/118 wrapper checks

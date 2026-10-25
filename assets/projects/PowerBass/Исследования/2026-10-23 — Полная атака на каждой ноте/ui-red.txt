@@ -1,0 +1,2 @@
+FAIL: AMP has single LEGATO and SMOOTH buttons
+FAILED 118/119 wrapper checks

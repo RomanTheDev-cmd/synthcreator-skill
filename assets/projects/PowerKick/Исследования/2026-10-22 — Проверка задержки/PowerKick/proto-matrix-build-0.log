@@ -1,0 +1,56 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/TracedKickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:196:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  196 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:11:123: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   11 |  dsp::TracedKickEngine e;e.prepare(sr,block); Render a; a.before=e.getLatencySamples();int n=(int)(seconds*sr);a.l.resize(n);a.r.resize(n);
+      |                                                                                                                    ~~~~~~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:11:137: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   11 |  dsp::TracedKickEngine e;e.prepare(sr,block); Render a; a.before=e.getLatencySamples();int n=(int)(seconds*sr);a.l.resize(n);a.r.resize(n);
+      |                                                                                                                                  ~~~~~~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:10:8: warning: no previous prototype for function 'run' [-Wmissing-prototypes]
+   10 | Render run(KickParams p,double sr,int block,int second,float velocity=1,bool omitFirst=false,double seconds=.5){
+      |        ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:10:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+   10 | Render run(KickParams p,double sr,int block,int second,float velocity=1,bool omitFirst=false,double seconds=.5){
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:159: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      |                                                                                                                                                           ~   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:152: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      |                                                                                                                                                    ~   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:135: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      |                                                                                                                                   ~   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:128: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      |                                                                                                                            ~   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:5: warning: no previous prototype for function 'onsetDiff' [-Wmissing-prototypes]
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      |     ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:17:1: note: declare 'static' if the function is not intended to be used outside of this translation unit
+   17 | int onsetDiff(const Render&a,const Render&b,int from,double tol){for(int i=from;i<(int)a.l.size();++i)if(std::max(std::abs(a.l[i]-b.l[i]),std::abs(a.r[i]-b.r[i]))>tol)return i-from;return -1;}
+      | ^
+      | static 
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:25:122: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   25 |     int sr=48000,step=(int)std::llround(sr*60./bpm/8),n=sr;dsp::TracedKickEngine e;e.prepare(sr,127);std::vector<float>l(n),r(n);int hit=0;
+      |                                                                                                                        ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:25:127: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   25 |     int sr=48000,step=(int)std::llround(sr*60./bpm/8),n=sr;dsp::TracedKickEngine e;e.prepare(sr,127);std::vector<float>l(n),r(n);int hit=0;
+      |                                                                                                                             ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:27:95: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   27 |     double pk=0;for(int i=0;i<n;++i)pk=std::max({pk,(double)std::abs(l[i]),(double)std::abs(r[i])});std::printf("%s,accented32,48000,0.80,%d,%d,%.9f\n",pr.name.toRawUTF8(),bpm,step,20*std::log10(std::max(pk,1e-15))+24);
+      |                                                                                             ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:27:72: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   27 |     double pk=0;for(int i=0;i<n;++i)pk=std::max({pk,(double)std::abs(l[i]),(double)std::abs(r[i])});std::printf("%s,accented32,48000,0.80,%d,%d,%.9f\n",pr.name.toRawUTF8(),bpm,step,20*std::log10(std::max(pk,1e-15))+24);
+      |                                                                      ~ ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:36:190: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   36 |  int solo=onsetDiff(isolated,silence,second,1e-7),on=onsetDiff(loud,muted,second,1e-7);double err=0;for(int i=37;i<(int)at37.l.size();++i)err=std::max(err,(double)std::abs(at37.l[i]-at0.l[i-37]));
+      |                                                                                                                                                                                       ~~~   ~^~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Исследования/2026-10-22 — Проверка задержки/PowerKick/proto_matrix.cpp:36:180: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   36 |  int solo=onsetDiff(isolated,silence,second,1e-7),on=onsetDiff(loud,muted,second,1e-7);double err=0;for(int i=37;i<(int)at37.l.size();++i)err=std::max(err,(double)std::abs(at37.l[i]-at0.l[i-37]));
+      |                                                                                                                                                                             ~~~~   ^
+15 warnings generated.

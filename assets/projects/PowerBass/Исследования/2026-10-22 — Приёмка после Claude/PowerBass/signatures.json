@@ -1,0 +1,74 @@
+[
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/AU/PowerBass.component",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/AU/PowerBass.component"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/AU/PowerBass.component"
+      ]
+    ],
+    "before": "876a83fb51b46f868c156e451809403c4728a87cb870ba0cdadf7c1bcfc3c5a6",
+    "after": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  },
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3"
+      ]
+    ],
+    "before": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69",
+    "after": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  },
+  {
+    "bundle": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/Standalone/PowerBass.app",
+    "commands": [
+      [
+        "/usr/bin/codesign",
+        "--force",
+        "--deep",
+        "--sign",
+        "-",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/Standalone/PowerBass.app"
+      ],
+      [
+        "/usr/bin/codesign",
+        "--verify",
+        "--deep",
+        "--strict",
+        "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/Standalone/PowerBass.app"
+      ]
+    ],
+    "before": "0c177d061ecf67298a1f1563dcac388d85dd4c411d2cd1a7c59c131f4ff9d0fa",
+    "after": "9f34c7daf34c1ea3929b7eca95f53a17ab0c70988f4e7aad09c0de3c69e90a67",
+    "returncode": 0,
+    "kind": "local ad hoc; not notarized or Developer ID"
+  }
+]

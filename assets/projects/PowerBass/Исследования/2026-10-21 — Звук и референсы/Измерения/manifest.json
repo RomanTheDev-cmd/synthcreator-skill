@@ -1,0 +1,53 @@
+{
+  "commit": "d5352918393b46f4fb0c30cd1d1697a334c09eba",
+  "snapshot": "All committed sources d535291. Tests start from committed original; ONLY the existing --dump-presets and --serve command modes plus two headers are added. No concurrent detune tests.",
+  "hashes": {
+    "CMakeLists.txt": "b5031a7e57d518b822ad33ba0f3aab54cbbaaff2230a5a0d6fc0be43d26d56a0",
+    "cmake/windows-clang-msvc.cmake": "4ecf427d8d201e93fb343bcb1883113d40922b7ae01f1164cac86444fd7912fe",
+    "cmake/windows-lld-rules.cmake": "fde85c0b2b9d4a7253ff15cf0c52f04a08b6cbf20f861aa435789355af4bf48f",
+    "Source/Params.h": "e9a1644bb5f09ba9c204ede82799c26a03c4103aef4a35bed4193dc8dda1adf9",
+    "Source/PluginEditor.h": "58d3cbbacd26d1930e2ec3b2e278018ff557e6dc6ff80dccf1a9aa2449d65c09",
+    "Source/Presets.h": "7554248d2487497ebdabb6d205204c6f4176f891a2b6312de5fd67986c75cd2c",
+    "Source/PluginProcessor.h": "7119648000e98624ffa89c7ae74a449ae032a972b470650efa26dc2b38a978c2",
+    "Source/FactoryPresets.inc": "06103e31a3fb3d961ff169118ea58120dd3a0b08a9f766155df01037e863936c",
+    "Source/Presets.cpp": "2243ba9d0efe12c421136e7918ca02c6350929771e1a65ac0275728edaa533cd",
+    "Source/PluginProcessor.cpp": "090a33daee86c919d06083639d8522302d7aa6a887ef326d26c89390763f4dce",
+    "Source/PluginEditor.cpp": "4bb820bcf0731d12b89f4a5aafd9533cb75809cc9ed52c9d14ad4ab5a35b6147",
+    "Source/Params.cpp": "ed13606cd36f6d86edbebc6c53fb052608d181935fe62d4597d7a2c6622ab9ad",
+    "Tests/PowerBassTests.cpp": "10100b86f37aa0d707deb0e12fd3d946402cb642672634e8f4987f45630be363",
+    "Source/DSP/BassEngine.h": "9ef4b42cb74d7c0713f457b2949d11494395891be7f1f0cc701dfc3e20191b30",
+    "Source/DSP/Filters.h": "333eede9c6315fb583136fa0b3aa43cf454f0e958c14a2a72d7d0a230902f227"
+  },
+  "preexisting_runner": {
+    "cache_path": "/Users/roman/Library/Caches/PowerBassResearch20261021/captured-preexisting-runner",
+    "sha256": "b8ac6538a56e6ce646e75dec6d699341ea42551d963a56ea05d6225ef8d142d9",
+    "used_for_final_measurements": false
+  },
+  "runner": {
+    "cache_path": "/Users/roman/Library/Caches/PowerBassResearch20261021/powerbass_tests_artefacts/Release/powerbass_tests",
+    "sha256": "5100c392a72c45772f7ab39ead66895a21ddccf02707f80a9c81a07b49bdef97",
+    "build_exit": 0,
+    "test_exit": 0,
+    "tests_result": "PASS 416/416 checks"
+  },
+  "measurement_exit": 0,
+  "measurement_conditions": {
+    "sr": 48000,
+    "block": 512,
+    "seconds": 3,
+    "bpm": 150,
+    "root_midi": 38,
+    "patterns": [
+      0,
+      1
+    ],
+    "diagnostic_master_db": -60
+  },
+  "research_tool_sha256": "46be1b49aee2d2733afa0a096154a0fe1d15227827004c51ba88baa62659ce54",
+  "data_hashes": {
+    "references.csv": "268d9b7e002188c78b649662de11118aaf4679aa1b035172d7265124ecd41c9f",
+    "output_safety.csv": "be8fcba702489dadf39c94a66a5128123de962a720f2b6700c37a39dabb1ec3c",
+    "powerbass_patterns.csv": "f8efb322f4634b09ccd59723765e0e0209fde15d8886f9891b0c48c31a150ec9",
+    "drive_sweep.csv": "a75bbd858e9ff2b67785b6eafae01683be53686b534df13535dd177ca3ca2913"
+  }
+}

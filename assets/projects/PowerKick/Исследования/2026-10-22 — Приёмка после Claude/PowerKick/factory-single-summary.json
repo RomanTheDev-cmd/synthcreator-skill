@@ -1,0 +1,14 @@
+{
+  "count": 300,
+  "max_abs_diff": 0.0,
+  "matching_sha256": 300,
+  "sample_rate": 48000,
+  "host_block": 512,
+  "frames_each": 192000,
+  "note_on_frame": 0,
+  "note_off_frame": 12000,
+  "oversample_indices": [
+    1
+  ],
+  "tsv_sha256": "3d6a4da35a84bf01cb6a165c8fbfdc03fd0b7295a288fa3e7e1ec46f242488e4"
+}

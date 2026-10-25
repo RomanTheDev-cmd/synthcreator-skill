@@ -1,0 +1,45 @@
+[  3%] Built target PowerBass_rc_lib
+[  4%] Built target powerbass_wrapper_tests_rc_lib
+[  6%] Built target PowerBass_vst3_helper
+[  9%] Built target powerbass_tests_rc_lib
+[ 11%] Building CXX object CMakeFiles/powerbass_tests.dir/Source/Params.cpp.obj
+[ 11%] Building CXX object CMakeFiles/PowerBass.dir/Source/Params.cpp.obj
+[ 13%] Building CXX object CMakeFiles/PowerBass.dir/Source/Presets.cpp.obj
+[ 13%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginEditor.cpp.obj
+[ 14%] Building CXX object CMakeFiles/powerbass_tests.dir/Source/Presets.cpp.obj
+[ 15%] Building CXX object CMakeFiles/powerbass_tests.dir/Tests/PowerBassTests.cpp.obj
+[ 17%] Building CXX object CMakeFiles/PowerBass.dir/Source/PluginProcessor.cpp.obj
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(824,61): warning: 'createWriterFor' is deprecated: Use the function taking an AudioFormatWriterOptions instead. [-Wdeprecated-declarations]
+  824 |             std::unique_ptr<juce::AudioFormatWriter> w (wav.createWriterFor (st.get(), 48000, 2, 24, {}, 0));
+      |                                                             ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/third_party/JUCE/modules/juce_audio_formats/format/juce_AudioFormat.h(178,7): note: 'createWriterFor' has been explicitly marked deprecated here
+  178 |     [[deprecated ("Use the function taking an AudioFormatWriterOptions instead.")]]
+      |       ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/Presets.cpp(33,51): warning: missing field 'group' initializer [-Wmissing-field-initializers]
+   33 |             Preset p { d.name, d.category, {}, {} };
+      |                                                   ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(103,8): warning: unused function 'bandRmsSteep' [-Wunused-function]
+  103 | double bandRmsSteep (const std::vector<float>& x, double sr, double f1, double f2)
+      |        ^~~~~~~~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Tests/PowerBassTests.cpp(201,13): warning: unused function 'preset' [-Wunused-function]
+  201 | SynthParams preset (const char* name)
+      |             ^~~~~~
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/Presets.cpp(33,51): warning: missing field 'group' initializer [-Wmissing-field-initializers]
+   33 |             Preset p { d.name, d.category, {}, {} };
+      |                                                   ^
+1 warning generated.
+[ 18%] Linking CXX static library PowerBass_artefacts/Release/PowerBass_SharedCode.lib
+1 warning generated.
+[ 38%] Built target PowerBass
+[ 40%] Linking CXX executable PowerBass_artefacts/Release/Standalone/PowerBass.exe
+[ 40%] Linking CXX shared module PowerBass_artefacts/Release/VST3/PowerBass.vst3/Contents/x86_64-win/PowerBass.vst3
+[ 42%] Building CXX object CMakeFiles/powerbass_wrapper_tests.dir/Tests/WrapperTests.cpp.obj
+3 warnings generated.
+[ 43%] Linking CXX executable powerbass_tests_artefacts/Release/powerbass_tests.exe
+[ 61%] Built target powerbass_tests
+[ 62%] Linking CXX executable powerbass_wrapper_tests_artefacts/Release/powerbass_wrapper_tests.exe
+removing moduleinfo.json
+creating /Users/roman/Library/Caches/PowerBassBuildWin/PowerBass_artefacts/Release/VST3/PowerBass.vst3
+[ 71%] Built target PowerBass_Standalone
+[ 80%] Built target PowerBass_VST3
+[100%] Built target powerbass_wrapper_tests

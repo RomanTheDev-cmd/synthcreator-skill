@@ -1,0 +1,34 @@
+[
+  {
+    "name": "configure",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+      "-S",
+      "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick",
+      "-B",
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal",
+      "-DPOWERKICK_COPY_AFTER_BUILD=OFF"
+    ],
+    "returncode": 0,
+    "seconds": 1.6079401250026422
+  },
+  {
+    "name": "build",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickTools/cmake/cmake/data/bin/cmake",
+      "--build",
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal",
+      "-j2"
+    ],
+    "returncode": 0,
+    "seconds": 143.36921579200134
+  },
+  {
+    "name": "wrapper",
+    "argv": [
+      "/Users/roman/Library/Caches/PowerKickBuildUniversal/powerkick_wrapper_tests_artefacts/Release/powerkick_wrapper_tests"
+    ],
+    "returncode": 0,
+    "seconds": 0.6356689579988597
+  }
+]

@@ -1,0 +1,341 @@
+{
+  "before_binary_sha256": "ee4be40eb391cc186d77d29a0473c5a4743c5b295babf366c1a816f2d8494c3d",
+  "after_binary_sha256": "196c8eb8360f368dec3f70204c2e61ab94db67a12b9c12233d0f4bd6e30d0052",
+  "cases": 900,
+  "changed_audio_cases": 0,
+  "max_sample_error": 0,
+  "safety_activations": [
+    {
+      "preset": "Dark Reese 10",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8576033279468547,
+      "post_safety_dbfs": -0.8576730211647807
+    },
+    {
+      "preset": "Dark Reese 12",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.6397319461828488,
+      "post_safety_dbfs": -0.647228896703498
+    },
+    {
+      "preset": "Heavy Reese 02",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": 2.6536210045279702,
+      "post_safety_dbfs": -0.008857515897941549
+    },
+    {
+      "preset": "Wrecked Reese 10",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.7298975712036153,
+      "post_safety_dbfs": -0.7322080067032546
+    },
+    {
+      "preset": "Evil Reese",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.803090563724929,
+      "post_safety_dbfs": -0.8036070563478358
+    },
+    {
+      "preset": "Dark Line 04",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.7814045713480269,
+      "post_safety_dbfs": -0.7822761125611519
+    },
+    {
+      "preset": "Dark Line 04",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.4682469485698064,
+      "post_safety_dbfs": -0.49893137245537855
+    },
+    {
+      "preset": "Dark Line 08",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.8997543341198835,
+      "post_safety_dbfs": -0.8997552129931907
+    },
+    {
+      "preset": "Dark Line 08",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.7398343077252392,
+      "post_safety_dbfs": -0.7417953846423433
+    },
+    {
+      "preset": "Folded Line 02",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.7897417693263407,
+      "post_safety_dbfs": -0.7904620846803035
+    },
+    {
+      "preset": "Wrecked Line 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.7605764642019324,
+      "post_safety_dbfs": -0.7619208881668895
+    },
+    {
+      "preset": "Wrecked Line 03",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.3010273874200706,
+      "post_safety_dbfs": -0.3758312504112272
+    },
+    {
+      "preset": "Wrecked Line 06",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.08029374008234669,
+      "post_safety_dbfs": -0.24908464231481384
+    },
+    {
+      "preset": "Folded Rumble 03",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.7547070342931335,
+      "post_safety_dbfs": -0.7562115728041617
+    },
+    {
+      "preset": "Rumble Core",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.8297841514654394,
+      "post_safety_dbfs": -0.8300137933910936
+    },
+    {
+      "preset": "Rumble Core",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8916813708735702,
+      "post_safety_dbfs": -0.8916876527790106
+    },
+    {
+      "preset": "Dark Rumble 06",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.9043382179095829,
+      "post_safety_dbfs": -0.9043375893764861
+    },
+    {
+      "preset": "Dark Rumble 06",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.4483033363985456,
+      "post_safety_dbfs": -0.48305806124468054
+    },
+    {
+      "preset": "Dark Rumble 09",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.6140118098506377,
+      "post_safety_dbfs": -0.6237645196785203
+    },
+    {
+      "preset": "Heavy Rumble 01",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": 0.5195052250236074,
+      "post_safety_dbfs": -0.07223822107239831
+    },
+    {
+      "preset": "Wrecked Rumble 02",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8702263759861495,
+      "post_safety_dbfs": -0.8702591736285785
+    },
+    {
+      "preset": "Dark Reese 22",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8174782116330093,
+      "post_safety_dbfs": -0.8178196800551585
+    },
+    {
+      "preset": "Schranz Saw",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": 0.42927419279494927,
+      "post_safety_dbfs": -0.08735773256067891
+    },
+    {
+      "preset": "Dark Saw 03",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.45768833681945864,
+      "post_safety_dbfs": -0.49049011686736077
+    },
+    {
+      "preset": "Iron Swing",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.5973765418104264,
+      "post_safety_dbfs": -0.6087966199304474
+    },
+    {
+      "preset": "Acid Pulse",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.6131233380147805,
+      "post_safety_dbfs": -0.6229618647040677
+    },
+    {
+      "preset": "Acid Smear",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.7920059608086447,
+      "post_safety_dbfs": -0.7926863198793909
+    },
+    {
+      "preset": "Acid Smear",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.7211073551307692,
+      "post_safety_dbfs": -0.7237587912457764
+    },
+    {
+      "preset": "Biting Reese 20",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.6074583180490833,
+      "post_safety_dbfs": -0.6178473075125528
+    },
+    {
+      "preset": "Folded Acid 01",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.7838179711097553,
+      "post_safety_dbfs": -0.7846433173518921
+    },
+    {
+      "preset": "Folded Acid 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": 0.1911932964716243,
+      "post_safety_dbfs": -0.14401998005263786
+    },
+    {
+      "preset": "Rolling Core",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.805264719755904,
+      "post_safety_dbfs": -0.805750589708055
+    },
+    {
+      "preset": "Biting Reese 10",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.027741387592833178,
+      "post_safety_dbfs": -0.2246925182557014
+    },
+    {
+      "preset": "Biting Reese 12",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8453203850987734,
+      "post_safety_dbfs": -0.845445749001865
+    },
+    {
+      "preset": "Dark Reese 01",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.9005440958866799,
+      "post_safety_dbfs": -0.900546531225287
+    },
+    {
+      "preset": "Dark Reese 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": 0.21704807101087198,
+      "post_safety_dbfs": -0.13648029691323968
+    },
+    {
+      "preset": "Dark Reese 02",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.4531997154312961,
+      "post_safety_dbfs": -0.4869274341446999
+    },
+    {
+      "preset": "Dark Reese 09",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.5613912969367547,
+      "post_safety_dbfs": -0.577015670483366
+    },
+    {
+      "preset": "Hard Reese 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.6420793670591678,
+      "post_safety_dbfs": -0.6493899700049035
+    },
+    {
+      "preset": "Warm Reese 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.15364545839406674,
+      "post_safety_dbfs": -0.2867485481938185
+    },
+    {
+      "preset": "Wrecked Reese 02",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.3494741915412547,
+      "post_safety_dbfs": -0.409115571511412
+    },
+    {
+      "preset": "Wrecked Reese 07",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.23278179390246834,
+      "post_safety_dbfs": -0.3323108812514341
+    },
+    {
+      "preset": "Biting FM 02",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.5899784327849815,
+      "post_safety_dbfs": -0.6021948466422568
+    },
+    {
+      "preset": "Hard FM 01",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.7860504462209121,
+      "post_safety_dbfs": -0.7868371555452834
+    },
+    {
+      "preset": "Wrecked Roller 04",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.3155918278133001,
+      "post_safety_dbfs": -0.3856283446911046
+    },
+    {
+      "preset": "Dark Roller 15",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.3216320725879669,
+      "post_safety_dbfs": -0.3897442342409379
+    },
+    {
+      "preset": "Folded Roller 04",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8256474913289296,
+      "post_safety_dbfs": -0.8259088492567677
+    },
+    {
+      "preset": "Folded Roller 05",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.8477741213825425,
+      "post_safety_dbfs": -0.8478861736585096
+    },
+    {
+      "preset": "Hard Roller 04",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.49670809237113644,
+      "post_safety_dbfs": -0.5221165651001366
+    },
+    {
+      "preset": "Hard Roller 09",
+      "scenario": "roll16_90",
+      "pre_safety_dbfs": -0.6823760638931304,
+      "post_safety_dbfs": -0.6869340722060907
+    },
+    {
+      "preset": "Hard Roller 09",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.20592681960150827,
+      "post_safety_dbfs": -0.31626424580595436
+    },
+    {
+      "preset": "Dark Reese 20",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.6933547218891647,
+      "post_safety_dbfs": -0.69730574083927
+    },
+    {
+      "preset": "Dark Reese 21",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.35440235118205976,
+      "post_safety_dbfs": -0.41261172821132014
+    },
+    {
+      "preset": "Biting Wreck 01",
+      "scenario": "roll32_210",
+      "pre_safety_dbfs": -0.8052244008107365,
+      "post_safety_dbfs": -0.8057108267224051
+    }
+  ],
+  "server_exit_codes": [
+    0,
+    0
+  ],
+  "sample_rate": 48000,
+  "root_note": 36,
+  "duration": 1.2,
+  "limitation": "finite scenario grid; not all notes/velocities/tempos; roll32_210 is same MIDI spacing via renderer bpm420"
+}

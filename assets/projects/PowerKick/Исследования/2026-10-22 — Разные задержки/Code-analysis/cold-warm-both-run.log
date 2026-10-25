@@ -1,0 +1,16 @@
+scenario	max_abs_diff	onset_cold	onset_idle	first10ms_warm_minus_cold_db
+Hard Techno Core original	0.205287217163	4	4	-2.29621011324
+Hard Techno Core snap-scoop hypothesis	0.0044007897377	4	4	0.000689458533616
+Hard Techno Core snap-both hypothesis	0	4	4	0
+Hard Techno Core snap-scoop bodyTone1 control	0	4	4	0
+Hard Techno Core drive0 control	0.0064467638731	4	4	0.00160697460681
+Classic Punch original	0.239368990064	4	4	-2.71582315291
+Classic Punch snap-scoop hypothesis	0.00200659036636	4	4	0.000405195975703
+Classic Punch snap-both hypothesis	0	4	4	0
+Classic Punch snap-scoop bodyTone1 control	0	4	4	0
+Classic Punch drive0 control	0.0041321516037	4	4	0.000699506638394
+Rawstyle Screech original	0.280471637845	3	3	-4.98394363569
+Rawstyle Screech snap-scoop hypothesis	0	3	3	0
+Rawstyle Screech snap-both hypothesis	0	3	3	0
+Rawstyle Screech snap-scoop bodyTone1 control	0	3	3	0
+Rawstyle Screech drive0 control	0	4	4	0

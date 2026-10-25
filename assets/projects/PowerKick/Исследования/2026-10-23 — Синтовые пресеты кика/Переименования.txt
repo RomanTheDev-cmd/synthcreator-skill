@@ -1,0 +1,91 @@
+Пресеты PowerKick, переподобранные 2026-10-23 (88): прежнее имя → новое имя (жанр).
+Имя не менялось, если описание по звуку осталось тем же. Новые имена не повторяют ничьих прежних.
+
+Clean Boom F1 → Wide Clean Thump F1 (Hard Techno)
+Clean Clang G1 V → Clean Drop G1 III (Hard Techno)
+Clean Click B1 → Clean Thump B1 (Hard Techno)
+Clean Click F1 → Warm Click F1 II (Hard Techno)
+Clean Click F1 II → Clean Drop F1 II (Hard Techno)
+Clean Click G1 IV → Warm Rumble G1 IV (Hard Techno)
+Clean Drop G#1 → Wide Warm Click G#1 II (Hard Techno)
+Clean Drop G1 → Wide Clean Punch G1 (Hard Techno)
+Clean Thump A#1 → Wide Warm Thump A#1 (Hard Techno)
+Clean Thump A#1 II (Hard Techno) — имя прежнее
+Deep Drop (Hard Techno) — имя прежнее
+Driven Drop G1 → Clean Drop G1 II (Hard Techno)
+Sub Pressure (Hard Techno) — имя прежнее
+Warm Clang F1 IV → Driven Clang F1 (Hard Techno)
+Warm Clang G#1 V (Hard Techno) — имя прежнее
+Warm Click A#1 → Clean Drop A#1 (Hard Techno)
+Warm Click A1 IV → Warm Thump A1 (Hard Techno)
+Warm Click E1 → Wide Clean Drop E1 (Hard Techno)
+Warm Click F#1 → Clipped Click F#1 (Hard Techno)
+Warm Drop D1 → Warm Click D1 (Hard Techno)
+Wide Clean Boom B1 → Crushed Clang B1 II (Hard Techno)
+Clean Clang F#1 II → Clipped Rumble F#1 IV (Industrial)
+Clean Clang F#1 III → Clean Rumble F#1 II (Industrial)
+Clean Rumble A#1 (Industrial) — имя прежнее
+Clean Rumble F#1 (Industrial) — имя прежнее
+Clean Rumble G1 (Industrial) — имя прежнее
+Clipped Rumble B1 II (Industrial) — имя прежнее
+Warm Click D#1 (Industrial) — имя прежнее
+Clean Boom A#1 → Wide Warm Clang A#1 III (Schranz)
+Clean Boom B1 → Driven Click B1 (Schranz)
+Clean Boom B1 II → Clipped Clang B1 IV (Schranz)
+Clean Clang A#1 → Clipped Clang A#1 (Schranz)
+Clean Clang A#1 II → Warm Clang A#1 VI (Schranz)
+Clean Clang A#1 III → Driven Clang A#1 VII (Schranz)
+Clean Clang A1 → Warm Clang A1 III (Schranz)
+Clean Clang B1 → Warm Drop B1 II (Schranz)
+Clean Clang B1 II → Warm Clang B1 V (Schranz)
+Clean Clang F1 II → Warm Clang F1 VI (Schranz)
+Clean Clang G#1 II → Driven Clang G#1 V (Schranz)
+Clean Clang G#1 III → Wide Driven Clang G#1 (Schranz)
+Clean Click A#1 II → Driven Clang A#1 V (Schranz)
+Clean Click A#1 III → Warm Drop A#1 II (Schranz)
+Clean Click F1 IV → Driven Clang F1 II (Schranz)
+Clean Click G1 III → Warm Click G1 V (Schranz)
+Clean Drop F1 → Warm Drop F1 II (Schranz)
+Clipped Clang B1 III → Wide Crushed Clang B1 (Schranz)
+Clipped Clang F#1 III (Schranz) — имя прежнее
+Crushed Clang C2 II (Schranz) — имя прежнее
+Grinding Click A1 → Driven Clang A1 IV (Schranz)
+Schranz Air (Schranz) — имя прежнее
+Warm Boom A1 → Driven Clang A1 VI (Schranz)
+Warm Boom A1 II → Warm Clang A1 (Schranz)
+Warm Boom G#1 → Driven Clang G#1 IV (Schranz)
+Warm Clang A#1 → Clipped Clang A#1 II (Schranz)
+Warm Clang A#1 II (Schranz) — имя прежнее
+Warm Clang A#1 III → Driven Clang A#1 II (Schranz)
+Warm Clang A#1 IV (Schranz) — имя прежнее
+Warm Clang A#1 V → Driven Clang A#1 VI (Schranz)
+Warm Clang A#1 VIII (Schranz) — имя прежнее
+Warm Clang A1 II → Wide Driven Clang A1 II (Schranz)
+Warm Clang A1 VI → Driven Clang A1 V (Schranz)
+Warm Clang B1 → Clipped Clang B1 II (Schranz)
+Warm Clang B1 14 (Schranz) — имя прежнее
+Warm Clang B1 II → Driven Clang B1 VI (Schranz)
+Warm Clang B1 IV → Clipped Drop B1 (Schranz)
+Warm Clang B1 IX → Driven Clang B1 V (Schranz)
+Warm Clang B1 VIII (Schranz) — имя прежнее
+Warm Clang B1 XI → Wide Clipped Clang B1 II (Schranz)
+Warm Clang B1 XII → Crushed Clang B1 III (Schranz)
+Warm Clang F1 (Schranz) — имя прежнее
+Warm Clang F1 V (Schranz) — имя прежнее
+Warm Clang G#1 VI → Driven Clang G#1 III (Schranz)
+Warm Click G#1 III → Driven Clang G#1 II (Schranz)
+Warm Click G1 → Driven Click G1 (Schranz)
+Warm Drop G#1 → Warm Click G#1 (Schranz)
+Warm Rumble A#1 II → Clipped Rumble A#1 IV (Schranz)
+Wide Clean Boom A#1 → Warm Drop A#1 (Schranz)
+Wide Clean Clang B1 → Wide Warm Boom B1 (Schranz)
+Wide Clean Clang B1 II → Wide Clipped Clang B1 III (Schranz)
+Wide Warm Clang A#1 → Driven Clang A#1 IV (Schranz)
+Wide Warm Clang C2 → Wide Driven Clang C2 II (Schranz)
+Wide Warm Click G#1 → Warm Drop G#1 II (Schranz)
+Clean Click D#1 II → Warm Click D#1 II (Techno)
+Crushed Clang G#1 → Driven Clang G#1 (Techno)
+Ticking Body (Techno) — имя прежнее
+Warm Click A1 III → Clipped Click A1 (Techno)
+Wide Crushed Rumble A1 → Wide Grinding Rumble A1 (Techno)
+Wide Warm Clang F#1 → Warm Thump F#1 II (Techno)

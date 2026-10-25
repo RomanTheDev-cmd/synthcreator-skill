@@ -1,0 +1,95 @@
+{
+  "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac",
+  "steps": [
+    {
+      "source": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/AU/PowerKick.component",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/macOS/PowerKick.component",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac/export-component",
+      "before": {
+        "Contents/Info.plist": "768614a674439bd9947e3efec166c343c1b1f46d0df71e3b55ecd4de1a43f252",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerKick": "3a8faf4540daab17fd2440e8cbfd733a12daae7e6067381a7a15711d9e0c651d"
+      },
+      "after": {
+        "Contents/Info.plist": "768614a674439bd9947e3efec166c343c1b1f46d0df71e3b55ecd4de1a43f252",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerKick": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/VST3/PowerKick.vst3",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/macOS/PowerKick.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac/export-vst3",
+      "before": {
+        "Contents/Info.plist": "08b9cfb675af2e22df893759b0d67cbda9dc8a2511428f8da062ef37b43f8853",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "7cf1413735e7ad06b41e7461f5eff601f59b6c572b6085b6817dbea2f39c2cf1",
+        "Contents/MacOS/PowerKick": "b4bf43491684d575c6f8b4a787cb8b618a850e0819c4cb701532d9724205b51f",
+        "Contents/Resources/moduleinfo.json": "d958cf1fb23c234b473c8ce2d7bc7c0a59b99f8c4f5a2da8a7a249a47ad1051d"
+      },
+      "after": {
+        "Contents/Info.plist": "08b9cfb675af2e22df893759b0d67cbda9dc8a2511428f8da062ef37b43f8853",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "7cf1413735e7ad06b41e7461f5eff601f59b6c572b6085b6817dbea2f39c2cf1",
+        "Contents/MacOS/PowerKick": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+        "Contents/Resources/moduleinfo.json": "d958cf1fb23c234b473c8ce2d7bc7c0a59b99f8c4f5a2da8a7a249a47ad1051d"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerKickBuildUniversal/PowerKick_artefacts/Release/Standalone/PowerKick.app",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/macOS/PowerKick.app",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac/export-app",
+      "before": {
+        "Contents/Info.plist": "b607af392120ef7a23827a1bc8b7bcac34fe2602cf59e6015af98aecb421fc73",
+        "Contents/PkgInfo": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+        "Contents/MacOS/PowerKick": "0d18ec6aac1cb4e30ab348476306059b5fa66ecc93a40f952a2b1cfd269ab701",
+        "Contents/Resources/RecentFilesMenuTemplate.nib": "718eb4c5a3a5564dd832ae9a36cf649f3ef257ce896dd921693eeb6101bd008a"
+      },
+      "after": {
+        "Contents/Info.plist": "b607af392120ef7a23827a1bc8b7bcac34fe2602cf59e6015af98aecb421fc73",
+        "Contents/PkgInfo": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+        "Contents/_CodeSignature/CodeResources": "9b8570aee558651f95ec77d131bae7c43445f73040a70bbb941e5e4e54e880f9",
+        "Contents/MacOS/PowerKick": "e04aa4df46d2e74a47ba8d57a20a3cfcc9c6e880e27ecd955906815806c40e75",
+        "Contents/Resources/RecentFilesMenuTemplate.nib": "718eb4c5a3a5564dd832ae9a36cf649f3ef257ce896dd921693eeb6101bd008a"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/macOS/PowerKick.component",
+      "target": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerKick.component",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac/installed-component",
+      "before": {
+        "Contents/Info.plist": "768614a674439bd9947e3efec166c343c1b1f46d0df71e3b55ecd4de1a43f252",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerKick": "3a8faf4540daab17fd2440e8cbfd733a12daae7e6067381a7a15711d9e0c651d"
+      },
+      "after": {
+        "Contents/Info.plist": "768614a674439bd9947e3efec166c343c1b1f46d0df71e3b55ecd4de1a43f252",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerKick": "4dfb90acd05f13de3a8fa55335a43cb6a0b65f16c75cde76e2a44d3f2f342ddd"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Сборки/macOS/PowerKick.vst3",
+      "target": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerKick.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerKick/mac/installed-vst3",
+      "before": {
+        "Contents/Info.plist": "08b9cfb675af2e22df893759b0d67cbda9dc8a2511428f8da062ef37b43f8853",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "7cf1413735e7ad06b41e7461f5eff601f59b6c572b6085b6817dbea2f39c2cf1",
+        "Contents/MacOS/PowerKick": "b4bf43491684d575c6f8b4a787cb8b618a850e0819c4cb701532d9724205b51f",
+        "Contents/Resources/moduleinfo.json": "d958cf1fb23c234b473c8ce2d7bc7c0a59b99f8c4f5a2da8a7a249a47ad1051d"
+      },
+      "after": {
+        "Contents/Info.plist": "08b9cfb675af2e22df893759b0d67cbda9dc8a2511428f8da062ef37b43f8853",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "7cf1413735e7ad06b41e7461f5eff601f59b6c572b6085b6817dbea2f39c2cf1",
+        "Contents/MacOS/PowerKick": "6a6aea5ac880a4e9208d45fb1cc70e25849113a93507a510e1bd5d64a1be677e",
+        "Contents/Resources/moduleinfo.json": "d958cf1fb23c234b473c8ce2d7bc7c0a59b99f8c4f5a2da8a7a249a47ad1051d"
+      }
+    }
+  ]
+}

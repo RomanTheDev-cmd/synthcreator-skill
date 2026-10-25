@@ -1,0 +1,15 @@
+third_party/JUCE/
+build/
+.DS_Store
+
+# Rebuildable research artefacts: object files, raw signal traces, probe executables and downloaded tools
+Исследования/**/*.o
+Исследования/**/*.f32
+Исследования/**/*.f64
+Исследования/2026-10-22 — Проверка задержки/Host/tools/
+Исследования/2026-10-22 — Проверка задержки/Host/Bass-peaks/peaks_probe
+Исследования/2026-10-22 — Проверка задержки/Host/au_parameters
+Исследования/2026-10-22 — Проверка задержки/Host/au_probe
+Исследования/2026-10-22 — Проверка задержки/Host/au_reprepare
+Исследования/2026-10-22 — Проверка задержки/timing_probe
+__pycache__/

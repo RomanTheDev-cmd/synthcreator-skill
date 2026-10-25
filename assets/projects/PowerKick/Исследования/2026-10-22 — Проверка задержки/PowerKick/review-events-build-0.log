@@ -1,0 +1,24 @@
+In file included from /tmp/timing-fix-review/events.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/KickEngine.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerKick/Source/DSP/Filters.h:196:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  196 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+/tmp/timing-fix-review/events.cpp:17:72: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 |   double jump=0;int at=0;for(int i=1714;i<1800;++i)if(std::abs(l[i]-l[i-1])>jump){jump=std::abs(l[i]-l[i-1]);at=i;}
+      |                                                                     ~ ~^~
+/tmp/timing-fix-review/events.cpp:17:66: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 |   double jump=0;int at=0;for(int i=1714;i<1800;++i)if(std::abs(l[i]-l[i-1])>jump){jump=std::abs(l[i]-l[i-1]);at=i;}
+      |                                                                ~ ^
+/tmp/timing-fix-review/events.cpp:17:105: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 |   double jump=0;int at=0;for(int i=1714;i<1800;++i)if(std::abs(l[i]-l[i-1])>jump){jump=std::abs(l[i]-l[i-1]);at=i;}
+      |                                                                                                      ~ ~^~
+/tmp/timing-fix-review/events.cpp:17:99: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   17 |   double jump=0;int at=0;for(int i=1714;i<1800;++i)if(std::abs(l[i]-l[i-1])>jump){jump=std::abs(l[i]-l[i-1]);at=i;}
+      |                                                                                                 ~ ^
+/tmp/timing-fix-review/events.cpp:18:108: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   18 |   std::cout<<"kind "<<kind<<" cancel "<<cancel<<" jump "<<jump<<" at "<<at<<" prev "<<l[at-1]<<" next "<<l[at]<<"\n";
+      |                                                                                                          ~ ^~
+/tmp/timing-fix-review/events.cpp:18:91: warning: implicit conversion changes signedness: 'int' to 'size_type' (aka 'unsigned long') [-Wsign-conversion]
+   18 |   std::cout<<"kind "<<kind<<" cancel "<<cancel<<" jump "<<jump<<" at "<<at<<" prev "<<l[at-1]<<" next "<<l[at]<<"\n";
+      |                                                                                       ~ ~~^~
+7 warnings generated.

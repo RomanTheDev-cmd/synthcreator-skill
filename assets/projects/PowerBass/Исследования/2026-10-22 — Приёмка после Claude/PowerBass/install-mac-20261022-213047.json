@@ -1,0 +1,95 @@
+{
+  "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac",
+  "steps": [
+    {
+      "source": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/AU/PowerBass.component",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/macOS/PowerBass.component",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac/export-component",
+      "before": {
+        "Contents/Info.plist": "a5284834a34f3807b5ad55b46259476acf2b662bcbb6bfb206e8f02cc566b851",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerBass": "9b634adf6f93fb5fa41e89e0b884dd64d8de0d4d878a97a5156172170d15c1d1"
+      },
+      "after": {
+        "Contents/Info.plist": "a5284834a34f3807b5ad55b46259476acf2b662bcbb6bfb206e8f02cc566b851",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerBass": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/VST3/PowerBass.vst3",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/macOS/PowerBass.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac/export-vst3",
+      "before": {
+        "Contents/Info.plist": "59f17827256400062dcad28b64a211bafd4c1acf801b99a2f7e2491f42fdae71",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6d7b35b5b73a0d7c01f9c157fd58e6d74235ee3664bb324f10f50d998c4e4537",
+        "Contents/MacOS/PowerBass": "93ded0c35aefdd7d208ff39a74b3c531ec6a082c8080a8fb326076fdc986e205",
+        "Contents/Resources/moduleinfo.json": "0a0592ff6bd5c6469b437d83eee63678222d87c92f872e3546c41fa8efcc1033"
+      },
+      "after": {
+        "Contents/Info.plist": "59f17827256400062dcad28b64a211bafd4c1acf801b99a2f7e2491f42fdae71",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6d7b35b5b73a0d7c01f9c157fd58e6d74235ee3664bb324f10f50d998c4e4537",
+        "Contents/MacOS/PowerBass": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69",
+        "Contents/Resources/moduleinfo.json": "0a0592ff6bd5c6469b437d83eee63678222d87c92f872e3546c41fa8efcc1033"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Caches/PowerBassBuildUniversal/PowerBass_artefacts/Release/Standalone/PowerBass.app",
+      "target": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/macOS/PowerBass.app",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac/export-app",
+      "before": {
+        "Contents/Info.plist": "496fed3c5255c691e91f6b342badffae61390cf2a2c043892ba11a853c3c801a",
+        "Contents/PkgInfo": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+        "Contents/MacOS/PowerBass": "9ab9be39aa09eb173054385000a7381fc07211bd42e62cf49abc98c6f597566f",
+        "Contents/Resources/RecentFilesMenuTemplate.nib": "718eb4c5a3a5564dd832ae9a36cf649f3ef257ce896dd921693eeb6101bd008a"
+      },
+      "after": {
+        "Contents/Info.plist": "496fed3c5255c691e91f6b342badffae61390cf2a2c043892ba11a853c3c801a",
+        "Contents/PkgInfo": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+        "Contents/_CodeSignature/CodeResources": "9b8570aee558651f95ec77d131bae7c43445f73040a70bbb941e5e4e54e880f9",
+        "Contents/MacOS/PowerBass": "9f34c7daf34c1ea3929b7eca95f53a17ab0c70988f4e7aad09c0de3c69e90a67",
+        "Contents/Resources/RecentFilesMenuTemplate.nib": "718eb4c5a3a5564dd832ae9a36cf649f3ef257ce896dd921693eeb6101bd008a"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/macOS/PowerBass.component",
+      "target": "/Users/roman/Library/Audio/Plug-Ins/Components/PowerBass.component",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac/installed-component",
+      "before": {
+        "Contents/Info.plist": "a5284834a34f3807b5ad55b46259476acf2b662bcbb6bfb206e8f02cc566b851",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerBass": "9b634adf6f93fb5fa41e89e0b884dd64d8de0d4d878a97a5156172170d15c1d1"
+      },
+      "after": {
+        "Contents/Info.plist": "a5284834a34f3807b5ad55b46259476acf2b662bcbb6bfb206e8f02cc566b851",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+        "Contents/MacOS/PowerBass": "afe58cbfdac2a9b0d5974bb8a89b482990d7a3dcb13d80413e48eac4315d71d2"
+      }
+    },
+    {
+      "source": "/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Сборки/macOS/PowerBass.vst3",
+      "target": "/Users/roman/Library/Audio/Plug-Ins/VST3/PowerBass.vst3",
+      "backup": "/Users/roman/Library/Caches/PowerTakeoverBackups/20261022-213047/PowerBass/mac/installed-vst3",
+      "before": {
+        "Contents/Info.plist": "59f17827256400062dcad28b64a211bafd4c1acf801b99a2f7e2491f42fdae71",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6d7b35b5b73a0d7c01f9c157fd58e6d74235ee3664bb324f10f50d998c4e4537",
+        "Contents/MacOS/PowerBass": "93ded0c35aefdd7d208ff39a74b3c531ec6a082c8080a8fb326076fdc986e205",
+        "Contents/Resources/moduleinfo.json": "0a0592ff6bd5c6469b437d83eee63678222d87c92f872e3546c41fa8efcc1033"
+      },
+      "after": {
+        "Contents/Info.plist": "59f17827256400062dcad28b64a211bafd4c1acf801b99a2f7e2491f42fdae71",
+        "Contents/PkgInfo": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+        "Contents/_CodeSignature/CodeResources": "6d7b35b5b73a0d7c01f9c157fd58e6d74235ee3664bb324f10f50d998c4e4537",
+        "Contents/MacOS/PowerBass": "1c62a6108a7eff52eec7431df88abf24f8581d1201893ff3e0196a5f1eb97e69",
+        "Contents/Resources/moduleinfo.json": "0a0592ff6bd5c6469b437d83eee63678222d87c92f872e3546c41fa8efcc1033"
+      }
+    }
+  ]
+}

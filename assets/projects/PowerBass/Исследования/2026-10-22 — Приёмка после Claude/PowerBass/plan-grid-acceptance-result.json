@@ -1,0 +1,8 @@
+{
+  "command": [
+    "python3",
+    "Исследования/2026-10-22 — Приёмка после Claude/PowerBass/summarize_grid.py"
+  ],
+  "returncode": 1,
+  "interpretation": "1 = measured criterion FAIL, render itself completed normally"
+}

@@ -1,0 +1,14 @@
+{
+  "Source/KickRenderer.cpp": "86e5f8ff13e642abf08ce53bddd375ccac760deb359d124b9438a2720f68e764",
+  "Source/Params.h": "053d985d7657cfe4c81bc8455a5c9c0db7a2f5d9bb0370820fd327736e9f4534",
+  "Source/PluginEditor.h": "01b40003970f211c686c025cc6364c58f2f9013134afb640a6a928c4e83ae090",
+  "Source/Presets.h": "3f80b10315a1f6330f00b622613e3bee8ee3a3a9e12542fb0e725d03114e6864",
+  "Source/PluginProcessor.h": "07983b7f7414c6a77853061c6ab48c88cb6b0e200a4dca27162a21a9d51dddec",
+  "Source/Presets.cpp": "88dab76c32b7930fcab613574370a20aa8ce6c8dc4a67cecac88765113e9b0bd",
+  "Source/KickRenderer.h": "87369bf660fcf8a84e7c22c31c7459e0f00996f947a7f31836fae5028e9c5d29",
+  "Source/PluginProcessor.cpp": "d1f36b5a7a4cad4ad874c0b794f5a685d8ebdfc161d33f4f3a90a7c302d94644",
+  "Source/PluginEditor.cpp": "59249122dcf0cbb4d20d409e08d98891928e16145d99e3bae031a47ee45f1929",
+  "Source/Params.cpp": "7a436bfb746e6ed07fcd1f9249a097fbb187c6afc5430721bd8cdf518d917e4b",
+  "Source/DSP/KickEngine.h": "82787c7475187ab1e1fa10b8ed04278e4972bc297951989f89c42393e5903768",
+  "Source/DSP/Filters.h": "59cdec25de112bad2f45f23c1579b4ed7c506c6a6b701441c3a409b68c2a4eab"
+}

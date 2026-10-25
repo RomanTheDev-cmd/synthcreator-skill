@@ -1,0 +1,36 @@
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/residual_presets.cpp:1:
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:4:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Source/DSP/Filters.h:172:15: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  172 |         if (v == target) return;
+      |             ~ ^  ~~~~~~
+In file included from /Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/residual_presets.cpp:1:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:491:17: warning: enumeration values 'saturate', 'hardClip', and 'crush' not explicitly handled in switch [-Wswitch-enum]
+  491 |         switch (t)
+      |                 ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:491:17: note: add missing switch cases
+  491 |         switch (t)
+      |                 ^
+  492 |         {
+  493 |             case DistType::fold:
+  494 |                 return 1.25 * g >= pi * 0.5 ? 1.0 : std::sin (1.25 * g);
+  495 |             case DistType::destroy:
+  496 |             {
+  497 |                 double peak = 0.0;
+  498 |                 for (int i = 1; i <= 128; ++i)
+  499 |                 {
+  500 |                     const double x = i / 128.0;
+  501 |                     peak = std::max ({ peak, std::abs (shape (x, g, t)), std::abs (shape (-x, g, t)) });
+  502 |                 }
+  503 |                 return peak;
+  504 |             }
+  505 |             default:
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:554:30: warning: declaration shadows a field of 'pb::dsp::BassEngine' [-Wshadow]
+  554 |         void prepare (double sr)
+      |                              ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/BassEngineResidual.h:622:12: note: previous declaration is here
+  622 |     double sr = 48000.0, osRate = 192000.0;
+      |            ^
+/Users/roman/Library/Mobile Documents/com~apple~CloudDocs/Главная рабочая папка ИИ/Проекты/PowerBass/Исследования/2026-10-22 — Разные задержки/Residual-crossover/residual_presets.cpp:20:176: warning: implicit conversion from 'size_type' (aka 'unsigned long') to 'double' may lose precision [-Wimplicit-int-float-conversion]
+   20 |  std::cout<<preset.name<<','<<scenario<<','<<mode<<','<<20*std::log10(dsp::BassEngine::auditPeak)<<','<<dsp::BassEngine::auditSafetySamples<<','<<10*std::log10(sum/e.auditRaw.size())<<','<<name<<'\n';
+      |                                                                                                                                                                    ~~~~~~~~~~~~^~~~~~
+4 warnings generated.
